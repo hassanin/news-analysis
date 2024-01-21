@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  newsanalysis:
+    image: newsanalysis
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: newsanalysis
+    ports:
+      - "5432:5432"
