@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 02 Nov 2021 15:58:00 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Nov 2021 15:28:56 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Global Leaders Pledge to End Deforestation by 2030</title>
+      <link>https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html" rel="standout"></atom:link>
+      <description>The measure reflects a growing recognition of nature’s role in helping mitigate global warming.</description>
+      <dc:creator>Catrin Einhorn and Chris Buckley</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 12:13:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/02CLIMATE-DEFOREST/02CLIMATE-DEFOREST-moth.jpg" width="151"></media:content>
+      <media:credit>Willy Kurniawan/Reuters</media:credit>
+      <media:description>Deforestation next to a palm oil plantation after fires in South Kalimantan Province, Indonesia, in 2019. Land clearing is a major source of carbon dioxide, the main gas causing global warming.</media:description>
+    </item>
+    <item>
+      <title>Men in Gaza Imprisoned Over Wedding Loans</title>
+      <link>https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html" rel="standout"></atom:link>
+      <description>Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip.</description>
+      <dc:creator>Patrick Kingsley and Iyad Abuheweila</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01Gaza-debt1/01Gaza-debt1-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>Wasfi al-Garosha with his wife and daughter on the morning he returned to jail in Gaza City.</media:description>
+    </item>
+    <item>
+      <title>After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</title>
+      <link>https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html" rel="standout"></atom:link>
+      <description>The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists.</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 06:53:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan People&#39;s Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehreek-e-Labaik (TLP)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01pakistan-protests1/01pakistan-protests1-moth.jpg" width="151"></media:content>
+      <media:credit>Arif Ali/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Supporters of the banned Islamist group Tehreek-e-Labaik marched toward Islamabad, Pakistan’s capital, from Lahore on Oct. 23.</media:description>
+    </item>
+    <item>
+      <title>Egypt Poised to Expand Security Powers of President and Military</title>
+      <link>https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html" rel="standout"></atom:link>
+      <description>Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency.</description>
+      <dc:creator>Vivian Yee and Nada Rashwan</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 15:15:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01egypt/01egypt-moth.jpg" width="151"></media:content>
+      <media:credit>Attila Kisbenedek/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Abdel Fattah el-Sisi of Egypt last month in Hungary.</media:description>
+    </item>
+    <item>
+      <title>Nigeria Building Collapse Kills at Least 5 With Many More Trapped</title>
+      <link>https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html" rel="standout"></atom:link>
+      <description>As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced.</description>
+      <dc:creator>Abdi Latif Dahir and Ismail Alfa</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 06:40:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lagos (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01Nigeria1/01Nigeria1-moth.jpg" width="151"></media:content>
+      <media:credit>Sunday Alamba/Associated Press</media:credit>
+      <media:description>The police and rescue workers at the construction site of a 21-story apartment building that collapsed in Lagos, Nigeria, on Monday.</media:description>
+    </item>
+    <item>
+      <title>New Zealand Held a Bird Contest. A Bat Won.</title>
+      <link>https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html" rel="standout"></atom:link>
+      <description>The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 08:44:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+    </item>
+    <item>
+      <title>He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</title>
+      <link>https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html" rel="standout"></atom:link>
+      <description>President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela.</description>
+      <dc:creator>John Eligon and Lynsey Chutel</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 11:32:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/world/31safrica-ramaphosa-1sub1/31safrica-ramaphosa-1sub1-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>President Cyril Ramaphosa campaigning on Friday in Sebokeng, south of Johannesburg, for candidates with his African National Congress who are contending in nationwide local elections on Monday.</media:description>
+    </item>
+    <item>
+      <title>U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</title>
+      <link>https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html" rel="standout"></atom:link>
+      <description>Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 10:50:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Couzens, Wayne (March 3, 2021 Murder)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Everard, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/25/world/xxuk-policing01/xxuk-policing01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>British police are under increasing scrutiny for instances of sexual misconduct by officers. </media:description>
+    </item>
+    <item>
+      <title>At COP26 Summit, Urgent Pleas to Combat Global Warning</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html" rel="standout"></atom:link>
+      <description>The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world.</description>
+      <dc:creator>Jim Tankersley, Lisa Friedman and Somini Sengupta</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 05:10:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01climate-ledeall/01climate-ledeall-moth.jpg" width="151"></media:content>
+      <media:credit>Kieran Dodds for The New York Times</media:credit>
+      <media:description>Screens relaying live feeds of the opening ceremony in the media hub of climate summit in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>Fossil Fuel Spending Far Outstrips COP26&#39;s Funding for Forests</title>
+      <link>https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html" rel="standout"></atom:link>
+      <description>As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial.</description>
+      <dc:creator>Catrin Einhorn</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 15:20:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/lens/02cop26-briefing-deforestation-analysis1/02cop26-briefing-deforestation-analysis1-moth.jpg" width="151"></media:content>
+      <media:credit>Kemal Jufri for The New York Times</media:credit>
+      <media:description>Rainforest peatlands, like this one in Indonesia, have been increasingly cleared to make way for palm oil plantations in recent decades. That releases the greenhouse gases they used to trap.</media:description>
+    </item>
+    <item>
+      <title>Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</title>
+      <link>https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html" rel="standout"></atom:link>
+      <description>President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles.</description>
+      <dc:creator>Marc Santora and Nicholas Casey</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 11:57:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Galapagos Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lasso, Guillermo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/lens/02cop26-briefing-galapagos1/02cop26-briefing-galapagos1-moth.jpg" width="151"></media:content>
+      <media:credit>Josh Haner/The New York Times</media:credit>
+      <media:description>Sea lions in a bay on Isabela Island in the Galapagos.</media:description>
+    </item>
+    <item>
+      <title>Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</title>
+      <link>https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html" rel="standout"></atom:link>
+      <description>No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August.</description>
+      <dc:creator>Thomas Gibbons-Neff and Sami Sahak</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 14:33:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/02afghanistan-1sub/02afghanistan-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Zohra Bensemra/Reuters</media:credit>
+      <media:description>A boy injured during an attack targeting a military hospital in Kabul, Afghanistan, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</title>
+      <link>https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html" rel="standout"></atom:link>
+      <description>The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.”</description>
+      <dc:creator>Marc Santora and Nicholas Kulish</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 15:28:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Capture and Sequestration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bezos Earth Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/lens/02cop26-briefing-bezos1/02cop26-briefing-bezos1-moth.jpg" width="151"></media:content>
+      <media:credit>Alain Jocard/AFP — Getty Images</media:credit>
+      <media:description>Jeff Bezos said at the Glasgow conference that Amazon aimed to power all of its operations by renewable energies by 2025.</media:description>
+    </item>
+    <item>
+      <title>China Urges Families to Stock up on Food for Winter</title>
+      <link>https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html" rel="standout"></atom:link>
+      <description>State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy.</description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 13:15:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/02virus-briefing-china-food/02virus-briefing-china-food-moth.jpg" width="151"></media:content>
+      <media:credit>Wu Hong/EPA, via Shutterstock</media:credit>
+      <media:description>People lining up to weigh groceries in a supermarket in Beijing on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Biden Pledges $3 Billion to Help the World Adapt to Climate Change</title>
+      <link>https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html" rel="standout"></atom:link>
+      <description>The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean.</description>
+      <dc:creator>Christopher Flavelle</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 14:56:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/02cop26-briefing-biden/02cop26-briefing-biden-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden speaking on Tuesday during the COP26 summit in Glasgow.</media:description>
+    </item>
+    <item>
+      <title>Britain&#39;s Covid Response Offers a Warning to Other Countries</title>
+      <link>https://www.nytimes.com/2021/11/02/briefing/britain-covid-cases-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/briefing/britain-covid-cases-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/briefing/britain-covid-cases-restrictions.html" rel="standout"></atom:link>
+      <description>Britain offers a warning of what happens when a country ignores Covid.</description>
+      <dc:creator>David Leonhardt and Claire Moses</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 10:30:01 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/lens/02ambriefing-promo/02ambriefing-ukcovid02-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Vickie Flores/EPA, via Shutterstock</media:credit>
+      <media:description>A crowd in London at a screening of Dune last month.</media:description>
+    </item>
+    <item>
+      <title>China Makes It a Crime to Mock Country&#39;s Heroes</title>
+      <link>https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html" rel="standout"></atom:link>
+      <description>Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 15:20:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cyberspace Administration of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/02China-Slander1/00China-Slander1-moth.jpg" width="151"></media:content>
+      <media:credit>Gilles Sabrié for The New York Times</media:credit>
+      <media:description>A painting showing Mao with Red Army soldiers and officers at the National Art Museum in Beijing during the exhibition “100 Years Toward Greatness” in June.</media:description>
+    </item>
+    <item>
+      <title>Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</title>
+      <link>https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jim Tankersley and Lisa Friedman</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 10:25:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/multimedia/02cop26-briefing-biden-oil-production-01/02cop26-briefing-biden-oil-production-01-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden with John Kerry, the U.S. climate envoy, during the opening session of the United Nations Climate Change Conference in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>Day 2 of the climate summit brings the first concrete commitments.</title>
+      <link>https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html" rel="standout"></atom:link>
+      <description>The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 11:13:33 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/multimedia/02cop26-briefing-Tuesday-morning-ledeall-01/02cop26-briefing-Tuesday-morning-ledeall-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool Photo by Alberto Pezzali</media:credit>
+      <media:description>Prime Minister Naftali Bennett of Israel, left, with President Biden and Prime Minister Boris Johnson at an evening reception at the COP26 conference in Glasgow.</media:description>
+    </item>
+    <item>
+      <title>As Earth Warms, Human History Is Melting Away</title>
+      <link>https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html" rel="standout"></atom:link>
+      <description>Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking.</description>
+      <dc:creator>Franz Lidz</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 14:44:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mammoths (Animals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongolia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yakutia (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siberia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Aberdeen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/science/00SCI-GLACIAL-norway/00SCI-GLACIAL-norway-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Glacier Archaeology Program, Innlandet County Council</media:credit>
+      <media:description>The Langfonne ice patch in Norway.</media:description>
+    </item>
+    <item>
+      <title>How Car Shortages Are Putting the Economy at Risk</title>
+      <link>https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html" rel="standout"></atom:link>
+      <description>Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple.</description>
+      <dc:creator>Jack Ewing and Patricia Cohen</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/business/00global-econ-autos-1-sub/00global-econ-autos-1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Felix Schmitt for The New York Times</media:credit>
+      <media:description>The Opel factory in Eisenach, Germany, is halting production and doesn’t plan to restart until next year.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/02/briefing/climate-summit-coronavirus-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/02/briefing/climate-summit-coronavirus-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/02/briefing/climate-summit-coronavirus-deaths.html" rel="standout"></atom:link>
+      <description>Old divides at a major climate summit.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 04:11:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/lens/02ambriefing-europe-nl-promo/02ambriefing-europe-nl-cop26-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden urged countries to cooperate in the fight against climate change during the opening day of the summit.</media:description>
+    </item>
+    <item>
+      <title> Queen Elizabeth Urges Climate Action in COP26 Video</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html" rel="standout"></atom:link>
+      <description>The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message.</description>
+      <dc:creator>Neil Vigdor and Valerie Hopkins</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 08:59:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glasgow (Scotland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/multimedia/01cop26-briefing-queen-elizabeth-01/01cop26-briefing-queen-elizabeth-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool Photo by Alberto Pezzali</media:credit>
+      <media:description>A reception in Glasgow on Monday where attendees, including members of the royal family, top right, watched the queen’s video message. </media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/01/briefing/cop-26-biden-climate-pakistan-abortion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/briefing/cop-26-biden-climate-pakistan-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/briefing/cop-26-biden-climate-pakistan-abortion.html" rel="standout"></atom:link>
+      <description>Leaders forcefully call for action at COP26.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 00:06:51 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/climate/02ambriefing-asia-nl-cop26-promo/02ambriefing-asia-nl-cop26-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Joe Biden attends the opening session of the COP26 conference in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>India Will Sharply Increase Renewable Energy, Modi Says</title>
+      <link>https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html" rel="standout"></atom:link>
+      <description>Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 08:50:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/lens/01cop26-briefing-india-modi/01cop26-briefing-india-modi-moth.jpg" width="151"></media:content>
+      <media:credit>Abhishek Chinnappa/Getty Images</media:credit>
+      <media:description>A shepherd amid solar panels in Kyataganacharulu, a village in Karnataka State, India, last month.</media:description>
+    </item>
+    <item>
+      <title>From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</title>
+      <link>https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html" rel="standout"></atom:link>
+      <description>Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 12:03:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Surui, Txai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/lens/01cop26-briefing-amazon-activist1/01cop26-briefing-amazon-activist1-moth.jpg" width="151"></media:content>
+      <media:credit>Oli Scarff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Txai Suruí, an indigenous activist from Brazil, at the U.N. climate conference in Glasgow.</media:description>
+    </item>
+    <item>
+      <title>Biden Calls for Tougher Actions on Emissions at COP26</title>
+      <link>https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html" rel="standout"></atom:link>
+      <description>“We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 18:53:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01climate-ledeall3/01climate-ledeall3-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden attending the opening session.</media:description>
+    </item>
+    <item>
+      <title>Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</title>
+      <link>https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html" rel="standout"></atom:link>
+      <description>Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 16:07:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/26/world/26virus-briefing-five-million1/26virus-briefing-five-million1-moth.jpg" width="151"></media:content>
+      <media:credit>Luis Cortes/Reuters</media:credit>
+      <media:description>Relatives attended a funeral for a man who died from the coronavirus in Valle de Chalco, Mexico, last month.</media:description>
+    </item>
+    <item>
+      <title>David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html" rel="standout"></atom:link>
+      <description>“If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.”</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 18:59:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Attenborough, David</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/lens/01cop26-briefing-david-attenborough1/01cop26-briefing-david-attenborough1-moth.jpg" width="151"></media:content>
+      <media:credit>Jane Barlow/Press Association, via Associated Press</media:credit>
+      <media:description>David Attenborough at the premiere of “Green Planet” as COP26 arrived in Glasgow on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Handball Federation Ends Bikini Bottom Requirement for Women</title>
+      <link>https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html" rel="standout"></atom:link>
+      <description>After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 13:58:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Handball Federation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uniforms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Team Handball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/multimedia/01xp-handball/01xp-handball-moth.jpg" width="151"></media:content>
+      <media:credit>Ilnar Tukhbatov/Epsilon/Getty Images</media:credit>
+      <media:description>The Norway women’s beach handball team in 2018. The team said the rule requiring them to play in bikini bottoms was sexist.</media:description>
+    </item>
+    <item>
+      <title>U.N. Leader, António Guterres, Warns of &#39;Climate Catastrophe&#39; at COP26</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html" rel="standout"></atom:link>
+      <description>He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 17:13:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01climate-ledeall2/01climate-ledeall2-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Christopher Furlong</media:credit>
+      <media:description>Prime Minister Boris Johnson of Britain, left, and U.N. Secretary-General Antonio Guterres preparing to receive attendees at the U.N. Climate Change Conference on Monday in Glasgow, Scotland.</media:description>
+    </item>
+    <item>
+      <title>Thailand Reopens to Tourists Without Requiring Quarantine</title>
+      <link>https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html" rel="standout"></atom:link>
+      <description>About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019.</description>
+      <dc:creator>Richard C. Paddock and Muktita Suhartono</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 12:26:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01virus-briefing-thailand/01virus-briefing-thailand-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Rungroj Yongrit/EPA, via Shutterstock</media:credit>
+      <media:description>Organizing health screening and document checks on Monday at Suvarnabhumi Airport, which serves Bangkok.</media:description>
+    </item>
+    <item>
+      <title>China’s push to burn more coal puts climate goals at risk.</title>
+      <link>https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 11:05:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-china-coal/01cop26-briefing-china-coal-moth.jpg" width="151"></media:content>
+      <media:credit>Gilles Sabrié for The New York Times</media:credit>
+      <media:description>A coal warehouse in Shanxi Province, China.</media:description>
+    </item>
+    <item>
+      <title>How to Prevent Climate Disasters</title>
+      <link>https://www.nytimes.com/2021/11/01/briefing/cop26-climate-conference-emissions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/briefing/cop26-climate-conference-emissions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/briefing/cop26-climate-conference-emissions.html" rel="standout"></atom:link>
+      <description>World leaders are in Glasgow.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 08:17:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/12/13/opinion/01ambriefing-promo/01ambriefing-solar-moth-v4.jpg" width="151"></media:content>
+      <media:credit>David Walter Banks for The New York Times</media:credit>
+      <media:description>The Ivanpah solar power facility in the Mojave Desert.</media:description>
+    </item>
+    <item>
+      <title>John Kerry Plays Down COP26 Expectations</title>
+      <link>https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html" rel="standout"></atom:link>
+      <description>“Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more.</description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 00:01:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glasgow (Scotland)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-kerry/01cop26-briefing-kerry-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Smialowski/Agence France-Presse — Getty Images</media:credit>
+      <media:description>John Kerry, the U.S. climate envoy, second left, at the U.N. General Assembly in September. “It is critical that countries lay out better plans” on climate, he said on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Who Is Attending the COP26 Climate Summit, and Who Isn&#39;t</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html" rel="standout"></atom:link>
+      <description>The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats.</description>
+      <dc:creator>Marc Santora, Anton Troianovski, Carlotta Gall and Lisa Friedman</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 08:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-leaders/merlin_196216116_1e5328e3-38ae-4466-9091-c94d65dd4052-moth.jpg" width="151"></media:content>
+      <media:credit>Sergei Ilnitsky/EPA, via Shutterstock</media:credit>
+      <media:description>Vladimir V. Putin of Russia attended an energy conference in Moscow in October and said there that he would not attend the climate summit in Glasgow.</media:description>
+    </item>
+    <item>
+      <title>Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html" rel="standout"></atom:link>
+      <description>The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos.</description>
+      <dc:creator>Alyssa Lukpat and Marc Santora</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 20:39:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thunberg, Greta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glasgow (Scotland)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-greta/01cop26-briefing-greta-moth.jpg" width="151"></media:content>
+      <media:credit>Dylan Martinez/Reuters</media:credit>
+      <media:description>Greta Thunberg arriving at a train station in Glasgow on Saturday.</media:description>
+    </item>
+    <item>
+      <title>The Stunning Grandeur of Soviet-Era Metros</title>
+      <link>https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html" rel="standout"></atom:link>
+      <description>Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor.</description>
+      <dc:creator>Frank Herfort</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 17:08:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moscow Metro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia (Georgian Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucharest (Romania)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Budapest (Hungary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+    </item>
+    <item>
+      <title>Biden’s Glasgow pitch: This time, the U.S. is serious about climate change.</title>
+      <link>https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lisa Friedman, Jim Tankersley and Coral Davenport</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 14:16:07 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-uscop-biden-leadership/01cop26-briefing-uscop-biden-leadership-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden at the end of the Group of 20 summit in Rome on Sunday. </media:description>
+    </item>
+    <item>
+      <title>What to Watch For At COP26 on Monday and Tuesday</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html" rel="standout"></atom:link>
+      <description>Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking.</description>
+      <dc:creator>Andrés R. Martínez and Ethan Hauser</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 03:39:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-what-to-watch-sub/01cop26-briefing-what-to-watch-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Phil Noble</media:credit>
+      <media:description>Prime Minister Boris Johnson of Britain arriving for COP26 in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>Climate conference kicks off in Glasgow with floods and low expectations.</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 10:02:55 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-intro-sub/merlin_197135151_2bcb3b0c-23a0-4c05-af23-d1fa24263ee8-moth.jpg" width="151"></media:content>
+      <media:credit>Kieran Dodds for The New York Times</media:credit>
+      <media:description>At the main entrance of the COP26 summit in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>Michael Bloomberg announces an effort to shut down coal in 25 countries.</title>
+      <link>https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 08:00:13 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01cop26-briefing-bloomberg-coal/01cop26-briefing-bloomberg-coal-moth.jpg" width="151"></media:content>
+      <media:credit>Krista Schlueter for The New York Times</media:credit>
+      <media:description>Michael R. Bloomberg in New York in September. “Coal is enemy No. 1 in the battle over climate change,” he said in a statement.</media:description>
+    </item>
+    <item>
+      <title>Australia Allows Residents, Citizens to Return as Borders Open</title>
+      <link>https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html" rel="standout"></atom:link>
+      <description>After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas.</description>
+      <dc:creator>Yan Zhuang, Niki Kitsantonis, Richard C. Paddock, Muktita Suhartono and Daniel E. Slotnik</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 21:49:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New South Wales (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Victoria (Australia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01virus-briefing-oz-borders/01virus-briefing-oz-borders-moth.jpg" width="151"></media:content>
+      <media:credit> Asanka Ratnayake/Getty Images</media:credit>
+      <media:description>An airport in Melbourne, Australia, on Monday. Tens of thousands of Australians have been stranded overseas by the stringent border measures imposed to combat the coronavirus pandemic.</media:description>
+    </item>
+    <item>
+      <title>Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</title>
+      <link>https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html" rel="standout"></atom:link>
+      <description>On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 18:18:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Electricite de France (EDF)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/world/31uk-climate1/merlin_197026017_8cfdb7ea-0e3c-42d3-8ade-95bd3c058a76-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Black Law Wind Farm in Lanark, Scotland. Britain’s high-tech windmills and superannuated smokestacks are the most visible evidence of a three-decade campaign</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/10/31/briefing/climate-g20-britain-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/briefing/climate-g20-britain-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/briefing/climate-g20-britain-coronavirus.html" rel="standout"></atom:link>
+      <description>Deciding the future of the climate.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 02:13:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/us/01ambriefing-europe-nl-lede-promo/01ambriefing-europe-nl-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Protesters held a procession on Sunday through Glasgow ahead of COP26 to highlight the climate crisis.</media:description>
+    </item>
+    <item>
+      <title>Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</title>
+      <link>https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html" rel="standout"></atom:link>
+      <description>A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda.</description>
+      <dc:creator>Jim Tankersley and Katie Rogers</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 04:23:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/world/31g20-ledeall-top/31g20-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden at the end of the Group of 20 summit in Rome.</media:description>
+    </item>
+    <item>
+      <title>Brazilian Police Kill 25 Accused of Planning Bank Heists</title>
+      <link>https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html" rel="standout"></atom:link>
+      <description>The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Sun, 31 Oct 2021 22:39:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bank Robberies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minas Gerais (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+    </item>
+    <item>
+      <title>At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</title>
+      <link>https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html" rel="standout"></atom:link>
+      <description>The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home.</description>
+      <dc:creator>Lisa Friedman, Jim Tankersley and Coral Davenport</dc:creator>
+      <pubDate>Tue, 02 Nov 2021 00:02:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manchin, Joe III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinema, Kyrsten</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/29/science/00cli-USCOP26-1/00cli-USCOP26-1-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Biden at the French Embassy in Rome on Friday, before heading to Scotland to attend the U.N. climate change conference, or COP26, in Glasgow.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/10/31/briefing/un-climate-conference-japan-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/briefing/un-climate-conference-japan-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/briefing/un-climate-conference-japan-elections.html" rel="standout"></atom:link>
+      <description>Climate conference begins in Glasgow.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Sun, 31 Oct 2021 21:01:33 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/01/world/01ambriefing-Asia-NL-cop26/01ambriefing-Asia-NL-cop26-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Protesters held a procession through Glasgow ahead of COP26 on Saturday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</title>
+      <link>https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html" rel="standout"></atom:link>
+      <description>Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay.</description>
+      <dc:creator>Carol Rosenberg</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 01:57:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Majid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Tribunals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jemaah Islamiyah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+    </item>
+    <item>
+      <title>Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</title>
+      <link>https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html" rel="standout"></atom:link>
+      <description>More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine.</description>
+      <dc:creator>Joseph Goldstein and Ashley Southall</dc:creator>
+      <pubDate>Mon, 01 Nov 2021 23:14:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nigro, Daniel A</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/business/31virus-briefing-nyc-mandate/merlin_197009409_6e836aa9-9afd-4be5-b6ff-b3b316e48415-moth.jpg" width="151"></media:content>
+      <media:credit>Lloyd Mitchell/Reuters</media:credit>
+      <media:description>When the vaccine mandate goes into effect Monday, unvaccinated municipal employees without a religious or medical exemption, including firefighters, will be placed on unpaid leave.</media:description>
+    </item>
+    <item>
+      <title>F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</title>
+      <link>https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html" rel="standout"></atom:link>
+      <description>The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Sun, 31 Oct 2021 19:08:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/business/31virus-briefing-moderna/merlin_183285558_a90bf20f-37ba-4e53-b49a-022b6e31d6d6-moth.jpg" width="151"></media:content>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>Several European countries have paused use of the Moderna vaccine in young people, citing concerns about myocarditis — an inflammation of the heart muscle.</media:description>
+    </item>
+    <item>
+      <title>G20 Nations Agree to New Limits on Coal-Burning Power Plants</title>
+      <link>https://www.nytimes.com/2021/10/31/climate/g20-coal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/10/31/climate/g20-coal.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html" rel="standout"></atom:link>
+      <description>The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit.</description>
+      <dc:creator>Somini Sengupta, Jason Horowitz and Jim Tankersley</dc:creator>
+      <pubDate>Sun, 31 Oct 2021 20:11:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/31/lens/31cli-coal-photo/merlin_187539573_1800f99c-d48e-4d4e-b259-abb01a664237-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Coal moving to barges for transport in Belle, W.Va.</media:description>
+    </item>
+  </channel>
+</rss>

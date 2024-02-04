@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Sat, 24 Dec 2016 05:22:32 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>For Obama and Netanyahu, a Final Clash After Years of Conflict</title>
+      <link>http://www.nytimes.com/2016/12/23/world/middleeast/israel-benjamin-netanyahu-barack-obama.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/middleeast/israel-benjamin-netanyahu-barack-obama.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/middleeast/israel-benjamin-netanyahu-barack-obama.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/world/BIBIOBAMA/BIBIOBAMA-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Barack Obama and Prime Minister Benjamin Netanyahu of Israel in the Oval Office in November 2015.</media:description>
+      <media:credit>Kevin Lamarque/Reuters</media:credit>
+      <description>President Obama&#x2019;s decision not to block a United Nations resolution condemning Israel laid bare grievances between him and Prime Minister Netanyahu.</description>
+      <dc:creator>PETER BAKER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 01:51:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Livni, Tzipi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oren, Michael B</category>
+    </item>
+    <item>
+      <title>For Liberated Iraqi Christians, Still a Bleak Christmas</title>
+      <link>http://www.nytimes.com/2016/12/23/world/middleeast/for-liberated-iraqi-christians-still-a-bleak-christmas.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/middleeast/for-liberated-iraqi-christians-still-a-bleak-christmas.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/middleeast/for-liberated-iraqi-christians-still-a-bleak-christmas.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/14/world/middleeast/xxMOSUL-WEB-slide-3AJM/xxMOSUL-WEB-slide-3AJM-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kurdish fighters replaced the cross on the dome of the Church of the Immaculate Conception last month in Qaraqosh.</media:description>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <description>Christians who fled the brutal rule of the Islamic State are hesitant to return to the ransacked towns that still do not feel secure.</description>
+      <dc:creator>SERGEY PONOMAREV and TIM ARANGO</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 10:00:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mosul (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qaraqosh (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Hunt for Berlin Suspect Ends in Gunfire on an Italian Plaza</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/berlin-anis-amri-killed-milan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/berlin-anis-amri-killed-milan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/berlin-anis-amri-killed-milan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/23/world/24TERROR-1/23Amri1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anis Amri was wanted by the police in connection with the Christmas market attack in Berlin this week.</media:description>
+      <media:credit>German Federal Police</media:credit>
+      <description>Anis Amri, the 24-year-old Tunisian sought in connection with the rampage that killed 12 people at a Christmas market in Berlin, was killed by Italian police officers.</description>
+      <dc:creator>ELISABETTA POVOLEDO, GAIA PIANIGIANI and RUKMINI CALLIMACHI</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 18:04:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amri, Anis (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
+    </item>
+    <item>
+      <title>The Interpreter: Trump, Promising Arms Race, Could Set World on Uncertain Path</title>
+      <link>http://www.nytimes.com/2016/12/23/world/trump-nuclear-arms-race-russia-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/trump-nuclear-arms-race-russia-china.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/trump-nuclear-arms-race-russia-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/us/24INT-ARMSRACE/24INT-ARMSRACE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia could loosen restrictions on the use of nuclear weapons in response to a new arms race.</media:description>
+      <media:credit>Natalia Kolesnikova/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>If Mr. Trump should follow through on instigating a new nuclear arms race, the consequences could be severe and possibly catastrophic.</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 00:47:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Massachusetts Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorbachev, Mikhail S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Marion Pritchard, Who Risked Her Life to Rescue Jews From Nazis, Dies at 96</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/marion-pritchard-rescuer-of-jews.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/marion-pritchard-rescuer-of-jews.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/marion-pritchard-rescuer-of-jews.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Marion Pritchard with Erica Polak, a Jewish baby she was hiding, in 1944.</media:description>
+      <media:credit>Marion Pritchard, via United States Holocaust Memorial Museum</media:credit>
+      <description>Ms. Pritchard said that by the end of the war she had &#x201C;lied, stolen, cheated, deceived and even killed&#x201D; to shelter Jews in the Netherlands.</description>
+      <dc:creator>RICHARD SANDOMIR</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 23:06:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marion Pritchard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
+    </item>
+    <item>
+      <title>The Saturday Profile: A Bruised Investor Seeks Justice for China&#x2019;s Market Turmoil</title>
+      <link>http://www.nytimes.com/2016/12/23/world/asia/a-bruised-investor-seeks-justice-for-chinas-market-turmoil.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/asia/a-bruised-investor-seeks-justice-for-chinas-market-turmoil.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/asia/a-bruised-investor-seeks-justice-for-chinas-market-turmoil.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/15/world/17SHANGHAI-1/17SHANGHAI-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Xu Caiyuan in his hotel room in Beijing in April. He has tried to sue the China Securities Regulatory Commission, which he blames for two stock market crashes in the last two years.</media:description>
+      <media:credit>Gilles Sabri&#xE9; for The New York Times</media:credit>
+      <description>Xu Caiyuan, already known for his shareholder activism, is now taking on the ultimate target: the Chinese government.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 23:43:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shareholder Rights and Activism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">China Securities Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xu Caiyuan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>No Trial for Beijing Officers Over Death of Environmentalist</title>
+      <link>http://www.nytimes.com/2016/12/23/world/asia/china-lei-yang-police.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/asia/china-lei-yang-police.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/asia/china-lei-yang-police.html?partner=rss&amp;emc=rss"/>
+      <description>Prosecutors found that the officers misused force and delayed medical care for Lei Yang, a 29-year-old environmentalist, but declined to take the widely watched case further.</description>
+      <dc:creator>CHRIS BUCKLEY and ADAM WU</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 13:06:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Renmin University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lei Yang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+    </item>
+    <item>
+      <title>In Indonesia, an Islamic Edict Seeks to Keep Santa Hats Off Muslims</title>
+      <link>http://www.nytimes.com/2016/12/23/world/asia/indonesia-fatwa-christmas.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/asia/indonesia-fatwa-christmas.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/asia/indonesia-fatwa-christmas.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/world/24INDONESIA-1/24INDONESIA-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Staff members wearing Santa hats at a restaurant in Jakarta, Indonesia, on Thursday. This month, a group of Indonesian clerics issued an edict barring Muslims from wearing Christmas clothing.</media:description>
+      <media:credit>Ed Wray for The New York Times</media:credit>
+      <description>A religious order that bars Muslims from wearing Christmas-themed clothing is adding to political and religious tensions prompted by the prosecution of Jakarta&#x2019;s governor.</description>
+      <dc:creator>JOE COCHRANE</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 12:53:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shariah (Islamic Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Santa Claus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+    </item>
+    <item>
+      <title>U.S. Push for South Sudan Arms Embargo Falls Short at U.N.</title>
+      <link>http://www.nytimes.com/2016/12/23/world/africa/south-sudan-genocide-arms-embargo-united-nations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/africa/south-sudan-genocide-arms-embargo-united-nations.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/africa/south-sudan-genocide-arms-embargo-united-nations.html?partner=rss&amp;emc=rss"/>
+      <description>Ambassador Samantha Power of the United States said there would be a cost of imposing &#x201C;no cost&#x201D; on the combatants.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 16:38:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+    </item>
+    <item>
+      <title>Hijacking Ends Peacefully After Libyan Airliner Lands in Malta</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/libya-malta-hijack-afriqiyah-airways.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/libya-malta-hijack-afriqiyah-airways.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/libya-malta-hijack-afriqiyah-airways.html?partner=rss&amp;emc=rss"/>
+      <description>Two men claiming to act on behalf of a pro-Qaddafi party and said to be seeking European visas surrendered after forcing an Afriqiyah Airways flight to change course.</description>
+      <dc:creator>DECLAN WALSH</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 20:30:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Afriqiyah Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tripoli (Libya)</category>
+    </item>
+    <item>
+      <title>What in the World: The Christmas Pickle: A Tradition Taken With a Pinch of Salt</title>
+      <link>http://www.nytimes.com/2016/12/23/world/what-in-the-world/christmas-germany-weihnachtsgurke-pickle.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/what-in-the-world/christmas-germany-weihnachtsgurke-pickle.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/what-in-the-world/christmas-germany-weihnachtsgurke-pickle.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/19/us/00wit_germany-pickle-ornaments3/00wit_germany-pickle-ornaments3-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>As the Weihnachtsgurke tradition goes, the first child to find the pickle ornament on the Christmas tree is assured of good luck in the coming year and a special gift.</media:description>
+      <media:credit/>
+      <description>Versions of the story behind a beloved German holiday tradition, the Weihnachtsgurke, or Christmas Pickle, proliferate on the internet. But it&#x2019;s all but unknown in Germany.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 10:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas Trees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pickles and Relishes</category>
+    </item>
+    <item>
+      <title>Italy Lauds 2 Officers as Heroes in Fatal Shooting of Fugitive</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/italy-lauds-2-officers-as-heroes-in-fatal-shooting-of-fugitive.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/italy-lauds-2-officers-as-heroes-in-fatal-shooting-of-fugitive.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/italy-lauds-2-officers-as-heroes-in-fatal-shooting-of-fugitive.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/world/24Italy/24Italy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Paolo Gentiloni of Italy arriving for a news conference in Rome on Friday. He later praised &#x201C;the collaboration between security forces and armed forces&#x201D; in the episode.</media:description>
+      <media:credit>Giuseppe Lami/ANSA, via Associated Press</media:credit>
+      <description>The officers stopped Anis Amri, the Tunisian man wanted in the Berlin truck attack. One officer was shot; another had been on the job for just nine months.</description>
+      <dc:creator>SEWELL CHAN and ILIANA MAGRA</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 17:42:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cristian Movio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luca Scata</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amri, Anis (1992- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>&#x2018;Worst Annual Death Toll Ever&#x2019;: Mediterranean Claims 5,000 Migrants</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/migrant-death-toll-mediterranean-europe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/migrant-death-toll-mediterranean-europe.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/migrant-death-toll-mediterranean-europe.html?partner=rss&amp;emc=rss"/>
+      <description>The number is one-third higher than in any other year, with 14 people, on average, drowning in the sea every day in 2016, the United Nations said.</description>
+      <dc:creator>NICK CUMMING-BRUCE</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 16:33:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
+    </item>
+    <item>
+      <title>Rebuffing Israel, U.S. Allows Censure Over Settlements</title>
+      <link>http://www.nytimes.com/2016/12/23/world/middleeast/israel-settlements-un-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/middleeast/israel-settlements-un-vote.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/middleeast/israel-settlements-un-vote.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/23/world/23Nations2/23Nations2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Construction at an Israeli settlement in the West Bank in 2015.</media:description>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <description>The administration&#x2019;s decision not to veto the United Nations resolution reflected its accumulated frustration over Israeli settlements.</description>
+      <dc:creator>SOMINI SENGUPTA and RICK GLADSTONE</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 21:23:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>A Doomed Battle for Hong Kong, With Only Medals Left 75 Years Later</title>
+      <link>http://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/world/24Canada-HK-Battle-1/24Canada-HK-Battle-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Japanese soldiers approaching tanks in Hong Kong, which was under British rule, on Dec. 21, 1941. Hong Kong had asked for a battalion, maybe two, to reinforce its small garrison there.</media:description>
+      <media:credit>The Asahi Shimbun, via Getty Images</media:credit>
+      <description>The highest-ranking Canadian soldier killed in action during World War II was shot in a largely forgotten fight left nearly 3,000 soldiers dead, 290 of them Canadian.</description>
+      <dc:creator>CRAIG S. SMITH</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 15:22:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawson, John K.</category>
+    </item>
+    <item>
+      <title>Caroline Kennedy Dances in a Christmas Video, and Japan Can&#x2019;t Get Enough</title>
+      <link>http://www.nytimes.com/2016/12/23/world/asia/caroline-kennedy-video-japan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/asia/caroline-kennedy-video-japan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/asia/caroline-kennedy-video-japan.html?partner=rss&amp;emc=rss"/>
+      <description>The American ambassador joined embassy and consular staff members in mimicking dance moves from &#x201C;We Married as a Job,&#x201D; a popular Japanese television series.</description>
+      <dc:creator>MIKE IVES</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 12:36:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Caroline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+    </item>
+    <item>
+      <title>Vladimir Putin, Unsurprised by Trump&#x2019;s Remarks, Says Russia Wants No Nuclear Arms Race</title>
+      <link>http://www.nytimes.com/2016/12/23/world/europe/vladimir-putin-russia-press-conference.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/world/europe/vladimir-putin-russia-press-conference.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/world/europe/vladimir-putin-russia-press-conference.html?partner=rss&amp;emc=rss"/>
+      <description>Mr. Putin, at his annual marathon news conference, said again that his country&#x2019;s modernizing forces could repulse any attacker.</description>
+      <dc:creator>NEIL MacFARQUHAR and IVAN NECHEPURENKO</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 11:30:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Alibaba Faces Growing Pressure Over Counterfeit Goods</title>
+      <link>http://www.nytimes.com/2016/12/22/business/alibaba-ustr-taobao-counterfeit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/22/business/alibaba-ustr-taobao-counterfeit.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/22/business/alibaba-ustr-taobao-counterfeit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/23/world/23ALIFAKES-1/23ALIFAKES-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Trying out a virtual reality device for online shopping at a Taobao event in Shanghai in July.</media:description>
+      <media:credit>Imaginechina, via Associated Press</media:credit>
+      <description>The United States put the Chinese company&#x2019;s Taobao platform on a list of major markets for fakes, a move that Alibaba says may be politically motivated.</description>
+      <dc:creator>CAO LI</dc:creator>
+      <pubDate>Thu, 22 Dec 2016 11:29:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Counterfeit Merchandise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+    </item>
+    <item>
+      <title>The Twists and Turns of &#x2018;La Marseillaise&#x2019;</title>
+      <link>http://www.nytimes.com/2016/12/13/arts/music/the-twists-and-turns-of-la-marseillaise.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/13/arts/music/the-twists-and-turns-of-la-marseillaise.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/13/arts/music/the-twists-and-turns-of-la-marseillaise.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/14/arts/14marseillaise01sub-web/14marseillaise01sub-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;La Marseillaise&#x201D; was played prior to the first period of a New York Rangers game at Madison Square Garden on Nov. 15, 2015, two days after the attacks in Paris at the Bataclan concert hall, a sports stadium and cafes.</media:description>
+      <media:credit>Cal Sport Media, via Associated Press</media:credit>
+      <description>Following the deadly attacks in 2015, the French government is seeking to turn the national anthem, often associated with the political right, into a symbol of unity.</description>
+      <dc:creator>ALEX MARSHALL</dc:creator>
+      <pubDate>Tue, 13 Dec 2016 09:43:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">National Anthems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>Only a Rumbling Volcano Could Make North Korea and the West Play Nice</title>
+      <link>http://www.nytimes.com/2016/12/09/science/north-korea-mount-paektu-volcano.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/09/science/north-korea-mount-paektu-volcano.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/09/science/north-korea-mount-paektu-volcano.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/08/science/08TB-volcano/08TB-volcano-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mount Paektu, on the border between North Korea and China, erupted 1,000 years ago in one of the most violent volcanic explosions in human history.</media:description>
+      <media:credit>Kayla Iacovino</media:credit>
+      <description>Mount Paektu is sacred to the North Korean people. When a swarm of tiny earthquakes were recorded, the reclusive country decided it needed help.</description>
+      <dc:creator>NICHOLAS ST. FLEUR</dc:creator>
+      <pubDate>Fri, 09 Dec 2016 09:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sulfur and Sulfur Compounds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: Am I a Christian, Pastor Timothy Keller?</title>
+      <link>http://www.nytimes.com/2016/12/23/opinion/sunday/pastor-am-i-a-christian.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/opinion/sunday/pastor-am-i-a-christian.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/opinion/sunday/pastor-am-i-a-christian.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/25/opinion/sunday/YIP-kristof1/YIP-kristof1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;The Lamentation&#x201D; by Marco Basaiti shows the mourning for Jesus after his body was removed from the cross.</media:description>
+      <media:credit>HIP/Art Resource</media:credit>
+      <description>A prominent evangelical considers a skeptical journalist&#x2019;s doubts.</description>
+      <dc:creator>NICHOLAS KRISTOF</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 08:21:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bible</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jesus Christ</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: Stalin&#x2019;s Lengthening Shadow</title>
+      <link>http://www.nytimes.com/2016/12/23/opinion/stalins-lengthening-shadow.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/opinion/stalins-lengthening-shadow.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/opinion/stalins-lengthening-shadow.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/22/opinion/-24kauffmann-inyt/-24kauffmann-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A statue of Joseph Stalin in the main square of his hometown of Gori, Georgia.</media:description>
+      <media:credit>Cipelli\Archivio Pigi Cipelli\Mondadori Portfolio, via Getty Images</media:credit>
+      <description>Poland&#x2019;s history puts its leader at odds with Putin. Yet their political styles are similar &#x2014; an authoritarian streak cloaked in nationalism.</description>
+      <dc:creator>SYLVIE KAUFFMANN</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 06:30:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Christmas Where It&#x2019;s Hot</title>
+      <link>http://www.nytimes.com/2016/12/23/opinion/christmas-where-its-hot.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/23/opinion/christmas-where-its-hot.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/23/opinion/christmas-where-its-hot.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/24/opinion/24pryor-inyt/24pryor-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Melbourne, Australia, 2012.</media:description>
+      <media:credit>Scott Barbour/Getty Images</media:credit>
+      <description>If you consider the changing demographics of the Christian world, it is clear that Christmas is no longer necessarily a winter festival.</description>
+      <dc:creator>LISA PRYOR</dc:creator>
+      <pubDate>Fri, 23 Dec 2016 06:36:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christmas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+    </item>
+    <item>
+      <title>Italy Overwhelmed</title>
+      <link>http://www.nytimes.com/2016/12/21/world/europe/italy-overwhelmed-migrant-crisis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/21/world/europe/italy-overwhelmed-migrant-crisis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/21/world/europe/italy-overwhelmed-migrant-crisis.html?partner=rss&amp;emc=rss"/>
+      <description>Italy is overwhelmed by the influx of migrants. But three citizens are making a difference in migrants&#x2019; lives, and even in their deaths.</description>
+      <dc:creator>DAN RUETENIK</dc:creator>
+      <pubDate>Thu, 22 Dec 2016 05:35:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Northern League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+  </channel>
+</rss>

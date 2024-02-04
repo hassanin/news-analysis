@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 29 Nov 2021 23:17:57 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Nov 2021 23:17:56 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Covid Live Updates: C.D.C. Says All Adults ‘Should’ Get Booster Shots</title>
+      <link>https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2021/11/29/world/covid-omicron-variant-news" rel="standout"></atom:link>
+      <description>South African scientists who first identified Omicron caution against panic. A federal judge temporarily blocked a vaccine mandate for health care workers in some states.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 23:17:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-who1/29virus-briefing-who1-moth.jpg" width="151"></media:content>
+      <media:credit>James Gourley/EPA, via Shutterstock</media:credit>
+      <media:description>Travelers wearing personal protective equipment arrive at Sydney International Airport in Australia, on Monday.</media:description>
+    </item>
+    <item>
+      <title>As World Shuts Borders to Stop Omicron, Japan Offers a Cautionary Tale</title>
+      <link>https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/asia/omicron-japan-border.html" rel="standout"></atom:link>
+      <description>Japan, which has been very cautious throughout the pandemic, is again barring all nonresident foreigners. There is an economic and human cost.</description>
+      <dc:creator>Motoko Rich and Hikari Hida</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 10:27:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Business Travel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/24/world/24JAPAN-BORDERS1/00JAPAN-BORDERS1-moth.jpg" width="151"></media:content>
+      <media:credit>Shiho Fukada for The New York Times</media:credit>
+      <media:description>The Sensoji shrine in Tokyo, which has typically been a top destination for foreign tourists.</media:description>
+    </item>
+    <item>
+      <title>Xiomara Castro Vows New Era for Honduras but Is Tied to Past</title>
+      <link>https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/americas/honduras-election-xiomara-castro.html" rel="standout"></atom:link>
+      <description>Xiomara Castro, headed toward becoming her country’s next president, promises to expunge its legacy of corruption, but change may be tempered by her establishment ties and conservative opposition.</description>
+      <dc:creator>Anatoly Kurmanaev and Joan Suazo</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 22:16:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelaya Rosales, Jose Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29honduras-1/29honduras-1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniele Volpe for The New York Times</media:credit>
+      <media:description>Xiomara Castro during her presidential election campaign in Honduras this month.</media:description>
+    </item>
+    <item>
+      <title>After the Floods, British Columbia Picks Up the Pieces</title>
+      <link>https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/canada/british-columbia-floods-storm.html" rel="standout"></atom:link>
+      <description>Washed-out roads and destroyed bridges are just some of the devastation afflicting residents of the western province and could signal what climate change will bring in the future.</description>
+      <pubDate>Mon, 29 Nov 2021 20:33:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/world/29canada-flood-truck-promo/29canada-flood-truck-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>A truck damaged in recent flooding last week in Merritt, British Columbia.</media:description>
+    </item>
+    <item>
+      <title>Iran Insists on Immediate Lifting of Sanctions as Nuclear Talks Resume</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/iran-sanctions-nuclear-talks.html" rel="standout"></atom:link>
+      <description>After five months, negotiations on restoring the 2015 nuclear deal with Iran resumed in Vienna, but with a harder line from the new Iranian government.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 20:19:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/world/29iran-nuclear-1/29iran-nuclear-1-moth.jpg" width="151"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>Iran’s chief nuclear negotiator, Ali Bagheri Kani, arrives for a meeting of the Joint Comprehensive Plan of Action in Vienna, Austria, on Monday.</media:description>
+    </item>
+    <item>
+      <title>She Fled North Korea for Freedom. Then She Was Arrested.</title>
+      <link>https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/asia/north-korea-defectors-south-korea.html" rel="standout"></atom:link>
+      <description>The case of “Chrysanthemum” offers a rare look at the covert battle the rival Koreas are waging over North Korean defectors living in the South.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 14:26:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Intelligence Service (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/25/world/00korea-spy-02/00korea-spy-02-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>A photograph of Song Chun-son, who is in prison on espionage charges, being displayed by her sister, Song Chun-nyo.</media:description>
+    </item>
+    <item>
+      <title>Sweden Elects Its First Female Leader — for Second Time in a Week</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/sweden-magdalena-andersson.html" rel="standout"></atom:link>
+      <description>The Swedish Parliament elected Magdalena Andersson as prime minister by a narrow margin. She was first elected last week, but her government soon collapsed over a budget dispute.</description>
+      <dc:creator>Cora Engelbrecht and Christina Anderson</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 18:56:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersson, Magdalena (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/world/29sweden-election-1/29sweden-election-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jonas Ekstromer/TT News. via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Magdalena Andersson in Stockholm on Monday after she became Sweden’s prime minister.</media:description>
+    </item>
+    <item>
+      <title>In a Nonbinary Pronoun, France Sees a U.S. Attack on the Republic</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/france-nonbinary-pronoun.html" rel="standout"></atom:link>
+      <description>When a French dictionary included the gender-nonspecific “iel” for the first time, a virulent reaction erupted over “wokisme” exported from American universities.</description>
+      <dc:creator>Roger Cohen and Léontine Gallois</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 18:22:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Academie Francaise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Brigitte</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Le Petit Robert de la Langue Francaise (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dictionaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28france-language-top/28france-language-top-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>France is particularly on edge over the rise of American gender and race politics. Many politicians and academics believe their language and nation are under attack from the United States.</media:description>
+    </item>
+    <item>
+      <title>Will the Covid Vaccines Stop Omicron? Scientists Are Racing to Find Out.</title>
+      <link>https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/health/covid-omicron-vaccines-immunity.html" rel="standout"></atom:link>
+      <description>A “Frankenstein mix” of mutations raises concerns, but the variant may remain vulnerable to current vaccines. If not, revisions will be necessary.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 23:55:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-immune-south-africa/28virus-immune-south-africa-moth.jpg" width="151"></media:content>
+      <media:credit>Themba Hadebe/Associated Press</media:credit>
+      <media:description>A woman received her second Pfizer-BioNTech vaccine dose from a health care worker in Katlehong, east of Johannesburg, in South Africa.</media:description>
+    </item>
+    <item>
+      <title>As U.S. Hunts for Chinese Spies, University Scientists Warn of Backlash</title>
+      <link>https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/asia/china-university-spies.html" rel="standout"></atom:link>
+      <description>A chilling effect has taken hold on American campuses, contributing to an outflow of academic talent that may hurt the United States while benefiting Beijing.</description>
+      <dc:creator>Amy Qin</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 01:08:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hu, Anming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Knoxville (Tenn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/25/world/00china-scientist1/00china-scientist1-moth.jpg" width="151"></media:content>
+      <media:credit>An Rong Xu for The New York Times</media:credit>
+      <media:description>The campus of Princeton University, in New Jersey. Chinese and Chinese American scientists working in U.S. universities have been disproportionately targeted by the U.S. government.</media:description>
+    </item>
+    <item>
+      <title>Hunt for the ‘Blood Diamond of Batteries’ Impedes Green Energy Push</title>
+      <link>https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/congo-cobalt-albert-yuma-mulimbi.html" rel="standout"></atom:link>
+      <description>Dangerous mining conditions plague Congo, home to the world’s largest supply of cobalt, a key ingredient in electric cars. A leadership battle threatens reforms.</description>
+      <dc:creator>Dionne Searcey, Eric Lipton and Ashley Gilbertson</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 19:04:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cobalt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Molybdenum Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gertler, Dan (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabila, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mobutu Sese Seko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tshisekedi, Felix</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yuma Mulimbi, Albert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/climate/00DRC-Yuma1/00DRC-Yuma1-moth.jpg" width="151"></media:content>
+      <media:credit>Ashley Gilbertson for The New York Times</media:credit>
+      <media:description>The foreman of a mining crew that is digging for cobalt in Kasulo.</media:description>
+    </item>
+    <item>
+      <title>A ‘Simpsons’ Episode Lampooned Chinese Censorship. In Hong Kong, It Vanished.</title>
+      <link>https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/asia/simpsons-hk.html" rel="standout"></atom:link>
+      <description>The episode mocked both Mao Zedong and the government’s efforts to suppress memory of the 1989 Tiananmen Square massacre.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 11:30:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney Plus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tiananmen Square (Beijing)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Simpsons (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/world/29hongkong-disney-06/29hongkong-disney-06-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Business Wire</media:credit>
+    </item>
+    <item>
+      <title>Climate Change Driving Some Albatrosses to ‘Divorce,’ Study Finds</title>
+      <link>https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/asia/albatross-climate-change.html" rel="standout"></atom:link>
+      <description>Warming oceans are sending the monogamous sea birds farther afield to find food, putting stress on their breeding and prompting some to ditch their partners.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 10:53:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/26/world/26ALBATROSS1/26ALBATROSS1-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Zwick/Universal Images Group, via Getty Images</media:credit>
+      <media:description>A colony of black-browed albatrosses in the Falkland Islands. Albatrosses usually mate for life.</media:description>
+    </item>
+    <item>
+      <title>‘You’re Not Helpless’: For London Women, Learning to Fight Builds Confidence</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/uk-women-self-defense.html" rel="standout"></atom:link>
+      <description>After a year marked by isolation, loneliness and violence in the city, many self-defense and martial arts gyms say they are seeing more interest from women.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 15:47:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Everard, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Self-Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Clubs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28uk-combatsports01sub/merlin_198392556_08466bc8-bf3d-4777-b429-ecf6386694e4-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>A Muay Thai class at Fightzone London.</media:description>
+    </item>
+    <item>
+      <title>World Omicron Fight Hindered by Fragmented Response</title>
+      <link>https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/africa/coronavirus-omicron-variant-response.html" rel="standout"></atom:link>
+      <description>Almost two years into the pandemic, finger-pointing, lack of coordination, sparse information and fear are once again influencing policy.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 23:06:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tedros Adhanom Ghebreyesus</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29HereWeGoAgain1/29HereWeGoAgain1-moth.jpg" width="151"></media:content>
+      <media:credit>Jerome Delay/Associated Press</media:credit>
+      <media:description>A ticket counter at  the O.R. Tambo International Airport in Johannesburg on Monday.</media:description>
+    </item>
+    <item>
+      <title>Biden Military Review Leaves Troops Where They Are, for Now</title>
+      <link>https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/us/politics/biden-us-troops.html" rel="standout"></atom:link>
+      <description>The report sidesteps a decision on what to do about troop numbers in Somalia, after President Donald J. Trump’s decision to pull out last year.</description>
+      <dc:creator>Helene Cooper</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 22:57:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/us/politics/29dc-military/merlin_198274539_254e828d-b3e0-45ca-830e-d49a353e0145-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>President Biden visited troops at Fort Bragg in Fayetteville, N.C., last week.</media:description>
+    </item>
+    <item>
+      <title>Letter From Catherine the Great Shows Her Support for Inoculations</title>
+      <link>https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/arts/catherine-the-great-vaccination-letter-auction.html" rel="standout"></atom:link>
+      <description>In a letter from 1787 to be sold at auction this week, the Russian empress called for widespread access to a precursor of the smallpox vaccine.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 22:41:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine II, Empress of Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Petersburg (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/us/29xp-catherine/29xp-catherine-moth.jpg" width="151"></media:content>
+      <media:credit>MacDougall Auctions</media:credit>
+      <media:description>A portrait of Catherine the Great by Dmitry Levitsky will be auctioned alongside the letter in which she extols the virtues of variolation, an early inoculation process.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/29/briefing/omicron-variant-china-nuclear-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/briefing/omicron-variant-china-nuclear-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/briefing/omicron-variant-china-nuclear-talks.html" rel="standout"></atom:link>
+      <description>Confronting the Omicron variant.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 21:29:22 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/30/world/30ambriefing-asia-nl-omicron-promo/30ambriefing-asia-nl-omicron-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Fong/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Staff members stand at the departure gate of Tokyo&#39;s Haneda international airport on Monday, as Japan announced plans to bar all new foreign travelers over the Omicron variant.</media:description>
+    </item>
+    <item>
+      <title>South Africa Officials See &#39;No Red Flags Yet&#39; on Omicron Variant</title>
+      <link>https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/africa/south-africa-omicron-covid.html" rel="standout"></atom:link>
+      <description>Officials said that while they need more data to be sure, existing treatments and precautions seem to be effective against the Omicron variant.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 22:13:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Botswana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karim, Salim Abdool</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dikoliti, Edwin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-south-africa1/29virus-briefing-south-africa1-moth.jpg" width="151"></media:content>
+      <media:credit>Jerome Delay/Associated Press</media:credit>
+      <media:description>Testing for the coronavirus in Johannesburg on Saturday.</media:description>
+    </item>
+    <item>
+      <title>UK Announces Omicron Cases and Extends Boosters to All Adults</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/uk-omicron.html" rel="standout"></atom:link>
+      <description>The British government was widely criticized for a sluggish response to the Delta variant, and its reaction to Omicron came markedly quicker.</description>
+      <dc:creator>Megan Specia and Cora Engelbrecht</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 20:48:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-uk1/29virus-briefing-uk1-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+      <media:description>Commuters in London on Monday. The government will mandate masks on public transportation and in stores.</media:description>
+    </item>
+    <item>
+      <title>Dutch Police Arrest a Couple Who Fled Quarantine and Boarded a Plane.</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/amsterdam-hotel-coronavirus-quarantine.html" rel="standout"></atom:link>
+      <description>One of the pair tested positive for the coronavirus after they arrived on a flight from South Africa. They were quarantined at a hotel.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 15:48:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amsterdam Airport Schiphol</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-netherlands-couple1/29virus-briefing-netherlands-couple1-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Dejong/Associated Press</media:credit>
+      <media:description>The hotel in the Netherlands where some passengers who arrived on flights from South Africa are in quarantine after testing positive for the coronavirus.</media:description>
+    </item>
+    <item>
+      <title>Czech President Appoints Prime Minister From Inside a Cube</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/czech-president-prime-cube.html" rel="standout"></atom:link>
+      <description>President Milos Zeman tested positive for the coronavirus on Thursday and went into isolation, delaying the ceremony for three days.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 15:45:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeman, Milos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiala, Petr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/28/world/29virus-briefing-czech-president/28virus-briefing-tk-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Vondrous Roman</media:credit>
+      <media:description>Czech President Milos Zeman, right, separated with a transparent wall after testing positive for the coronavirus, appoints Petr Fiala as Czech Prime Minister at the Lany Manor house, near Prague, Czech Republic on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Scotland finds 6 cases of Omicron, but no sign its spread is ‘sustained.’</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/scotland-finds-6-cases-of-omicron-but-no-sign-its-spread-is-sustained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/scotland-finds-6-cases-of-omicron-but-no-sign-its-spread-is-sustained.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/scotland-finds-6-cases-of-omicron-but-no-sign-its-spread-is-sustained.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 14:59:38 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-scotland1/29virus-briefing-scotland1-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Forsyth/Getty Images</media:credit>
+      <media:description>Nicola Sturgeon, Scotland’s first minister, described the emergence of Omicron as the “most challenging development of the pandemic for quite some time.”</media:description>
+    </item>
+    <item>
+      <title>Portugal Detects 13 Omicron Cases Tied to Belenenses Soccer Team</title>
+      <link>https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/europe/portugal-omicron-soccer-team.html" rel="standout"></atom:link>
+      <description>The team, Belenenses, took part in a game that had to be abandoned after a Covid outbreak reduced the number of eligible players. One infected player had recently returned from South Africa.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 19:39:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29virus-briefing-portugal-soccer-01/29virus-briefing-portugal-soccer-01-moth.jpg" width="151"></media:content>
+      <media:credit>Antonio Cotrim/EPA, via Shutterstock</media:credit>
+      <media:description>A soccer game in Portugal between Belenenses and Benfica over the weekend was abandoned after a virus outbreak. It was later revealed that some of those cases were of the Omicron variant.</media:description>
+    </item>
+    <item>
+      <title>The Latest on Omicron</title>
+      <link>https://www.nytimes.com/2021/11/29/briefing/omicron-contagion-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/briefing/omicron-contagion-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/briefing/omicron-contagion-what-to-know.html" rel="standout"></atom:link>
+      <description>What should you assume about the new variant?</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 11:28:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29ambriefing-promo/29ambriefing-omicron-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Tom Nicholson/Reuters</media:credit>
+      <media:description>A crowd in London this weekend.</media:description>
+    </item>
+    <item>
+      <title>Meet the Beauty Queens of Al Dhafra</title>
+      <link>https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/travel/camel-beauty-pageant.html" rel="standout"></atom:link>
+      <description>Camel beauty contests take center stage at a celebration of Bedouin culture, held annually in the United Arab Emirates.</description>
+      <dc:creator>Kiki Streitberger</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 10:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bedouins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Contests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/travel/29travel-united-arab-emirates-promo/29travel-united-arab-emirates-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Kiki Streitberger</media:credit>
+      <media:description>Pert ears? Check. Long droopy lips? Check. A nose ring? Check. Expressive eyes framed by upward curled eyelashes? Check.</media:description>
+    </item>
+    <item>
+      <title>Taliban and 9/11 Families Fight for Billions in Frozen Afghan Funds</title>
+      <link>https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/us/politics/taliban-afghanistan-911-families-frozen-funds.html" rel="standout"></atom:link>
+      <description>The White House must figure out what to do with the Afghan central bank’s account at the Federal Reserve, now blocked under U.S. law.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 20:45:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/world/29dc-afghanistan-money-1/29dc-afghanistan-money-1-moth.jpg" width="151"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Taliban spokesman Zabihullah Mujahid, announcing the new Taliban government of Afghanistan at a press conference in Kabul in September.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/29/briefing/omicron-britain-supply-shortages.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/briefing/omicron-britain-supply-shortages.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/briefing/omicron-britain-supply-shortages.html" rel="standout"></atom:link>
+      <description>Omicron moves across the world.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 05:08:57 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29ambriefing-europe-nl-promo/29ambriefing-europe-nl-top-moth.jpg" width="151"></media:content>
+      <media:credit>Yonhap/EPA, via Shutterstock</media:credit>
+      <media:description>Passengers wearing protective gear arrive at Incheon International Airport, in South Korea on Sunday.</media:description>
+    </item>
+    <item>
+      <title>A Woman is Charged With Arson in Queensland Quarantine Hotel Fire</title>
+      <link>https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/australia/queensland-hotel-fire.html" rel="standout"></atom:link>
+      <description>A 31-year-old mother and her two children had arrived in Queensland a few days ago.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 20:52:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairns (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/lens/29virus-briefing-oz-fire-new-02/29virus-briefing-oz-fire-new-02-moth.png" width="151"></media:content>
+      <media:credit>Sarah Orton/Reuters/Nine Network</media:credit>
+      <media:description>The Pacific Hotel in Cairns, Australia, caught fire Sunday morning. Its 163 occupants were evacuated safely.</media:description>
+    </item>
+    <item>
+      <title>Both parties claim victory as Honduras awaits election results.</title>
+      <link>https://www.nytimes.com/2021/11/28/world/americas/hondurans-cast-their-votes-in-peace-then-await-results-amid-fears-of-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/americas/hondurans-cast-their-votes-in-peace-then-await-results-amid-fears-of-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/americas/hondurans-cast-their-votes-in-peace-then-await-results-amid-fears-of-fraud.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 03:11:31 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28honduras-photo1/28honduras-photo1-moth.jpg" width="151"></media:content>
+      <media:credit>Moises Castillo/Associated Press</media:credit>
+      <media:description>Voters wait for their ballots at a polling station in Tegucigalpa.</media:description>
+    </item>
+    <item>
+      <title>Snowstorm Leaves Dozens Stranded for Days in a Remote U.K. Pub</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/england-pub-snow-storm.html" rel="standout"></atom:link>
+      <description>A crowd had gathered on Friday night to listen to Noasis, an Oasis tribute band. On Monday, most of them were finally able to go home.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 19:54:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="">Storm Arwen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkshire (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oasis (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tan Hill Inn (Richmond, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Richmond (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/lens/28xp-pub01/28xp-pub01-moth.jpg" width="151"></media:content>
+      <media:credit>The Tan Hill Inn</media:credit>
+      <media:description>Snow as high as three feet in some places blocked the exits of the Tan Hill Inn in northern England.</media:description>
+    </item>
+    <item>
+      <title>Omicron Variant Surfaces Amid an Airline Travel Rebound</title>
+      <link>https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/29/world/americas/airlines-covid-omicron-variant.html" rel="standout"></atom:link>
+      <description>With several countries imposing new restrictions, the question now is whether travelers will be deterred.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 18:07:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-briefing-airlines-new/28virus-briefing-airlines-new-moth.jpg" width="151"></media:content>
+      <media:credit>Amir Cohen/Reuters</media:credit>
+      <media:description>Israel said on Sunday that it was sealing its borders to all foreigners for 14 days after one case of the new coronavirus variant was confirmed in the country.</media:description>
+    </item>
+    <item>
+      <title>As China Speeds Up Nuclear Arms Race, the U.S. Wants to Talk</title>
+      <link>https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/us/politics/china-nuclear-arms-race.html" rel="standout"></atom:link>
+      <description>The Pentagon thinks Beijing may build 1,000 or more weapons by 2030. But it’s the new technologies that worry strategists.</description>
+      <dc:creator>David E. Sanger and William J. Broad</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 00:45:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/24/us/politics/24dc-CHINA-NUKES-1/24dc-CHINA-NUKES-1-moth.jpg" width="151"></media:content>
+      <media:credit>Roman Pilipey/EPA, via Shutterstock</media:credit>
+      <media:description>China’s DF-17 hypersonic ballistic missiles have warheads that can zero in on targets at more than five times the speed of sound.</media:description>
+    </item>
+    <item>
+      <title>Covid Law in Switzerland Is Approved in a Vote</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/swiss-voters-approve-covid-green-pass.html" rel="standout"></atom:link>
+      <description>After weeks of heated debate and protests, voters backed using Covid certificates that are required to enter public spaces.</description>
+      <dc:creator>Noele Illien</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 05:48:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-briefing-switzerland-vote-01/28virus-briefing-switzerland-vote-01-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Klaunzer/EPA, via Shutterstock</media:credit>
+      <media:description>Nearly two-thirds of Swiss voters elected to endorse the government’s Covid-19 laws.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/28/briefing/your-monday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/briefing/your-monday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/briefing/your-monday-briefing.html" rel="standout"></atom:link>
+      <description>An update on the Omicron variant.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 21:11:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Belarus-Poland Border Crisis (2021- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abloh, Virgil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sondheim, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/29/multimedia/29ambriefing-asia-nl-nov-top2/29ambriefing-asia-nl-nov-top2-moth.jpg" width="151"></media:content>
+      <media:credit>Laurens Bosch/EPA, via Shutterstock</media:credit>
+      <media:description>Health workers in the Netherlands transported passengers from South Africa to a hotel for quarantine.</media:description>
+    </item>
+    <item>
+      <title>When Will We Know Results in the Presidential Election in Honduras?</title>
+      <link>https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/americas/honduras-election-polls-closing.html" rel="standout"></atom:link>
+      <description>Polls began wrapping up around 5 p.m. with few reports of problems so far.</description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 23:26:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28honduras-election-briefing-timeline/28honduras-election-briefing-timeline-moth.jpg" width="151"></media:content>
+      <media:credit>Getty Images/Getty Images</media:credit>
+      <media:description>A polling place in Tegucigalpa, Honduras, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Health Officials Push Vaccines as Omicrom Spreads</title>
+      <link>https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/united-states-omicrom-variant-vaccine.html" rel="standout"></atom:link>
+      <description>Getting a vaccination remains the best line of defense against Covid-19, the nation’s top two health leaders said on Sunday.</description>
+      <dc:creator>Alexandra E. Petri</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 16:52:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Francis S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-briefing-fauci-collins-01/28virus-briefing-fauci-collins-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Sarahbeth Maney/The New York Times</media:credit>
+      <media:description>President Biden has urged more people to get vaccinated against the coronavirus, as the world faces a new variant. He was in Nantucket, Mass., with his family for Thanksgiving on Friday, above. </media:description>
+    </item>
+    <item>
+      <title>Japan, Israel and Morocco Impose Bans on Foreign Travelers; Australia Delays Reopening</title>
+      <link>https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/middleeast/israel-morocco-travel-bans-omicron.html" rel="standout"></atom:link>
+      <description>Israel and Morocco have also barred all visitors from overseas, as countries race to respond to the threat of the Omicron variant.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 19:27:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eilat (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/28/multimedia/28virus-briefing-global-03/28virus-briefing-global-03-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Fong/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Staff members at the departure gate of Tokyo’s Haneda international airport on Monday, as Japan announced plans to bar all new foreign travelers over the Omicron variant.</media:description>
+    </item>
+    <item>
+      <title>Hondurans seek a break from graft and despair in an election with repercussions for the United States.</title>
+      <link>https://www.nytimes.com/2021/11/28/world/americas/hondurans-seek-a-break-from-graft-and-despair-in-an-election-with-repercussions-for-the-united-states.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/americas/hondurans-seek-a-break-from-graft-and-despair-in-an-election-with-repercussions-for-the-united-states.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/americas/hondurans-seek-a-break-from-graft-and-despair-in-an-election-with-repercussions-for-the-united-states.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Anatoly Kurmanaev</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 02:43:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>South Africa Is Better Vaccinated Than Most African Countries</title>
+      <link>https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/africa/south-africa-omicron-vaccination.html" rel="standout"></atom:link>
+      <description>The country has one of Africa’s better vaccination rates: Just under one-quarter of its population has been fully inoculated.</description>
+      <dc:creator>Declan Walsh and Lynsey Chutel</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 05:42:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-briefing-africa-vaccines-01/28virus-briefing-africa-vaccines-01-moth.jpg" width="151"></media:content>
+      <media:credit>Siphiwe Sibeko/Reuters</media:credit>
+      <media:description>A health worker greeted people at a vaccine pop-up center in August, in East Rand, South Africa, as part of a measure to help the government speed up the inoculation campaign in the country’s remote communities.</media:description>
+    </item>
+    <item>
+      <title>The Netherlands finds at least 13 Omicron cases and expects more.</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/netherlands-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/netherlands-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/netherlands-omicron.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 19:01:33 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/multimedia/28virus-briefing-netherlands/28virus-briefing-netherlands-moth.jpg" width="151"></media:content>
+      <media:credit>Sem van der Wal/EPA, via Shutterstock</media:credit>
+      <media:description>Dutch health officials reported that of 61 passengers on two flights from South Africa on Friday who tested positive for the coronavirus, at least 13 were infected with the Omicron variant.</media:description>
+    </item>
+    <item>
+      <title>A Wine Rack on Rails? U.K. Businesses Seek Solutions to Shortages.</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/uk-supply-shortages.html" rel="standout"></atom:link>
+      <description>Two months after concerns about gas and food stocks caused ripples of anxiety, Britain continues to face problems in its supply chain. Distributors and retailers are looking for creative fixes.</description>
+      <dc:creator>Stephen Castle and Jenny Gross</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 20:22:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28uk-shortages-sub/28uk-shortages-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>A freight train being loaded with nearly 650,000 bottles of wine at Tilbury Docks, east of London.</media:description>
+    </item>
+    <item>
+      <title>Scotland Detects 6 Omicron Cases as Britain Weighs Booster Expansion</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/britain-omicron-response.html" rel="standout"></atom:link>
+      <description>The Scottish cases come after Britain announced three cases of the new variant over the weekend and as the British health secretary urged people to get a booster shot if they were eligible.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 10:07:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Javid, Sajid (1969- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28virus-briefing-healthSec/28virus-briefing-healthSec-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Chown/Press Association, via Associated Press</media:credit>
+      <media:description>Sajid Javid, Britain’s health secretary, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Portugal Soccer Match Abandoned After Covid Reduces Team to 9</title>
+      <link>https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/europe/portugal-soccer-covid.html" rel="standout"></atom:link>
+      <description>Players from the Belenenses team criticized sporting officials for demanding the match go on, saying soccer had “lost its heart.”</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 14:38:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/28/world/28virus-briefing-soccer/28virus-briefing-soccer-moth.jpg" width="151"></media:content>
+      <media:credit>Pedro Nunes/Reuters</media:credit>
+      <media:description>Belenenses players, right, during a huddle before the match.</media:description>
+    </item>
+    <item>
+      <title>What’s at Stake in the Honduran Presidential Election?</title>
+      <link>https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/americas/honduras-elections.html" rel="standout"></atom:link>
+      <description>Hondurans head to the polls on Sunday, but widespread political violence during the campaign and questionable results from 2017 are looming large.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 20:47:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Asfura, Nasry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Xiomara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelaya Rosales, Jose Manuel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/00Honduras1/00Honduras1-moth.jpg" width="151"></media:content>
+      <media:credit>Jose Cabezas/Reuters</media:credit>
+      <media:description>Vendors selling political party flags in Tegucigalpa, Honduras, on Friday, ahead of Sunday’s national elections, which may be the most significant in a decade.</media:description>
+    </item>
+    <item>
+      <title>The W.H.O. Skips Forward Two Greek Letters, Avoiding a Xi Variant</title>
+      <link>https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/28/world/asia/omicron-variant-name-covid.html" rel="standout"></atom:link>
+      <description>Under the World Health Organization’s system, the Omicron variant might have been called Nu or Xi, but only at the risk of ambiguity or diplomatic awkwardness.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 21:47:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-variant-name/27virus-briefing-variant-name-moth.jpg" width="151"></media:content>
+      <media:credit>Sumaya Hisham/Reuters</media:credit>
+      <media:description>Collecting a swab from Bronwen Cook for a PCR test for the coronavirus before a flight to London, at O.R. Tambo International Airport in Johannesburg on Friday.</media:description>
+    </item>
+    <item>
+      <title>Laszlo Z. Bito, Scientist, Novelist and Philanthropist, Dies at 87</title>
+      <link>https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/europe/laszlo-z-bito-dead.html" rel="standout"></atom:link>
+      <description>He fled communist rule in Hungary, discovered a treatment for glaucoma in the U.S., then became an author and a voice against authoritarianism in his homeland.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Mon, 29 Nov 2021 14:50:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bito, Laszlo Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaucoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bard College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>A Tale of Culinary Reconciliation, Beside the Eiffel Tower</title>
+      <link>https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/europe/admo-ducasse-adria-paris.html" rel="standout"></atom:link>
+      <description>Two decades ago, Spain was the new France, leading gastronomic innovation. Now two iconic chefs have joined forces in Paris.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Sat, 27 Nov 2021 19:03:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Food (Cuisine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ADMO (Paris, France, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ducasse, Alain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adria, Albert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meder, Romain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">El Bulli (Catalonia, Spain, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/24/world/24france-food01sub/24france-food01sub-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>The Spanish chef Albert Adrià, second from right, and the French chef Alain Ducasse, right, at their pop-up restaurant ADMO in Paris, along with the pastry chef Jessica Préalpato and Vincent Chaperon, the cellar master of Dom Pérignon.</media:description>
+    </item>
+    <item>
+      <title>How did Omicron get its name?</title>
+      <link>https://www.nytimes.com/2021/11/27/world/how-did-omicron-get-its-name.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/how-did-omicron-get-its-name.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/how-did-omicron-get-its-name.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Vimal Patel</dc:creator>
+      <pubDate>Sat, 27 Nov 2021 16:51:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-xp-name/27virus-briefing-xp-name-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>Tulio de Oliveira at the Nelson Mandela School of Medicine in Durban, South Africa, last week. Mr. de Oliveira and members of his team announced the new Covid-19 variant.</media:description>
+    </item>
+    <item>
+      <title>A Couple’s Dream of Reuniting in England Is Dashed in a Channel Disaster</title>
+      <link>https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/middleeast/migrants-kurdish-channel.html" rel="standout"></atom:link>
+      <description>A young Kurdish woman, Maryam Nuri, died with 26 others after making a desperate attempt to join her fiancé by crossing the English Channel from France on an inflatable boat.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Sat, 27 Nov 2021 20:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+    </item>
+    <item>
+      <title>As Omicron Variant Circles the Globe, African Nations Face Blame and Bans</title>
+      <link>https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html" rel="standout"></atom:link>
+      <description>With countries trying to close their doors to the new coronavirus variant, southern African officials note that the West’s hoarding of vaccines helped create their struggle in the first place.</description>
+      <dc:creator>Benjamin Mueller and Declan Walsh</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 02:59:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27virus-variant1/27virus-variant1-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>Travelers checking a flight information board at Johannesburg’s international airport on Saturday. Many countries have banned travelers from southern Africa since the discovery of a new variant.</media:description>
+    </item>
+    <item>
+      <title>U.K. Confirms Two Cases of Omicron Coronavirus Variant</title>
+      <link>https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/europe/uk-cases-omicron-covid.html" rel="standout"></atom:link>
+      <description>The prime minister reimposed a mask mandate, saying ‘there are many things we just cannot know.’</description>
+      <dc:creator>Aina J. Khan and Isabella Grullón Paz</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 15:21:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+    </item>
+    <item>
+      <title>As Potential Omicron Variant Cases Emerge, an International Scramble to Shut It Out</title>
+      <link>https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/omicron-variant-cases-travel-restrictions.html" rel="standout"></atom:link>
+      <description>Dutch health authorities say it’s likely the Omicron variant will be detected among 61 infected travelers from South Africa.</description>
+      <dc:creator>Jason Horowitz and Claire Moses</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 03:03:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KLM Royal Dutch Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-spread/27virus-briefing-spread-moth.jpg" width="151"></media:content>
+      <media:credit>Social Media Photo Obtained By Reuters</media:credit>
+      <media:description>Passengers awaiting Covid test results in Amsterdam’s Schiphol Airport, in an image shared on social media on Saturday.</media:description>
+    </item>
+    <item>
+      <title>They Twice Gave Up Everything to Flee Iraq. They Keep Getting Sent Back.</title>
+      <link>https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/middleeast/iraqi-kurd-migration.html" rel="standout"></atom:link>
+      <description>Bria Ali and her family have twice tried to make it to Germany, desperate for a better life. They are now back home with thousands of others who made it to Europe in recent months only to be deported.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 20:55:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Belarus-Poland Border Crisis (2021- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27iraq-migrants-1/27iraq-migrants-1-moth.jpg" width="151"></media:content>
+      <media:credit>Hawre Khalid for The New York Times</media:credit>
+      <media:description>Bria Ali at her home in Erbil, Iraq, this month. Bria and her family were deported from Poland on Oct. 31 after crossing the Belarusian border.</media:description>
+    </item>
+    <item>
+      <title>How Did the New Covid Variant, Omicron, Get Its Name?</title>
+      <link>https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/africa/omicron-covid-greek-alphabet.html" rel="standout"></atom:link>
+      <description>The World Health Organization began naming the variants after Greek letters to avoid public confusion and stigma.</description>
+      <dc:creator>Vimal Patel</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 03:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/26/multimedia/26XP-virus-omicron-name/26XP-virus-omicron-name-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>Tulio de Oliveira at the Nelson Mandela School of Medicine in Durban, South Africa. Mr. de Oliveira and members of his team announced the new Covid-19 variant.</media:description>
+    </item>
+    <item>
+      <title>Germany Finds Suspected Omicron Variant Case</title>
+      <link>https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/27/world/europe/germany-omicron-case.html" rel="standout"></atom:link>
+      <description>A couple returning from South Africa are Germany’s first confirmed Omicron cases. Italy confirmed a case in a traveler returning from Mozambique.</description>
+      <dc:creator>Katrin Bennhold and Christopher F. Schuetze</dc:creator>
+      <pubDate>Sun, 28 Nov 2021 01:06:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hesse (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/27/world/27virus-briefing-germany-2/27virus-briefing-germany-2-moth.jpg" width="151"></media:content>
+      <media:credit>Philipp Guelland/EPA, via Shutterstock</media:credit>
+      <media:description>Travelers arriving at the airport in Munich on Saturday.</media:description>
+    </item>
+  </channel>
+</rss>

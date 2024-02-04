@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 01 May 2016 03:32:38 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>On the Ground in Syria: Bloodshed, Misery and Hope</title>
+      <link>http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/ALEPPO1/ALEPPO1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A civilian evacuated a baby on Friday from a site that had been hit by airstrikes in a rebel-controlled area of Aleppo, Syria. Inhabitants of the city carry on with work and school despite fighting that has killed more than 200 civilians in the past week.</media:description>
+      <media:credit>Abdalrhman Ismail/Reuters</media:credit>
+      <description>The New York Times&#x2019;s Cairo bureau chief reported from Aleppo, Syria, where inhabitants try to carry on despite a civil war&#x2019;s inescapable reality.</description>
+      <dc:creator>DECLAN WALSH</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 16:48:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Free Syrian Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Army</category>
+    </item>
+    <item>
+      <title>Iraq Protesters Storm Parliament, Demanding End to Corruption</title>
+      <link>http://www.nytimes.com/2016/05/01/world/middleeast/iraq-protesters-storm-parliament-demanding-end-to-corruption.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/middleeast/iraq-protesters-storm-parliament-demanding-end-to-corruption.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/middleeast/iraq-protesters-storm-parliament-demanding-end-to-corruption.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/01IRAQ-2/01IRAQ-1462033526987-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Followers of the Shiite cleric Moktada al-Sadr stormed Baghdad&#x2019;s Green Zone Saturday, gleefully slipping past barricades and barbed wire, after lawmakers failed to convene for a vote on overhauling the government.</media:description>
+      <media:credit>Khalid Al-Mousily/Reuters</media:credit>
+      <description>Hundreds breached the razor wire of Baghdad&#x2019;s fortified Green Zone, long seen as a symbol of a government detached from ordinary Iraqi citizens.</description>
+      <dc:creator>FALIH HASSAN, OMAR AL-JAWOSHY and TIM ARANGO</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 22:07:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+    </item>
+    <item>
+      <title>Partial Truce Said to Be Restored in Syria, but Not Yet in Aleppo</title>
+      <link>http://www.nytimes.com/2016/04/30/world/middleeast/partial-truce-said-to-be-restored-in-syria-but-not-yet-in-aleppo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/middleeast/partial-truce-said-to-be-restored-in-syria-but-not-yet-in-aleppo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/middleeast/partial-truce-said-to-be-restored-in-syria-but-not-yet-in-aleppo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30SYRIA/30SYRIA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Syrians evacuating an injured man after an airstrike in Aleppo on Friday. </media:description>
+      <media:credit>Ameer Alhalbi/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The United States and Russia said they had won agreement for a new partial truce after a bloody week, but that it would not immediately include Aleppo.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 19:44:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">White Helmets (Syrian Civil Defense Volunteer Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Nusra Front</category>
+    </item>
+    <item>
+      <title>Debt Collectors Adopt Mob Tactics as Russians Struggle to Pay Bills</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/russia-debt-collectors-mob.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/russia-debt-collectors-mob.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/russia-debt-collectors-mob.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/28/world/28COLLECTORS-web1/28COLLECTORS-web1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A currency exchange office in Moscow in January. In March, for the first time since 2008, Russians spent over half their income on food, beverages and cigarettes, according to government statistics, and more people are resorting to borrowing at astronomical interest rates.</media:description>
+      <media:credit>Pavel Golovkin/Associated Press</media:credit>
+      <description>A culture of violence and threats flourishes as growing numbers of Russians turn to borrowing at astronomical interest rates amid a recession.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 09:00:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Debt Collection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assaults</category>
+    </item>
+    <item>
+      <title>Photo of Paris Massacre Victim Sets Off Press Freedom Case</title>
+      <link>http://www.nytimes.com/2016/05/01/world/europe/photo-of-paris-attacks-victim-sets-off-press-freedom-case.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/europe/photo-of-paris-attacks-victim-sets-off-press-freedom-case.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/europe/photo-of-paris-attacks-victim-sets-off-press-freedom-case.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/01PHOTOGRAPHER/01PHOTOGRAPHER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Capucine Granier-Deferre for The New York Times</media:credit>
+      <description>A photographer who sold a picture of a man who later died has been charged under a strict French right-to-privacy law.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Sun, 01 May 2016 03:07:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maya Vidon-White</category>
+    </item>
+    <item>
+      <title>Muslim&#x2019;s Labour Candidacy Shapes London Mayoral Race</title>
+      <link>http://www.nytimes.com/2016/05/01/world/europe/muslims-labour-candidacy-shapes-london-mayoral-race.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/europe/muslims-labour-candidacy-shapes-london-mayoral-race.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/europe/muslims-labour-candidacy-shapes-london-mayoral-race.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/01LONDONMAYOR/01LONDONMAYOR-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sadiq Khan, the Labour Party candidate in London&#x2019;s mayoral election on Thursday, posed for photos last month outside New Scotland Yard.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>With Britain struggling to integrate minorities, Sadiq Khan is favored to win election on Thursday, which would make him the first Muslim to lead the city and give a boost to his opposition party.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 14:32:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldsmith, Zac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Sadiq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Inquiry Into Missing Mexican Students Ends on Note of Frustration</title>
+      <link>http://www.nytimes.com/2016/05/01/world/americas/inquiry-into-missing-mexican-students-ends-on-note-of-frustration.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/americas/inquiry-into-missing-mexican-students-ends-on-note-of-frustration.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/americas/inquiry-into-missing-mexican-students-ends-on-note-of-frustration.html?partner=rss&amp;emc=rss"/>
+      <description>Foreign investigators and the government battled each other with dueling news conferences in the inquiry&#x2019;s final week.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 19:05:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gomez Gonzalez, Arely</category>
+    </item>
+    <item>
+      <title>Honduras Fires Over Two Dozen Police Commanders</title>
+      <link>http://www.nytimes.com/2016/05/01/world/americas/honduras-fires-over-two-dozen-police-commanders.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/americas/honduras-fires-over-two-dozen-police-commanders.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/americas/honduras-fires-over-two-dozen-police-commanders.html?partner=rss&amp;emc=rss"/>
+      <description>A purge intended to clean up the force complemented an effort by President Juan Orlando Hern&#xE1;ndez to bypass the national police in favor of a militarized force.</description>
+      <dc:creator>ELISABETH MALKIN</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 16:11:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+    </item>
+    <item>
+      <title>Nepal&#x2019;s Earthquake Recovery Remains in Disarray a Year Later</title>
+      <link>http://www.nytimes.com/2016/05/01/world/asia/nepals-earthquake-recovery-remains-in-disarray-a-year-later.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/asia/nepals-earthquake-recovery-remains-in-disarray-a-year-later.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/asia/nepals-earthquake-recovery-remains-in-disarray-a-year-later.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/NEPAL/NEPAL-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A building in Kathmandu, Nepal, still needed to be supported by poles on Monday, the one-year anniversary of the day it was damaged in an earthquake that killed almost 9,000 people.</media:description>
+      <media:credit>Niranjan Shrestha/Associated Press</media:credit>
+      <description>The government, hampered by red tape and political turmoil, is unable to take full advantage of $4.1 billion in aid, and some donors are growing restless.</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 22:27:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Antismoking Coalition Gives Big Tobacco a Fight in Indonesia</title>
+      <link>http://www.nytimes.com/2016/05/01/world/asia/antismoking-coalition-gives-big-tobacco-a-fight-in-indonesia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/asia/antismoking-coalition-gives-big-tobacco-a-fight-in-indonesia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/asia/antismoking-coalition-gives-big-tobacco-a-fight-in-indonesia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17indosmoke1/17indosmoke1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Philip Morris International painted houses in Yogyakarta, Indonesia, as part of its &#x201C;Show Your Colors&#x201D; advertising campaign.</media:description>
+      <media:credit>Justin Mott for The New York Times</media:credit>
+      <description>Funding from the Bloomberg Initiative is building local opposition to companies that have eagerly expanded in one of the largest cigarette markets in Asia.</description>
+      <dc:creator>JON EMONT</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 23:56:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grants (Corporate and Foundation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Campaign for Tobacco-Free Kids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Philip Morris Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bloomberg, Michael R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jakarta (Indonesia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yogyakarta (Indonesia)</category>
+    </item>
+    <item>
+      <title>China Blocks U.S. Navy Flotilla&#x2019;s Visit to Hong Kong</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/china-blocks-us-navy-flotillas-visit-to-hong-kong.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/china-blocks-us-navy-flotillas-visit-to-hong-kong.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/china-blocks-us-navy-flotillas-visit-to-hong-kong.html?partner=rss&amp;emc=rss"/>
+      <description>The rare refusal to allow entry into the port comes as the United States challenges the Chinese government&#x2019;s claims in the South China Sea.</description>
+      <dc:creator>MICHAEL S. SCHMIDT and MICHAEL FORSYTHE</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 17:24:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Ashton B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Kenya Burns Elephant Ivory Worth $105 Million to Defy Poachers</title>
+      <link>http://www.nytimes.com/2016/05/01/world/africa/kenya-burns-poached-elephant-ivory-uhuru-kenyatta.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/africa/kenya-burns-poached-elephant-ivory-uhuru-kenyatta.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/africa/kenya-burns-poached-elephant-ivory-uhuru-kenyatta.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/IVORY-2/IVORY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Seized ivory burning in Kenya on Saturday. &#x201C;No one, and I repeat, no one, has any business in trading in ivory, for this trade means death &#x2014; the death of our elephants and the death of our natural heritage,&#x201D; Mr. Kenyatta declared.</media:description>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <description>It was the most ivory ever destroyed at one time, representing 6,000 to 7,000 dead elephants.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 22:10:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ivory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+    </item>
+    <item>
+      <title>In Congo, Wars Are Small and Chaos Is Endless</title>
+      <link>http://www.nytimes.com/2016/05/01/world/africa/in-congo-wars-are-small-and-chaos-is-endless.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/africa/in-congo-wars-are-small-and-chaos-is-endless.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/africa/in-congo-wars-are-small-and-chaos-is-endless.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/01CONGO-1461953578237/01CONGO-1461953578237-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Bambote ethnic group in an abandoned cotton factory in Nyunzu, Democratic Republic of Congo. The Bambote are forest dwellers who have been displaced by one of the many violent conflicts in Congo.</media:description>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <description>Traditional forest dwellers, known for their capacity to cooperate, have become embroiled in and displaced by one of the conflicts that typify the Democratic Republic of Congo as an election crisis looms.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 21:31:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pygmies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabila, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Bambote</category>
+    </item>
+    <item>
+      <title>Rouhani Backers Gain Iran Parliamentary Seats, but Not Majority</title>
+      <link>http://www.nytimes.com/2016/05/01/world/middleeast/rouhani-backers-gain-iran-parliamentary-seats-but-not-majority.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/middleeast/rouhani-backers-gain-iran-parliamentary-seats-but-not-majority.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/middleeast/rouhani-backers-gain-iran-parliamentary-seats-but-not-majority.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/IRAN/IRAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Hassan Rouhani has faced resistance in Parliament since taking office.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>Supporters of President Hassan Rouhani won more seats in parliamentary runoffs, but failing to gain a majority limits their ability for significant reforms.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 21:06:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+    </item>
+    <item>
+      <title>ISIS Says It Killed Bangladesh Tailor Once Jailed for Blasphemy</title>
+      <link>http://www.nytimes.com/2016/05/01/world/asia/hindu-tailor-once-jailed-for-slurring-prophet-is-hacked-to-death.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/asia/hindu-tailor-once-jailed-for-slurring-prophet-is-hacked-to-death.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/asia/hindu-tailor-once-jailed-for-slurring-prophet-is-hacked-to-death.html?partner=rss&amp;emc=rss"/>
+      <description>Islamist militants claimed responsibility for the latest of several fatal attacks in Bangladesh, but officials said was too early to settle on a motive.</description>
+      <dc:creator>JULFIKAR ALI MANIK and GEETA ANAND</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 16:08:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>U.N. Renews Mission in Western Sahara in Divisive Vote</title>
+      <link>http://www.nytimes.com/2016/04/30/world/africa/un-renews-mission-in-western-sahara-in-divisive-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/africa/un-renews-mission-in-western-sahara-in-divisive-vote.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/africa/un-renews-mission-in-western-sahara-in-divisive-vote.html?partner=rss&amp;emc=rss"/>
+      <description>A Security Council resolution renewed the peacekeeping mission but exerted little pressure on Morocco, which expelled dozens of United Nations workers last month.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 02:03:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Sahara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Polisario Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ban Ki-moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Power, Samantha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>U.S. Rejects Iran&#x2019;s Protest on Asset Ruling</title>
+      <link>http://www.nytimes.com/2016/04/30/world/middleeast/us-rejects-irans-protest-on-asset-ruling.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/middleeast/us-rejects-irans-protest-on-asset-ruling.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/middleeast/us-rejects-irans-protest-on-asset-ruling.html?partner=rss&amp;emc=rss"/>
+      <description>The State Department said a Supreme Court ruling allowing use of Iranian assets to compensate victims of terrorist attacks comports with international law.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 01:52:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zarif, Mohammad Javad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ban Ki-moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Ending Impasse, Irish Leaders Agree on a Government</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/irish-leaders-make-deal-to-form-new-government.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/irish-leaders-make-deal-to-form-new-government.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/irish-leaders-make-deal-to-form-new-government.html?partner=rss&amp;emc=rss"/>
+      <description>The agreement, which follows an inconclusive election and two months of political deadlock, is likely to result in the re-election of Edna Kenny as prime minister.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 02:14:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fine Gael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fianna Fail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenny, Enda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+    </item>
+    <item>
+      <title>Former Auschwitz Guard Apologizes at Trial in Germany</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/reinhold-hanning-former-auschwitz-guard-apologizes-at-trial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/reinhold-hanning-former-auschwitz-guard-apologizes-at-trial.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/reinhold-hanning-former-auschwitz-guard-apologizes-at-trial.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/GERMANY/GERMANY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Reinhold Hanning is on trial in a German court on charges of being an accessory to the murder of at least 170,000 people.</media:description>
+      <media:credit>Pool photo by Bernd Thissen/Reuters</media:credit>
+      <description>The 94-year-old defendant, Reinhold Hanning, told a German court he was &#x201C;ashamed I witnessed injustice and allowed it to continue&#x201D; while serving at the Nazi death camp.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 20:43:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hanning, Reinhold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Auschwitz Concentration Camp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Demjanjuk, John</category>
+    </item>
+    <item>
+      <title>Notes From Aleppo: Intimate Glimpses of War-Ravaged Syria</title>
+      <link>http://www.nytimes.com/2016/04/30/world/middleeast/notes-from-aleppo-intimate-glimpses-of-war-ravaged-syria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/middleeast/notes-from-aleppo-intimate-glimpses-of-war-ravaged-syria.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/middleeast/notes-from-aleppo-intimate-glimpses-of-war-ravaged-syria.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30ALEPPOINSTA-4/30ALEPPOINSTA-1461944541586-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Declan Walsh/The New York Times</media:credit>
+      <description>Declan Walsh of The Times is on the ground in the most populous Syrian city, observing a civil war&#x2019;s toll on soldiers and civilians alike.</description>
+      <dc:creator/>
+      <pubDate>Sat, 30 Apr 2016 16:30:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walsh, Declan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>Surge in Palestinian Youths in Prison Tests Israel&#x2019;s Justice System</title>
+      <link>http://www.nytimes.com/2016/04/30/world/middleeast/surge-in-palestinian-youths-in-prison-tests-israels-justice-system.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/middleeast/surge-in-palestinian-youths-in-prison-tests-israels-justice-system.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/middleeast/surge-in-palestinian-youths-in-prison-tests-israels-justice-system.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30Minors-web1/30Minors-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dima al-Wawi, center, next to her mother, Sabha, checking Facebook after her release from an Israeli prison, at the family&#x2019;s home on Sunday in the West Bank town of Halhoul.</media:description>
+      <media:credit>Rina Castelnuovo for The New York Times</media:credit>
+      <description>Dima al-Wawi, a 12-year-old jailed for two months for planning to stab an Israeli soldier, was one of hundreds of Palestinian children jailed since attacks on Israelis surged.</description>
+      <dc:creator>DIAA HADID</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 17:13:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wawi, Dima al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+    </item>
+    <item>
+      <title>Joe Biden Speaks About Faith and Curing Cancer at the Vatican</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/joe-biden-speaks-about-faith-and-curing-cancer-at-the-vatican.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/joe-biden-speaks-about-faith-and-curing-cancer-at-the-vatican.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/joe-biden-speaks-about-faith-and-curing-cancer-at-the-vatican.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30Biden-web/30Biden-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pope Francis with Vice President Joseph R. Biden Jr. at the Vatican on Friday.</media:description>
+      <media:credit>L'Osservatore Romano, via Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The vice president&#x2019;s attendance at a Vatican-sponsored conference on regenerative medicine was a confluence of his embrace of science and faith.</description>
+      <dc:creator>GARDINER HARRIS</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 16:46:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stem Cells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+    </item>
+    <item>
+      <title>Green Beret Who Beat Up Afghan Officer for Raping Boy Can Stay in Army</title>
+      <link>http://www.nytimes.com/2016/04/30/us/green-beret-who-beat-up-afghan-officer-for-raping-boy-can-stay-in-army.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/us/green-beret-who-beat-up-afghan-officer-for-raping-boy-can-stay-in-army.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/us/green-beret-who-beat-up-afghan-officer-for-raping-boy-can-stay-in-army.html?partner=rss&amp;emc=rss"/>
+      <description>The Army made the decision after lawmakers called for the full reinstatement of Sgt. First Class Charles Martland, who helped beat up the commander in 2011.</description>
+      <dc:creator>CHRISTINE HAUSER</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 16:44:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001-14)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Afghan Local Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martland, Charles (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rahman, Abdul (Afghanistan Militia Commander)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+    </item>
+    <item>
+      <title>Pentagon Details Chain of Errors in Strike on Afghan Hospital</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/afghanistan-doctors-without-borders-hospital-strike.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/afghanistan-doctors-without-borders-hospital-strike.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/afghanistan-doctors-without-borders-hospital-strike.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/STRIKE1/STRIKE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An employee of Doctors Without Borders in October 2015 inside what remained of the organization&#x2019;s hospital, destroyed in an airstrike that left 42 people dead.</media:description>
+      <media:credit>Najim Rahim/Associated Press</media:credit>
+      <description>A report more than 3,000 pages long describes the errors that led to the 2015 strike in Kunduz that killed 42 people. Sixteen American officers have been punished.</description>
+      <dc:creator>MATTHEW ROSENBERG</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 01:10:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kunduz (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Doctors Without Borders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+    </item>
+    <item>
+      <title>Sinosphere: Chinese Appear Underwhelmed by Under Armour Knockoff</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/china-uncle-martian-under-armour.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/china-uncle-martian-under-armour.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/china-uncle-martian-under-armour.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/asia/30Chinabrand-web/30Chinabrand-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Under Armour has been on a roll in China, with sales nearly tripling in the first three months of this year from a year earlier.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>A flashy rollout by Uncle Martian, with its nearly identical logo of the American sports manufacturer, has been met by skepticism on the Internet in China.</description>
+      <dc:creator>MICHAEL FORSYTHE</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:58:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Logos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Under Armour Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>He Said He Was 17, but High School Basketball Player May Be Closer to 30</title>
+      <link>http://www.nytimes.com/2016/04/30/world/americas/jonathan-nicola-said-he-was-17-but-the-high-school-basket-player-may-be-closer-to-30.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/americas/jonathan-nicola-said-he-was-17-but-the-high-school-basket-player-may-be-closer-to-30.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/americas/jonathan-nicola-said-he-was-17-but-the-high-school-basket-player-may-be-closer-to-30.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/28/world/xp30-basketball_web1/xp30-basketball_web1-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jonathan Nicola, center, in a basketball game in January.</media:description>
+      <media:credit>Nick Brancaccio/Windsor Star</media:credit>
+      <description>A student and standout athlete who immigrated from South Sudan to Canada was arrested after it was revealed that he misrepresented his age.</description>
+      <dc:creator>CHRISTOPHER MELE</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:39:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nicola, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Visas</category>
+    </item>
+    <item>
+      <title>2 Charged With Aiding Brussels Attacks Suspect Appear in London Court</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/britain-brussels-paris-attacks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/britain-brussels-paris-attacks.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/britain-brussels-paris-attacks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30UKterror-web/30UKterror-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mohamed Abrini</media:description>
+      <media:credit>Belgian Federal Police</media:credit>
+      <description>They are thought to have handed more than $4,300 to Mohamed Abrini, the &#x201C;man in the hat&#x201D; believed to have accompanied two suicide bombers to Brussels Airport.</description>
+      <dc:creator>KIMIKO DE FREYTAS-TAMURA</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:31:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abrini, Mohamed (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brussels Attacks (March 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+    </item>
+    <item>
+      <title>Helicopter Crashes Off Norway, Leaving No Signs of Survivors</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/bergen-norway-helicopter-crash.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/bergen-norway-helicopter-crash.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/bergen-norway-helicopter-crash.html?partner=rss&amp;emc=rss"/>
+      <description>The 13 people on board were en route from the Gullfaks B oil platform in the North Sea, and a land and sea search has recovered 11 bodies.</description>
+      <dc:creator>HENRIK PRYSER LIBELL and PALKO KARASZ</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:15:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Statoil ASA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bergen (Norway)</category>
+    </item>
+    <item>
+      <title>A New Generation&#x2019;s Anger Resounds From a Packed Plaza in Paris</title>
+      <link>http://www.nytimes.com/2016/04/30/world/europe/france-nuit-debout-protests-paris.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/europe/france-nuit-debout-protests-paris.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/europe/france-nuit-debout-protests-paris.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30France-web1/30France-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters at the Place de la R&#xE9;publique in Paris on Thursday, before clashes with the police broke out.</media:description>
+      <media:credit>Joel Saget/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Nuit Debout, a movement ignited over a plan to change French labor laws, has expanded to include a m&#xE9;lange of grievances, and politicians are warily watching.</description>
+      <dc:creator>ADAM NOSSITER</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:00:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>The Saturday Profile: Forging a Path for Women, Deep Into India&#x2019;s Sacred Shrines</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/forging-a-path-for-women-deep-into-indias-sacred-shrines.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/forging-a-path-for-women-deep-into-indias-sacred-shrines.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/forging-a-path-for-women-deep-into-indias-sacred-shrines.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30PROFILE/30PROFILE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;God doesn&#x2019;t discriminate between men and women, why should religion?&#x201D; <em class="bold">TRUPTI DESAI</em></media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Trupti Desai has emerged at the forefront of a growing campaign for gender equality in religion, leading women into the holy sanctums of temples, often in the face of attacks.</description>
+      <dc:creator>GEETA ANAND</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 13:30:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>U.S. Denounces Chinese Law Restricting Foreign Organizations</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/china-foreign-ngo-law.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/china-foreign-ngo-law.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/china-foreign-ngo-law.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30China-web/30China-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chinese officials in Beijing on Thursday before an announcement about new restrictions for foreign nongovernmental organizations.</media:description>
+      <media:credit>Fred Dufour/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Statements critical of the measure, which was passed on Thursday, reflected disappointment that China did not make more changes to previous drafts.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 12:36:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+    </item>
+    <item>
+      <title>Europe&#x2019;s Economy, After 8-Year Detour, Is Fitfully Back on Track</title>
+      <link>http://www.nytimes.com/2016/04/30/business/international/eurozone-economy-q1.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/business/international/eurozone-economy-q1.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/business/international/eurozone-economy-q1.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/business/30EUROECON/30EUROECON-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters demonstrated against unemployment in front of the Greek Parliament in Athens this month.</media:description>
+      <media:credit>Alkis Konstantinidis/Reuters</media:credit>
+      <description>The eurozone, the 19 countries that use the euro, has finally edged back above its precrisis level, but doubts persist about its prospects.</description>
+      <dc:creator>PETER S. GOODMAN</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 09:16:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Eurozone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+    </item>
+    <item>
+      <title>Refugee Held on Nauru Dies After Self-Immolation to Protest Australian Policy</title>
+      <link>http://www.nytimes.com/2016/04/30/world/australia/nauru-refugee-dies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/australia/nauru-refugee-dies.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/australia/nauru-refugee-dies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30AUSTRALIA-web5/30AUSTRALIA-web5-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People protesting Australia&#x2019;s offshore detention centers outside the offices of the Department of Immigration and Border Protection in Sydney, Australia, on Friday.</media:description>
+      <media:credit>David Gray/Reuters</media:credit>
+      <description>The man, a 23-year-old Iranian kept from Australia, was airlifted to a hospital there, where he died from his injuries, the immigration department said.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 15:33:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nauru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immolation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Building Collapses in Kenyan Capital, Killing at Least 10</title>
+      <link>http://www.nytimes.com/2016/05/01/world/africa/building-collapses-in-kenyan-capital-killing-at-least-10.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/africa/building-collapses-in-kenyan-capital-killing-at-least-10.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/africa/building-collapses-in-kenyan-capital-killing-at-least-10.html?partner=rss&amp;emc=rss"/>
+      <description>The collapse happened during heavy rains in Nairobi, and rescuers said they were searching for survivors trapped in the rubble.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 22:17:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+    </item>
+    <item>
+      <title>North Korea Sentences American to 10 Years for Spying, Reports Say</title>
+      <link>http://www.nytimes.com/2016/04/30/world/asia/north-korea-kim-dong-chul-sentence.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/world/asia/north-korea-kim-dong-chul-sentence.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/30/world/asia/north-korea-kim-dong-chul-sentence.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/30/world/30NORTHKOREA-web1/30NORTHKOREA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kim Dong-chul was escorted to his sentencing in Pyongyang, North Korea, on Friday. He had previously apologized for trying to steal military secrets in collusion with South Koreans.</media:description>
+      <media:credit>Kim Kwang Hyon/Associated Press</media:credit>
+      <description>Kim Dong-chul is the latest United States citizen to receive a harsh sentence in North Korea, which often uses the fates of held Americans as leverage.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 06:18:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Dong-chul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sentences (Criminal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+    </item>
+    <item>
+      <title>Opinion: A Mine vs. a Million Monarchs</title>
+      <link>http://www.nytimes.com/2016/05/01/opinion/sunday/in-a-poor-mexican-town-saving-butterflies-or-creating-jobs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/opinion/sunday/in-a-poor-mexican-town-saving-butterflies-or-creating-jobs.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/opinion/sunday/in-a-poor-mexican-town-saving-butterflies-or-creating-jobs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/opinion/sunday/01fagin/01fagin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Melody Newcomb</media:credit>
+      <description>A Mexican conglomerate wants to revive mining in a protected reserve for monarch butterflies.</description>
+      <dc:creator>DAN FAGIN</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 22:04:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Grupo Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Global Warming</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: The First Global Terrorists Were Anarchists in the 1890s</title>
+      <link>http://www.nytimes.com/2016/04/30/opinion/the-first-global-terrorists-were-anarchists-in-the-1890s.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/30/opinion/the-first-global-terrorists-were-anarchists-in-the-1890s.html</guid>
+      <media:content url="https://static01.nyt.com/images/2016/04/29/opinion/JasanoffINYT-1/JasanoffINYT-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The funeral of Martial Bourdin, as depicted in the French media.</media:description>
+      <media:credit>Alamy</media:credit>
+      <description>And then as now, migrants and civil liberties paid the price.</description>
+      <dc:creator>MAYA JASANOFF</dc:creator>
+      <pubDate>Fri, 29 Apr 2016 14:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: Afghan Women: What the West Gets Wrong</title>
+      <link>http://www.nytimes.com/2016/04/29/opinion/afghan-women-what-the-west-gets-wrong.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/29/opinion/afghan-women-what-the-west-gets-wrong.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/29/opinion/afghan-women-what-the-west-gets-wrong.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/29/opinion/29shah/29shah-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Adam Ferguson for The New York Times</media:credit>
+      <description>Defeating cruelty requires a homegrown agenda.</description>
+      <dc:creator>BINA SHAH</dc:creator>
+      <pubDate>Thu, 28 Apr 2016 13:49:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gul, Reza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+    </item>
+    <item>
+      <title>Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines</title>
+      <link>http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/19/nyregion/19PULITZERSinternationalreporting/19PULITZERSinternationalreporting-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alissa Rubin</media:description>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>Ms. Rubin has spent much of her career covering Iraq, Afghanistan and the Balkans.</description>
+      <dc:creator>MIKE McPHATE</dc:creator>
+      <pubDate>Tue, 19 Apr 2016 18:17:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubin, Alissa Johannsen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pulitzer Prizes</category>
+    </item>
+    <item>
+      <title>Lens Blog: Photography Pulitzer for Coverage of Refugee Crisis</title>
+      <link>http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/</guid>
+      <atom:link rel="standout" href="http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss"/>
+      <description>The New York Times and Thomson Reuters shared the Pulitzer Prize for breaking news photography for coverage of Europe&#x2019;s refugee crisis. Jessica Rinaldi of the Boston Globe won the feature photography prize for her story of a boy who endured abuse at the hands of those he trusted.</description>
+      <dc:creator>DAVID GONZALEZ and JAMES ESTRIN</dc:creator>
+      <pubDate>Thu, 28 Apr 2016 16:12:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Boston Globe</category>
+      <category domain="http://www.nytimes.com/namespaces/">Daniel Etter</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Furst</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Gonzalez</category>
+      <category domain="http://www.nytimes.com/namespaces/">Hicks, Tyler</category>
+      <category domain="http://www.nytimes.com/namespaces/">James Estrin</category>
+      <category domain="http://www.nytimes.com/namespaces/">Jessica Rinaldi</category>
+      <category domain="http://www.nytimes.com/namespaces/">Lima, Mauricio (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/">McNally, Michele</category>
+      <category domain="http://www.nytimes.com/namespaces/">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/">Ponomarev, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and displaced persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation|TRI|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Showcase</category>
+    </item>
+    <item>
+      <title>How ISIS Built the Machinery of Terror Under Europe&#x2019;s Gaze</title>
+      <link>http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/26/world/xxisisplotheader/xxisisplotheader-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Paris attacks left 130 dead in November, but a branch within the Islamic State was obsessed with striking Europe at least two years before then.</media:description>
+      <media:credit>Philippe Wojazer/Reuters</media:credit>
+      <description>Two years before the Paris and Brussels assaults, a special branch of the group was churning out smaller attacks that the authorities repeatedly discounted as isolated or random acts.</description>
+      <dc:creator>RUKMINI CALLIMACHI</dc:creator>
+      <pubDate>Tue, 05 Apr 2016 01:06:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brussels Attacks (March 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abaaoud, Abdelhamid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hame, Reda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">State of Terror (Series)</category>
+    </item>
+  </channel>
+</rss>

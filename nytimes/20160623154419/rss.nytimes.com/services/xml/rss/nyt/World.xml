@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 23 Jun 2016 15:32:43 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>E.U. Referendum: Britain Votes on Whether to Leave or Remain</title>
+      <link>http://www.nytimes.com/live/eu-referendum/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/live/eu-referendum/</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/live/eu-referendum/?partner=rss&amp;emc=rss"/>
+      <description>Britain decides today whether to leave or stay in the European Union. Follow along for updates and analysis.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 04:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Interpreter: Making Sense of &#x2018;Brexit&#x2019; in 4 Charts</title>
+      <link>http://www.nytimes.com/2016/06/24/world/europe/making-sense-of-brexit-in-4-charts.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/europe/making-sense-of-brexit-in-4-charts.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/europe/making-sense-of-brexit-in-4-charts.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/europe/brexitmap/brexitmap-moth.png" medium="image" height="151" width="151"/>
+      <media:description>Source: YouGov. This map based on YouGov&#x2019;s online polling shows support for leaving or remaining in the European Union in 188 areas of the country.</media:description>
+      <media:credit/>
+      <description>To grasp why some Britons favor remaining in the European Union and others want to leave, you need to grasp some deep divisions within the country.</description>
+      <dc:creator>AMANDA TAUB</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 09:00:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting and Voters</category>
+    </item>
+    <item>
+      <title>A Tour of Falluja Reveals Grim Remnants of Life Under ISIS</title>
+      <link>http://www.nytimes.com/2016/06/23/world/middleeast/a-tour-of-falluja-reveals-grim-remnants-of-life-under-isis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/middleeast/a-tour-of-falluja-reveals-grim-remnants-of-life-under-isis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/middleeast/a-tour-of-falluja-reveals-grim-remnants-of-life-under-isis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/middleeast/24falluja-web2/24falluja-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iraqi security forces looked at literature found on top of a small cage that the Islamic State used to hold prisoners in the Nazal district of Falluja, which was liberated this month.</media:description>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>Iraqi forces liberating the city are finding beheaded bodies, apocalyptic streetscapes and clumps of hair from fighters who shaved to blend in with fleeing civilians. Our reporter describes what he saw.</description>
+      <dc:creator>TIM ARANGO</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 13:01:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Falluja (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Badr Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sunni Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shiite Muslims</category>
+    </item>
+    <item>
+      <title>The Interpreter: The State Department&#x2019;s Dissent Memo on Syria: An Explanation</title>
+      <link>http://www.nytimes.com/2016/06/23/world/middleeast/syria-assad-obama-diplomats-memo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/middleeast/syria-assad-obama-diplomats-memo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/middleeast/syria-assad-obama-diplomats-memo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/22/world/22ANNOTATION-web1/22ANNOTATION-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Obama at a White House briefing on Aug. 20, 2012. It was during this briefing that Mr. Obama warned of consequences if President Bashar al-Assad of Syria crossed a &#x201C;red line.&#x201D;</media:description>
+      <media:credit>Luke Sharrett for The New York Times</media:credit>
+      <description>A memo issued last week that criticizes the Obama administration&#x2019;s Syria policy is written in language that can be difficult to parse. Here&#x2019;s what it means.</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 15:25:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">No-Fly Zones</category>
+    </item>
+    <item>
+      <title>Letter From Africa: Seeking to Define the Post-Mandela South Africa</title>
+      <link>http://www.nytimes.com/2016/06/24/world/africa/seeking-to-define-the-post-mandela-south-africa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/africa/seeking-to-define-the-post-mandela-south-africa.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/africa/seeking-to-define-the-post-mandela-south-africa.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24letter-web2/24letter-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Buses were set on fire and looters ransacked shops this week in the South African capital, Pretoria.</media:description>
+      <media:credit>Shiraaz Mohamed/Associated Press</media:credit>
+      <description>At a time of violence and political unrest, an opposition leader plays a long game against President Jacob Zuma and the African National Congress.</description>
+      <dc:creator>ALAN COWELL</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 15:13:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandela, Nelson</category>
+    </item>
+    <item>
+      <title>German Movie Theater Attack Said to Injure Dozens</title>
+      <link>http://www.nytimes.com/2016/06/24/world/europe/germany-movie-theater-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/europe/germany-movie-theater-attack.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/europe/germany-movie-theater-attack.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24germany-web/24germany-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers arrived outside a movie theater complex where an armed man reportedly opened fire on Thursday in Viernheim, Germany.</media:description>
+      <media:credit>Alexander Scheuber/Getty Images</media:credit>
+      <description>German news media said an assailant entered a theater in the western town of Viernheim, with unconfirmed accounts of at least 25 people hurt.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 15:03:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>FARC Rebels in Colombia Reach Cease-Fire Deal With Government</title>
+      <link>http://www.nytimes.com/2016/06/23/world/americas/colombia-farc-peace-deal-rebels-cease-fire-santos.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/americas/colombia-farc-peace-deal-rebels-cease-fire-santos.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/americas/colombia-farc-peace-deal-rebels-cease-fire-santos.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/world/23colombia-web/23colombia-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A FARC soldier during a trek through the jungle in March.</media:description>
+      <media:credit>Federico Rios Escobar for The New York Times</media:credit>
+      <description>The FARC rebels agreed to lay down their weapons in a conflict believed to have killed more than 200,000 people over half a century.</description>
+      <dc:creator>NICHOLAS CASEY</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 19:01:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, Juan Manuel</category>
+    </item>
+    <item>
+      <title>John Ashe, Ex-Diplomat Accused in U.N. Corruption Case, Dies at 61</title>
+      <link>http://www.nytimes.com/2016/06/23/world/americas/john-ashe-ex-diplomat-accused-in-un-corruption-case-dies-at-61.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/americas/john-ashe-ex-diplomat-accused-in-un-corruption-case-dies-at-61.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/americas/john-ashe-ex-diplomat-accused-in-un-corruption-case-dies-at-61.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/world/23ASHE/23ASHE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>John W. Ashe, a veteran diplomat from Antigua, served as president of the United Nations General Assembly from September 2013 until the next September.</media:description>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <description>Mr. Ashe, a former president of the General Assembly, was accused in a bribery scheme that involved more than $1 million in payments from sources in China.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 02:23:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John W. Ashe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+    </item>
+    <item>
+      <title>Amjad Sabri, Famed Sufi Singer, Is Gunned Down in Pakistan</title>
+      <link>http://www.nytimes.com/2016/06/23/world/asia/amjad-sabri-famed-sufi-singer-is-gunned-down-in-pakistan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/asia/amjad-sabri-famed-sufi-singer-is-gunned-down-in-pakistan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/asia/amjad-sabri-famed-sufi-singer-is-gunned-down-in-pakistan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/23PAKISTAN-web1/23PAKISTAN-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Onlookers and journalists gathering around the car driven by the singer Amjad Sabri, who was killed after unidentified gunmen fired into his car, in Karachi, Pakistan, on Wednesday.</media:description>
+      <media:credit>Akhtar Soomro/Reuters</media:credit>
+      <description>Mr. Sabri, a prominent singer of Sufi devotional songs, had been named in a blasphemy case, and a wing of the Pakistani Taliban made an unconfirmed claim of responsibility in the killing.</description>
+      <dc:creator>ZIA ur-REHMAN and SALMAN MASOOD</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 20:42:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sufism (Religion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amjad Sabri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karachi (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Muttahida Qaumi Movement</category>
+    </item>
+    <item>
+      <title>Lightning in India Kills More Than 70, Mostly Farmworkers</title>
+      <link>http://www.nytimes.com/2016/06/23/world/asia/india-lightning-deaths-bihar-monsoon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/asia/india-lightning-deaths-bihar-monsoon.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/asia/india-lightning-deaths-bihar-monsoon.html?partner=rss&amp;emc=rss"/>
+      <description>Lightning strikes that punctuated the monsoon season&#x2019;s inaugural heavy rains left scores of farmers and others dead in the country&#x2019;s northeast.</description>
+      <dc:creator>SUHASINI RAJ</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 22:02:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bihar (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jharkhand (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uttar Pradesh State (India)</category>
+    </item>
+    <item>
+      <title>North Korea&#x2019;s Successful Missile Test Shows Program&#x2019;s Progress, Analysts Say</title>
+      <link>http://www.nytimes.com/2016/06/23/world/asia/north-korea-missile-test.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/asia/north-korea-missile-test.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/asia/north-korea-missile-test.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/world/23nkorea-web1/23nkorea-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Japan Self-Defense Forces set up a missile unit to be deployed in case of a North Korean rocket launch in Tokyo on Tuesday.</media:description>
+      <media:credit>Shizuo Kambayashi/Associated Press</media:credit>
+      <description>The Musudan ballistic missile&#x2019;s launch was a success, state media said, quoting Kim Jong-un as boasting that North Korea could strike United States forces in the Pacific.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 03:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+    </item>
+    <item>
+      <title>Voting Again, Spain Faces Threat to Two-Party System</title>
+      <link>http://www.nytimes.com/2016/06/24/world/europe/voting-again-spain-faces-threat-to-two-party-system.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/europe/voting-again-spain-faces-threat-to-two-party-system.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/europe/voting-again-spain-faces-threat-to-two-party-system.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24spain-web1/24spain-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Supporters of Prime Minister Mariano Rajoy, the candidate of the conservative Popular Party, in M&#xE1;laga, Spain, this week. The country will hold new elections on Sunday, the second vote in six months.</media:description>
+      <media:credit>Jon Nazca/Reuters</media:credit>
+      <description>Despite cooperation in city and regional politics, parties have resisted forming coalitions after inconclusive national voting and the rise of new parties like Podemos.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 13:30:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Podemos (Spanish Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Popular Party (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Spanish Socialist Workers' Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+    </item>
+    <item>
+      <title>Christo&#x2019;s &#x2018;Floating Piers&#x2019; to Close at Night for Repairs</title>
+      <link>http://www.nytimes.com/2016/06/24/arts/design/christos-floating-piers-to-close-at-night-for-repairs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/arts/design/christos-floating-piers-to-close-at-night-for-repairs.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/arts/design/christos-floating-piers-to-close-at-night-for-repairs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/arts/24CHRISTOitem/24CHRISTOitem-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Visitors last weekend at Christo&#x2019;s &#x201C;The Floating Piers,&#x201D; which joins islands and the mainland on Lake Iseo, Italy. The installation runs until July 3.</media:description>
+      <media:credit>Marco Bertorello/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The installation on Lake Iseo in Northern Italy has drawn over 350,000 visitors, wearing out the walkway&#x2019;s fabric and straining local infrastructure.</description>
+      <dc:creator>ELISABETTA POVOLEDO</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 12:53:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Floating Piers (Exhibit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Iseo (Italy)</category>
+    </item>
+    <item>
+      <title>Sinosphere: China Vows to Replace &#x2018;Poisonous&#x2019; Running Tracks at Schools</title>
+      <link>http://www.nytimes.com/2016/06/24/world/asia/china-running-tracks-poison-toxic.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/asia/china-running-tracks-poison-toxic.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/asia/china-running-tracks-poison-toxic.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24chinatrack/24chinatrack-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A sports field at a primary school in Beijing. The Ministry of Education has said running tracks will be inspected and, if found to contain toxic materials, replaced.</media:description>
+      <media:credit>How Hwee Young/European Pressphoto Agency</media:credit>
+      <description>The tracks, made of industrial waste, have reportedly sickened thousands of children in a country already troubled by environmental hazards.</description>
+      <dc:creator>OWEN GUO</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 11:09:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Running tracks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Schools</category>
+    </item>
+    <item>
+      <title>Hong Kong Lawmaker &#x2018;Long Hair&#x2019; Is Arrested Over Donation</title>
+      <link>http://www.nytimes.com/2016/06/24/world/asia/hong-kong-long-hair-jimmy-lai.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/asia/hong-kong-long-hair-jimmy-lai.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/asia/hong-kong-long-hair-jimmy-lai.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24longhair/24longhair-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Leung Kwok-hung, center, a lawmaker, was a central figure in the pro-democracy Occupy Central protests that began in late 2014.</media:description>
+      <media:credit>Anthony Wallace/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Regulators accused Mr. Leung Kwok-hung of concealing from the city&#x2019;s legislature a payment of $32,000.</description>
+      <dc:creator>AMIE TSANG and PATRICK BOEHLER</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 09:23:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leung Kwok-hung (Long Hair)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lai Chee-ying (Jimmy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Independent Commission Against Corruption (Hong Kong)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Rescue Flight Evacuates 2 Sick Workers From the South Pole</title>
+      <link>http://www.nytimes.com/2016/06/24/world/antarctica-south-pole-rescue-chile.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/antarctica-south-pole-rescue-chile.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/antarctica-south-pole-rescue-chile.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/24ANTARCTICA-web1/23ANTARCTICA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A rescue plane picking up two sick workers at the Amundsen-Scott South Pole Station, operated by the National Science Foundation.</media:description>
+      <media:credit>Robert Schwarz/National Science Foundation, via Associated Press</media:credit>
+      <description>The plane took the patients to Chile, the National Science Foundation said, without giving details of their medical conditions.</description>
+      <dc:creator>CHRISTOPHER MELE and AUSTIN RAMZY</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 05:58:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Science Foundation</category>
+    </item>
+    <item>
+      <title>Saudis Question U.N. Leader Over Report on Rights Violators</title>
+      <link>http://www.nytimes.com/2016/06/23/us/saudis-question-un-leader-over-report-on-rights-violators.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/us/saudis-question-un-leader-over-report-on-rights-violators.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/us/saudis-question-un-leader-over-report-on-rights-violators.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/world/23NATIONS-web1/23NATIONS-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The deputy crown prince of Saudi Arabia, Mohammed bin Salman, with the secretary general of the United Nations, Ban Ki-moon, at the headquarters of the United Nations in New York on Wednesday. The prince arrived 45 minutes late, delaying Mr. Ban&#x2019;s schedule for the rest of the day.</media:description>
+      <media:credit>Lucas Jackson/Reuters</media:credit>
+      <description>The United Nations secretary general had initially listed the Saudi-led coalition in Yemen among the armies accused of killing children in 2015, before taking it off.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 00:59:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ban Ki-moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riyadh (Saudi Arabia)</category>
+    </item>
+    <item>
+      <title>Abortion Pill Orders Rise in 7 Latin American Nations on Zika Alert</title>
+      <link>http://www.nytimes.com/2016/06/23/health/zika-virus-abortion-pill-latin-america.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/health/zika-virus-abortion-pill-latin-america.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/health/zika-virus-abortion-pill-latin-america.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/science/23ZIKAABORTION/23ZIKAABORTION-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mifepristone, also known as RU 486, is a pill that induces an abortion. It is one the medications sold to Latin America women by Women on Web.</media:description>
+      <media:credit>James Worrell/Time &amp; Life Pictures/Getty Images</media:credit>
+      <description>Orders rose from 36 to 76 percent in nations where the disease is causing babies to be born with tiny heads and damaged brains, a new study says.</description>
+      <dc:creator>DONALD G. McNEIL Jr. and PAM BELLUCK</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 21:00:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zika Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Abortion Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New England Journal of Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Women on Web</category>
+    </item>
+    <item>
+      <title>Maharashtra State in India Grants Jews Minority Status</title>
+      <link>http://www.nytimes.com/2016/06/23/world/asia/jews-maharashtra-state-india.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/asia/jews-maharashtra-state-india.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/asia/jews-maharashtra-state-india.html?partner=rss&amp;emc=rss"/>
+      <description>Maharashtra, which is home to an estimated 3,000 of India&#x2019;s 4,500 Jews, approved the application for official recognition.</description>
+      <dc:creator>AYESHA VENKATARAMAN</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 20:32:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Samuel, Judah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sopher, Solomon</category>
+    </item>
+    <item>
+      <title>&#x2018;Brexit&#x2019; Debate Even Divides Cats (and Dogs) on Twitter</title>
+      <link>http://www.nytimes.com/2016/06/23/world/europe/on-twitter-even-cats-and-dogs-are-divided-over-brexit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/europe/on-twitter-even-cats-and-dogs-are-divided-over-brexit.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/europe/on-twitter-even-cats-and-dogs-are-divided-over-brexit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/22/world/22xp-catsbrexit2/22xp-catsbrexit2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Where does Grumpy Cat fall in the debate over Britain leaving the European Union? The pets of Twitter are divided.</media:description>
+      <media:credit>Christian Petersen/Getty Images</media:credit>
+      <description>#CatsAgainstBrexit, #CatsForBrexit and other pet hashtags have started to appear as Twitter users inject some humor into the European Union debate.</description>
+      <dc:creator>ILIANA MAGRA and CHRISTOPHER MELE</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 18:45:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Brexit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+    </item>
+    <item>
+      <title>Juchit&#xE1;n de Zaragoza Journal: Bathroom Debate Complicates Mexican Town&#x2019;s Acceptance of a Third Gender</title>
+      <link>http://www.nytimes.com/2016/06/23/world/americas/mexico-muxes-bathroom-debate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/americas/mexico-muxes-bathroom-debate.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/americas/mexico-muxes-bathroom-debate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/18/world/americas/18oaxaca_SS-slide-K47M/18oaxaca_SS-slide-K47M-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ms. Mendez at home, altering a traditional Oaxacan shirt. Muxes dress as men or women, and tend to be feminine in their manners and the way they express themselves in the Zapotec language, experts say.</media:description>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <description>A push for transgender bathroom rights is unsettling the Zapotecs of southern Oaxaca, despite their long embrace of a third gender.</description>
+      <dc:creator>VICTORIA BURNETT</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 13:30:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Juchitan de Zaragoza (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bathrooms and Toilets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oaxaca (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Refugee Who Walked Through Channel Tunnel Pleads Guilty but Is Freed</title>
+      <link>http://www.nytimes.com/2016/06/23/world/europe/abdul-haroun-channel-tunnel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/europe/abdul-haroun-channel-tunnel.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/europe/abdul-haroun-channel-tunnel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/world/23tunnel-web1/23tunnel-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Abdul Rahman Haroun, a Sudanese refugee, braved speeding trains to walk 31 miles through the Channel Tunnel last summer.</media:description>
+      <media:credit>Stefan Wermuth/Reuters</media:credit>
+      <description>Abdul Haroun, a Sudanese refugee, was sentenced to nine months in prison but was allowed to walk free because of the time he had already spent incarcerated.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 13:04:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Eurotunnel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calais (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Channel Tunnel</category>
+    </item>
+    <item>
+      <title>Rory McIlroy Says He Won&#x2019;t Attend Olympics Over Zika Concerns</title>
+      <link>http://www.nytimes.com/2016/06/23/sports/golf/rory-mcilroy-olympics-zika.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/sports/golf/rory-mcilroy-olympics-zika.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/sports/golf/rory-mcilroy-olympics-zika.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/09/sports/23xp-mcilroy/09MASTERS2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;Even though the risk of infection from the Zika virus is considered low, it is a risk, nonetheless, and a risk I am unwilling to take,&#x201D; the golfer Rory McIlroy said in a statement.</media:description>
+      <media:credit>Kevin C. Cox/Getty Images</media:credit>
+      <description>The decision makes the golfer one of the highest-profile athletes to withdraw over the health scare.</description>
+      <dc:creator>KAREN CROUSE</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 20:35:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rory Mcilroy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zika Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+    </item>
+    <item>
+      <title>Jaguar Shot Dead After Olympic Torch Event in Brazil</title>
+      <link>http://www.nytimes.com/2016/06/23/world/americas/jaguar-brazil-olympics-shot.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/americas/jaguar-brazil-olympics-shot.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/americas/jaguar-brazil-olympics-shot.html?partner=rss&amp;emc=rss"/>
+      <description>The animal, who had apparently escaped a zoo enclosure, was shot after she moved toward a soldier, the military said.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 10:20:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jaguars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manaus (Brazil)</category>
+    </item>
+    <item>
+      <title>Rescue Flight Lands at South Pole to Evacuate Sick Worker</title>
+      <link>http://www.nytimes.com/2016/06/23/world/antarctica-south-pole-rescue.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/antarctica-south-pole-rescue.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/antarctica-south-pole-rescue.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/world/22ANTARCTICA-web1/22ANTARCTICA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Amundsen-Scott South Pole Station in 2002. The National Science Foundation, citing medical privacy, did not disclose the identity of the sick worker at the station or that person&#x2019;s condition.</media:description>
+      <media:credit>David McCarthy/National Science Foundation, via Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The plane, which used skis to land on the snow and ice, was to remain at a station for about 10 hours, the National Science Foundation said.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 07:48:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Pole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Science Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+    </item>
+    <item>
+      <title>What in the World: Will Ersatz Dollars Satisfy Cash-Starved Zimbabweans?</title>
+      <link>http://www.nytimes.com/2016/06/24/world/what-in-the-world/will-ersatz-dollars-satisfy-cash-starved-zimbabweans.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/world/what-in-the-world/will-ersatz-dollars-satisfy-cash-starved-zimbabweans.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/24/world/what-in-the-world/will-ersatz-dollars-satisfy-cash-starved-zimbabweans.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/09/world/what-in-the-world/wit_zimbabwe-notes/wit_zimbabwe-notes-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The old Zimbabwean dollar, which the government printed without restraint a decade ago.</media:description>
+      <media:credit>Philimon Bulawayo/Reuters</media:credit>
+      <description>Zimbabwe has been using the United States dollar as its currency, but those dollars have all but disappeared. Now the central bank is introducing replacement notes.</description>
+      <dc:creator>NORIMITSU ONISHI</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 09:00:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zimbabwe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mugabe, Robert</category>
+    </item>
+    <item>
+      <title>What in the World: A New Verb in Mexico: Trumpear (From &#x2018;to Punch&#x2019;)</title>
+      <link>http://www.nytimes.com/2016/06/23/world/what-in-the-world/a-new-verb-in-mexico-trumpear-from-to-punch.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/world/what-in-the-world/a-new-verb-in-mexico-trumpear-from-to-punch.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/world/what-in-the-world/a-new-verb-in-mexico-trumpear-from-to-punch.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/09/world/what-in-the-world/00wit_mexico-trump/00wit_mexico-trump-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Alvaro Dominguez; photographs by MaraZe and Joseph Sohm/Shutterstock</media:credit>
+      <description>Responding to remarks by Donald J. Trump, Mexicans are using satire, games, caricatures and other forms of ridicule to express anger and national pride.</description>
+      <dc:creator>ELI ROSENBERG</dc:creator>
+      <pubDate>Wed, 22 Jun 2016 09:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>What in the World: Dog Meat and Lychees: A Pairing Meant to Make You Feel Warm Inside</title>
+      <link>http://www.nytimes.com/2016/06/22/world/what-in-the-world/china-dog-meat-yulin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/22/world/what-in-the-world/china-dog-meat-yulin.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/22/world/what-in-the-world/china-dog-meat-yulin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/20/world/what-in-the-world/00wit_dogmeat/00wit_dogmeat-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Antonio de Luca; Photos by Eric Isselee and Eak Moto/shutterstock</media:credit>
+      <description>At a festival in southern China that dog lovers condemn, the food pairing is all about energy, balance and fighting heat with heat.</description>
+      <dc:creator>AMY QIN</dc:creator>
+      <pubDate>Tue, 21 Jun 2016 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yulin (China)</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: It's Bad in Eritrea, but Not That Bad</title>
+      <link>http://www.nytimes.com/2016/06/24/opinion/its-bad-in-eritrea-but-not-that-bad.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/24/opinion/its-bad-in-eritrea-but-not-that-bad.html</guid>
+      <media:content url="https://static01.nyt.com/images/2016/06/24/opinion/24brutonWeb/24brutonWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eritrean citizens in Switzerland protesting a recent U.N. report that accused Eritrean leaders of committing crimes against humanity.</media:description>
+      <media:credit>Salvatore Di Nolfi/European Pressphoto Agency</media:credit>
+      <description>A shrill and shoddy U.N. report about human rights abuses in Eritrea may only worsen the repression.</description>
+      <dc:creator>BRONWYN BRUTON</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 13:28:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Criminal Court</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: The World&#x2019;s Disappearing Sand</title>
+      <link>http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/23/opinion/the-worlds-disappearing-sand.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/23/opinion/23beiser/23beiser-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sally Deng</media:credit>
+      <description>Extracting the stuff is a $70 billion industry, but it can inflict terrible costs on the environment.</description>
+      <dc:creator>VINCE BEISER</dc:creator>
+      <pubDate>Thu, 23 Jun 2016 07:21:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sand and Gravel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations Environment Program</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Concrete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: R.I.P., Jo Cox. May Britain Remember Your Wisdom.</title>
+      <link>http://www.nytimes.com/2016/06/20/opinion/rip-jo-cox-may-britain-remember-your-wisdom.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/20/opinion/rip-jo-cox-may-britain-remember-your-wisdom.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/20/opinion/rip-jo-cox-may-britain-remember-your-wisdom.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/21/opinion/21Kristof-web/21Kristof-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A wall of tributes in London on Monday for Jo Cox, a member of Britain&#x2019;s Parliament who was murdered last week.</media:description>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <description>A united Europe would be a fitting legacy for a woman no longer able to influence the world in other ways.</description>
+      <dc:creator>NICHOLAS KRISTOF</dc:creator>
+      <pubDate>Tue, 21 Jun 2016 07:21:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cox, Jo (1974-2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tusk, Donald</category>
+    </item>
+    <item>
+      <title>Q. and A.: Ramadan Is Here. What Islam&#x2019;s Holiest Month Is About.</title>
+      <link>http://www.nytimes.com/2016/06/06/world/middleeast/islam-ramadan-2016.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/06/06/world/middleeast/islam-ramadan-2016.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/06/06/world/middleeast/islam-ramadan-2016.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/06/06/world/06ramadanqa-1/06ramadanqa-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Muslims praying Sunday in Bali, Indonesia, on the eve of Ramadan.</media:description>
+      <media:credit>Firdia Lisnawati/Associated Press</media:credit>
+      <description>A professor who specializes in Islamic studies and Middle Eastern history explains the practices and meaning of Ramadan.</description>
+      <dc:creator>BRYANT ROUSSEAU</dc:creator>
+      <pubDate>Mon, 06 Jun 2016 02:38:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ramadan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kamaly, Hossein</category>
+    </item>
+    <item>
+      <title>Not Forgotten: Inside The Times Archives</title>
+      <link>http://www.nytimes.com/interactive/projects/cp/obituaries/archives?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/interactive/projects/cp/obituaries/archives</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/interactive/projects/cp/obituaries/archives?partner=rss&amp;emc=rss"/>
+      <description>Since 1851, more than 200,000 people have been the subjects of obituaries in The New York Times. Join us each day this summer as we revisit many of these memorable lives.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Wed, 01 Jun 2016 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines</title>
+      <link>http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/19/nyregion/19PULITZERSinternationalreporting/19PULITZERSinternationalreporting-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alissa Rubin</media:description>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>Ms. Rubin has spent much of her career covering Iraq, Afghanistan and the Balkans.</description>
+      <dc:creator>MIKE McPHATE</dc:creator>
+      <pubDate>Tue, 19 Apr 2016 18:17:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubin, Alissa Johannsen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pulitzer Prizes</category>
+    </item>
+    <item>
+      <title>Lens Blog: Photography Pulitzer for Coverage of Refugee Crisis</title>
+      <link>http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/</guid>
+      <atom:link rel="standout" href="http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss"/>
+      <description>The New York Times and Thomson Reuters shared the Pulitzer Prize for breaking news photography for coverage of Europe&#x2019;s refugee crisis. Jessica Rinaldi of the Boston Globe won the feature photography prize for her story of a boy who endured abuse at the hands of those he trusted.</description>
+      <dc:creator>DAVID GONZALEZ and JAMES ESTRIN</dc:creator>
+      <pubDate>Thu, 28 Apr 2016 16:12:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Boston Globe</category>
+      <category domain="http://www.nytimes.com/namespaces/">Daniel Etter</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Furst</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Gonzalez</category>
+      <category domain="http://www.nytimes.com/namespaces/">Hicks, Tyler</category>
+      <category domain="http://www.nytimes.com/namespaces/">James Estrin</category>
+      <category domain="http://www.nytimes.com/namespaces/">Jessica Rinaldi</category>
+      <category domain="http://www.nytimes.com/namespaces/">Lima, Mauricio (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/">McNally, Michele</category>
+      <category domain="http://www.nytimes.com/namespaces/">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/">Ponomarev, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and displaced persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation|TRI|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Showcase</category>
+    </item>
+  </channel>
+</rss>

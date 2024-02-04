@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 17 May 2021 09:29:58 +0000</lastBuildDate>
+    <pubDate>Mon, 17 May 2021 09:29:58 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Live Updates: Israeli Airstrikes Target Gaza as Conflict Rages On</title>
+      <link>https://www.nytimes.com/live/2021/05/17/world/israel-gaza-updates/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2021/05/17/world/israel-gaza-updates/</guid>
+      <atom:link href="https://www.nytimes.com/live/2021/05/17/world/israel-gaza-updates/" rel="standout"></atom:link>
+      <description>Diplomatic efforts have stalled, with Prime Minister Benjamin Netanyahu of Israel saying it “will take some time” to “restore order and quiet.”</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:28:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/17/lens/17israel-gaza-briefing-lede2/17israel-gaza-briefing-lede2-moth.jpg" width="151"></media:content>
+      <media:credit>Mahmud Hams/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli warplanes targeted Gaza City on Monday morning.</media:description>
+    </item>
+    <item>
+      <title>India&#39;s Black Market Preys on Desperate Covid-19 Victims</title>
+      <link>https://www.nytimes.com/2021/05/16/world/asia/india-covid19-black-market.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/asia/india-covid19-black-market.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/asia/india-covid19-black-market.html" rel="standout"></atom:link>
+      <description>As the health care system fails, clandestine markets have emerged for drugs, oxygen, hospital beds and funeral services. Fake goods may be putting lives at risk.</description>
+      <dc:creator>Hari Kumar and Jeffrey Gettleman</dc:creator>
+      <pubDate>Sun, 16 May 2021 21:39:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remdesivir (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Price Gouging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oxygen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uttar Pradesh State (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/10/world/00virus-india-blackmarket-1/00virus-india-blackmarket-1-moth.jpg" width="151"></media:content>
+      <media:credit>Atul Loke for The New York Times</media:credit>
+      <media:description>Unloading oxygen canisters, a precious commodity in India, at a New Delhi hospital this month.</media:description>
+    </item>
+    <item>
+      <title>Israel and Hamas Fighting Raises Questions about War Crimes</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-hamas-civilian-casualties.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-hamas-civilian-casualties.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-hamas-civilian-casualties.html" rel="standout"></atom:link>
+      <description>Civilian deaths on both sides raise urgent questions about which military actions are legal, what war crimes are being committed and who, if anyone, will be held to account.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Sun, 16 May 2021 21:10:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16israel-civilians1/16israel-civilians1-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>A Palestinian boy in front of the ruins  of his house in Gaza City on Friday after it was destroyed in an Israeli airstrike.</media:description>
+    </item>
+    <item>
+      <title>A Scratched Hint of Ancient Ties Stirs National Furies in Europe</title>
+      <link>https://www.nytimes.com/2021/05/16/world/europe/czech-germans-slavs-archaeology-bone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/europe/czech-germans-slavs-archaeology-bone.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/europe/czech-germans-slavs-archaeology-bone.html" rel="standout"></atom:link>
+      <description>Czech archaeologists say marks found on a cattle bone are sixth-century Germanic runes, in a Slavic settlement. The find has provoked an academic and nationalist brawl.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sun, 16 May 2021 14:40:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/13/world/xxczech-archaelogy01/xxczech-archaelogy01-moth.jpg" width="151"></media:content>
+      <media:credit>Akos Stiller for The New York Times</media:credit>
+      <media:description>An archaeological excavation in the Czech Republic at Lany, near the border with Austria, a few yards from where a bone scratched with Germanic runes was found. </media:description>
+    </item>
+    <item>
+      <title>Tel Aviv, Israel’s Bustling Financial Hub, Shaken as Rockets Rain Down</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/israel-tel-aviv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/israel-tel-aviv.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/israel-tel-aviv.html" rel="standout"></atom:link>
+      <description>The largely liberal, secular beachside city has a reputation for being a hedonistic bubble. But during the past week, Tel Aviv has been targeted by at least 160 rockets.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sun, 16 May 2021 23:42:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16TEL-AVIV-LEDE/16TEL-AVIV-LEDE-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Gideon Markowicz/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Beachgoers run toward shelters in Tel Aviv on Saturday after rockets were fired from Gaza.</media:description>
+    </item>
+    <item>
+      <title>Covid Is Killing Young Children in Brazil, Baffling Doctors</title>
+      <link>https://www.nytimes.com/2021/05/16/world/americas/brazil-covid-child-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/americas/brazil-covid-child-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/americas/brazil-covid-child-deaths.html" rel="standout"></atom:link>
+      <description>Experts believe Brazil’s overloaded hospital system and uneven access to health care are among the reasons babies and small children are succumbing to the virus at a high rate.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Sun, 16 May 2021 14:12:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pediatric Inflammatory Multisystem Syndrome (PIMS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/12/world/xxvirus-brazil-children1/xxvirus-brazil-children1-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Ariani Roque Marinheiro at her home last month in Maringá, Brazil. Her daughter, Letícia, a toddler, died in February from Covid-19.</media:description>
+    </item>
+    <item>
+      <title>Far-Right Leader Rebrands for France&#39;s Presidential Election</title>
+      <link>https://www.nytimes.com/2021/05/16/world/europe/france-le-pen-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/europe/france-le-pen-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/europe/france-le-pen-election.html" rel="standout"></atom:link>
+      <description>Marine Le Pen, the far-right leader and main challenger to President Emmanuel Macron in next year’s election, wants to persuade voters that she and her party can govern France.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Sun, 16 May 2021 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Jean-Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Front (France)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/13/world/xxfrance-lepen01/merlin_187644354_8637a4e6-9093-45a4-838e-944d3ad9ebdc-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>The far-right leader Marine Le Pen posing next to a statue of Marianne, symbol of the French republic.</media:description>
+    </item>
+    <item>
+      <title>Tens of Thousands Evacuated in India Ahead of Cyclone Tauktae</title>
+      <link>https://www.nytimes.com/2021/05/16/world/asia/India-cyclone-tauktae.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/asia/India-cyclone-tauktae.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/asia/India-cyclone-tauktae.html" rel="standout"></atom:link>
+      <description>The cyclone is expected to make landfall on India’s northwest state of Gujarat on Sunday evening.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Sun, 16 May 2021 23:57:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gujarat State (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16india-cyclone1/16india-cyclone1-moth.jpg" width="151"></media:content>
+      <media:credit>Indranil Mukherjee/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Fishermen secure their boats in a village near Mumbai on Sunday, ahead of Cyclone Tauktae. </media:description>
+    </item>
+    <item>
+      <title>Grief Mounts as Efforts to Ease Israel-Hamas Fight Falter</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/grief-mounts-as-efforts-to-ease-israel-hamas-fight-falter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/grief-mounts-as-efforts-to-ease-israel-hamas-fight-falter.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/grief-mounts-as-efforts-to-ease-israel-hamas-fight-falter.html" rel="standout"></atom:link>
+      <description>The diplomatic wrangling came as at least 42 Palestinians were killed early Sunday in an airstrike in Gaza City, the deadliest episode in the recent bloodshed.</description>
+      <dc:creator>Iyad Abuheweila and Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 17 May 2021 05:44:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas-Greenfield, Linda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16GAZA1/16GAZA1-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>A Palestinian man who survived an Israeli airstrike in Gaza on Sunday mourned the loss of his wife and three children.</media:description>
+    </item>
+    <item>
+      <title>Glimpses of a Deserted Soviet Mining Town, Preserved in the High Arctic</title>
+      <link>https://www.nytimes.com/2021/05/17/travel/pyramiden-svalbard-mining-town.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/17/travel/pyramiden-svalbard-mining-town.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/17/travel/pyramiden-svalbard-mining-town.html" rel="standout"></atom:link>
+      <description>On the remote archipelago of Svalbard, a slowly decaying settlement offers visitors an intimate look at the not-so-distant past.</description>
+      <dc:creator>Jamie Lafferty</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polar Bears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Svalbard and Jan Mayen (Norway)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/17/travel/17travel-svalbard-promo-1/merlin_185447268_4d8a1988-98f9-4238-983c-24ee38d933f8-moth.jpg" width="151"></media:content>
+      <media:credit>Jamie Lafferty</media:credit>
+      <media:description>The dusty entrance to Pyramiden’s chemical plant.</media:description>
+    </item>
+    <item>
+      <title>In Taliban-Controlled Areas, Girls Are Fleeing for One Thing: an Education</title>
+      <link>https://www.nytimes.com/2021/05/17/world/asia/afghanistan-taliban-girls-school.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/17/world/asia/afghanistan-taliban-girls-school.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/17/world/asia/afghanistan-taliban-girls-school.html" rel="standout"></atom:link>
+      <description>Two districts in Afghanistan’s northwest offer a glimpse into life under the Taliban, who have completely cut off education for teenage girls.</description>
+      <pubDate>Mon, 17 May 2021 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dostum, Abdul Rashid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jowzjan Province (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/00afghanistan-schools-PROMO/00afghanistan-schools-moth.jpg" width="151"></media:content>
+      <media:credit>Kiana Hayeri for The New York Times</media:credit>
+      <media:description>Female high school students inside Marshal Dostum School, where over two dozen girls from Darzab and Qosh Tepa districts study.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/05/16/briefing/17ambriefing-israel-gaza-airstrikes-netanyahu-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/briefing/17ambriefing-israel-gaza-airstrikes-netanyahu-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/briefing/17ambriefing-israel-gaza-airstrikes-netanyahu-coronavirus.html" rel="standout"></atom:link>
+      <description>Deaths surpass 200 in Israel-Gaza crisis.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 16 May 2021 21:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/17/multimedia/17ambriefing-aus-NL-PROMO/merlin_187784904_95087bea-9e40-4cf8-968e-19c2a8fa5b37-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>A bomb hits the Jala Tower during an Israeli airstrike in Gaza city May 15, 2021</media:description>
+    </item>
+    <item>
+      <title>Unvaccinated People Are Most at Risk by Unmasking, C.D.C. Director Says</title>
+      <link>https://www.nytimes.com/2021/05/16/world/cdc-director-unvaccinated-masks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/cdc-director-unvaccinated-masks.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/cdc-director-unvaccinated-masks.html" rel="standout"></atom:link>
+      <description>In a round of Sunday morning news, Dr. Rochelle P. Walensky sought to quell the public confusion over her agency’s new masking guidance.</description>
+      <dc:creator>Matt Richtel, Mitch Smith and Christina Morales</dc:creator>
+      <pubDate>Mon, 17 May 2021 01:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walensky, Rochelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fox News Sunday (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Meet the Press (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16virus-briefing-walensky1/16virus-briefing-walensky1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Greg Nash</media:credit>
+      <media:description>Dr. Rochelle P. Walensky during a Senate Health, Education, Labor and Pensions Committee hearing last week.</media:description>
+    </item>
+    <item>
+      <title>Bleachers collapsed inside a crowded synagogue, injuring more than 100.</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/synagogue-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/synagogue-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/synagogue-collapse.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Gabby Sobelman</dc:creator>
+      <pubDate>Sun, 16 May 2021 21:04:38 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16israel-gaza-briefing-collapse/16israel-gaza-briefing-collapse-moth.jpg" width="151"></media:content>
+      <media:credit>Gil Cohen-Magen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ultra-Orthodox Jewish men and children gathering at the scene where a grandstand seating at a synagogue collapsed in the West Bank settlement of Givat Zeev on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu says there is no clear end in sight, and airstrikes begin again.</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/netanyahu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/netanyahu.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/netanyahu.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Will Wright</dc:creator>
+      <pubDate>Mon, 17 May 2021 04:49:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/lens/16israel-gaza-briefing-face-the-nation2/16israel-gaza-briefing-face-the-nation2-moth.jpg" width="151"></media:content>
+      <media:credit>Fatima Shbair/Getty Images</media:credit>
+      <media:description>Palestinian civil defense men search for people in the rubble of a destroyed building after an Israeli air strike in Gaza City on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Israel Carried Out Deadly Airstrike on Gaza</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/israel-airstrikes-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/israel-airstrikes-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/israel-airstrikes-gaza.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Sun, 16 May 2021 21:08:00 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16israel-gaza-briefing-airstrikes/16israel-gaza-briefing-airstrikes-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>A building on fire in Gaza City following an Israeli airstrike overnight.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Gaza Strikes May Cause Covid Surge, U.N. Warns</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-covid-vaccines-un.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-covid-vaccines-un.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-covid-vaccines-un.html" rel="standout"></atom:link>
+      <description>The officials see the possibility of the virus spreading among unvaccinated Gazans cramming into shelters during Israeli airstrikes.</description>
+      <dc:creator>Rick Gladstone</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:08:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14israel-gaza-briefing-vac/14israel-gaza-briefing-vac-moth.jpg" width="151"></media:content>
+      <media:credit>Mohammed Salem/Reuters</media:credit>
+      <media:description>A staff member of the World Health Organization receives a Covid vaccine in March in Gaza City.</media:description>
+    </item>
+    <item>
+      <title>In pictures: A wave of violence grips the Middle East.</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/in-pictures-a-wave-of-violence-grips-the-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/in-pictures-a-wave-of-violence-grips-the-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/in-pictures-a-wave-of-violence-grips-the-middle-east.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Sun, 16 May 2021 09:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>In pictures: Fire and thunder fill the night sky as Israel’s Iron Dome is tested.</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/iron-dome-pictures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/iron-dome-pictures.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/iron-dome-pictures.html" rel="standout"></atom:link>
+      <description>The system that protects Israeli cities has had to intercept a barrage of rockets over the past week.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Mon, 17 May 2021 07:57:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/world/16israel-gaza-briefing-pictures-iron-dome1/16israel-gaza-briefing-pictures-iron-dome1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Anas Baba/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Israel&#39;s Strike on Media Building in Gaza Provokes Outrage</title>
+      <link>https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-associated-press.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-associated-press.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/16/world/middleeast/israel-gaza-associated-press.html" rel="standout"></atom:link>
+      <description>Media groups demand explanations after Israeli forces destroyed the high-rise that housed the offices of The Associated Press and other news outlets.</description>
+      <dc:creator>Patrick Kingsley, Vivian Yee and Shashank Bengali</dc:creator>
+      <pubDate>Sun, 16 May 2021 12:36:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-lede-sub02/15israel-gaza-briefing-lede-sub02-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>An Israeli airstrike destroys a high-rise building in Gaza City that housed the offices of The Associated Press and Al Jazeera on Saturday.</media:description>
+    </item>
+    <item>
+      <title>In Washington, Hundreds Take Part in Pro-Palestinian Protests</title>
+      <link>https://www.nytimes.com/2021/05/15/world/protests-israel-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/protests-israel-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/protests-israel-washington.html" rel="standout"></atom:link>
+      <description>News of the march to the U.S. Capitol spread largely through social media and word of mouth, including during Friday prayers at local mosques.</description>
+      <dc:creator>Aishvarya Kavi</dc:creator>
+      <pubDate>Sun, 16 May 2021 01:07:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-washington-protest/15israel-gaza-briefing-washington-protest-moth.jpg" width="151"></media:content>
+      <media:credit>Tasos Katopodis/Getty Images</media:credit>
+      <media:description>Protesters gather near the Washington Monument on Saturday in downtown Washington.</media:description>
+    </item>
+    <item>
+      <title>Australia’s First Repatriation Flight from India Returns Half Empty</title>
+      <link>https://www.nytimes.com/2021/05/15/world/australias-repatriation-flight-india.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/australias-repatriation-flight-india.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/australias-repatriation-flight-india.html" rel="standout"></atom:link>
+      <description>The Australian government says 70 people were barred from boarding the plane after they or someone close to them tested positive for Covid.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Sun, 16 May 2021 00:36:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darwin (Australia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15virus-briefing-australia/15virus-briefing-australia-moth.jpg" width="151"></media:content>
+      <media:credit> STEWART GOULD/EPA, via Shutterstock</media:credit>
+      <media:description>Australians who were stranded in coronavirus-ravaged India have touched down in Darwin on the first post-ban repatriation flight. </media:description>
+    </item>
+    <item>
+      <title>Nurses’ Union Condemns C.D.C.&#39;s New Mask Advice</title>
+      <link>https://www.nytimes.com/2021/05/15/world/nurses-union-cdc-mask-vaccinated.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/nurses-union-cdc-mask-vaccinated.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/nurses-union-cdc-mask-vaccinated.html" rel="standout"></atom:link>
+      <description>National Nurses United, the largest U.S. union of registered, nurses called on the federal agency to revise its guidance, saying that “lives are in the balance.”</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Sun, 16 May 2021 16:08:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Nurses United</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/us/15virus-briefing-nurses-CDC/15virus-briefing-nurses-CDC-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <media:description>Bonnie Castillo, executive director of National Nurses United, last year in Oakland, Calif. Ms. Castillo is condemning the Centers for Disease Control and Prevention’s lifting of mask recommendations for vaccinated people.</media:description>
+    </item>
+    <item>
+      <title>Greece Opens Its Doors to International Tourists</title>
+      <link>https://www.nytimes.com/2021/05/15/world/greece-reopen-tourists-mykonos-santorini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/greece-reopen-tourists-mykonos-santorini.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/greece-reopen-tourists-mykonos-santorini.html" rel="standout"></atom:link>
+      <description>Greek television showed islanders on Mykonos, one of the country’s most popular summer destinations, painting cobblestone streets with whitewash in anticipation.</description>
+      <dc:creator>Niki Kitsantonis</dc:creator>
+      <pubDate>Sat, 15 May 2021 20:55:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/us/15virus-briefing-greece/15virus-briefing-greece-moth.jpg" width="151"></media:content>
+      <media:credit>Stefanos Rapanis/Reuters</media:credit>
+      <media:description>Passengers arriving from Germany and Switzerland at Heraklion Airport on Saturday, on the Greek island of Crete, as the country’s tourism season officially opens.</media:description>
+    </item>
+    <item>
+      <title>Biden Calls on Israel and Palestinian Leaders to Protect Civilians</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/biden-netanyahu-abbas-palestine-gaza-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/biden-netanyahu-abbas-palestine-gaza-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/biden-netanyahu-abbas-palestine-gaza-israel.html" rel="standout"></atom:link>
+      <description>President Biden backed Israel’s right to defend itself while urging the nation to protect civilians after the Israeli military destroyed a building housing the offices of journalists.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Mon, 17 May 2021 08:30:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-biden-calls/15israel-gaza-briefing-biden-calls-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>Journalists in the rubble of the Jala Tower in Gaza City, home to offices of The Associated Press and Al Jazeera, which was destroyed in an Israeli air strike on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Yitzhak Arad, Who Led Holocaust Study Center in Israel, Dies at 94</title>
+      <link>https://www.nytimes.com/2021/05/15/obituaries/yitzhak-arad-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/obituaries/yitzhak-arad-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/obituaries/yitzhak-arad-dead.html" rel="standout"></atom:link>
+      <description>A survivor of the Nazis, Mr. Arad was an esteemed scholar and the longtime chairman of the Yad Vashem complex of museums and archives in Jerusalem.</description>
+      <dc:creator>Joseph Berger</dc:creator>
+      <pubDate>Sun, 16 May 2021 02:25:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yad Vashem Holocaust Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arad, Yitzhak</category>
+    </item>
+    <item>
+      <title>A Fragile Ceasefire Lets Afghans Risk Travel for Eid</title>
+      <link>https://www.nytimes.com/2021/05/15/world/asia/afghanistan-ceasefire-eid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/asia/afghanistan-ceasefire-eid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/asia/afghanistan-ceasefire-eid.html" rel="standout"></atom:link>
+      <description>A 3-day cease-fire is violated, but Afghans brave dangerous roads to celebrate a holiday with families.</description>
+      <dc:creator>Fatima Faizi and David Zucchino</dc:creator>
+      <pubDate>Sun, 16 May 2021 06:59:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghlan Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kandahar (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kunduz (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15Afghan-ceasefire1/15Afghan-ceasefire1-moth.jpg" width="151"></media:content>
+      <media:credit>Hedayatullah Amid/EPA, via Shutterstock</media:credit>
+      <media:description>A mosque on the outskirts of Kabul was bombed during Friday prayers, killing at least 12 people, including the imam.</media:description>
+    </item>
+    <item>
+      <title>Several Everest Climbers Test Positive for Covid</title>
+      <link>https://www.nytimes.com/2021/05/15/world/covid-test-positive-everest-climbers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/covid-test-positive-everest-climbers.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/covid-test-positive-everest-climbers.html" rel="standout"></atom:link>
+      <description>Anyone who becomes infected “at high altitude, then develops symptoms and becomes ill, is very difficult to help,” a climbing company official said.</description>
+      <dc:creator>Bhadra Sharma</dc:creator>
+      <pubDate>Sat, 15 May 2021 18:57:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/us/15virus-briefing-everest/15virus-briefing-everest-moth.jpg" width="151"></media:content>
+      <media:credit>Prakash Mathema/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Expedition members wearing face masks at Mount Everest base camp on May 1. A prominent mountaineering company abandoned its summit expedition on Saturday after more climbers were found to be infected with the coronavirus.</media:description>
+    </item>
+    <item>
+      <title>Greek Neo-Nazi With Seat in European Parliament Is Sent to Prison</title>
+      <link>https://www.nytimes.com/2021/05/15/world/europe/greece-neo-nazi-golden-dawn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/europe/greece-neo-nazi-golden-dawn.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/europe/greece-neo-nazi-golden-dawn.html" rel="standout"></atom:link>
+      <description>Ioannis Lagos was a leading member of the extreme-right and now-defunct Golden Dawn, which rose to political prominence in 2012 at the peak of the Greece’s financial crisis.</description>
+      <dc:creator>Niki Kitsantonis</dc:creator>
+      <pubDate>Sun, 16 May 2021 10:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Golden Dawn (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Parliament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15GREECE/15GREECE-moth.jpg" width="151"></media:content>
+      <media:credit>Costas Baltas/Reuters</media:credit>
+      <media:description>Ioannis Lagos, Greek member of the European Parliament and former member of the extreme right Golden Dawn party, is escorted by anti-terrorism police officers to the prosecutor&#39;s office in Athens on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Why Vaccinating the World Against Covid-19 Will Be Hard</title>
+      <link>https://www.nytimes.com/2021/05/15/world/americas/covid-vaccine-patent-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/americas/covid-vaccine-patent-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/americas/covid-vaccine-patent-biden.html" rel="standout"></atom:link>
+      <description>When President Biden joined a push to set aside patents for Covid shots, he entered a roiling debate over how to ensure poor countries get enough vaccine.</description>
+      <dc:creator>Peter S. Goodman, Apoorva Mandavilli, Rebecca Robbins and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Sat, 15 May 2021 17:56:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inventions and Patents</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AstraZeneca PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson &amp; Johnson</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/12/world/12virus-vaccine1/12virus-vaccine1-moth.jpg" width="151"></media:content>
+      <media:credit>Gulshan Khan for The New York Times</media:credit>
+      <media:description>Health workers waiting to enter a vaccination center at Charlotte Maxeke Johannesburg Academic Hospital in Johannesburg, South Africa, last week.</media:description>
+    </item>
+    <item>
+      <title>South Africans Call for Justice After Police Shooting of Lindani Myeni</title>
+      <link>https://www.nytimes.com/2021/05/15/world/africa/honolulu-police-shooting-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/africa/honolulu-police-shooting-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/africa/honolulu-police-shooting-south-africa.html" rel="standout"></atom:link>
+      <description>A Black man from South Africa was shot and killed in an encounter with the police in his adopted home, Hawaii. His countrymen want answers.</description>
+      <dc:creator>Lynsey Chutel and Michelle Broder Van Dyke</dc:creator>
+      <pubDate>Mon, 17 May 2021 05:50:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Myeni, Lindani (d 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honolulu (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15southafrica-hawaii1/15southafrica-hawaii1-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>Lindani Myeni’s widow, right, and an aunt holding the couple’s daughter, greeted his returning coffin at the Johannesburg airport. </media:description>
+    </item>
+    <item>
+      <title>Violence in Israeli Town Carries Echoes of 1948 for Palestinians</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/lydda-israel-palestine-conflict.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/lydda-israel-palestine-conflict.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/lydda-israel-palestine-conflict.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Sat, 15 May 2021 18:39:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-Nakba-Day/15israel-gaza-briefing-Nakba-Day-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Prime Minister David Ben-Gurion, left, signing a document in Tel Aviv proclaiming the new Jewish state of Israel on May 17, 1948, as Foreign Minister Moshe Shertok witnessed.</media:description>
+    </item>
+    <item>
+      <title>Conflict Spirals Across Israel and the Palestinian Territories</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-conflict-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-conflict-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-conflict-gaza.html" rel="standout"></atom:link>
+      <description>An American envoy landed in Israel for cease-fire talks with Palestinians and Israelis. But as of Saturday evening, there was no sign of a letup in fighting and a media center in Gaza was destroyed.</description>
+      <dc:creator>Patrick Kingsley and Vivian Yee</dc:creator>
+      <pubDate>Sun, 16 May 2021 15:33:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15ISRAEL1/15ISRAEL1-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>A tower in Gaza City, which housed the offices of The Associated Press and Al Jazeera, was destroyed by an Israeli airstrike on Saturday.</media:description>
+    </item>
+    <item>
+      <title>What Is Happening in Israel and Gaza? Here&#39;s What to Know.</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-gaza-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-gaza-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/israel-palestinian-gaza-war.html" rel="standout"></atom:link>
+      <description>A little-noticed police action in Jerusalem last month was one of several incidents that led to the current crisis.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Sun, 16 May 2021 02:57:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ramadan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15mideast-reconstruct/15mideast-reconstruct-moth.jpg" width="151"></media:content>
+      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Aqsa Mosque compound in Jerusalem last month, about a week before the start of Ramadan. </media:description>
+    </item>
+    <item>
+      <title>Shootings in New York spiked during the pandemic, and may outlast the virus.</title>
+      <link>https://www.nytimes.com/2021/05/15/nyregion/shootings-in-new-york-spiked-during-the-pandemic-and-may-outlast-the-virus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/nyregion/shootings-in-new-york-spiked-during-the-pandemic-and-may-outlast-the-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/nyregion/shootings-in-new-york-spiked-during-the-pandemic-and-may-outlast-the-virus.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Troy Closson</dc:creator>
+      <pubDate>Sat, 15 May 2021 14:06:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14virus-briefing-shooting-spike/14virus-briefing-shooting-spike-moth.jpg" width="151"></media:content>
+      <media:credit>Dakota Santiago for The New York Times</media:credit>
+      <media:description>Times Square, where three people, including a toddler out toy shopping, were shot last Saturday.</media:description>
+    </item>
+    <item>
+      <title>Over 70 Percent of Older U.S. Adults Are Fully Vaccinated</title>
+      <link>https://www.nytimes.com/2021/05/15/us/covid-vaccine-seniors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/us/covid-vaccine-seniors.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/us/covid-vaccine-seniors.html" rel="standout"></atom:link>
+      <description>The proportion of those with full protection is much higher among older Americans than among younger people.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Sat, 15 May 2021 18:35:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/12/us/12virus-briefing-older-vaccination-rate/12virus-briefing-older-vaccination-rate-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Capozziello for The New York Times</media:credit>
+      <media:description>People over 65, who are much more likely than younger people to become seriously ill from Covid, have been a high priority since the U.S. vaccination campaign began. </media:description>
+    </item>
+    <item>
+      <title>An Israeli airstrike killed at least 10 members of a family in a Gaza refugee camp.</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/an-israeli-airstrike-killed-at-least-10-members-of-a-family-in-a-gaza-refugee-camp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/an-israeli-airstrike-killed-at-least-10-members-of-a-family-in-a-gaza-refugee-camp.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/an-israeli-airstrike-killed-at-least-10-members-of-a-family-in-a-gaza-refugee-camp.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Vivian Yee, Adam Rasgon, Iyad Abuheweila and Irit Pazner Garshowitz</dc:creator>
+      <pubDate>Sat, 15 May 2021 18:09:42 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-gaza-shati-camp-sub/merlin_187778577_cd7ed121-d587-4785-8a29-22a5b54146c3-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>A funeral for people killed in an Israeli airstrike on the Shati refugee camp in the Gaza Strip.</media:description>
+    </item>
+    <item>
+      <title>An annual day of Palestinian grievance comes amid the upheaval.</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/nakba-day.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/nakba-day.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/nakba-day.html" rel="standout"></atom:link>
+      <description>Nakba Day on Saturday denotes the 1948 displacement of hundreds of thousands of Palestinians amid Israel’s declaration of independence.</description>
+      <dc:creator>Rick Gladstone</dc:creator>
+      <pubDate>Sat, 15 May 2021 19:56:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-nakba-day-sub01/merlin_187777818_85d72cc1-e70c-45bd-8884-e1103421735b-moth.jpg" width="151"></media:content>
+      <media:credit>Abbas Momani/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A demonstration marking Nakba Day in Ramallah, West Bank, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Tensions Among Democrats Grow Over Israeli-Palestinian Conflict</title>
+      <link>https://www.nytimes.com/2021/05/15/us/politics/democrats-israel-palestinians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/us/politics/democrats-israel-palestinians.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/us/politics/democrats-israel-palestinians.html" rel="standout"></atom:link>
+      <description>Divisions within the party have burst into public view, with the party’s ascendant left viewing the Mideast conflict as a searing racial justice issue that carries echoes of U.S. politics.</description>
+      <dc:creator>Lisa Lerer and Jennifer Medina</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:04:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/16/us/politics/16dems-israel-print1/00dems-israel1-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>Representative Alexandria Ocasio-Cortez of New York and other progressive members of Congress delivered impassioned speeches about the Israeli-Palestinian conflict on the House floor on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Syria’s Surprising Solar Boom: Sunlight Powers the Night in Rebel Idlib</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/syria-solar-power-idlib.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/syria-solar-power-idlib.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/syria-solar-power-idlib.html" rel="standout"></atom:link>
+      <description>Cut off from the power grid and with fuel costs soaring, Syrians in a poor, embattled enclave have turned en masse to solar panels to charge their phones and light their homes and tents.</description>
+      <dc:creator>Ben Hubbard and Ivor Prickett</dc:creator>
+      <pubDate>Sun, 16 May 2021 15:15:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idlib (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/27/world/00Syria-Solar-Dispatch1-promo/00Syria-Solar-Dispatch1-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Solar panels covering rooftops, some of which have been damaged in government attacks, in Binnish, Syria.</media:description>
+    </item>
+    <item>
+      <title>Israel Strikes Gaza Building With A.P. and Other News Outlets</title>
+      <link>https://www.nytimes.com/2021/05/15/world/middleeast/associated-press-gaza-israel-airstrike-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/middleeast/associated-press-gaza-israel-airstrike-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/middleeast/associated-press-gaza-israel-airstrike-media.html" rel="standout"></atom:link>
+      <description>President Biden spoke to the leaders of Israel and the Palestinians. Hamas militants aimed another round of rockets at Tel Aviv and protests spread to the West Bank.</description>
+      <dc:creator>Patrick Kingsley, Vivian Yee, Lara Jakes and David M. Halbfinger</dc:creator>
+      <pubDate>Sun, 16 May 2021 05:30:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-gaza-briefing-lede-sub02/15israel-gaza-briefing-lede-sub02-moth.jpg" width="151"></media:content>
+      <media:credit>Hosam Salem for The New York Times</media:credit>
+      <media:description>An Israeli airstrike destroys a high-rise building in Gaza City that housed the offices of The Associated Press and Al Jazeera on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Taiwan Reports a Daily Record of 180 Cases</title>
+      <link>https://www.nytimes.com/2021/05/15/world/taiwan-covid-outbreak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/15/world/taiwan-covid-outbreak.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/15/world/taiwan-covid-outbreak.html" rel="standout"></atom:link>
+      <description>The self-governing island, which has had striking success with the virus, ramped up restrictions in Taipei after reporting 180 locally transmitted infections.</description>
+      <dc:creator>Chris Buckley, Amy Chang Chien and Hikari Hida</dc:creator>
+      <pubDate>Sun, 16 May 2021 08:02:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Taipei City (Taiwan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/14/world/14virus-briefing-taiwan/14virus-briefing-taiwan-moth.jpg" width="151"></media:content>
+      <media:credit>Ritchie B Tongo/EPA, via Shutterstock</media:credit>
+      <media:description>Disinfecting seats at a Covid-19 testing site in Taipei on Saturday.</media:description>
+    </item>
+    <item>
+      <title>A Press Corps Deceived, and the Gaza Invasion That Wasn’t</title>
+      <link>https://www.nytimes.com/2021/05/14/world/middleeast/israel-gaza-disinformation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/middleeast/israel-gaza-disinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/middleeast/israel-gaza-disinformation.html" rel="standout"></atom:link>
+      <description>A spokesman led the international media to believe that Israeli forces had entered Gaza. They hadn’t. But the army wanted Hamas to think they had.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Fri, 14 May 2021 23:36:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14israel-disinformation/14israel-disinformation-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>Israeli soldiers at a staging area near the border with Gaza on Friday.</media:description>
+    </item>
+    <item>
+      <title>Israeli-Palestinian Strife Widens as Frantic Calls for Calm Go Unheeded</title>
+      <link>https://www.nytimes.com/2021/05/14/world/middleeast/gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/middleeast/gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/middleeast/gaza.html" rel="standout"></atom:link>
+      <description>While Israel and Hamas signaled willingness to consider a cease-fire, worries grew about further fracturing in one of the Middle East’s most intractable struggles.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Sat, 15 May 2021 01:00:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lod (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/15/world/15israel-ledeall1/15israel-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>Israeli ground forces at a staging area near the border with Gaza on Friday.</media:description>
+    </item>
+    <item>
+      <title>Why the C.D.C. Changed Its Mask Guidance</title>
+      <link>https://www.nytimes.com/2021/05/14/health/cdc-masks-vaccines-variants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/health/cdc-masks-vaccines-variants.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/health/cdc-masks-vaccines-variants.html" rel="standout"></atom:link>
+      <description>Two scientific findings altered the calculus: Vaccinated people rarely transmit the virus, and the shots are effective against variants.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Sat, 15 May 2021 22:49:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson &amp; Johnson</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/multimedia/14virus-masks/14virus-masks-moth.jpg" width="151"></media:content>
+      <media:credit>Benjamin Norman for The New York Times</media:credit>
+      <media:description>Masked and unmasked pedestrians walked around Manhattan on Friday.</media:description>
+    </item>
+    <item>
+      <title>Chad Kalepa Baybayan, Seafarer Who Sailed Using the Stars, Dies at 64</title>
+      <link>https://www.nytimes.com/2021/05/14/obituaries/chad-kalepa-baybayan-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/obituaries/chad-kalepa-baybayan-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/obituaries/chad-kalepa-baybayan-dead.html" rel="standout"></atom:link>
+      <description>He was a torchbearer for the celestial navigation art known as wayfinding, which ancestral Polynesian sailors used to navigate the Pacific Ocean.</description>
+      <dc:creator>Alex Vadukul</dc:creator>
+      <pubDate>Fri, 14 May 2021 22:26:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baybayan, Chad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Navigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canoes and Canoeing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Hawaiians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Polynesia</category>
+    </item>
+    <item>
+      <title>When the Bus No Longer Rolls Into Town</title>
+      <link>https://www.nytimes.com/2021/05/14/world/canada/Greyhound-ends-Canada-service.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/canada/Greyhound-ends-Canada-service.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/canada/Greyhound-ends-Canada-service.html" rel="standout"></atom:link>
+      <description>The final shutdown of Greyhound bus service in Canada will add to a growing accessibility problem for rural communities.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 14 May 2021 22:04:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greyhound Lines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14CANADA-LETTER-GREYHOUND/14CANADA-LETTER-GREYHOUND-moth.jpg" width="151"></media:content>
+      <media:credit>Chris Helgren/Reuters</media:credit>
+      <media:description>Greyhound ended its bus service in Western Canada in 2018, and this week shut down in Ontario and Quebec as well.</media:description>
+    </item>
+    <item>
+      <title>Arab World Condemns Israeli Violence but Takes Little Action</title>
+      <link>https://www.nytimes.com/2021/05/14/world/middleeast/israel-arab.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/middleeast/israel-arab.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/middleeast/israel-arab.html" rel="standout"></atom:link>
+      <description>By saying it is defending Jerusalem, Hamas has made it harder for Arab countries not to denounce Israel. But in a changed region, the response so far has been rhetorical only.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:06:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arab League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14Arabs-Top/14Arabs-Top-moth.jpg" width="151"></media:content>
+      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Dome of the Rock in Jerusalem reflected in a damaged door inside the Aqsa Mosque compound on Friday.</media:description>
+    </item>
+    <item>
+      <title>In Israel’s Rising Violence, Ripples From 1948</title>
+      <link>https://www.nytimes.com/2021/05/14/world/asia/israel-palestinian-Lydda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/asia/israel-palestinian-Lydda.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/asia/israel-palestinian-Lydda.html" rel="standout"></atom:link>
+      <description>The town of Lydda posed an early test of how the Israeli state would treat Palestinians. It is a legacy playing out today in violence between Jews and Arabs in Lod, as it’s now known.</description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Mon, 17 May 2021 09:05:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gurion, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lod (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14int-lod1/14int-lod1-moth.jpg" width="151"></media:content>
+      <media:credit>Universal Images Group, via Getty Images</media:credit>
+      <media:description>What was known as Lydda in 1948, the year Israeli forces breached the town and exchanged fire with militiamen. Hundreds of Palestinians, including many civilians, were killed, and nine Israeli soldiers died.</media:description>
+    </item>
+    <item>
+      <title>Gaza Rocket Finds a Rare Gap in Israeli Armor, and a 5-Year-Old Boy Is Killed</title>
+      <link>https://www.nytimes.com/2021/05/14/world/middleeast/ido-avigal-israel-palestine-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/middleeast/ido-avigal-israel-palestine-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/middleeast/ido-avigal-israel-palestine-gaza.html" rel="standout"></atom:link>
+      <description>When a rocket struck an Israeli border town, Ido Avigal, 5, was sheltering in a fortified safe room. But shrapnel still managed to puncture the thick window, killing him.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 17 May 2021 08:29:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sderot (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14israel-scene-idd/14israel-scene-idd-moth.jpg" width="151"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israel’s Iron Dome antimissile defense weapons, designed to intercept incoming rockets and artillery shells, in Sderot.</media:description>
+    </item>
+    <item>
+      <title>Eight people from the New York Yankees organization tested positive, despite having been vaccinated. Here’s what to know.</title>
+      <link>https://www.nytimes.com/2021/05/14/sports/baseball/eight-people-from-the-new-york-yankees-organization-tested-positive-despite-having-been-vaccinated-heres-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/sports/baseball/eight-people-from-the-new-york-yankees-organization-tested-positive-despite-having-been-vaccinated-heres-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/sports/baseball/eight-people-from-the-new-york-yankees-organization-tested-positive-despite-having-been-vaccinated-heres-what-to-know.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Fri, 14 May 2021 15:24:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/us/14virus-briefing-yankees-outbreak/14virus-briefing-yankees-outbreak-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Marlin/USA Today Sports, via Reuters</media:credit>
+      <media:description>Gleyber Torres, center, at Yankee Stadium last week in the Bronx.</media:description>
+    </item>
+    <item>
+      <title>British Fraud Unit Is Investigating Gupta and Greensill</title>
+      <link>https://www.nytimes.com/2021/05/14/business/british-fraud-unit-is-investigating-gupta-and-greensill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/business/british-fraud-unit-is-investigating-gupta-and-greensill.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/business/british-fraud-unit-is-investigating-gupta-and-greensill.html" rel="standout"></atom:link>
+      <description>The inquiry will focus a spotlight on a steel magnate and a financier whose business collapse has provoked a scandal in Britain.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Sat, 15 May 2021 07:25:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GFG Alliance Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gupta, Sanjeev (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greensill Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serious Fraud Office (United Kingdom)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cameron, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/business/14guptafraud-1/14guptafraud-1-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Sanjeev Gupta, head of the Gupta Family Group Alliance, which is being investigated on suspicion of fraud and money laundering.</media:description>
+    </item>
+    <item>
+      <title>Prince Harry Shares ‘Pain and Suffering’ of Growing Up in Royal Family</title>
+      <link>https://www.nytimes.com/2021/05/14/world/europe/prince-harry-podcast-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/05/14/world/europe/prince-harry-podcast-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/05/14/world/europe/prince-harry-podcast-interview.html" rel="standout"></atom:link>
+      <description>In a wide-ranging interview for a podcast, Harry said his existence in the British monarchy had been “a mix between ‘The Truman Show’ and being in a zoo.”</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Fri, 14 May 2021 18:23:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Armchair Expert (Radio Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/05/14/world/14uk-royals/14uk-royals-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Armond/Los Angeles Times, via Getty Images</media:credit>
+      <media:description>Prince Harry at a concert in California this month. He now lives in the state with his family.</media:description>
+    </item>
+  </channel>
+</rss>

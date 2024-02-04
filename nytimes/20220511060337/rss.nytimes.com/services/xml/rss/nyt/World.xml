@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 11 May 2022 06:00:03 +0000</lastBuildDate>
+    <pubDate>Wed, 11 May 2022 05:51:54 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>What Happened on Day 76 of the War in Ukraine</title>
+      <link>https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news" rel="standout"></atom:link>
+      <description>The Russian military, despite missteps, has gained near total control of the Donbas region.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 11 May 2022 05:44:24 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10ukraine-blog-header-1015pm-et/10ukraine-blog-header-10pm-et-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Dozens of open graves at a military cemetery in the eastern city of Dnipro on Tuesday. More than 400 Ukrainian soldiers killed since Russia’s February invasion have been buried there.</media:description>
+    </item>
+    <item>
+      <title>Philippines Election: Marcos Win Draws Protests</title>
+      <link>https://www.nytimes.com/2022/05/10/world/asia/philippines-election-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/asia/philippines-election-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/asia/philippines-election-protests.html" rel="standout"></atom:link>
+      <description>Young voters who had rallied around Leni Robredo during the presidential race gathered to voice their frustration with preliminary results showing her overwhelming defeat.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Tue, 10 May 2022 16:15:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robredo, Leni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Imelda R</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10philippines1-sub/10philippines1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Young voters protesting election fraud in Manila on Tuesday. For many Filipinos, the Marcos family name remains a byword for excess and greed.</media:description>
+    </item>
+    <item>
+      <title>How Maria Alyokhina of Pussy Riot Escaped From Russia</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html" rel="standout"></atom:link>
+      <description>After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin.</description>
+      <dc:creator>Valerie Hopkins and Misha Friedman</dc:creator>
+      <pubDate>Tue, 10 May 2022 18:58:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alyokhina, Maria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pussy Riot</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kjartansson, Ragnar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/00russia-pussyriot-new/00russia-pussyriot-new-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Misha Friedman for The New York Times</media:credit>
+      <media:description>Maria V. Alyokhina in Iceland&#39;s National Theater in Reykjavik. “I still don’t understand completely what I’ve done,” she said.</media:description>
+    </item>
+    <item>
+      <title>South Korea Inaugurates Yoon Suk-yeol as President</title>
+      <link>https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html" rel="standout"></atom:link>
+      <description>During his inaugural speech, Yoon Suk-yeol said his country would play a greater role in promoting freedom and human rights around the world.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Tue, 10 May 2022 17:54:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inaugurations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10skorea-01/10skorea-01-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Yoon Suk-yeol, South Korea’s new president, at his inauguration in front of the Congress Building in Seoul on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</title>
+      <link>https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html" rel="standout"></atom:link>
+      <description>A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Tue, 10 May 2022 22:08:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/05/world/00ukraine-crowdfunding-promo/00ukraine-crowdfunding-01-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</title>
+      <link>https://www.nytimes.com/live/2022/05/09/world/philippines-election</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/05/09/world/philippines-election</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/05/09/world/philippines-election" rel="standout"></atom:link>
+      <description>Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 11 May 2022 01:32:17 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-promo/09philippines-election-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>A line at a polling station in Manila, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Charles Gives Queen’s Speech at State Opening of Parliament in U.K.</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/queen-elizabeth-charles-speech-parliament.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/queen-elizabeth-charles-speech-parliament.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/queen-elizabeth-charles-speech-parliament.html" rel="standout"></atom:link>
+      <description>For only the third time in 70 years, Elizabeth was unable to deliver her speech at the State Opening of Parliament. The palace said she had been having trouble walking; Prince Charles stood in.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 10 May 2022 16:59:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10UK-ROYALS1/10UK-ROYALS1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Arthur Edwards</media:credit>
+      <media:description>Prince Charles, heir to the British throne, delivering the Queen’s Speech during the State Opening of Parliament in London on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>For French Military, War in Ukraine Prompts a Shift in Focus</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html" rel="standout"></atom:link>
+      <description>While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Wed, 11 May 2022 03:33:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09france-army/merlin_204110352_fd9aee95-1ab0-401d-963d-dfaf89c0951a-moth.jpg" width="151"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>French soldiers from the 7th Battalion of Chasseurs Alpins taking part in a drill at the NATO military base in Tapa, Estonia, in March.</media:description>
+    </item>
+    <item>
+      <title>U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html" rel="standout"></atom:link>
+      <description>But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Mon, 09 May 2022 16:35:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09uk-starmer-1sub/09uk-starmer-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
+      <media:description>Keir Starmer, the leader of the opposition Labour Party in Britain, leaving his home in north London on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Photos: Russia Celebrates Victory Day Holiday With Parade in Red Square</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin used his speech on Russia’s most important secular holiday to rally support for the country’s invasion of Ukraine.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 09 May 2022 17:20:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shoigu, Sergei K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Square (Moscow)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09russia-victoryday-3/09russia-victoryday-3-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Ecuador Prison Riot Leaves Dozens Dead</title>
+      <link>https://www.nytimes.com/2022/05/09/world/americas/ecuador-prison-riot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/americas/ecuador-prison-riot.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/americas/ecuador-prison-riot.html" rel="standout"></atom:link>
+      <description>The riot in northern Ecuador left at least 40 inmates dead and more than a dozen injured. It’s the latest blood bath inside the country’s troubled and overcrowded prison system.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Mon, 09 May 2022 23:49:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Escapes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lasso, Guillermo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ecuador/09ecuador-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Carlos Perez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A wounded inmate being transported from a truck to an ambulance after a riot at the Social Bellavista prison in Santo Domingo, Ecuador, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html" rel="standout"></atom:link>
+      <description>The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents.</description>
+      <dc:creator>Skandha Gunasekara and Mujib Mashal</dc:creator>
+      <pubDate>Tue, 10 May 2022 03:15:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Gotabaya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Mahinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sri Lanka</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09srilanka-1sub/09srilanka-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Ishara S. Kodikara/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Government supporters and opponents clashed Monday outside the official residence of Prime Minister Mahinda Rajapaksa in Colombo, Sri Lanka.</media:description>
+    </item>
+    <item>
+      <title>In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html" rel="standout"></atom:link>
+      <description>Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent.</description>
+      <dc:creator>Emma Bubola and Valeriya Safronova</dc:creator>
+      <pubDate>Mon, 09 May 2022 09:00:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bullies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aachen (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harsefeld (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/04/world/00russia-kids-eu-01/00russia-kids-eu-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
+      <media:description>Alex Ebert taking a public bus to school this month in a suburb of Aachen, Germany. He was attacked on the bus returning home in March.</media:description>
+    </item>
+    <item>
+      <title>Biden Speeds Up Military Aid to Ukraine, Drawing U.S. Deeper Into War</title>
+      <link>https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html" rel="standout"></atom:link>
+      <description>President Biden signed the Lend-Lease Act, which will waive time-consuming requirements on the provision of arms to Ukraine.</description>
+      <dc:creator>Peter Baker and Emily Cochrane</dc:creator>
+      <pubDate>Tue, 10 May 2022 13:49:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/us/politics/09DC-UKRAINE-WEAPONS-cover/09DC-UKRAINE-WEAPONS-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Cheriss May for The New York Times</media:credit>
+      <media:description>President Biden signing the Ukraine Democracy Defense Lend-Lease Act on Monday at the White House. He has tried to back Ukraine while avoiding giving the impression that the United States is in a proxy war.</media:description>
+    </item>
+    <item>
+      <title>Al Jazeera Journalist Is Killed During Clashes in West Bank</title>
+      <link>https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html" rel="standout"></atom:link>
+      <description>The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Wed, 11 May 2022 05:51:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/11/world/11westbank-05/merlin_206695914_98426df9-2d0b-4a88-aebf-7f089338fb93-moth.jpg" width="151"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Journalists escorting the body of Shireen Abu Akleh, a journalist who was fatally shot early Wednesday while covering a clash in the West Bank city of Jenin. </media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2022/05/11/briefing/russia-donbas-fed-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/11/briefing/russia-donbas-fed-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/11/briefing/russia-donbas-fed-inflation.html" rel="standout"></atom:link>
+      <description>Russian advances in eastern Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 11 May 2022 04:23:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/11ambriefing-europe-nl-promo/10ukraine-blog-promo-7pm-et-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Valentina led her blind mother, Nina, aboard an evacuation train in Pokrovsk, in the Donbas region of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Leonid Kravchuk, First President of Ukraine, Dies at 88</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Wed, 11 May 2022 05:44:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10ukraine-blog-kravchuk-obit/10ukraine-blog-kravchuk-obit-moth.jpg" width="151"></media:content>
+      <media:credit>Olena Khudiakova/Future Publishing, via Getty Images</media:credit>
+      <media:description>Leonid Kravchuk on Jan. 10, 2019, his 85th birthday, in Kyiv, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Iran Says It Will Execute Ahmadreza Djalali, Swedish-Iranian Accused of Spying</title>
+      <link>https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html" rel="standout"></atom:link>
+      <description>Ahmadreza Djalali denies he spied for Israel or helped it kill Iranian nuclear scientists.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Tue, 10 May 2022 23:51:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Djalali, Ahmadreza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10iran-sweden/10iran-sweden-moth.jpg" width="151"></media:content>
+      <media:credit>Tino Romano/EPA, via Shutterstock</media:credit>
+      <media:description>A protest in Turin, Italy, in 2020 against Iran sentencing an Iranian-Swedish doctor, Ahmadreza Djalali, to death.</media:description>
+    </item>
+    <item>
+      <title>Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</title>
+      <link>https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html" rel="standout"></atom:link>
+      <description>The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems.</description>
+      <dc:creator>David E. Sanger and Kate Conger</dc:creator>
+      <pubDate>Tue, 10 May 2022 23:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borrell Fontelles, Josep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mandiant Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/us/politics/10dc-satellite/merlin_206616228_c5a494b4-6452-4300-9d48-ca7f519aa2e3-moth.jpg" width="151"></media:content>
+      <media:credit>Mikhail Metzel/Sputnik</media:credit>
+      <media:description>Investigators said the Russian military intelligence agency took satellite communications in Ukraine offline. The attack came before the Feb. 24 invasion launched by President Vladimir V. Putin.</media:description>
+    </item>
+    <item>
+      <title>Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html" rel="standout"></atom:link>
+      <description>Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks.</description>
+      <dc:creator>Michael Schwirtz, Marc Santora and Michael Levenson</dc:creator>
+      <pubDate>Wed, 11 May 2022 02:14:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Bank for Reconstruction and Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michel, Charles (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kramatorsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Odessa (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10ukraine-blog-ledeall/merlin_206671170_53f1970c-98fa-4338-9b20-efae8caad404-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Boarding an evacuation train at the Pokrovsk train station on Tuesday in the Donbas region of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing: South Korea’s New President</title>
+      <link>https://www.nytimes.com/2022/05/10/briefing/president-south-korea-yoon-marcos-philippines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/briefing/president-south-korea-yoon-marcos-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/briefing/president-south-korea-yoon-marcos-philippines.html" rel="standout"></atom:link>
+      <description>Plus protests in the Philippines and a weakened Japanese yen.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Tue, 10 May 2022 20:56:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alyokhina, Maria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robredo, Leni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BeReal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pussy Riot</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/11ambreifing-asia-promo/10skorea-01-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Yoon Suk-yeol, South Korea’s new president, at his inauguration.</media:description>
+    </item>
+    <item>
+      <title>Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html" rel="standout"></atom:link>
+      <description>Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Tue, 10 May 2022 20:33:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NSO Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10Spain/10Spain-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Carlos Hidalgo/EPA, via Shutterstock</media:credit>
+      <media:description>Paz Esteban, the chief of Spain’s intelligence service, arriving last week to appear before a parliamentary committee to discuss how her agency had used Israeli spyware on the phones of Catalan politicians.</media:description>
+    </item>
+    <item>
+      <title>Vardy and Rooney ‘Wagatha Christie’ Trial Begins in London</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/wagatha-christie-trial-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/wagatha-christie-trial-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/wagatha-christie-trial-uk.html" rel="standout"></atom:link>
+      <description>A public spat between the famous wives of two English soccer players, which has riveted tabloid attention in Britain, will be decided in court.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Tue, 10 May 2022 16:38:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vardy, Rebekah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10uk-wagatha01/10uk-wagatha01-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Nicholls/Reuters</media:credit>
+      <media:description>Rebekah Vardy, wife of the Leicester City soccer player Jamie Vardy, arriving at court in London on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Francis Fukuyama Predicted the End of History. It’s Back (Again).</title>
+      <link>https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html" rel="standout"></atom:link>
+      <description>In a new book, the political theorist offers a stout defense of liberalism against threats from left and right — and predicts that Ukraine will revive “the spirit of 1989.”</description>
+      <dc:creator>Jennifer Schuessler</dc:creator>
+      <pubDate>Tue, 10 May 2022 18:53:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fukuyama, Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The End of History? (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Liberalism and Its Discontents (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/arts/10fukuyama2/10fukuyama2-moth.jpg" width="151"></media:content>
+      <media:credit>Jim McAuley for The New York Times</media:credit>
+      <media:description>The politial scientist Francis Fukuyama in his office at Stanford University. “There’s been so much cynicism about democracy, including in democratic countries,” he said.</media:description>
+    </item>
+    <item>
+      <title>Afghans Urge Court Not to Give Frozen Central Bank Assets to Sept. 11 Families</title>
+      <link>https://www.nytimes.com/2022/05/10/us/politics/afghans-central-bank-sept-11.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/us/politics/afghans-central-bank-sept-11.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/us/politics/afghans-central-bank-sept-11.html" rel="standout"></atom:link>
+      <description>Advocates for the Afghan people say it would be unjust and illegal to use $3.5 billion of Afghanistan’s assets to pay off the Taliban’s judgment debts.</description>
+      <dc:creator>Charlie Savage</dc:creator>
+      <pubDate>Tue, 10 May 2022 16:19:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assets, Frozen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Da Afghanistan Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/multimedia/00dc-afghan-bank1/00dc-afghan-bank1-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Huge crowds last year outside the Azizi Bank main branch in Kabul, Afghanistan, after the Taliban swept the country.</media:description>
+    </item>
+    <item>
+      <title>As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</title>
+      <link>https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html" rel="standout"></atom:link>
+      <description>Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation.</description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Wed, 11 May 2022 03:53:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10virus-briefing-china/merlin_206607240_b0d09b4e-1948-431a-8249-5435d5da4ee0-moth.jpg" width="151"></media:content>
+      <media:credit>Aly Song/Reuters</media:credit>
+      <media:description>Workers enter a residential area in Shanghai on Monday.</media:description>
+    </item>
+    <item>
+      <title>How Much of Ukraine Does Russia Hold?</title>
+      <link>https://www.nytimes.com/2022/05/10/world/russian-forces-occupation-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/russian-forces-occupation-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/russian-forces-occupation-ukraine.html" rel="standout"></atom:link>
+      <description>Although Russian forces failed to take Kyiv, they have captured large chunks of the south and east, giving Moscow a chance to strangle the country economically.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Tue, 10 May 2022 15:14:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Militia (Donetsk People&#39;s Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Odessa (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ukraine-blog-stateofplay01/09ukraine-blog-stateofplay01-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>A World War II memorial in Kyiv on Sunday.</media:description>
+    </item>
+    <item>
+      <title>How Public Services Are Operating in Ukraine</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html" rel="standout"></atom:link>
+      <description>Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about schools and hospitals.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Tue, 10 May 2022 12:38:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/29/us/29ukraine-faq-hospitals1/29ukraine-faq-hospitals1-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Natalia Arkhipova, a head nurse at a military hospital in Zaporizhzhia, Ukraine, rests after a series of long days treating injured soldiers in April.</media:description>
+    </item>
+    <item>
+      <title>‘They are really on the last breath’: The wives of soldiers in Mariupol plead for help.</title>
+      <link>https://www.nytimes.com/2022/05/10/world/europe/ukraine-mariupol-soldiers-wives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/world/europe/ukraine-mariupol-soldiers-wives.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-mariupol-soldiers-wives.html" rel="standout"></atom:link>
+      <description>Interviews and public comments by the spouses of soldiers holed up in a steel plant in the southern Ukrainian city paint a grim picture of the fighters’ situation.</description>
+      <dc:creator>Maria Varenikova and Marc Santora</dc:creator>
+      <pubDate>Tue, 10 May 2022 14:49:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ukraine-blog-azov-wives01/09ukraine-blog-azov-wives01-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
+      <media:description>Kateryna Prokopenko, right, and Yulia Fedosiuk with photographs of their husbands in Rome last month.</media:description>
+    </item>
+    <item>
+      <title>On the Phone, Alone</title>
+      <link>https://www.nytimes.com/2022/05/10/briefing/adolescent-mental-health-crisis-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/briefing/adolescent-mental-health-crisis-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/briefing/adolescent-mental-health-crisis-us.html" rel="standout"></atom:link>
+      <description>We look at the mental health crisis facing adolescents — and the role of digital technology.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 10 May 2022 10:25:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/multimedia/10-the-morning-lede-promo/10-the-morning-lede-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Annie Flanagan for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Teens in Distress Are Swamping Pediatricians</title>
+      <link>https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html" rel="standout"></atom:link>
+      <description>Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes.</description>
+      <dc:creator>Matt Richtel and Annie Flanagan</dc:creator>
+      <pubDate>Tue, 10 May 2022 19:54:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antidepressants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds</title>
+      <link>https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html" rel="standout"></atom:link>
+      <description>The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Tue, 10 May 2022 17:19:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eni SpA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Defense Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Dutch Shell Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trans-Niger Oil &amp; Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Total SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pertamina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">QatarEnergy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNOOC Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Slant Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apache Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Permian Basin (North America)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/climate/10cli-oilfield-sales1/10cli-oilfield-sales1-moth.jpg" width="151"></media:content>
+      <media:credit>Sunday Alamba/Associated Press</media:credit>
+      <media:description>Flares burning in the Niger Delta region of Nigeria in 2021.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2022/05/09/briefing/vladimir-putin-speech-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/briefing/vladimir-putin-speech-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/briefing/vladimir-putin-speech-economy.html" rel="standout"></atom:link>
+      <description>Putin’s Victory Day speech.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 10 May 2022 04:06:56 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/10ambriefing-europe-nl-promo/09ukraine-blog-victoryday-photos-version05-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
+      <media:description>Vladimir Putin entering the Red Square to attend the Victory Day parade.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: A Marcos Victory?</title>
+      <link>https://www.nytimes.com/2022/05/09/briefing/marcos-philippines-president-sri-lanka.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/briefing/marcos-philippines-president-sri-lanka.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/briefing/marcos-philippines-president-sri-lanka.html" rel="standout"></atom:link>
+      <description>Plus the resignation of Sri Lanka’s prime minister and Taiwan’s pandemic pivot.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 09 May 2022 21:03:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombo (Sri Lanka)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sri Lanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajapaksa, Mahinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/multimedia/10ambriefing-asia-nl-PROMO/10ambriefing-asia-nl-macros-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Ferdinand Marcos Jr., the son of the former dictator who was ousted 36 years ago, addressed his supporters during a campaign rally in March.</media:description>
+    </item>
+    <item>
+      <title>Former Heads of State Call on U.S. to Commit $5 Billion for Global Covid Aid</title>
+      <link>https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html" rel="standout"></atom:link>
+      <description>Activists are also pressing President Biden to take a more forceful leadership role in the response as he convenes world leaders for a Covid-19 summit on Thursday.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Tue, 10 May 2022 17:07:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Gordon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/multimedia/09dc-virus-global/09dc-virus-global-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden delivering remarks on the status of the country’s fight against Covid-19 at the White House in March.</media:description>
+    </item>
+    <item>
+      <title>Biden Signs Lend-Lease Act, Speeding Up Weapons Shipments to Ukraine</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/biden-lend-lease-act-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/biden-lend-lease-act-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/biden-lend-lease-act-ukraine.html" rel="standout"></atom:link>
+      <description>The law will waive time-consuming requirements on the provision of arms to Ukraine considered critical to its defense against Russian forces.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Mon, 09 May 2022 21:47:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/us/politics/09DC-UKRAINE-WEAPONS-cover/09DC-UKRAINE-WEAPONS-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Cheriss May for The New York Times</media:credit>
+      <media:description>President Biden signing the Ukraine Democracy Defense Lend-Lease Act on Monday at the White House. He has tried to back Ukraine while avoiding giving the impression that the United States is in a proxy war.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth to Miss Opening of Parliament</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/queen-elizabeth-parliament-opening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/queen-elizabeth-parliament-opening.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/queen-elizabeth-parliament-opening.html" rel="standout"></atom:link>
+      <description>Prince Charles will deliver the Queen’s Speech instead of his mother, who has missed the constitutional monarchy’s powerful symbol only twice in 70 years.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 09 May 2022 19:40:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09uk-queen-2/09uk-queen-2-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Chris Jackson</media:credit>
+      <media:description>Queen Elizabeth II reading the Queen&#39;s Speech during the opening of Parliament last year. </media:description>
+    </item>
+    <item>
+      <title>Macron Calls for ‘Stronger’ Europe but Quashes Ukraine’s Hopes of Joining E.U. Soon</title>
+      <link>https://www.nytimes.com/2022/05/09/world/emmanuel-macron-european-union-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/emmanuel-macron-european-union-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/emmanuel-macron-european-union-ukraine.html" rel="standout"></atom:link>
+      <description>French president Emmanuel Macron spoke in Strasbourg and Berlin on Monday, outlining proposals to reform the European Union.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Mon, 09 May 2022 20:13:53 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ukraine-blog-france-sub/09ukraine-blog-france-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Ludovic Marin</media:credit>
+      <media:description>France’s President Emmanuel Macron in Strasbourg, eastern France, on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Victory Day Speech, Putin Told Russians What He Wanted Them to Hear</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/putin-speech-victory-day-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/putin-speech-victory-day-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/putin-speech-victory-day-ukraine-war.html" rel="standout"></atom:link>
+      <description>The Russian president, in a much-anticipated speech on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Tue, 10 May 2022 01:54:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ukraine-putin-vid-cover-sub/09ukraine-putin-vid-cover-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Maxim Shemetov/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Russia’s Invasion Upends Shared Victory Day History With Ukraine</title>
+      <link>https://www.nytimes.com/2022/05/09/world/europe/world-war-ii-victory-day-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/europe/world-war-ii-victory-day-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/europe/world-war-ii-victory-day-russia-ukraine.html" rel="standout"></atom:link>
+      <description>The war has complicated relationships between Russians and Ukrainians.</description>
+      <dc:creator>Michael Schwirtz</dc:creator>
+      <pubDate>Mon, 09 May 2022 17:47:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09ukraine-blog-kramatorsk-photos/09ukraine-blog-kramatorsk-photos-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Nina Mikhailovna laid flowers on Monday at the Kramatorsk World War II memorial on the anniversary of the Soviet Union’s victory over the Nazis, as explosions thundered nearby in the Donbas region of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>U.S. to Lift Tariffs on Ukrainian Steel</title>
+      <link>https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html" rel="standout"></atom:link>
+      <description>The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Mon, 09 May 2022 19:56:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/business/09DC-UKRAINESTEEL1-print/09DC-UKRAINESTEEL-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>The ArcelorMittal plant in Kryvyi Rih, Ukraine. The steel sector is a significant source of economic growth and employment for Ukraine.</media:description>
+    </item>
+    <item>
+      <title>‘‘It’s not over yet’’: Way ahead in early counting, Ferdinand Marcos Jr. remains cautious.</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/early-vote-counts-point-to-a-lopsided-lead-for-ferdinand-marcos-jr.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/early-vote-counts-point-to-a-lopsided-lead-for-ferdinand-marcos-jr.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/early-vote-counts-point-to-a-lopsided-lead-for-ferdinand-marcos-jr.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 09 May 2022 17:05:09 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-tally/09philippines-election-tally-moth.jpg" width="151"></media:content>
+      <media:credit>Lauren Decicca/Getty Images</media:credit>
+      <media:description>Ferdinand Marcos Jr. heading to vote in Batac, Philippines, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Voters complain of broken machines and long waits.</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/voters-complained-of-broken-machines-and-long-waits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/voters-complained-of-broken-machines-and-long-waits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/voters-complained-of-broken-machines-and-long-waits.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Sui-Lee Wee and Camille Elemia</dc:creator>
+      <pubDate>Mon, 09 May 2022 16:35:25 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-polls/09philippines-election-polls-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Voting in Manila on Monday.</media:description>
+    </item>
+    <item>
+      <title>Appease or Confront</title>
+      <link>https://www.nytimes.com/2022/05/09/briefing/ve-day-europe-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/briefing/ve-day-europe-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/briefing/ve-day-europe-ukraine-war.html" rel="standout"></atom:link>
+      <description>It’s Victory Day in Russia — a holiday honoring World War II that has long been important to Vladimir Putin.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 09 May 2022 11:08:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/multimedia/09THE-AM-Mon-promo/09THE-AM-Mon-putin-02-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>Pro-Putin flags in Moscow in 2014.</media:description>
+    </item>
+    <item>
+      <title>A Woman Alone in Oman: Three Weeks Along the Arabian Coast</title>
+      <link>https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html" rel="standout"></atom:link>
+      <description>In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here’s what she saw.</description>
+      <dc:creator>Noa Avishag Schnall</dc:creator>
+      <pubDate>Mon, 09 May 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dunes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/travel/09travel-oman-promo/09travel-oman-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Noa Avishag Schnall</media:credit>
+      <media:description>Dromedaries graze in the marsh where fresh water from Wadi Ashawq meets the Arabian Sea.</media:description>
+    </item>
+    <item>
+      <title>Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html" rel="standout"></atom:link>
+      <description>The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness.</description>
+      <dc:creator>Amy Qin, Amy Chang Chien and Isabelle Qian</dc:creator>
+      <pubDate>Mon, 09 May 2022 10:59:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/06/world/00virus-china-taiwan-01/00virus-china-taiwan-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>A wet market in New Taipei City, Taiwan. The government’s shift in Covid strategy is partly out of necessity. The island risks losing out on tourism and investment by staying closed.</media:description>
+    </item>
+    <item>
+      <title>Two political clans with an autocratic past seek power together.</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/two-political-clans-with-an-autocratic-past-seek-power-together.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/two-political-clans-with-an-autocratic-past-seek-power-together.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/two-political-clans-with-an-autocratic-past-seek-power-together.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Mon, 09 May 2022 08:59:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-dynasty-01/09philippines-election-dynasty-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ezra Acayan for The New York Times</media:credit>
+      <media:description>A farmer carries a sack of rice next to a mobile rice mill adorned with a campaign poster for Ferdinand “Bongbong” Marcos Jr. and Sara Duterte, in Nueva Ecija Province in May.</media:description>
+    </item>
+    <item>
+      <title>Young Filipinos Embrace Leni Robredo, Sole Woman in Presidential Race</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html" rel="standout"></atom:link>
+      <description>“Generation Z” and thousands of millennial voters drew inspiration from her effort to take on Ferdinand Marcos Jr.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 09 May 2022 17:57:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robredo, Leni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-robredo-01/09philippines-election-robredo-01-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Leni Robredo at a March campaign event in Pasig City.</media:description>
+    </item>
+    <item>
+      <title>Reports of Violence Leave Philippines Voters on Edge</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html" rel="standout"></atom:link>
+      <description>Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation.</description>
+      <dc:creator>Jason Gutierrez</dc:creator>
+      <pubDate>Mon, 09 May 2022 10:02:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robredo, Leni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-voting-05/09philippines-election-voting-05-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Police officers on Monday near a polling station in Manila. Violence is common during Philippine elections, and the government has deployed more than 250,000 police and military personnel to prevent it.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2022/05/09/briefing/ukraine-war-commemoration-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/briefing/ukraine-war-commemoration-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/briefing/ukraine-war-commemoration-covid.html" rel="standout"></atom:link>
+      <description>Commemorations against a backdrop of war.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 09 May 2022 05:10:29 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/08/world/09ambriefing-europe-nl-promo/08ukraine-blog-header-1045am-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+      <media:description>A World War II memorial in Kyiv on Sunday, a Ukrainian holiday known as the Day of Remembrance and Reconciliation.</media:description>
+    </item>
+    <item>
+      <title>Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</title>
+      <link>https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html" rel="standout"></atom:link>
+      <description>Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 09 May 2022 04:55:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcos, Ferdinand E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/09/world/09philippines-election-marcos-01/09philippines-election-marcos-01-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Ferdinand Marcos Jr. addressing his supporters during a campaign rally in March.</media:description>
+    </item>
+  </channel>
+</rss>

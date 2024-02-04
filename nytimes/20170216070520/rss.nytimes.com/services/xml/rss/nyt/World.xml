@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 16 Feb 2017 07:02:37 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Trump, Meeting With Netanyahu, Backs Away From Palestinian State</title>
+      <link>http://www.nytimes.com/2017/02/15/world/middleeast/benjamin-netanyahu-israel-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/middleeast/benjamin-netanyahu-israel-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/middleeast/benjamin-netanyahu-israel-trump.html?partner=rss&amp;emc=rss"/>
+      <description>In talks with Israel&#x2019;s prime minister, the president said the United States would no longer insist on a two-state solution for a peace accord.</description>
+      <dc:creator>PETER BAKER and MARK LANDLER</dc:creator>
+      <pubDate>Thu, 16 Feb 2017 06:58:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Israeli Settlement Sees Friendly Faces in Trump Administration</title>
+      <link>http://www.nytimes.com/2017/02/15/world/middleeast/david-friedman-beit-el-west-bank.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/middleeast/david-friedman-beit-el-west-bank.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/middleeast/david-friedman-beit-el-west-bank.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Israel1/16Israel1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Beit El, an Israeli settlement near Ramallah in the West Bank, was founded in 1977 on private Palestinian land originally seized by Israel for military purposes.</media:description>
+      <media:credit>Rina Castelnuovo for The New York Times</media:credit>
+      <description>David M. Friedman, President Trump&#x2019;s nominee as envoy to Israel, has close ties to a religious settlement deep in the Israeli-occupied West Bank.</description>
+      <dc:creator>ISABEL KERSHNER</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 17:07:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedman, David M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+    </item>
+    <item>
+      <title>Palestinians Dismayed as U.S. Appears to Back Off Two-State Solution</title>
+      <link>http://www.nytimes.com/2017/02/15/world/middleeast/trump-israel-two-state-solution.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/middleeast/trump-israel-two-state-solution.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/middleeast/trump-israel-two-state-solution.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Palestinians/16Palestinians-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A separation barrier near the Shuafat Palestinian refugee camp in East Jerusalem. Some Israelis say a two-state solution to the Middle East conflict is impossible because the Palestinians in the West Bank and those in Gaza disagree on too many issues.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The possible end of a 50-year-old United States policy was raised by a White House official ahead of President Trump&#x2019;s meeting with Prime Minister Benjamin Netanyahu of Israel.</description>
+      <dc:creator>IAN FISHER</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 22:42:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+    </item>
+    <item>
+      <title>Joint Chiefs Chairman to Meet With Russian Counterpart in Azerbaijan</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/russia-azerbaijan-general-dunford.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/russia-azerbaijan-general-dunford.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/russia-azerbaijan-general-dunford.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/us/16military/16military-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gen. Joseph F. Dunford Jr., the chairman of the Joint Chiefs of Staff, at the Pentagon last month. He will met with Gen. Valery V. Gerasimov on Thursday.</media:description>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <description>It will be the first face-to-face meeting of military chiefs from Washington and Moscow since 2014, and takes place while the Trump administration&#x2019;s policy toward Russia is unclear.</description>
+      <dc:creator>MICHAEL R. GORDON</dc:creator>
+      <pubDate>Thu, 16 Feb 2017 01:40:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Joint Chiefs of Staff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunford, Joseph F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baku (Azerbaijan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+    </item>
+    <item>
+      <title>Where Is Rex Tillerson? Top Envoy Keeps Head Down and Travels Light</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/germany-rex-tillerson.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/germany-rex-tillerson.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/germany-rex-tillerson.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Germany/16Germany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rex W. Tillerson boarded his flight to Germany on Wednesday, making his first foreign trip as secretary of state. He has been conspicuously absent from several prominent events, often relying on a surrogate.</media:description>
+      <media:credit>Brendan Smialowski/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The secretary of state has skipped major events, and he is visiting Germany, his first foreign trip in office, with a bare-bones entourage as hiring for his staff lags.</description>
+      <dc:creator>GARDINER HARRIS</dc:creator>
+      <pubDate>Thu, 16 Feb 2017 00:58:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bonn (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Group of Twenty</category>
+    </item>
+    <item>
+      <title>Ireland&#x2019;s Prime Minister in Crisis Over Case of Police Whistle-Blower</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/enda-kenny-ireland-scandal-maurice-mccabe-police.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/enda-kenny-ireland-scandal-maurice-mccabe-police.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/enda-kenny-ireland-scandal-maurice-mccabe-police.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Ireland1/16Ireland1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Enda Kenny is facing a political crisis over a police scandal that dates back to 2006.</media:description>
+      <media:credit>Charles McQuillan/Getty Images</media:credit>
+      <description>The matter of Sgt. Maurice McCabe, who was falsely accused of child sexual abuse, has roiled the highest ranks of the government and been likened to the case of New York City&#x2019;s Detective Frank Serpico.</description>
+      <dc:creator>SINEAD O&#x2019;SHEA</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 20:28:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCabe, Maurice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenny, Enda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Whistle-Blowers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+    </item>
+    <item>
+      <title>Venezuela Blocks CNN en Espa&#xF1;ol Over Report on Passport Fraud</title>
+      <link>http://www.nytimes.com/2017/02/15/world/americas/venezuela-cnn-tareck-el-aissami-maduro-sanctions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/americas/venezuela-cnn-tareck-el-aissami-maduro-sanctions.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/americas/venezuela-cnn-tareck-el-aissami-maduro-sanctions.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Venez/16Venez-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>University students marching on Wednesday in Caracas against President Nicol&#xE1;s Maduro, demanding early elections and protesting the country&#x2019;s economic and political crisis.</media:description>
+      <media:credit>Federico Parra/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The CNN channel had broadcast a report linking the country&#x2019;s vice president and others to a passport scheme at its embassy in Iraq.</description>
+      <dc:creator>NICHOLAS CASEY</dc:creator>
+      <pubDate>Thu, 16 Feb 2017 01:10:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CNN en Espanol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Frauds and Swindling</category>
+    </item>
+    <item>
+      <title>Facebook Live Killing of Dominican Journalists Leads to Arrest of 3 Men</title>
+      <link>http://www.nytimes.com/2017/02/15/world/americas/arrests-made-in-facebook-live-killing-of-dominican-journalists.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/americas/arrests-made-in-facebook-live-killing-of-dominican-journalists.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/americas/arrests-made-in-facebook-live-killing-of-dominican-journalists.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/15/world/16xp-dominican1/16xp-dominican1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Investigators at the offices of the FM radio station 103.5 radio station inSan Pedro de Macor&#xED;s, Dominican Republic, on Tuesday.</media:description>
+      <media:credit>Orlando Barria/European Pressphoto Agency</media:credit>
+      <description>Gunmen opened fire while one journalist was reading the news at a station east of Santo Domingo. His producer was killed in another room.</description>
+      <dc:creator>KIMIKO de FREYTAS-TAMURA</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 16:26:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+    </item>
+    <item>
+      <title>South Africa, a Nation With Sharp Inequality, Considers a Minimum Wage</title>
+      <link>http://www.nytimes.com/2017/02/15/world/africa/south-africa-minimum-wage.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/africa/south-africa-minimum-wage.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/africa/south-africa-minimum-wage.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/08/world/00safrica1/00safrica1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Approximately 400,000 people live in Khayelitsha, which is roughly situated between two of South Africa&#x2019;s richest areas: Cape Town and the wine country of Stellenbosch. The township provides many of the workers for both communities.</media:description>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <description>The move would help reduce poverty and inequality, supporters say, but opponents contend it would worsen already high unemployment.</description>
+      <dc:creator>NORIMITSU ONISHI</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 17:37:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minimum Wage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+    </item>
+    <item>
+      <title>Malaysia Arrests Second Woman in Killing of Kim Jong-un&#x2019;s Half Brother</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/kim-jong-un-brother-assassination-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/kim-jong-un-brother-assassination-north-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/kim-jong-un-brother-assassination-north-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/17/world/17korea-1/17korea-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The police refusing to answer questions from the news media after embassy officials from North Korea left the hospital in Kuala Lumpur where the body of Kim Jong-nam was believed to be.</media:description>
+      <media:credit>Mohd Rasfan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The news media reported that the police were also looking for four male suspects, suggesting that the plot was more involved than initially indicated.</description>
+      <dc:creator>RICHARD C. PADDOCK</dc:creator>
+      <pubDate>Thu, 16 Feb 2017 04:53:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-nam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuala Lumpur (Malaysia)</category>
+    </item>
+    <item>
+      <title>Myanmar Says Ex-Army Officer Ordered Prominent Lawyer&#x2019;s Murder</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/myanmar-says-ex-army-officer-ordered-prominent-lawyers-murder.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/myanmar-says-ex-army-officer-ordered-prominent-lawyers-murder.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/myanmar-says-ex-army-officer-ordered-prominent-lawyers-murder.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Myanmar1/16Myanmar1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The funeral last month in Yangon, Myanmar, for U Ko Ni, a well-known human rights lawyer, who was fatally shot at the Yangon International Airport on Jan. 29.</media:description>
+      <media:credit>Nyein Chan Naing/European Pressphoto Agency</media:credit>
+      <description>The Myanmar authorities said the ex-army officer paid another man to kill U Ko Ni, who had been rewriting the Constitution to reduce the power of the military.</description>
+      <dc:creator>WAI MOE</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 22:00:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ko Ni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National League for Democracy (Myanmar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+    </item>
+    <item>
+      <title>Winston Churchill Wrote of Alien Life in a Lost Essay</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/winston-churchill-aliens.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/winston-churchill-aliens.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/winston-churchill-aliens.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16XP-Churchill/16XP-Churchill-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Winston Churchill, a longtime science enthusiast, at his home in Chartwell, England, in October 1939. He sent an essay to his publisher that month, just weeks after Britain entered World War II, that pondered the existence of extraterrestrials.</media:description>
+      <media:credit>Topical Press Agency, via Getty Images</media:credit>
+      <description>At the onset of World War II, he took the time to write a scientific paper about the probability of life elsewhere in the universe.</description>
+      <dc:creator>KIMIKO de FREYTAS-TAMURA</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 18:05:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mario Livio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Defense Secretary Mattis Tells NATO Allies to Spend More, or Else</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/jim-mattis-nato-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/jim-mattis-nato-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/jim-mattis-nato-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Mattis/16Mattis-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Defense Secretary Jim Mattis, left, and the secretary general of NATO, Jens Stoltenberg, in Brussels on Wednesday. &#x201C;If your nations do not want to see America moderate its commitment to this alliance, each of your capitals needs to show support for our common defense,&#x201D; Mr. Mattis said.</media:description>
+      <media:credit>Francois Lenoir/Reuters</media:credit>
+      <description>The defense secretary said the United States could &#x201C;moderate its commitment&#x201D; to NATO if members did not increase military spending.</description>
+      <dc:creator>HELENE COOPER</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 19:28:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Medicine Hat Journal: A Canadian City Thrives on Gas, Like a &#x2018;Wealthy Little Country&#x2019;</title>
+      <link>http://www.nytimes.com/2017/02/15/world/americas/medicine-hat-canada-natural-gas.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/americas/medicine-hat-canada-natural-gas.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/americas/medicine-hat-canada-natural-gas.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16medicinehat-1/16medicinehat-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A plant that produces methanol using natural gas on the outskirts of Medicine Hat, in Alberta&#x2019;s badlands. Medicine Hat is built above the largest and oldest pool of natural gas in Canada.</media:description>
+      <media:credit>Aaron Vincent Elkaim for The New York Times</media:credit>
+      <description>Medicine Hat, an Alberta city flush with gas wells, oil fields and renewable energy, is setting up a &#x201C;heritage fund&#x201D; to secure its future wealth.</description>
+      <dc:creator>CRAIG S. SMITH</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 14:30:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ripley's Believe It or Not!</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Medicine Hat (Alberta)</category>
+    </item>
+    <item>
+      <title>Russia Dismisses Reports That Trump Aides Had Contact With Intelligence Agents</title>
+      <link>http://www.nytimes.com/2017/02/15/world/europe/russia-intelligence-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/europe/russia-intelligence-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/europe/russia-intelligence-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16Russia/16Russia-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Kremlin&#x2019;s spokesman, Dmitri S. Peskov, in New York in November. He denied outright that Michael T. Flynn had discussed sanctions with the Russian ambassador to Washington.</media:description>
+      <media:credit>Misha Friedman for The New York Times</media:credit>
+      <description>Soon after, President Trump said on Twitter that Crimea had been taken by Russia during the Obama administration, asking if his predecessor had been too soft.</description>
+      <dc:creator>IVAN NECHEPURENKO</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 14:17:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+    </item>
+    <item>
+      <title>India Launches 104 Satellites From a Single Rocket, Ramping Up a Space Race</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/india-satellites-rocket.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/india-satellites-rocket.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/india-satellites-rocket.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16India/16India-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Indian Space Research Organization launched a flock of 104 satellites into space over the course of 18 minutes on Wednesday.</media:description>
+      <media:credit>Indian Space Research Organization </media:credit>
+      <description>The country nearly tripled the previous record of 37, set by Russia, establishing itself as a major player in the growing market for surveillance and communication.</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 12:01:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Indian Space Research Organization</category>
+    </item>
+    <item>
+      <title>For North Koreans in Kim Jong-un&#x2019;s Orbit, Falling From Favor Can Be Deadly</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/north-korea-executions-kim-jong-un.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/north-korea-executions-kim-jong-un.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/north-korea-executions-kim-jong-un.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16purge-1/16purge-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clockwise from top left: Ri Yong-ho; Jang Song-thaek; Hyon Yong-chol; Choe Yong-gon; Kim Yong-jin; Kim Won-hong.</media:description>
+      <media:credit>KCNA; Xinhua; KCNA; Pool photo by Jung Yeon-Je; Kyodo News; KCNA</media:credit>
+      <description>The list of executions and purges is punctuated with the names of high-ranking officials and confidants of Mr. Kim who later became targets of his displeasure.</description>
+      <dc:creator>GERRY MULLANY</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 11:41:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jang Song-Thaek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Won-hong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Yong-jin</category>
+    </item>
+    <item>
+      <title>Kim Jong-nam, the Hunted Heir to a Dictator Who Met Death in Exile</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/kim-jong-nam-assassination-north-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/kim-jong-nam-assassination-north-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/kim-jong-nam-assassination-north-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16korea-1/16korea-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The forensic department of Kuala Lumpur General Hospital in Malaysia, where the body of Kim Jong-nam was believed to be on Wednesday.</media:description>
+      <media:credit>Rahman Roslan/Getty Images</media:credit>
+      <description>The half brother of North Korea&#x2019;s leader, reportedly poisoned in a Malaysian airport, had lived a playboy&#x2019;s life but never stopped looking over his shoulder.</description>
+      <dc:creator>CHOE SANG-HUN and RICHARD C. PADDOCK</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 11:01:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-nam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong Il</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuala Lumpur (Malaysia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Macau</category>
+    </item>
+    <item>
+      <title>Runoff Likely in Jakarta Election Seen as Test of Tolerance for Indonesia</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/jakarta-election-ahok-indonesia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/jakarta-election-ahok-indonesia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/jakarta-election-ahok-indonesia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/world/16indonesia-1/16indonesia-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Basuki Tjahaja Purnama, an ethnic Chinese Christian, campaigning to remain governor of Jakarta, Indonesia, during the first round of voting on Wednesday. A blasphemy trial has him fighting for his political life.</media:description>
+      <media:credit>Oscar Siagian/Getty Images</media:credit>
+      <description>Gov. Basuki Tjahaja Purnama, an ethnic Chinese Christian who has been charged with blasphemy, appeared to have received the most votes but not enough to win outright.</description>
+      <dc:creator>JOE COCHRANE</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 20:40:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jakarta (Indonesia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Basuki Tjahaja Purnama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Blasphemy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+    </item>
+    <item>
+      <title>Sinosphere: Fighting on Behalf of China&#x2019;s Women &#x2014; From the United States</title>
+      <link>http://www.nytimes.com/2017/02/15/world/asia/china-trump-feminists-march.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/world/asia/china-trump-feminists-march.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/15/world/asia/china-trump-feminists-march.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/15/world/15chinalu-1/15chinalu-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chinese feminists who took part in the Women&#x2019;s March on Washington last month. They held signs in Chinese as well as in English in front of the Trump International Hotel.</media:description>
+      <media:credit>Mengwen Cao</media:credit>
+      <description>Lu Pin, a Chinese feminist who participated in the Women&#x2019;s March on Washington, talked about opening a new front for China&#x2019;s women in America.</description>
+      <dc:creator>LUO SILING</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 06:12:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lu Pin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Women's March on Washington</category>
+    </item>
+    <item>
+      <title>&#x2018;I Didn&#x2019;t Want to Lose My Identity&#x2019;: 16,000 Readers Reflect on Their Surnames</title>
+      <link>http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/17/world/surnames/surnames-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katherine Yuk from Toronto was one of more than 16,000 readers who responded when The New York Times asked women around the world why they kept or changed their surnames when they married.</media:description>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <description>The Times asked women around the world why they had kept or changed their surnames when they married. For many, the decision carried significant weight.</description>
+      <dc:creator>HANNA INGBER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 11:00:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-comments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+    </item>
+    <item>
+      <title>15 of the Best Journals by Our Reporters Around the World</title>
+      <link>http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/01/18/world/asia/19India-slideshow-slide-FU7J/19India-slideshow-slide-FU7J-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man folding blankets that are rented out to the homeless in Delhi.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The conversational and visual on-the-ground reports offered a glimpse of captivating people and places, from a &#x201C;sleep mafia&#x201D; in Delhi to a monastery seeking salvation in beer.</description>
+      <dc:creator>Compiled by BARBARA TIERNEY</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 14:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Exit the Dragon: Why China Should Stop Supporting Venezuela</title>
+      <link>http://www.nytimes.com/2017/02/15/opinion/exit-the-dragon-why-china-should-stop-supporting-venezuela.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/opinion/exit-the-dragon-why-china-should-stop-supporting-venezuela.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/02/15/opinion/15lansberg-inyt/15lansberg-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Nicol&#xE1;s Maduro of Venezuela, right, and President Xi Jinping of China at a welcoming ceremony last month in Beijing.</media:description>
+      <media:credit>Pool photo by Andy Wong</media:credit>
+      <description>Chinese loans are the main lifeline of President Maduro&#x2019;s government, but it is time for Beijing to let a corrupt regime go.</description>
+      <dc:creator>DANIEL LANSBERG-RODR&#xCD;GUEZ</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 15:59:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Theresa May&#x2019;s Empire of the Mind</title>
+      <link>http://www.nytimes.com/2017/02/15/opinion/theresa-mays-empire-of-the-mind.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/opinion/theresa-mays-empire-of-the-mind.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/02/15/opinion/15whyman-illo/15whyman-illo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Pete Gamlen</media:credit>
+      <description>The British prime minister&#x2019;s vision of Brexit takes place in an imperialist alternate reality.</description>
+      <dc:creator>TOM WHYMAN</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 09:34:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: Swearing, Italian Style</title>
+      <link>http://www.nytimes.com/2017/02/15/opinion/swearing-italian-style.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/15/opinion/swearing-italian-style.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/02/16/opinion/16Severgnini-inyt/16Severgnini-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Beppe Grillo, leader of Five-Star Movement, speaking at a rally on the Italian constitutional referendum in Turin, Italy, in December.</media:description>
+      <media:credit>Alessandro Di Marco/ANSA, via Associated Press</media:credit>
+      <description>Our language was once an elegant, gentle one. So why are we all cursing like sailors?</description>
+      <dc:creator>BEPPE SEVERGNINI</dc:creator>
+      <pubDate>Wed, 15 Feb 2017 15:20:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Italian Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">La Dolce Vita (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+    </item>
+  </channel>
+</rss>

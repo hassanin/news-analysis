@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 16 Feb 2022 23:00:31 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Feb 2022 22:59:01 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</title>
+      <link>https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news" rel="standout"></atom:link>
+      <description>Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:55:49 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-lede-SFpromo/16ukraine-briefing-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Ukrainians in a pedestrian area of Kyiv, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html" rel="standout"></atom:link>
+      <description>A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:36:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16ukraine-poland01/16ukraine-poland01-moth.jpg" width="151"></media:content>
+      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
+      <media:description>Decommissioned Soviet-era warplanes outside a U.S. base in the village of Redzikowo, Poland.</media:description>
+    </item>
+    <item>
+      <title>Defiant Protesters in Canada Brace for a Clampdown</title>
+      <link>https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html" rel="standout"></atom:link>
+      <description>The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in.</description>
+      <dc:creator>Dan Bilefsky</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:55:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16canada-1sub/16canada-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Vehicles blocking a road during a protest by truck drivers over pandemic health rules and the Trudeau government, in Ottawa on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html" rel="standout"></atom:link>
+      <description>A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:30:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuffre, Virginia Roberts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16uk-andrew-add/16uk-andrew-add-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Steve Parsons</media:credit>
+      <media:description>Queen Elizabeth II, who is celebrating seven decades on the throne this year, at Windsor Castle on Wednesday. </media:description>
+    </item>
+    <item>
+      <title>Afghans Find Room for Debate on Twitter Spaces</title>
+      <link>https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html" rel="standout"></atom:link>
+      <description>An audio live chat feature on Twitter has become a go-to place for Afghans still recovering from the collapse of the former government and seeking answers on everything from what went wrong to what comes next.</description>
+      <dc:creator>Sharif Hassan</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 14:48:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/world/00afghan-twitter-3/00afghan-twitter-3-moth.jpg" width="151"></media:content>
+      <media:credit>Kiana Hayeri for The New York Times</media:credit>
+      <media:description>Shopkeepers in a deserted Kabul shop, checking social media on their phones to pass the time.</media:description>
+    </item>
+    <item>
+      <title>U.S. Warns Americans Abroad Not to Count on a Rescue</title>
+      <link>https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html" rel="standout"></atom:link>
+      <description>In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated.</description>
+      <dc:creator>Michael Crowley</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:06:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16dc-evacuations-Kyiv/16dc-evacuations-Kyiv-moth.jpg" width="151"></media:content>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <media:description>The city center of Kyiv, Ukraine’s capital. U.S. officials have stressed that, in the event of a Russian invasion, America would not rescue its citizens who remain in the country.</media:description>
+    </item>
+    <item>
+      <title>London&#39;s Troubled Metropolitan Police Service Searches for a New Leader</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html" rel="standout"></atom:link>
+      <description>The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 19:15:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Everard, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Sadiq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15uk-police01sub/15uk-police01sub-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>Cressida Dick, front left, resigned as head of the London police service last week after facing a barrage of criticism over reports of sexism and racism on the force.</media:description>
+    </item>
+    <item>
+      <title>Mudslides in Brazil Kill at Least 78 People</title>
+      <link>https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html" rel="standout"></atom:link>
+      <description>Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900.</description>
+      <dc:creator>Ana Ionova</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:36:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16Brazil-mudslides-4/16Brazil-mudslides-4-moth.jpg" width="151"></media:content>
+      <media:credit>Carl De Souza/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The scene after a mudslide in Petrópolis, Brazil on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Biden Administration Says China Failed Trade Commitments </title>
+      <link>https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html" rel="standout"></atom:link>
+      <description>In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 19:26:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tai, Katherine (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16dc-chinatrade-02/16dc-chinatrade-02-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Shipping containers at the Port of Oakland in California, one of the main ports for receiving Chinese imports.</media:description>
+    </item>
+    <item>
+      <title>Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html" rel="standout"></atom:link>
+      <description>Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear.</description>
+      <dc:creator>Aina J. Khan</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 22:27:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exploration and Explorers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chandi, Harpreet (Preet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Pole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/00uk-southpole01sub/merlin_202185843_38c968a3-7782-42f9-96f1-0d804f56da7e-moth.jpg" width="151"></media:content>
+      <media:credit>Preet Chandi</media:credit>
+      <media:description>Harpreet “Preet” Chandi, a 32-year-old captain in the British Army, at the end of her Antarctic journey. For her, it was not just a test of her physical and mental resilience, but also a way to reclaim her heritage.</media:description>
+    </item>
+    <item>
+      <title>Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html" rel="standout"></atom:link>
+      <description>One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 07:28:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuffre, Virginia Roberts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15uk-andrew-1/15uk-andrew-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Steve Parsons</media:credit>
+      <media:description>Prince Andrew last year.</media:description>
+    </item>
+    <item>
+      <title>Omicron Reveals Hong Kong&#39;s Covid Dilemma</title>
+      <link>https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html" rel="standout"></atom:link>
+      <description>An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus.</description>
+      <dc:creator>Vivian Wang and Austin Ramzy</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 11:08:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16virus-hongkong1-top/16virus-hongkong1-top-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Kwan/Getty Images</media:credit>
+      <media:description>Patients with Covid-19 symptoms at a temporary holding area outside a hospital in Hong Kong on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</title>
+      <link>https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html" rel="standout"></atom:link>
+      <description>American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile.</description>
+      <dc:creator>Amy Qin</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 10:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2008)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Figure Skating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hanyu, Yuzuru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jin Boyang (1997- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Yi (2002- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gu, Eileen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/sports/00olympics-china-americans/00olympics-china-americans-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Eileen Gu celebrated her silver medal win for China in the freeski slopestyle competition on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html" rel="standout"></atom:link>
+      <description>In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances.</description>
+      <dc:creator>Matina Stevis-Gridneff, Monika Pronczuk and Benjamin Novak</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 13:30:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16eu-court-1/16eu-court-1-moth.jpg" width="151"></media:content>
+      <media:credit>Bernadett Szabo/Reuters</media:credit>
+      <media:description>Prime Minister Viktor Orban of Hungary speaking in Budapest this month. Losing out on E.U. money is a very touchy subject for Mr. Orban.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: West Doubts Russia’s Claims</title>
+      <link>https://www.nytimes.com/2022/02/16/briefing/ukraine-russia-olympics-hong-kong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/briefing/ukraine-russia-olympics-hong-kong.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/briefing/ukraine-russia-olympics-hong-kong.html" rel="standout"></atom:link>
+      <description>Russia said troops were ordered to pull back, but threats remain, U.S. and NATO say.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 21:01:40 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/17/multimedia/17ambriefing-asia-PROMO-01/17ambriefing-asia-ukraine-moth.jpg" width="151"></media:content>
+      <media:credit> Tyler Hicks/The New York Times</media:credit>
+      <media:description>The Ukrainian Army at a front line position near Katerynivka, in Luhansk Oblast of eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html" rel="standout"></atom:link>
+      <description>Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 18:20:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Javid, Sajid (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/lens/16virs-briefing-england-vaccine/16virs-briefing-england-vaccine-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Preparing a dose of a Pfizer-BioNTech coronavirus vaccine at a temporary vaccination center set up inside St John’s Church in London in December.</media:description>
+    </item>
+    <item>
+      <title>Putin&#39;s Long Table Sparks Dispute Over Who Built It</title>
+      <link>https://www.nytimes.com/2022/02/16/world/putin-table.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/putin-table.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/putin-table.html" rel="standout"></atom:link>
+      <description>The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers.</description>
+      <dc:creator>Emma Bubola and Raphael Minder</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 17:43:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Furniture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16ukraine-briefing-table03sub-promo/16ukraine-briefing-table03sub-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Mikhail Klimentyev/Sputnik, via Associated Press</media:credit>
+      <media:description>Chancellor Olaf Scholz of Germany on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Public Face of Canada Protests Is a Former Leader of a Secessionist Party</title>
+      <link>https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html" rel="standout"></atom:link>
+      <description>Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters.</description>
+      <dc:creator>Sarah Maslin Nir and Dan Bilefsky</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 21:03:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lich, Tamara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16canada-protests-briefing-TamaraLichprofile-1/16canada-protests-briefing-TamaraLichprofile-1-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Doyle/Reuters</media:credit>
+      <media:description>Tamara Lich, an organizer of the protest, speaks with police liaison officers in Ottawa, last week.</media:description>
+    </item>
+    <item>
+      <title>Shark Kills Swimmer in Rare Death Off Sydney Coast</title>
+      <link>https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html" rel="standout"></atom:link>
+      <description>The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.”</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 16:47:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sydney (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New South Wales (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Florida Museum of Natural History</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Shark Attack File</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16xp-shark-death-2/16xp-sharkattack-moth.jpg" width="151"></media:content>
+      <media:credit>Randwick City Council/Instagram</media:credit>
+      <media:description>Little Bay Beach, in Sydney, Australia, on Wednesday. In recent decades, Australia has recorded an average of one fatal shark bite a year.</media:description>
+    </item>
+    <item>
+      <title>Museum Security Guard Adds Eyes to Painting’s Faceless Figures</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html" rel="standout"></atom:link>
+      <description>The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s.</description>
+      <dc:creator>Derrick Bryson Taylor and Alyssa Lukpat</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 13:48:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="">Three Figures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leporskaya, Anna (1900-82)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yeltsin, Boris, Presidential Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yekaterinburg (Russia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/multimedia/14xp-painting-top/14xp-painting-top-moth-v2.jpg" width="151"></media:content>
+      <media:credit>The Art Newspaper Russia, via Associated Press</media:credit>
+      <media:description>A detail from “Three Figures,” by Anna Leporskaya, after a security guard penned eyes on two of the faces in the painting.</media:description>
+    </item>
+    <item>
+      <title>Is Ukraine Cooling?</title>
+      <link>https://www.nytimes.com/2022/02/16/briefing/russia-ukraine-putin-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/briefing/russia-ukraine-putin-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/briefing/russia-ukraine-putin-biden.html" rel="standout"></atom:link>
+      <description>Three explanations for the latest news.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 11:42:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16ambriefing-PROMO/16ambriefing-putin-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Sergey Guneev</media:credit>
+      <media:description>Vladimir Putin at a news conference on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Germany Aims to Lift Most Covid Restrictions by Spring</title>
+      <link>https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html" rel="standout"></atom:link>
+      <description>Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 20:00:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/world/16virus-briefing-germany/16virus-briefing-germany-moth.jpg" width="151"></media:content>
+      <media:credit>Ole Spata/DPA, via Associated Press</media:credit>
+      <media:description>Police officers checking vaccination certificates at a restaurant in Hannover, Germany, in November.</media:description>
+    </item>
+    <item>
+      <title>How Countries With No Snow Are Competing in the Winter Olympics</title>
+      <link>https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html" rel="standout"></atom:link>
+      <description>Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy.</description>
+      <dc:creator>Sui-Lee Wee and Matthew Futterman</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 14:51:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Timor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montenegro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (West Indies)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alpine Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/11/world/00olympics-underdogs-01/00olympics-underdogs-01-moth.jpg" width="151"></media:content>
+      <media:credit>Zoran Marinovic for The New York Times</media:credit>
+      <media:description>Skiers warming up before an Olympic qualifying race in Kolasin, Montenegro, in December.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2022/02/15/briefing/russia-biden-valieva-olympics-bobsled.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/briefing/russia-biden-valieva-olympics-bobsled.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/briefing/russia-biden-valieva-olympics-bobsled.html" rel="standout"></atom:link>
+      <description>Biden warns a Ukraine invasion is still possible.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 03:41:40 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16ambriefing-europe-nl-promo/16ambriefing-europe-nl-biden02-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Biden said his administration had not verified Russia’s claim that it was pulling troops back from Ukraine’s border and vowed to pursue a diplomatic resolution to prevent an invasion.</media:description>
+    </item>
+    <item>
+      <title>Inside Ukraine’s Cybercommand Center, Hours Before Attack</title>
+      <link>https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html" rel="standout"></atom:link>
+      <description>A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years.</description>
+      <dc:creator>Michael Downey, Mark Boyer and Taras Ratushnyy</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 14:07:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/europe/UKRAINE-CYBER/UKRAINE-CYBER-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Downey for The New York Times</media:credit>
+      <media:description>Serhiy Prokopenko, head of Ukraine’s Head of the National Center of Cyber Security on February 14, 2022.</media:description>
+    </item>
+    <item>
+      <title>Behind the Fractious Collaboration Steering the Canada Protests</title>
+      <link>https://www.nytimes.com/2022/02/15/world/canada/canada-protests-ottawa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/canada/canada-protests-ottawa.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/canada/canada-protests-ottawa.html" rel="standout"></atom:link>
+      <description>The organizers include former law enforcement officers, military veterans and conservative organizers who are steering unrest that has sent shock waves throughout Canada.</description>
+      <dc:creator>Sarah Maslin Nir and Natalie Kitroeff</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 00:37:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GoFundMe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lich, Tamara</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/multimedia/15CANADA-01/15CANADA-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Vehicles block a road outside the Parliament in Ottawa on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions.</description>
+      <dc:creator>Anton Troianovski and Michael D. Shear</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 14:14:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15ukraine-ledeall/15ukraine-ledeall-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian Army front line position on Tuesday near Syze, in the Luhansk Oblast of eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Putin&#39;s Motives Pose a Challenge for U.S. Intelligence Agencies</title>
+      <link>https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html" rel="standout"></atom:link>
+      <description>Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge.</description>
+      <dc:creator>David E. Sanger, Julian E. Barnes and Eric Schmitt</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 02:24:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/us/politics/14dc-putin-intel-1/14dc-putin-intel-1-moth.jpg" width="151"></media:content>
+      <media:credit>Sputnik/Via Reuters</media:credit>
+      <media:description>President Vladimir V. Putin’s calculus is likely shifting as he weighs the risks of an invasion against what he believes he could gain through negotiations, according to a U.S. official. </media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing: Russia Claims Some Troop Pullbacks</title>
+      <link>https://www.nytimes.com/2022/02/15/briefing/russia-claims-troop-pullback-xi-winter-sports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/briefing/russia-claims-troop-pullback-xi-winter-sports.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/briefing/russia-claims-troop-pullback-xi-winter-sports.html" rel="standout"></atom:link>
+      <description>Biden warns that an invasion remains “distinctly possible.”</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 21:07:13 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/16/multimedia/16ambriefing-asia-NL-PUTIN/16ambriefing-asia-NL-PUTIN-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Guneev/EPA, via Shutterstock</media:credit>
+      <media:description>President Vladimir Putin of Russia during a joint press conference with Chancellor Olaf Scholz of Germany on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Former Honduran President Juan Orlando Hernandez Detained</title>
+      <link>https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html" rel="standout"></atom:link>
+      <description>The request said Juan Orlando Hernández, who left office last month, was wanted in connection to a “violent drug-trafficking conspiracy.”</description>
+      <dc:creator>Joan Suazo and Anatoly Kurmanaev</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 01:46:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tegucigalpa (Honduras)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Xiomara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+    </item>
+    <item>
+      <title>In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html" rel="standout"></atom:link>
+      <description>Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 21:01:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benedict XVI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15italy-abuse/15italy-abuse-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
+      <media:description>Italy has so far resisted calls for an independent inquiry, even after Pope Francis in 2019 held a landmark meeting on clerical sexual abuse at the Vatican.</media:description>
+    </item>
+    <item>
+      <title>On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation.</description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 19:00:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15int-russia/15int-russia-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>American soldiers deploying to Eastern Europe on Monday at Fort Bragg, N.C.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says Cyberattack Was Largest in Its History</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html" rel="standout"></atom:link>
+      <description>Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.”</description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 16:45:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/europe/UKRAINE-CYBER/UKRAINE-CYBER-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Downey for The New York Times</media:credit>
+      <media:description>Serhiy Prokopenko, head of Ukraine’s Head of the National Center of Cyber Security on February 14, 2022.</media:description>
+    </item>
+    <item>
+      <title>In France, a Racist Conspiracy Theory Edges Into the Mainstream</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html" rel="standout"></atom:link>
+      <description>Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 16:34:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republicans, The (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pecresse, Valerie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15france-replacement-theory01/15france-replacement-theory01-moth.jpg" width="151"></media:content>
+      <media:credit>Francois Mori/Associated Press</media:credit>
+      <media:description>Valérie Pécresse, the center-right presidential candidate, said in a speech Sunday in Paris that France was not doomed to the “great replacement” and called on supporters “to rise up.”</media:description>
+    </item>
+    <item>
+      <title>Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html" rel="standout"></atom:link>
+      <description>Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 20:01:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15navalny-1sub/15navalny-1sub-moth.jpg" width="151"></media:content>
+      <media:credit>Yuri Kochetkov/EPA, via Shutterstock</media:credit>
+      <media:description>Aleksei A. Navalny, center, is shown on a monitor during a court appearance Tuesday at the penal colony where he is being held in the Vladimir region of Russia.</media:description>
+    </item>
+    <item>
+      <title>Indonesian Teacher Convicted of Raping Students for Years</title>
+      <link>https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html" rel="standout"></atom:link>
+      <description>In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them.</description>
+      <dc:creator>Richard C. Paddock and Dera Menra Sijabat</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 16:50:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bandung (Indonesia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15indonesia-abuse-01/15indonesia-abuse-01-moth.jpg" width="151"></media:content>
+      <media:credit>Timur Matahari/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Herry Wirawan being escorted to his trial at a court in Bandung, Indonesia, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html" rel="standout"></atom:link>
+      <description>Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said.</description>
+      <dc:creator>Maria Cramer and Raphael Minder</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 14:11:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newfoundland (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghana</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/multimedia/15xp-rescue/15xp-rescue-moth-v3.jpg" width="151"></media:content>
+      <media:credit>VesselFinder</media:credit>
+      <media:description>The Villa de Pitanxo, a 164-foot-long vessel, at the Port of Marín, in Galicia, Spain in 2019.</media:description>
+    </item>
+    <item>
+      <title>Vehicle Crashes, Surging</title>
+      <link>https://www.nytimes.com/2022/02/15/briefing/vehicle-crashes-deaths-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/briefing/vehicle-crashes-deaths-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/briefing/vehicle-crashes-deaths-pandemic.html" rel="standout"></atom:link>
+      <description>Traffic deaths are surging during the pandemic.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 15:31:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/lens/15ambriefing-promo-01/15ambriefing-pedestrian-moth.jpg" width="151"></media:content>
+      <media:credit>Adria Malcolm for The New York Times</media:credit>
+      <media:description>Deepshikha Nag Chowdhury and Aditya Bhattacharya’s son Pronoy Bhattacharya died while crossing the street with his family.</media:description>
+    </item>
+    <item>
+      <title>Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</title>
+      <link>https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html" rel="standout"></atom:link>
+      <description>But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 10:11:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khalifa, Salman bin Hamad bin Isa al- (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khalifa, Hamad Bin Isa al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15israel-bahrain001sub/15israel-bahrain001sub-moth.jpg" width="151"></media:content>
+      <media:credit>Haim Zach/Israeli Government, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>In a photograph made available by the Israeli government, Prime Minister Naftali Bennett of Israel, center, with Crown Prince Salman bin Hamad al-Khalifa of Bahrain, right, in Manama, Bahrain, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Travel Trends for Spring 2022</title>
+      <link>https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html" rel="standout"></atom:link>
+      <description>With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 14:33:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spring (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Renting and Leasing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/travel/15spring-travel-trends-still/15spring-travel-trends-still-moth.jpg" width="151"></media:content>
+      <media:credit>Ana Miminoshvili</media:credit>
+    </item>
+    <item>
+      <title>For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</title>
+      <link>https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html" rel="standout"></atom:link>
+      <description>China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end?</description>
+      <dc:creator>Amy Qin</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 10:00:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice Skating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snowboarding</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guangzhou (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/03/world/00china-sports-02/00china-sports-02-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>Speedskating lessons at a park in Beijing last month. China is seeing a boom in winter sports.</media:description>
+    </item>
+    <item>
+      <title>A World Away From Ukraine, Russia Is Courting Latin America</title>
+      <link>https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html" rel="standout"></atom:link>
+      <description>The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region.</description>
+      <dc:creator>Jack Nicas and Anton Troianovski</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 21:29:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandez, Alberto (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15russia-latam-01/15russia-latam-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lucas Dumphreys/Associated Press</media:credit>
+      <media:description>An aerial view above Rio de Janeiro, Brazil, in October.</media:description>
+    </item>
+    <item>
+      <title>Germany’s chancellor meets with Putin as the tone of the crisis shifts.</title>
+      <link>https://www.nytimes.com/2022/02/15/world/europe/germanys-chancellor-prepares-to-meet-with-putin-as-the-tone-of-the-crisis-shifts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/europe/germanys-chancellor-prepares-to-meet-with-putin-as-the-tone-of-the-crisis-shifts.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/europe/germanys-chancellor-prepares-to-meet-with-putin-as-the-tone-of-the-crisis-shifts.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Katrin Bennhold and Anton Troianovski</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 15:03:02 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/15ukraine-briefing-scholz-putin/merlin_202180773_b98c3d06-17aa-4844-be0f-ebb9ef02181d-moth.jpg" width="151"></media:content>
+      <media:credit>Kay Nietfeld/DPA, via Associated Press</media:credit>
+      <media:description>Chancellor Olaf Scholz of Germany leaving for Moscow on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Requests Extradition of Former Honduran President</title>
+      <link>https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html" rel="standout"></atom:link>
+      <description>Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York.</description>
+      <dc:creator>Joan Suazo and Maria Abi-Habib</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 07:42:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/14/world/14honduras-01/14honduras-01-moth.jpg" width="151"></media:content>
+      <media:credit>Orlando Sierra/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Juan Orlando Hernández, the former president of Honduras. His party was ousted in elections last year.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2022/02/14/briefing/russia-ukraine-olympics-trudeau-trucks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/briefing/russia-ukraine-olympics-trudeau-trucks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/briefing/russia-ukraine-olympics-trudeau-trucks.html" rel="standout"></atom:link>
+      <description>Ukraine signals concessions as Russia mentions diplomacy.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 04:51:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/multimedia/15ambriefing-europe-nl-promo/15ambriefing-europe-nl-top-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Dolzhenko/EPA, via Shutterstock</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine and Chancellor Olaf Scholz of Germany during a news conference in Kyiv on Monday.</media:description>
+    </item>
+    <item>
+      <title>Justin Trudeau Invokes Rare Emergency Act to Quell Protests</title>
+      <link>https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html" rel="standout"></atom:link>
+      <description>“We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation.</description>
+      <dc:creator>Ian Austen and Dan Bilefsky</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 19:27:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/multimedia/14canada-emergency-act/14canada-emergency-act-moth.jpg" width="151"></media:content>
+      <media:credit>Adrian Wyld/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Prime Minister Justin Trudeau in Ottawa Monday announcing the emergency order.</media:description>
+    </item>
+    <item>
+      <title>Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</title>
+      <link>https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html" rel="standout"></atom:link>
+      <description>It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness.</description>
+      <dc:creator>Matt Surman</dc:creator>
+      <pubDate>Mon, 14 Feb 2022 21:56:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/multimedia/14virus-briefing-sweden/14virus-briefing-sweden-moth.jpg" width="151"></media:content>
+      <media:credit>Anders Wiklund/TT News Agency, via Reuters</media:credit>
+      <media:description>Waiting in line at a coronavirus vaccination site at Stockholm City Terminal station in Sweden last month.</media:description>
+    </item>
+    <item>
+      <title>Canada Protests Baffle a Nation of Rule Followers</title>
+      <link>https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html" rel="standout"></atom:link>
+      <description>The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along?</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 03:55:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/world/14canada-1/14canada-1-moth.jpg" width="151"></media:content>
+      <media:credit>Brett Gundlock for The New York Times</media:credit>
+      <media:description>Protesters in downtown Ottawa this past weekend. “This is a myth-busting moment,” one analyst said.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Russia Talks of Diplomacy</title>
+      <link>https://www.nytimes.com/2022/02/14/briefing/ukraine-nato-canada-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/briefing/ukraine-nato-canada-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/briefing/ukraine-nato-canada-protests.html" rel="standout"></atom:link>
+      <description>Ukraine hinted at giving up its NATO ‘dream.’</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 14 Feb 2022 21:47:04 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/world/15ambriefing-asia-NL-PROMO/15ambriefing-asia-NL-RUS-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Burak Kara/Getty Images</media:credit>
+      <media:description>A Russian submarine passing through the Bosphorus in Istanbul en route to the Black Sea on Sunday. Russia has reinforced its Black Sea fleet over the past week.</media:description>
+    </item>
+    <item>
+      <title>Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</title>
+      <link>https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html" rel="standout"></atom:link>
+      <description>A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy.</description>
+      <dc:creator>Mike McIntire and Michael H. Keller</dc:creator>
+      <pubDate>Wed, 16 Feb 2022 00:37:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crowdfunding (Internet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GoFundMe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Siebel, Thomas M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/world/14canada-protest-briefing-donations-1/14canada-protest-briefing-donations-1-moth.jpg" width="151"></media:content>
+      <media:credit>Blair Gable/Reuters</media:credit>
+      <media:description>Protesters in Ottawa on Monday.</media:description>
+    </item>
+    <item>
+      <title>Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</title>
+      <link>https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html" rel="standout"></atom:link>
+      <description>Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.”</description>
+      <dc:creator>Anton Troianovski and Andrew E. Kramer</dc:creator>
+      <pubDate>Tue, 15 Feb 2022 12:25:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lavrov, Sergey V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/14/world/14ukraine-ledeall/14ukraine-ledeall-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier at a front-line position in Krasnohorivka on Monday.</media:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 30 Sep 2022 05:29:44 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 05:27:54 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Putin to Announce Ukraine Annexation Plans on Friday</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/ukraine-russia-annexation-putin.html" rel="standout"></atom:link>
+      <description>There was no sign that any other country would recognize Russia’s move, but Mr. Putin may try to use the plans to shift attention away from his losses on the battlefield.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 23:18:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carnegie Endowment for International Peace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Levada Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29ukraine-ledeall-top/29ukraine-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>A concert stage being prepared in Moscow’s Red Square on Thursday, ahead of celebrations planned for Russia’s expected announcement on Friday of its illegal annexation of four regions of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Despite Iran’s Efforts to Block Internet, Technology Has Helped Fuel Outrage</title>
+      <link>https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/middleeast/iran-internet-censorship.html" rel="standout"></atom:link>
+      <description>Online, Iranians engage in a world their leaders don’t want them to see.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clubhouse (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amini, Mahsa (2000-22)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29iran-tech1/29iran-tech1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Iranian demonstrators taking to the streets of the capital, Tehran, during a protest days after a young woman, Mahsa Amini, died in police custody after she was accused of violating the country’s headscarf law. </media:description>
+    </item>
+    <item>
+      <title>On Eve of Election, Bolsonaro’s Party Attacks Brazil’s Voting Systems</title>
+      <link>https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/election-bolsonaro-brazil-fraud.html" rel="standout"></atom:link>
+      <description>Four days before Brazilians vote, President Jair Bolsonaro’s political party formally claimed, without evidence, that government employees could alter ballots.</description>
+      <dc:creator>Jack Nicas and André Spigariol</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:03:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-fraud-2/29brazil-fraud-2-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil at a rally on Saturday.</media:description>
+    </item>
+    <item>
+      <title>The Last Days of an Outback Town Where Every Breath Can Be Toxic</title>
+      <link>https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/australia/wittenoom-asbestos-mining.html" rel="standout"></atom:link>
+      <description>The town of Wittenoom, ruined by asbestos mining, will be wiped off the face of the earth. But first the government had to remove those who wanted to stay.</description>
+      <dc:creator>Yan Zhuang and Matthew Abbott</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 03:16:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asbestos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mesothelioma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/00oz-asbestos-promo/00oz-asbestos6-moth.jpg" width="151"></media:content>
+      <media:credit>Matthew Abbott for The New York Times</media:credit>
+      <media:description>Once a symbol of economic prosperity, Wittenoom, Australia, is now a ghost town, polluted by decades of asbestos mining.</media:description>
+    </item>
+    <item>
+      <title>Brazil’s Lula Is Out of Prison and Trying to Defeat Bolsonaro</title>
+      <link>https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/lula-bolsonaro-brazil-election.html" rel="standout"></atom:link>
+      <description>Former President Luiz Inácio Lula da Silva is trying to cap a stunning political comeback by defeating the incumbent Jair Bolsonaro in Brazil’s elections on Sunday.</description>
+      <dc:creator>Jack Nicas and Flávia Milhorance</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 13:27:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Workers&#39; Party (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29brazil-lula-1/29brazil-lula-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <media:description>Mr. da Silva has taken to comparing himself to Nelson Mandela, Mahatma Gandhi and Martin Luther King Jr., political prisoners who expanded their movements after they were freed.</media:description>
+    </item>
+    <item>
+      <title>Vatican Disciplined Nobel Laureate Bishop Over Child Abuse Claims</title>
+      <link>https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/vatican-bishop-belo.html" rel="standout"></atom:link>
+      <description>After accusations against him became public, the Vatican said that in 2020 it had punished Bishop Carlos Ximenes Belo, a hero of the independence movement in his native East Timor.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 21:12:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Belo, Carlos Ximenes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Timor</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29vatican-abuse/29vatican-abuse-moth.jpg" width="151"></media:content>
+      <media:credit>Glenn Campbell/The Sydney Morning Herald/Fairfax Media, via Getty Images</media:credit>
+      <media:description>Bishop Carlos Ximenes Belo in Dili, East Timor, in 2006.</media:description>
+    </item>
+    <item>
+      <title>Mexico Named Deadliest Country for Environmental Activists</title>
+      <link>https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/americas/mexico-environmental-activists-killed.html" rel="standout"></atom:link>
+      <description>A new report from the watchdog group Global Witness found that 54 land rights activists were killed in Mexico last year, the most of any country.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 22:16:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Witness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29mexico-environmentalists/29mexico-environmentalists-moth.jpg" width="151"></media:content>
+      <media:credit>Luis Gutierrez/Associated Press</media:credit>
+      <media:description>Mourners attending the burial service for the Indigenous rights leader Tomas Rojo in the Yaqui Indigenous community Vicam, in the Mexican state of Sonora, in July 2021.</media:description>
+    </item>
+    <item>
+      <title>Felicien Kabuga, Rwanda Genocide Tribunal’s Most Wanted, Is on Trial</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/rwanda-genocide-trial-felicien-kabuga.html" rel="standout"></atom:link>
+      <description>Félicien Kabuga lived on the run for 23 years before his arrest in France in 2020. He is accused of backing the groups that oversaw the killing of hundreds of thousands of people in 1994.</description>
+      <dc:creator>Marlise Simons</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 02:38:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hutu Tribe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Tribunal for Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rwandan Patriotic Front (RPF)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabuga, Felicien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Habyarimana, Juvenal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29hague-genocide3/29hague-genocide3-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <media:description>Individuals killed during the 1994 Rwandan genocide, from a display at the Kigali Genocide Memorial. At least 800,000 died.</media:description>
+    </item>
+    <item>
+      <title>Myanmar Sentences Australian Economic Adviser to Three Years</title>
+      <link>https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/myanmar-sean-turnell-guilty.html" rel="standout"></atom:link>
+      <description>Sean Turnell, arrested five days after the military seized power in a coup, has been convicted by the junta of violating the country’s official secrets act.</description>
+      <dc:creator>Seth Mydans</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 11:45:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29myanmar-01/29myanmar-01-moth.jpg" width="151"></media:content>
+      <media:credit>Milken Institute, via Reuters</media:credit>
+      <media:description>Sean Turnell at the Milken Institute 2017 Asia Summit, in Singapore. He was an economic adviser to Daw Aung San Suu Kyi before the coup in 2021, and has been imprisoned since then.</media:description>
+    </item>
+    <item>
+      <title>Sabotaged Pipelines and a Mystery: Who Did It? </title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/pipeline-sabotage-mystery-russia.html" rel="standout"></atom:link>
+      <description>An attack on gas lines under the Baltic Sea exposes the vulnerability of an already jittery Europe. Some officials suggested Moscow was to blame, but with little evidence, others urge caution.</description>
+      <dc:creator>Katrin Bennhold and David E. Sanger</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 22:22:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28pipeline1/28pipeline1-moth.jpg" width="151"></media:content>
+      <media:credit>Armed Forces of Denmark, via Associated Press</media:credit>
+      <media:description>A photo from the Danish military showing gas welling up off the coast of Bornholm island on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Protests in Prague Signal a Troubled Winter Ahead in Europe</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/prague-protests-economy.html" rel="standout"></atom:link>
+      <description>Tens of thousands gathered in the Czech capital for the second such protest in a month, spurred by an energy crisis and rising prices that are affecting countries across Europe.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 18:39:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prague (Czech Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiala, Petr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28czech-protest02/28czech-protest02-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Divisek/EPA, via Shutterstock</media:credit>
+      <media:description>Protesters demanding the resignation of the Czech government and early parliamentary elections in Wenceslas Square in Prague on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Chinese Billionaire Richard Liu Faces Sexual Assault Trial in the US</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/richard-liu-sexual-assault-trial.html" rel="standout"></atom:link>
+      <description>Richard Liu, also known as Liu Qiangdong, will be one of the few high-profile Chinese figures to face a courtroom jury over sexual assault allegations.</description>
+      <dc:creator>Amy Qin</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 17:34:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu Jingyao</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JD.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/us/28liu-trial-1b/28liu-trial-1b-moth.jpg" width="151"></media:content>
+      <media:credit>Caroline Yang for The New York Times</media:credit>
+      <media:description>Liu Jingyao filed a civil suit accusing the Chinese tech billionaire Richard Liu of raping her in Minneapolis in 2018.</media:description>
+    </item>
+    <item>
+      <title>Body of U.S. Mountaineer, Hilaree Nelson, Found After Avalanche in Nepal</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/hilaree-nelson-death-avalanche.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/hilaree-nelson-death-avalanche.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/hilaree-nelson-death-avalanche.html" rel="standout"></atom:link>
+      <description>Hilaree Nelson was apparently blown off a cliff while she was skiing down Manaslu, the world’s eighth-highest peak.</description>
+      <dc:creator>Bhadra Sharma and Emily Schmall</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 14:19:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avalanches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alpine Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nelson, Hilaree (1972-2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28nepal-01/28nepal-01-moth.jpg" width="151"></media:content>
+      <media:credit>Niranjan Shrestha/Associated Press</media:credit>
+      <media:description>Hilaree Nelson with her partner, James Morrison, in 2018. The two ascended Manaslu, in Nepal, and were skiing down when she died this week.</media:description>
+    </item>
+    <item>
+      <title>Few South Koreans Are Having Babies. A Mayor’s Answer? More Nannies.</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/south-korea-nannies.html" rel="standout"></atom:link>
+      <description>The mayor of Seoul wants to ease the high cost and low supply of babysitters in the country to encourage more couples to have children.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 13:39:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28skorea-nannies-02/28skorea-nannies-02-moth.jpg" width="151"></media:content>
+      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The mayor of Seoul, Oh Se-hoon, center, said versions of his proposal implemented in other countries had prompted a rise in the share of women in the labor force.</media:description>
+    </item>
+    <item>
+      <title>Britain’s Gamble on Tax Cuts has Economists Warning of Past Mistakes</title>
+      <link>https://www.nytimes.com/2022/09/29/us/politics/tax-cuts-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/politics/tax-cuts-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/us/politics/tax-cuts-uk.html" rel="standout"></atom:link>
+      <description>Liz Truss, Britain’s new prime minister, defended her plan in the face of stiff criticism from the International Monetary Fund and others.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 22:22:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reagan, Ronald Wilson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Stephen (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29dc-uk-tax/29dc-uk-tax-moth.jpg" width="151"></media:content>
+      <media:credit>Clodagh Kilcoyne/Reuters</media:credit>
+      <media:description>Liz Truss, Britain’s new prime minister, has staked her fledgling government on a once-in-a-generation package of tax cuts and deregulation meant to energize the economy.</media:description>
+    </item>
+    <item>
+      <title>Countering China, the U.S. Signs a Broad Deal to Aid Pacific Nations</title>
+      <link>https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/world/asia/pacific-islands-summit-washington.html" rel="standout"></atom:link>
+      <description>Beijing’s inroads in a strategic region are pushing the Biden administration to shore up withered ties.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 05:27:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Solomon Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/world/30us-pacific-01/30us-pacific-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>President Biden with Pacific Island leaders in Washington on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/30/briefing/russia-annex-brazil-hurricane-europe.html" rel="standout"></atom:link>
+      <description>Russia moves to annex Ukrainian territory.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 04:37:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30AM-brf-Ukr-Rus-promo/30AM-brf-Ukr-Rus-02-1-5c3c-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Nemenov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Russian soldiers gather on Red Square Thursday, as the area is closed prior to a ceremony claiming the annexation of four Ukrainian provinces. Banners on the stage read: “Donetsk, Luhansk, Zaporizka, Kherson — Russia!”</media:description>
+    </item>
+    <item>
+      <title>Downpours From Ian Prompt Florida Treatment Plants to Release Waste</title>
+      <link>https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html" rel="standout"></atom:link>
+      <description>Concern turns to industrial sites and huge farms farther north as the storm heads toward South Carolina.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 00:20:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/science/29CLI-TOXIC1/29CLI-TOXIC1-moth.jpg" width="151"></media:content>
+      <media:credit>Drone Base, via Reuters</media:credit>
+      <media:description>Reservoirs at Piney Point, a phosphate plant in Palmetto, Fla., that is in the process of being shut down.</media:description>
+    </item>
+    <item>
+      <title>Putin Plans Annexation of Ukraine Territories. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-annexation-regions.html" rel="standout"></atom:link>
+      <description>The Kremlin is using pageantry and a show of adhering to Russian legal formalities to give the move a veneer of legitimacy.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:58:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-kramer-explainer01-1-b2bc/29ukraine-briefing-kramer-explainer01-1-b2bc-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse/Getty Images</media:credit>
+      <media:description>A local resident rides past an abandoned Russian tank in Kramatorsk, eastern Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Russia Plans to Annex Land in Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/briefing/russa-plans-to-annex-land-in-ukraine.html" rel="standout"></atom:link>
+      <description>Plus the destruction from Hurricane Ian and Zambia’s honeymoon.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 21:42:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/30ambriefing-asia-nl-PROMO/29ukraine-briefing-annexation-timeline-image-1-42d7-moth.jpg" width="151"></media:content>
+      <media:credit>Evgenia Novozhenina/Reuters</media:credit>
+      <media:description>Banners read “Donetsk, Luhansk, Zaporizhzhia, Kherson — Russia!” in Red Square in central Moscow on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Shakira Is Accused of Tax Evasion in Spain. Here’s What We Know.</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/shakira-tax-fraud-explained.html" rel="standout"></atom:link>
+      <description>Prosecutors have charged the Colombian singer and pop star with six counts of tax fraud for failing to pay 14.5 million euros in income taxes. She could face a steep fine and a prison sentence.</description>
+      <dc:creator>Remy Tumin and José Bautista</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:16:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakira</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pique, Gerard (1987- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/00xp-shakira/00xp-shakira-moth.jpg" width="151"></media:content>
+      <media:credit>Loic Venance/AFP via Getty Images</media:credit>
+      <media:description>Shakira arriving for the screening of “Elvis” during the Cannes Film Festival in May. She has been wrapped in a tax evasion case in Spain.</media:description>
+    </item>
+    <item>
+      <title>US Penalizes Chinese Companies for Aiding Iran’s Oil Exports</title>
+      <link>https://www.nytimes.com/2022/09/29/us/politics/iran-sanctions-china-oil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/politics/iran-sanctions-china-oil.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/us/politics/iran-sanctions-china-oil.html" rel="standout"></atom:link>
+      <description>The move suggests a more aggressive approach by the Biden administration after talks to revive a 2015 nuclear deal faltered.</description>
+      <dc:creator>Michael Crowley</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:41:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/29dc-diplo-sanctions-2/29dc-diplo-sanctions-2-moth.jpg" width="151"></media:content>
+      <media:credit>Imaginechina via AP Images</media:credit>
+      <media:description>An oil tanker carrying crude oil imported from Iran at the Port of Zhoushan in China’s Zhejiang Province.</media:description>
+    </item>
+    <item>
+      <title>Gas Flares Might Release More Methane Than Thought, Study Finds</title>
+      <link>https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html" rel="standout"></atom:link>
+      <description>Flaring, meant to burn off the planet-warming gas at industrial sites, doesn’t always work as intended, according to researchers.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 21:05:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Methane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Permian Basin (North America)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakken Shale Field (ND)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eagle Ford Shale Field (Texas)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/climate/29cli-methane/29cli-methane-moth.jpg" width="151"></media:content>
+      <media:credit>David Goldman/Associated Press</media:credit>
+      <media:description>A flare in the Permian Basin in Midland, Texas. Methane is a stronger, though shorter-lived, greenhouse gas than carbon dioxide.</media:description>
+    </item>
+    <item>
+      <title>Putin Concedes That Some Men Were Wrongly Drafted</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/putin-draft-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/putin-draft-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/putin-draft-speech.html" rel="standout"></atom:link>
+      <description>The Russian president’s remarks came after anger with the draft spilled over into street protests across Russia.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Fri, 30 Sep 2022 00:04:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-putin-speech-01-1-db1a/29ukraine-briefing-putin-speech-01-1-db1a-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Gavriil Grigorov</media:credit>
+      <media:description>President Vladimir V. Putin giving remarks to top security officials in Moscow on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Pentagon Plans to Set Up a New Command to Arm Ukraine, Officials Say</title>
+      <link>https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/us/politics/pentagon-command-ukraine.html" rel="standout"></atom:link>
+      <description>The mission in Germany would streamline a training and assistance system that the United States and its allies created on the fly after Russia’s invasion, officials said.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:37:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/29dc-ukraine_1/merlin_207523185_9e0c67cd-1182-4fa9-8c8b-b790fe3ea72e-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers heading toward the front line near Kramatorsk, in the country’s east, in May. The Pentagon’s proposal for a new command signals that the United States expects the threat from Russia to persist for many years, current and former senior U.S. officials said.</media:description>
+    </item>
+    <item>
+      <title>Russia Beat and Denied Food to Prisoners of War, Ukraine Says</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-war-prisoners.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-war-prisoners.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-war-prisoners.html" rel="standout"></atom:link>
+      <description>Evidence of Russian abuses of captives has fueled outrage and added to a litany of reports of Russian war crimes.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 18:24:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisoners of War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-prisoners-01-1-5bfd/29ukraine-briefing-prisoners-01-1-5bfd-moth.jpg" width="151"></media:content>
+      <media:credit>Security Service Of Ukraine, via Getty Images</media:credit>
+      <media:description>This handout released by Security Service of Ukraine last week shows medical personnel assisting a Ukrainian prisoner of war after a mass prisoner exchange in Chernigiv region, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Zelensky’s Answer to Escalating Russian Threats: Defiance</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/zelensky-ukraine-russia-defiance.html" rel="standout"></atom:link>
+      <description>In a nightly address, President Volodymyr Zelensky of Ukraine told Russian soldiers: “If you want to live, run.”</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:18:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-defiance-image-1-0d31/29ukraine-briefing-defiance-image-1-0d31-moth.jpg" width="151"></media:content>
+      <media:credit>Yuri Kochetkov/EPA, via Shutterstock</media:credit>
+      <media:description>Russian men who have been drafted saying goodbye to relatives at a recruiting office in Moscow on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s Death Certificate Reveals Cause and Time of Death</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/queen-elizabeth-death-time.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/queen-elizabeth-death-time.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/queen-elizabeth-death-time.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth died of “old age” at 3:10 p.m. on Sept. 8, the paperwork shows.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 15:16:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anne, Princess Royal (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29uk-queen/29uk-queen-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Jane Barlow</media:credit>
+      <media:description>Queen Elizabeth II, photographed before receiving Liz Truss for an audience at Balmoral on Sept. 6, two days before she died.</media:description>
+    </item>
+    <item>
+      <title>China’s ‘Absurd’ Covid Propaganda Stirs Rebellion</title>
+      <link>https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html" rel="standout"></atom:link>
+      <description>The use of propaganda in the country has been on overdrive in the pandemic, with some Chinese citizens arguing the language has bordered on “nonsense.”</description>
+      <dc:creator>Zixu Wang</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 14:26:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/27/business/00china-propaganda-1/00china-propaganda-1-moth.jpg" width="151"></media:content>
+      <media:credit>Gilles Sabrié for The New York Times</media:credit>
+      <media:description>A Covid testing booth in Beijing last week. In some cases, Chinese citizens are required to get a coronavirus test three times a week.</media:description>
+    </item>
+    <item>
+      <title>North Korea Fires Two Missiles, Third Test in a Week</title>
+      <link>https://www.nytimes.com/2022/09/29/world/asia/north-korea-missile-test.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/asia/north-korea-missile-test.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/asia/north-korea-missile-test.html" rel="standout"></atom:link>
+      <description>The test took place hours after Vice President Kamala Harris met with South Korea’s president to discuss their nations’ alliance.</description>
+      <dc:creator>Choe Sang-Hun and Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 14:23:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/29nkorea/merlin_214012461_18a73d59-0e4e-4cdc-ab70-a7eafedd285f-moth.jpg" width="151"></media:content>
+      <media:credit>Ahn Young-Joon/Associated Press</media:credit>
+      <media:description>In a Seoul railroad station on Thursday, file footage of earlier North Korean military activity illustrated a news report about its most recent missile launch. </media:description>
+    </item>
+    <item>
+      <title>Hospitals in Coastal Cities Risk Flooding Even in ‘Weak’ Hurricanes, Study Finds</title>
+      <link>https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html" rel="standout"></atom:link>
+      <description>In a third of the 78 cities examined on the Atlantic and Gulf coasts, half or more of hospitals were at risk from a Category 2 storm, the researchers said.</description>
+      <dc:creator>Elena Shao</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 13:58:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/climate/29cli-hospitalflood1/29cli-hospitalflood1-moth.jpg" width="151"></media:content>
+      <media:credit>Johnny Milano for The New York Times</media:credit>
+      <media:description>Flood barriers were erected in front of Tampa General Hospital in preparation for Hurricane Ian.</media:description>
+    </item>
+    <item>
+      <title>Finland Closes Border to Russian Tourists</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/finland-border-russia.html" rel="standout"></atom:link>
+      <description>The long-planned move closes off the last land route into the European Union for people fleeing Russia’s military mobilization effort.</description>
+      <dc:creator>Johanna Lemola</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:50:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conscientious Objectors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29ukraine-briefing-finland-image/-1-a952-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandro Rampazzo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Vehicles coming from Russia in line at Finland’s Vaalimaa checkpoint on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>The Kashmiri Chef Foraging on Precarious Soil</title>
+      <link>https://www.nytimes.com/2022/09/29/t-magazine/kashmir-foraging-prateek-sadhu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/t-magazine/kashmir-foraging-prateek-sadhu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/t-magazine/kashmir-foraging-prateek-sadhu.html" rel="standout"></atom:link>
+      <description>For Prateek Sadhu, gathering native ingredients in the conflict zone where he grew up is the only way of asserting Kashmir’s tenuous place in the world.</description>
+      <dc:creator>Ligaya Mishan and Anu Kumar</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 16:05:59 +0000</pubDate>
+      <category domain="">tmagfalldesign</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadhu, Prateek (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Masque (Mumbai, India, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ladakh (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir and Jammu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World&#39;s 50 Best Restaurants</category>
+    </item>
+    <item>
+      <title>What to Know About Ian and Climate Change</title>
+      <link>https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html" rel="standout"></atom:link>
+      <description>We have the latest on Hurricane Ian, another storm to gather strength with frightening speed.</description>
+      <dc:creator>David Leonhardt, Claire Moses and Ian Prasad Philbrick</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 10:42:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/-1-6365/-1-6365-moth.jpg" width="151"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>Tampa, Fla., as Hurricane Ian hit.</media:description>
+    </item>
+    <item>
+      <title>Russia Plans to Illegally Annex Lands It Invaded, Even as Its Military Falters</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/putin-russia-illegal-annexation-ukraine.html" rel="standout"></atom:link>
+      <description>Even though Russia has failed to fully control the four territories it seeks to annex, the Kremlin is preparing a show designed to present a sheen of legitimacy to its illegal takeover.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 20:39:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/30/multimedia/30ukraine-briefing-annexation-curtainraiser-01-1-6983/30ukraine-briefing-annexation-curtainraiser-01-1-6983-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Casting a ballot during a referendum while an armed Russian serviceman stood guard, in Luhansk, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>New Infectious Threats Are Coming. The US Probably Won’t Contain Them.</title>
+      <link>https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html" rel="standout"></atom:link>
+      <description>The coronavirus revealed flaws in the nation’s pandemic plans. The spread of monkeypox shows that the problems remain deeply entrenched.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 09:00:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/science/00virus-pandemics1/00virus-pandemics1-moth.jpg" width="151"></media:content>
+      <media:credit>Brynn Anderson/Associated Press</media:credit>
+      <media:description>Flags representing Americans who died of Covid-19, a work by artist Suzanne Brennan Firstenberg, on the National Mall last year.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/29/briefing/russia-annexation-hurricane-ian.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/briefing/russia-annexation-hurricane-ian.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/briefing/russia-annexation-hurricane-ian.html" rel="standout"></atom:link>
+      <description>A veneer of respectability over Moscow’s land grab.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 04:56:51 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/multimedia/29AM-brf-euro-Ukraine-promo/29AM-brf-euro-Ukraine-1-03f6-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Russian Proxies in Ukraine Push Moscow to Annex Occupied Regions</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/ukraine-referendum-russia-war.html" rel="standout"></atom:link>
+      <description>The requests lent an air of formality to a process condemned by the West. They followed sham referendums in four regions in Ukraine that purported to put voters’ stamp of approval on joining Russia.</description>
+      <dc:creator>Andrew E. Kramer, Marc Santora and Eric Nagourney</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 23:27:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/world/28ukraine-ledeall-2/29ukraine-ledeall-2-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A giant poster in Luhansk, Ukraine, on Wednesday declared, “With Russia forever!” as Russia appeared poised to try to annex the region.</media:description>
+    </item>
+    <item>
+      <title>The Pentagon announces an additional $1.1 billion in long-term aid for Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/the-latest-us-military-package-for-ukraine-calls-for-1-1-billion-in-long-term-aid.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 23:14:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/08/multimedia/28ukraine-briefing-us-aid-01/08-ukraine-briefing-rockets-02-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Overman/The Olympian, via Associated Press</media:credit>
+      <media:description>A High Mobility Artillery Rocket System (HIMARS) produced by Lockheed Martin during combat training at the Yakima Training Center, Wash.</media:description>
+    </item>
+    <item>
+      <title>What We Know About the Mysterious Nord Stream Pipeline Leaks</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/nordstream-pipeline-gas-leak-explosions.html" rel="standout"></atom:link>
+      <description>The leaks, which may amount to as much as a third of Denmark’s annual carbon emissions, expose the vulnerability of critical infrastructure as the war in Ukraine continues.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 18:47:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sabotage (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/28pipeline-explainer-3/28pipeline-explainer-3-moth.jpg" width="151"></media:content>
+      <media:credit>Bernd Wüstneck/picture alliance via Getty Images</media:credit>
+      <media:description>The Nord Stream 2 gas pipeline being laid in the Baltic Sea in 2018.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: Iran Strikes Kurds in Iraq</title>
+      <link>https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/briefing/iran-protests-kurds-iraq-asia.html" rel="standout"></atom:link>
+      <description>Plus Australia moves to fight corruption and a Chinese businessman faces assault allegations in a U.S. court.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 21:15:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu Jingyao</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/29ambriefing-asia-nl-PROMO/28iran-border-moth.jpg" width="151"></media:content>
+      <media:credit>Ako Rasheed/Reuters</media:credit>
+      <media:description>Smoke rose from the Iraqi Kurdistan headquarters of the Kurdish Democratic Party of Iran on the outskirts of Kirkuk, Iraq, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>A mystery hovers over the apparent sabotage of two undersea gas pipelines: Did Russia do it?</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/a-mystery-hovers-over-the-apparent-sabotage-of-two-undersea-gas-pipelines-did-russia-do-it.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Katrin Bennhold and David E. Sanger</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 22:22:06 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28pipeline1/28pipeline1-moth.jpg" width="151"></media:content>
+      <media:credit>Armed Forces of Denmark, via Associated Press</media:credit>
+      <media:description>A photo from the Danish military showing gas welling up off the coast of Bornholm island on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Moscow Releases Final Results of Discredited Ukraine Referendums</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-referendums.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-referendums.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/russia-ukraine-referendums.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 19:28:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-referendum-results01-1-1d23/28ukraine-briefing-referendum-results01-1-1d23-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Women hang a Russian flag at their shop in Luhansk, in eastern Ukraine, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Meeting in Brussels Signifies a Turning Point for Allies Arming Ukraine</title>
+      <link>https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/us/politics/ukraine-weapons-nato.html" rel="standout"></atom:link>
+      <description>Defense officials responsible for purchasing weapons for more than 40 nations discussed how to ramp up production for a potentially yearslong war.</description>
+      <dc:creator>John Ismay and Lara Jakes</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 13:37:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ukraine Defense Contact Group</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/us/politics/00dc-UkraineGroup_1/merlin_212872809_723dcb4a-4cb2-4ea1-930c-b4db603beb2e-moth.jpg" width="151"></media:content>
+      <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
+      <media:description>Ukrainian forces preparing to fire an American-supplied howitzer in the Kharkiv region in July. More than 40 nations have collaborated to arm Ukraine.</media:description>
+    </item>
+    <item>
+      <title>U.S. and Russia Duel Over Leadership of U.N. Tech Group</title>
+      <link>https://www.nytimes.com/2022/09/28/technology/us-russia-technology-united-nations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/technology/us-russia-technology-united-nations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/technology/us-russia-technology-united-nations.html" rel="standout"></atom:link>
+      <description>Member countries vote on Thursday for an American or a Russian to lead the International Telecommunication Union, which sets standards for new technologies.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 18:34:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Telecommunication Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bogdan-Martin, Doreen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ismailov, Rashid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/business/29TECH-ELECTION-print-1/28TECH-ELECTION-02-moth.jpg" width="151"></media:content>
+      <media:credit>Andreea Alexandru/Associated Press</media:credit>
+      <media:description>Rashid Ismailov of the Russian Federation is standing for election to lead the International Telecommunication Union.</media:description>
+    </item>
+    <item>
+      <title>The E.U. proposes a fresh round of sanctions against the Kremlin over ‘sham’ referendums.</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/the-european-union-proposes-a-fresh-round-of-sanctions-against-the-kremlin-over-the-sham-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/the-european-union-proposes-a-fresh-round-of-sanctions-against-the-kremlin-over-the-sham-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/the-european-union-proposes-a-fresh-round-of-sanctions-against-the-kremlin-over-the-sham-vote.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 13:55:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-eu-sanctions-01-1-b919/28ukraine-briefing-eu-sanctions-01-1-b919-moth.jpg" width="151"></media:content>
+      <media:credit>Virginia Mayo/Associated Press</media:credit>
+      <media:description>“Last week, Russia escalated the invasion of Ukraine to a whole new level,” Ursula von der Leyen, the European Commission’s president, said Wednesday in in Brussels.</media:description>
+    </item>
+    <item>
+      <title>4 Palestinians Killed in West Bank During Israeli Raid</title>
+      <link>https://www.nytimes.com/2022/09/28/world/middleeast/palestinian-israel-west-bank-raid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/middleeast/palestinian-israel-west-bank-raid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/middleeast/palestinian-israel-west-bank-raid.html" rel="standout"></atom:link>
+      <description>The militants were among more than 90 Palestinians and two Israeli security officials killed in the territory in 2022, as violence continues to surge.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 21:08:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Islamic Jihad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28westbank-raid1/28westbank-raid1-moth.jpg" width="151"></media:content>
+      <media:credit>Alaa Badarneh/EPA, via Shutterstock</media:credit>
+      <media:description>Palestinians attending the funeral of the militants killed during an Israeli Army raid in the West Bank city of Jenin on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Guinea 2009 Massacre Trial Begins</title>
+      <link>https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/africa/guinea-2009-massacre-trial.html" rel="standout"></atom:link>
+      <description>In addition to those killed, dozens of women were raped when security forces stormed a pro-democracy rally in 2009, a U.N. investigation found. Eleven men, including the country’s former president, are on trial.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 17:07:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guinea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camara, Moussa Dadis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doumbouya, Mamady</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Conakry (Guinea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Guinea01/28Guinea01-moth.jpg" width="151"></media:content>
+      <media:credit>Seyllou/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Guinean police arrested a protester on Sept. 28, 2009. Guineans have been waiting for the trial of the former leader Moussa Dadis Camara and those accused of committing a massacre that day.</media:description>
+    </item>
+    <item>
+      <title>At Least 9 Killed as Tensions in Iran Cross the Border Into Iraq</title>
+      <link>https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/middleeast/iran-iraq-protests.html" rel="standout"></atom:link>
+      <description>The Revolutionary Guards Corps has been attacking Kurdish opposition groups in northern Iraq, blaming them for fomenting the unrest in Iran that was set off by the death of Mahsa Amini.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 21:12:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kurdistan Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurdistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28iran-border/28iran-border-moth.jpg" width="151"></media:content>
+      <media:credit>Ako Rasheed/Reuters</media:credit>
+      <media:description>Smoke rose from the Iraqi Kurdistan headquarters of the Kurdish Democratic Party of Iran on the outskirts of Kirkuk, Iraq, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>At least 150,000 Leave Russia After Putin Announced Partial Military Mobilization</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/russia-draft-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/russia-draft-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/russia-draft-putin.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 22:49:04 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-georgia-1-7388/28ukraine-briefing-georgia-1-7388-moth.jpg" width="151"></media:content>
+      <media:credit>Irakli Gedenidze/Reuters</media:credit>
+      <media:description>Georgian police officers blocked opposition activists who were holding a rally near the Russian border on Wednesday to support Ukrainians and protest against the arrival of Russian citizens.</media:description>
+    </item>
+    <item>
+      <title>If Brazil’s President Attempts a Coup, What Will the Police Do?</title>
+      <link>https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/if-brazils-president-attempts-a-coup-what-will-the-police-do.html" rel="standout"></atom:link>
+      <description>If Brazil’s election sparks mass unrest, the country’s so-called military police force would be called upon to restore order, giving them tremendous power to affect outcomes.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 16:39:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28Interpreter-NL01/merlin_213728262_8e64a0a2-484a-4759-a4f5-db63cc6c1eb4-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil at campaign rally last week.</media:description>
+    </item>
+    <item>
+      <title>Russian-Backed Officials Ask Putin to Annex Ukrainian Regions</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/russia-ukraine-referendums-putin.html" rel="standout"></atom:link>
+      <description>The appeals from Moscow-backed leaders set in motion formalities intended to give Russia’s plans a sheen of legitimacy.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 20:19:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-referendums-latest-02-1-6bd6/28ukraine-briefing-referendums-latest-02-1-6bd6-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A billboard with a Russian flag reading ‘We believe in our army and our victory’ in Luhansk, Ukraine, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Why Experts and Officials Say Nord Stream Pipleline Leaks Were No Accident</title>
+      <link>https://www.nytimes.com/2022/09/29/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/29/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/29/world/europe/why-experts-and-officials-say-the-leaks-were-no-accident-and-why-many-of-them-are-blaming-russia.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 22:47:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ukraine-briefing-pipeline-explain-image/28ukraine-briefing-pipeline-explain-image-moth.jpg" width="151"></media:content>
+      <media:credit>Hannibal Hanschke/EPA, via Shutterstock</media:credit>
+      <media:description>Facilities of the Nord Stream 2 gas pipeline in Lubmin, Germany.</media:description>
+    </item>
+    <item>
+      <title>Covid Boosters</title>
+      <link>https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/briefing/boosters-covid-omicron.html" rel="standout"></atom:link>
+      <description>Who should get a Covid booster, and when? We answer the big questions.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 10:37:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28-THE-MORNING-NL-u-shts-1-e9d5/28-THE-MORNING-NL-u-shts-1-e9d5-moth.jpg" width="151"></media:content>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <media:description>Administering Covid boosters in Salt Lake City this month.</media:description>
+    </item>
+    <item>
+      <title>Australia’s Proposed Integrity Commission Would Work Mostly in Secret</title>
+      <link>https://www.nytimes.com/2022/09/28/world/australia/anti-corruption-commission-secrecy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/australia/anti-corruption-commission-secrecy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/australia/anti-corruption-commission-secrecy.html" rel="standout"></atom:link>
+      <description>Fulfilling a campaign promise, the government has a plan for an oversight agency to investigate allegations of corruption. Many welcome the move, but not unreservedly.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 10:27:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albanese, Anthony (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dutton, Peter C</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28oz-corruption-top/28oz-corruption-top-moth.jpg" width="151"></media:content>
+      <media:credit>Mick Tsikas/Australian Associated Press, via Associated Press</media:credit>
+      <media:description>Lawmakers in Australia’s House of Representatives at Parliament House this month.</media:description>
+    </item>
+    <item>
+      <title>Cuba Starts Restoring Power After Hurricane Ian Causes Blackout</title>
+      <link>https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/americas/hurricane-ian-cuba-damage.html" rel="standout"></atom:link>
+      <description>Power began coming back on in the east, but it was not clear how much of the electricity had been restored by Wednesday morning.</description>
+      <dc:creator>Andrés R. Martínez</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 10:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Ian (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28ian-blog-cuba-power-image/28ian-blog-cuba-power-image-moth.jpg" width="151"></media:content>
+      <media:credit>Ramon Espinosa/Associated Press</media:credit>
+      <media:description>People playing dominoes by flashlight during a blackout in Havana on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Our Correspondents on the Biggest Music, Shows and Books in Their Parts of the World</title>
+      <link>https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/foreign-correspondents-arts-music.html" rel="standout"></atom:link>
+      <description>Our reporters are keeping an eye on and an ear out for the buzz in their parts of the world.</description>
+      <dc:creator>Joshua Needelman</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 09:00:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Stefania (Song)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Sex Lives of African Women: Self-discovery, Freedom, and Healing (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tomb of Sand (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Pip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/23/multimedia/intl-arts-promo-v1/intl-arts-promo-v1-moth.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Long Road to Driverless Trucks</title>
+      <link>https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html" rel="standout"></atom:link>
+      <description>Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="">future of transportation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Williams</media:credit>
+    </item>
+    <item>
+      <title>Read Your Way Through Rome</title>
+      <link>https://www.nytimes.com/2022/09/28/books/rome-italy-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/books/rome-italy-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/books/rome-italy-books.html" rel="standout"></atom:link>
+      <description>Igiaba Scego, an author born in Rome to Somali parents, recommends books that draw readers through the rich layers that make up her hometown.</description>
+      <dc:creator>Igiaba Scego</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Italian Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roman Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beard, Mary (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersen, Hans Christian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Douglass, Frederick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durastanti, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goethe, Johann Wolfgang von</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gramsci, Antonio (1891-1937)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Henry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hawthorne, Nathaniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keats, John (1795-1821)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lahiri, Jhumpa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wharton, Edith</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shelley, Percy Bysshe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pasolini, Pier Paolo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="">literaryguides</category>
+    </item>
+    <item>
+      <title>The top E.U. diplomat says the Nord Stream leaks resulted from ‘a deliberate act.’</title>
+      <link>https://www.nytimes.com/2022/09/28/world/europe/the-top-eu-diplomat-says-the-nord-stream-leaks-resulted-from-a-deliberate-act.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/europe/the-top-eu-diplomat-says-the-nord-stream-leaks-resulted-from-a-deliberate-act.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/europe/the-top-eu-diplomat-says-the-nord-stream-leaks-resulted-from-a-deliberate-act.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Monika Pronczuk, Melissa Eddy, Oleg Matsnev and Johanna Lemola</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 19:43:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/multimedia/28ukraine-briefing-nordstream-image/28ambriefing-europe-nl-gasleak-1-87e9-moth.jpg" width="151"></media:content>
+      <media:credit>Danish Defense Ministry</media:credit>
+      <media:description>This photo released by the Danish military on Tuesday shows gas bubbles from the Nord Stream 2 leak reaching the surface of the Baltic Sea, near the Danish island of Bornholm.</media:description>
+    </item>
+    <item>
+      <title>Far From Routine, Asia Trip Presents Thorny Tests for Kamala Harris</title>
+      <link>https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/asia/kamala-harris-asia.html" rel="standout"></atom:link>
+      <description>A visit for Shinzo Abe’s controversial state funeral also includes outreach to Asian allies over military advances by North Korea and China.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Thu, 29 Sep 2022 02:34:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/world/28harris-asia-top-sub-01/28harris-asia-top-sub-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Leah Millis</media:credit>
+      <media:description>Vice President Kamala Harris on the Howard, a U.S. naval destroyer, at the Yokosuka base in Japan on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>On Portugal’s ‘Bitcoin Beach,’ Crypto Optimism Still Reigns</title>
+      <link>https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/technology/crypto-portugal-bitcoin-beach.html" rel="standout"></atom:link>
+      <description>In crypto havens such as Meia Praia beach, the confidence in digital currencies remains undimmed even after this summer’s crash.</description>
+      <dc:creator>Adam Satariano</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bitcoin (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/28/business/00crypto-portugal-04/00crypto-portugal-04-moth.jpg" width="151"></media:content>
+      <media:credit>Rodrigo Cardoso for The New York Times</media:credit>
+      <media:description>An access point to Meia Praia, which has become known to some as Bitcoin Beach. It has become a bubble of optimism about cryptocurrency amid a serious downturn for crypto.</media:description>
+    </item>
+    <item>
+      <title>Zambia and Its New President Are Still on Their Honeymoon</title>
+      <link>https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/28/world/africa/zambia-hakainde-hichilema.html" rel="standout"></atom:link>
+      <description>Hakainde Hichilema is hailed as a miracle worker for turning around the fortunes of the southern African country. But with his opposition neutralized and a corruption drive focused on his predecessors, some are uneasy.</description>
+      <dc:creator>Ruth Maclean</dc:creator>
+      <pubDate>Wed, 28 Sep 2022 13:35:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lungu, Edgar C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/22/world/00zambia-president-1/00zambia-president-1-moth.jpg" width="151"></media:content>
+      <media:credit>Gulshan Khan for The New York Times</media:credit>
+      <media:description>President Hakainde Hichilema of Zambia.</media:description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 17 Dec 2021 14:44:46 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Dec 2021 14:24:54 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Japan Fire May Have Killed Dozens, With Arson Suspected</title>
+      <link>https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/asia/japan-fire-osaka.html" rel="standout"></atom:link>
+      <description>The fire consumed the fourth floor of the building in Osaka, which housed a medical office.</description>
+      <dc:creator>Makiko Inoue and Ben Dooley</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 07:16:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osaka (Japan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/world/17japan-fire-1/17japan-fire-1-moth.jpg" width="151"></media:content>
+      <media:credit>Kyodo News, via Associated Press</media:credit>
+      <media:description>Firefighters after the blaze in Osaka, Japan, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Stolen at Birth, Chilean Adoptees Uncover Their Past</title>
+      <link>https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/world/americas/chile-adoption-pinochet.html" rel="standout"></atom:link>
+      <description>Hundreds of Chileans adopted abroad have learned that they were trafficked. Investigators believe thousands of children may have been taken from their parents during Chile’s dictatorship.</description>
+      <dc:creator>Ernesto Londoño</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 10:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adoptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16chile-babies/16chile-babies-moth.jpg" width="151"></media:content>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>Tyler Graf, 38, was adopted from Chile, and learned this year that he was one of hundreds — possibly thousands — of Chilean adoptees taken from their parents during the country’s military dictatorship.</media:description>
+    </item>
+    <item>
+      <title>Britain’s Conservatives Lose ‘Safe’ Seat, Dealing a Blow to Boris Johnson</title>
+      <link>https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/world/europe/uk-election-tories-boris-johnson.html" rel="standout"></atom:link>
+      <description>The governing party lost to the Liberal Democrats a district that it had represented for more than a century.</description>
+      <dc:creator>Stephen Castle and Mark Landler</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 14:11:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paterson, Owen William</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/world/17uk-election-05/17uk-election-05-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Furlong/Getty Images</media:credit>
+      <media:description>In the North Shropshire by-election, Helen Morgan, center, of the Liberal Democrats, defeated the Conservative candidate.</media:description>
+    </item>
+    <item>
+      <title>12 Remaining Members of a U.S. Group Kidnapped in Haiti Have Been Released</title>
+      <link>https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/americas/haiti-hostages-released.html" rel="standout"></atom:link>
+      <description>Seventeen members of the group, Christian Aid Ministries, had been kidnapped by a gang in October. Five had been released earlier.</description>
+      <dc:creator>Harold Isaac, Anatoly Kurmanaev and Ruth Graham</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 22:44:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missionaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christian Aid Ministries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">400 Mawozo (Gang)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16haiti-hostages/merlin_198864540_c8596c62-025b-4d78-a453-bd38730f4f70-moth.jpg" width="151"></media:content>
+      <media:credit>Odelyn Joseph/Associated Press</media:credit>
+      <media:description>The gate of the Christian Aid Ministries facility this month in Titanyen, north of Port-au-Prince, Haiti.</media:description>
+    </item>
+    <item>
+      <title>The Island Paradise Near the Front Line of Tensions Over Taiwan</title>
+      <link>https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/asia/ishigaki-japan-missiles-taiwan.html" rel="standout"></atom:link>
+      <description>New missile batteries planned for the Japanese island of Ishigaki reflect a drastic shift in Japan’s views on China.</description>
+      <dc:creator>Ben Dooley, Hisako Ueno and The New York Times</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 09:54:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ishigaki Island (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16japan-taiwan1/16japan-taiwan1-moth.jpg" width="151"></media:content>
+      <media:description>A new missile base on Ishigaki, Japan, is making residents worry for their safety in case of a conflict between China and Taiwan.</media:description>
+    </item>
+    <item>
+      <title>Super Typhoon Rai Hits the Philippines</title>
+      <link>https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/asia/super-typhoon-rai-odette-philippines.html" rel="standout"></atom:link>
+      <description>Nearly 100,000 people in several regions were evacuated, and at least 17 people died.</description>
+      <dc:creator>Jason Gutierrez</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 12:20:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mindanao (Philippines)</category>
+      <category domain="">Typhoon Rai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/multimedia/16Philippines-typhoon-01/16Philippines-typhoon-01-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Favila/Philippine Goast Guard, via Associated Press</media:credit>
+      <media:description>Rescuers helping residents through floodwaters caused by Typhoon Rai in Cagayan de Oro, a city in the southern Philippines, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Cracks Down on Firms Said to Aid China’s Repression of Minorities</title>
+      <link>https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/us/politics/us-china-biotech-muslim-minorities.html" rel="standout"></atom:link>
+      <description>The Commerce and Treasury Departments put new restrictions on an array of companies and institutions that they said were misusing biotechnology.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 22:53:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DJI Innovations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raimondo, Gina M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/us/politics/16dc-intel-1/16dc-intel-1-moth.jpg" width="151"></media:content>
+      <media:credit>Roman Pilipey/EPA, via Shutterstock</media:credit>
+      <media:description>The Great Hall of the People alongside Tiananmen Square in Beijing. The Biden administration said China was using advances in biotechnology to drive forward its military modernization.</media:description>
+    </item>
+    <item>
+      <title>Congress Passes Ban on Goods From China&#39;s Xinjiang Region</title>
+      <link>https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/us/politics/congress-uyghur-forced-labor.html" rel="standout"></atom:link>
+      <description>President Biden is expected to sign the bill, which drew a fierce corporate lobbying campaign against it.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 20:52:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/us/politics/15dc-uyghurs-1/15dc-uyghurs-1-moth.jpg" width="151"></media:content>
+      <media:credit>Gilles Sabrié for The New York Times</media:credit>
+      <media:description>The bill would ban the imports of goods made “in whole or in part” in Xinjiang unless companies are able to prove that the products were not made with forced labor.</media:description>
+    </item>
+    <item>
+      <title>NATO Signals Support for Ukraine Amid Russia Threat</title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/ukraine-nato-russia.html" rel="standout"></atom:link>
+      <description>The military alliance stood by its promise to open a path to Ukrainian membership amid warnings from Western intelligence agencies that Moscow could soon begin a military incursion.</description>
+      <dc:creator>Michael Schwirtz</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 21:45:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoltenberg, Jens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/multimedia/16Ukraine-NATO3/16Ukraine-NATO3-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>The Ukrainian Army’s 25th Airborne Brigade on patrol in Avdiivka, Ukraine, this month.</media:description>
+    </item>
+    <item>
+      <title>Turkish Currency Hits a New Low, Again</title>
+      <link>https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/middleeast/turkish-lira-currency-erdogan-turkey.html" rel="standout"></atom:link>
+      <description>The Central Bank has cut interest rates, even as inflation continues to soar, deepening President Erdogan’s disputed economic plan and setting off a new plunge in the lira.</description>
+      <dc:creator>Carlotta Gall</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 17:06:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/world/16turkey-lira-01/16turkey-lira-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>People buying subsidized bread at a kiosk in Istanbul. Inflation in Turkey continues to soar as the lira hits new lows.</media:description>
+    </item>
+    <item>
+      <title>Judges in France Order the Reopening of an Enduring Murder Mystery</title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/omar-raddad-cote-dazur-dna-france.html" rel="standout"></atom:link>
+      <description>The conviction of Omar Raddad in the killing of a socialite in the French Riviera three decades ago will be re-examined after his lawyers presented new DNA evidence they say exonerates him.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 17:33:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raddad, Omar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marchal, Ghislaine (d 1991)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16france-murder-01/16france-murder-01-moth.jpg" width="151"></media:content>
+      <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Omar Raddad, a Moroccan-born gardener who was convicted for the 1991 murder of his wealthy employer, leaving after a hearing in Paris, on Nov. 25.</media:description>
+    </item>
+    <item>
+      <title>In Italy’s Alps, Traditional Medicine Flourishes, as Does Covid</title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/italy-alps-bolzano-covid-vaccination.html" rel="standout"></atom:link>
+      <description>The province of Bolzano has the country’s highest level of coronavirus infection and lowest vaccination rate, as many people there prefer to rely on the pure air and herbal remedies.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 15:56:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolzano (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Complementary Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/13/world/00italy-nature-lovers01/00italy-nature-lovers01-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandro Grassani for The New York Times</media:credit>
+      <media:description>The town of Dobbiaco in Bolzano province, where people are famously independent and often bristle at decrees from Rome.</media:description>
+    </item>
+    <item>
+      <title>‘Selling Kabul’ Holds Up a New Mirror After the Taliban Takeover</title>
+      <link>https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/theater/selling-kabul-afghanistan-sylvia-khoury.html" rel="standout"></atom:link>
+      <description>Sylvia Khoury’s play, which takes place over one night in Afghanistan in 2013, has only deepened after a pandemic postponement.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 23:20:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Refugee Assistance Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Playwrights Horizons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khoury, Sylvia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rafaeli, Tyne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Williamstown (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Selling Kabul (Play)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/arts/03kabul-story1/03kabul-story1-moth.jpg" width="151"></media:content>
+      <media:credit>Elias Williams for The New York Times</media:credit>
+      <media:description>“A play is a fixed thing, as history continues,” the playwright Sylvia Khoury said about her decision not to update her play after the U.S. withdrawal from Afghanistan in August.</media:description>
+    </item>
+    <item>
+      <title>Expanding the Scope of ‘Latin American Art’</title>
+      <link>https://www.nytimes.com/2021/12/16/arts/design/latino-art-exhibitions-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/arts/design/latino-art-exhibitions-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/arts/design/latino-art-exhibitions-new-york.html" rel="standout"></atom:link>
+      <description>Eight not-to-be-missed shows offer scores of creators and local art traditions from New York, Puerto Rico and the Caribbean, Mexico and South America.</description>
+      <dc:creator>Holland Cotter</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 21:21:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Puerto Ricans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">El Museo del Barrio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute for Studies on Latin American Art (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taller Boricua/Puerto Rican Workshop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hunter East Harlem Gallery (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Americas Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimas, Marcos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moura, Rodrigo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/arts/16latino-art-roundup-harbor/16latino-art-roundup-harbor-moth.jpg" width="151"></media:content>
+      <media:credit>Préfète Duffaut and El Museo del Barrio</media:credit>
+      <media:description>Préfète Duffaut, a Haitian artist featured in “Popular Painters and Other Visionaries” at El Museo del Barrio. “Harbor,  Vue de Jacmel Avec le Pont de Noël” (“View of Jacmel With the Noël Bridge”), from 1968, captures the seaport of Jacmel, where he lived and worked.</media:description>
+    </item>
+    <item>
+      <title>Russia Lays Out Demands for a Sweeping New Security Deal With NATO</title>
+      <link>https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/world/europe/russia-nato-security-deal.html" rel="standout"></atom:link>
+      <description>The proposal, coming as Russia masses troops on the border with Ukraine, was directed at the United States and Ukraine’s other Western allies.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 14:24:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/world/17russia-security-01/17russia-security-01-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Pivovarov/Reuters</media:credit>
+      <media:description>Russia has amassed troops near its border with Ukraine in a military buildup that has raised alarms of an impending invasion.</media:description>
+    </item>
+    <item>
+      <title>Omicron Threatens Red America</title>
+      <link>https://www.nytimes.com/2021/12/17/briefing/omicron-spread-red-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/briefing/omicron-spread-red-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/briefing/omicron-spread-red-america.html" rel="standout"></atom:link>
+      <description>In many communities, most adults remain unvaccinated.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 11:29:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/multimedia/17ambriefing-promo/17ambriefing-covid02-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Brandon Bell/Getty Images</media:credit>
+      <media:description>Shoppers at a mall in Houston.</media:description>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2021/12/17/briefing/omicron-us-inflation-central-banks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/briefing/omicron-us-inflation-central-banks.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/briefing/omicron-us-inflation-central-banks.html" rel="standout"></atom:link>
+      <description>Omicron in the U.S.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 05:36:20 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/us/17ambriefing-Europe-virus-omicron/17ambriefing-Europe-virus-omicron--moth.jpg" width="151"></media:content>
+      <media:credit>Desiree Rios for The New York Times</media:credit>
+      <media:description>Testing for Covid-19 in New York City.</media:description>
+    </item>
+    <item>
+      <title>The Giant Who Lives in the Melbourne Museum</title>
+      <link>https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/17/world/australia/the-giant-who-lives-in-the-melbourne-museum.html" rel="standout"></atom:link>
+      <description>The world’s most complete triceratops skeleton ever found will go on display next year, displacing a beloved, if quirky, exhibit of taxidermy.</description>
+      <dc:creator>Besha Rodell</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 05:30:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dinosaurs</category>
+    </item>
+    <item>
+      <title>Scientists Are Racing to Gauge the Threat of Omicron</title>
+      <link>https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/health/coronavirus-omicron-variant.html" rel="standout"></atom:link>
+      <description>The variant will spread quickly through the United States, experts say. What happens after that is less certain.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 02:59:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/science/16virus-omicron1/16virus-omicron1-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Lane/EPA, via Shutterstock</media:credit>
+      <media:description>Covid testing in Times Square this month. The share of cases caused by Omicron nationally has already increased to 2.9 percent from 0.4 percent in just a week.</media:description>
+    </item>
+    <item>
+      <title>Oriol Bohigas, Groundbreaking Spanish Architect, Dies at 95</title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/oriol-bohigas-dead.html" rel="standout"></atom:link>
+      <description>He was a mastermind of the overhaul of Barcelona in preparation for the 1992 Summer Olympics, which helped transform much of the city.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 00:15:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bohigas, Oriol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barcelona (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1992)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vila Olimpica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+    </item>
+    <item>
+      <title>C.D.C. Recommends Pfizer or Moderna Vaccines Over J.&amp;J</title>
+      <link>https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/health/johnson-and-johnson-vaccine-blood-clots.html" rel="standout"></atom:link>
+      <description>A committee of experts voted on a preference for the Moderna or Pfizer immunizations, citing the risk of blood clots linked to Johnson &amp; Johnson’s product.</description>
+      <dc:creator>Rebecca Robbins and Christina Jewett</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 02:02:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Clots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advisory Committee on Immunization Practices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AstraZeneca PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson &amp; Johnson</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/science/16VIRUS-JNJ-VACCINE/16VIRUS-JNJ-VACCINE-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Altaffer/Associated Press</media:credit>
+      <media:description>An expert panel discussed a higher incidence of a rare disorder, especially among women, that occurred shortly after they got their first J.&amp;.J. shot. </media:description>
+    </item>
+    <item>
+      <title>France Limits U.K. Travel as Omicron Spreads</title>
+      <link>https://www.nytimes.com/2021/12/16/briefing/omicron-outbreaks-eu-russia-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/briefing/omicron-outbreaks-eu-russia-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/briefing/omicron-outbreaks-eu-russia-nato.html" rel="standout"></atom:link>
+      <description>Omicron fuels record cases in Britain.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 21:26:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/17/world/121721ambriefing-asia-promo/17ambriefing-asia-travel-moth.jpg" width="151"></media:content>
+      <media:credit>Bertrand Guay/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Information screens showing the upcoming Eurostar trains to London at the Gare du Nord railway station in Paris.</media:description>
+    </item>
+    <item>
+      <title>In 50 Words, Tell Us Your Best Pandemic Story</title>
+      <link>https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/health/covid-pandemic-story.html" rel="standout"></atom:link>
+      <description>We want to hear about your Covid memories.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 20:16:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+    </item>
+    <item>
+      <title>A 3-D Printed Pod Inflames the Assisted Suicide Debate</title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/suicide-pods-switzerland.html" rel="standout"></atom:link>
+      <description>The pod, known as Sarco, was conceived as a way for people to end their lives without involving a doctor. A plan to introduce it in Switzerland has raised alarm even among right-to-die advocates.</description>
+      <dc:creator>Christine Hauser</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 17:31:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">3-D Printers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nitschke, Philip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+    </item>
+    <item>
+      <title>‘They Were Just Gone’: Two Baby Boys Survive Tornado in Kentucky</title>
+      <link>https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/americas/100000008123224/kentucky-tornado-baby-boys-survivors.html" rel="standout"></atom:link>
+      <description>Without a basement, Clara Lutz of Barnsley, Ky., sheltered her infant grandsons in the bathtub for safety. A powerful tornado pulled the tub from her grip and sent the babies flying.</description>
+      <dc:creator>Sarah Kerr, Yousur Al-Hlou and Noah Throop</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 15:18:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/video/16vid-ky-tornado-babies/16vid-ky-tornado-babies-moth.jpg" width="151"></media:content>
+      <media:credit>Yousur Al-Hlou/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>On Broadway, Covid is trying to steal every show.</title>
+      <link>https://www.nytimes.com/2021/12/16/world/on-broadway-covid-is-trying-to-steal-every-show.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/on-broadway-covid-is-trying-to-steal-every-show.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/on-broadway-covid-is-trying-to-steal-every-show.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael Paulson</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 14:49:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/arts/16virus-broadway-closures/16virus-broadway-closures-moth.jpg" width="151"></media:content>
+      <media:credit>Sara Krulwich/The New York Times</media:credit>
+      <media:description>Miguel Cervantes as the title character in “Hamilton” in September. The popular musical was one of several shows to cancel performances because of Covid cases this season.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth cancels traditional pre-Christmas lunch as cases surge in England.</title>
+      <link>https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/queen-elizabeth-christmas-lunch-canceled-covid.html" rel="standout"></atom:link>
+      <description>Palace officials said it was a precautionary measure to avoid putting royal family members at risk by bringing a large group together at Windsor Castle.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 12:55:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/multimedia/16virus-briefing-britain-queen/16virus-briefing-britain-queen-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Glyn Kirk/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Britain’s Queen Elizabeth at Windsor Castle near London last December.</media:description>
+    </item>
+    <item>
+      <title>Hu Xijin, Chief of China&#39;s Global Times, Will Retire</title>
+      <link>https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/asia/china-hu-xijin-retires.html" rel="standout"></atom:link>
+      <description>Mr. Hu, editor of the Communist Party tabloid Global Times, set the tone for a new generation of Chinese pundits with his flair for verbal combat.</description>
+      <dc:creator>Paul Mozur and John Liu</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 02:51:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hu Xijin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/00China-Editor1/00China-Editor1-moth.jpg" width="151"></media:content>
+      <media:credit>Giulia Marchi for The New York Times</media:credit>
+      <media:description>Hu Xijin in the Global Times newsroom in Beijing in 2019.</media:description>
+    </item>
+    <item>
+      <title>An Omicron Surge is Likely, Here&#39;s What to Expect</title>
+      <link>https://www.nytimes.com/2021/12/16/briefing/omicron-update-spread-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/briefing/omicron-update-spread-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/briefing/omicron-update-spread-vaccines.html" rel="standout"></atom:link>
+      <description>We look at the latest on Omicron.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 11:40:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/multimedia/16ambriefing-promo/16ambriefing-omnicron-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>A line at a London vaccination site.</media:description>
+    </item>
+    <item>
+      <title>France Bans Nonessential Travel With U.K. Over Omicron Surge </title>
+      <link>https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/world/europe/france-uk-travel-restrictions-omicron.html" rel="standout"></atom:link>
+      <description>The French prime minister said the restrictions were necessary after “the extremely rapid spread” of Omicron in Britain.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 21:56:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16virus-briefing-france-britain-travel-01/16virus-briefing-france-britain-travel-01-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Meyssonnier/Reuters</media:credit>
+      <media:description>Charles de Gaulle Airport near Paris. Starting Saturday, travel to or from Britain will be allowed for only “urgent” reasons.</media:description>
+    </item>
+    <item>
+      <title>What Happens If You Test Positive for Covid While Traveling?</title>
+      <link>https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/travel/testing-positive-for-covid-overseas.html" rel="standout"></atom:link>
+      <description>In the midst of the holiday season, the Omicron variant has many considering the prospects of getting stuck while traveling. Here’s what you need to know.</description>
+      <dc:creator>Heather Murphy</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 10:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans Abroad</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/14/travel/travel-positive1/merlin_198664797_98823406-3085-432b-89bb-e35ae2ddd6ce-moth.jpg" width="151"></media:content>
+      <media:credit>Pierre Crom/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Battling for Bolivia’s Lithium That&#39;s Vital to Electric Cars</title>
+      <link>https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html" rel="standout"></atom:link>
+      <description>Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game.</description>
+      <dc:creator>Clifford Krauss and Meridith Kohut</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 08:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Exploration Technologies (EnergyX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Egan, Teague</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lithium (Metal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2021/12/16/briefing/omicron-xi-jinping-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/16/briefing/omicron-xi-jinping-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/16/briefing/omicron-xi-jinping-putin.html" rel="standout"></atom:link>
+      <description>Omicron breaks records in Britain.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 05:27:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/multimedia/16ambriefing-europe-gb-covid/16ambriefing-europe-gb-covid-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Tolga Akmen</media:credit>
+      <media:description>England’s chief medical officer, Chris Whitty.</media:description>
+    </item>
+    <item>
+      <title>Bouncy Castle in Tasmania Is Swept by Wind, Killing 5 Children</title>
+      <link>https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/australia/jumping-castle-tasmania.html" rel="standout"></atom:link>
+      <description>A gust of wind swept up the inflatable on the last day of school, and the students fell more than 30 feet. Several others were critically injured.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 17 Dec 2021 04:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tasmania (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16oz-castle-02/16oz-castle-02-moth.jpg" width="151"></media:content>
+      <media:credit>Grant Wells/EPA, via Shutterstock</media:credit>
+      <media:description>Helicopters and ambulances rushed to the scene Thursday after heavy winds lifted a bouncy castle high in the air in Devonport, Australia.</media:description>
+    </item>
+    <item>
+      <title>Santo Domingo Plane Crash Kills All 9 Aboard</title>
+      <link>https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/americas/santo-domingo-plane-crash.html" rel="standout"></atom:link>
+      <description>A prominent Puerto Rican music producer known as Flow La Movie was reported to be among the dead.</description>
+      <dc:creator>Richard Pérez-Peña and Mike Ives</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 09:56:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/01/15/world/15dr-crash-01/15dr-crash-01-moth.jpg" width="151"></media:content>
+      <media:credit>Francesco Spotorno/EPA, via Shutterstock</media:credit>
+      <media:description>Security personnel patrolling in the vicinity of Las Americas International Airport in Santo Domingo, Dominican Republic, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Briefing: Omicron vs. vaccines</title>
+      <link>https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/us/coronavirus-omicron-vaccines-wave.html" rel="standout"></atom:link>
+      <description>And the coming Omicron wave.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 22:49:13 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/21/us/cases_orphan_usa-1595349567192-copy/cases_orphan_usa-1595349567192-moth-v1122.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Daily reported coronavirus cases in the United States, seven-day average.</media:description>
+    </item>
+    <item>
+      <title>Canadian Government Warns Residents to Avoid Nonessential Travel</title>
+      <link>https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/americas/canada-travel-warning-omicron.html" rel="standout"></atom:link>
+      <description>In response to the spread of Omicron, Canada is also ramping up distribution of booster doses and rapid antigen tests.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 21:41:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15virus-briefing-canada/15virus-briefing-canada-moth.jpg" width="151"></media:content>
+      <media:credit>Darryl Dyck/The Canadian Press, via Associated Press</media:credit>
+      <media:description>The home opener of the Vancouver Canucks in October, when Covid-19 capacity restrictions were lifted.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: Xi and Putin Show Solidarity</title>
+      <link>https://www.nytimes.com/2021/12/15/briefing/xi-putin-meeting-omicron-moderna-kpop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/briefing/xi-putin-meeting-omicron-moderna-kpop.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/briefing/xi-putin-meeting-omicron-moderna-kpop.html" rel="standout"></atom:link>
+      <description>The leaders met amid pressure from the West.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 21:32:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/16ambriefing-asia-nl-russiachina-promo/16ambriefing-asia-nl-russiachina-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ueslei Marcelino/Reuters</media:credit>
+      <media:description>President Vladimir V. Putin of Russia and Xi Jinping, the leader of China, in 2019 in Brazil. The two leaders are presenting a united front against Western pressure.</media:description>
+    </item>
+    <item>
+      <title>Why Britain Thinks Omicron Infected 200,000 People on Monday</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/uk-omicron-surge.html" rel="standout"></atom:link>
+      <description>Experts called it ‘a back-of-the-envelope calculation’ that showed how quickly the variant spreads, but also how little is known about it.</description>
+      <dc:creator>Shashank Bengali</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 20:32:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15virus-briefing-uk-omicron/15virus-briefing-uk-omicron-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>A street in Manchester, England, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>After Months, a ‘New’ Dutch Coalition With the Same Leader and Parties</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/netherlands-dutch-coalition.html" rel="standout"></atom:link>
+      <description>Mark Rutte, who has weathered a scandal and criticism for overstaying his welcome, will be prime minister for a fourth term.</description>
+      <dc:creator>Thomas Erdbrink</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 19:24:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15Netherlands/15Netherlands-moth.jpg" width="151"></media:content>
+      <media:credit>Robin Van Lonkhuijsen/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Mark Rutte last month in the Hague, the Netherlands. He has been leading the Netherlands since 2010.</media:description>
+    </item>
+    <item>
+      <title>Britain Breaks Daily Record for New Virus Cases</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/uk-covid-record-cases.html" rel="standout"></atom:link>
+      <description>Officials didn’t specify what share of the new cases might be Omicron, though they said a majority in London were from the variant.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 20:57:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+    </item>
+    <item>
+      <title>Many Turks Can’t Afford Bread, and Bakers Can’t Afford to Make It</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/turkey-bread-prices.html" rel="standout"></atom:link>
+      <description>Squeezed by rising costs, price controls and plunging sales, bakers warn of ruin, while their impoverished former customers line up for government-supplied loaves.</description>
+      <dc:creator>Carlotta Gall</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 14:28:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bakeries and Baked Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Imamoglu, Ekrem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15Turkey-02/15Turkey-02-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Although government kiosks have been operating for years in working-class neighborhoods of Istanbul, many more people are now buying the cheaper bread.</media:description>
+    </item>
+    <item>
+      <title>Germany is investigating vaccine opponents over a plot to kill a state governor.</title>
+      <link>https://www.nytimes.com/2021/12/15/world/germany-is-investigating-vaccine-opponents-over-a-plot-to-kill-a-state-governor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/germany-is-investigating-vaccine-opponents-over-a-plot-to-kill-a-state-governor.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/germany-is-investigating-vaccine-opponents-over-a-plot-to-kill-a-state-governor.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 17:51:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15virus-briefing-germany02/15virus-briefing-germany02-moth.jpg" width="151"></media:content>
+      <media:credit>Matthias Rietschel/Reuters</media:credit>
+      <media:description>Police officers block the entrance to the Saxony Parliament building in Dresden, Germany, during a protest against pandemic measures.</media:description>
+    </item>
+    <item>
+      <title>Iran Agrees to Replace Cameras at Nuclear Site but Blocks Images</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/iran-nuclear-cameras-iaea.html" rel="standout"></atom:link>
+      <description>Iran’s failure to allow the U.N. nuclear agency to fully monitor its nuclear program is hindering talks in Vienna on restoring the 2015 nuclear deal.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 17:47:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uranium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15iran-nuclear1/15iran-nuclear1-moth.jpg" width="151"></media:content>
+      <media:credit>EU Delegation In Vienna, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Talks in Vienna aimed at restoring the 2015 nuclear deal with Iran are going badly. </media:description>
+    </item>
+    <item>
+      <title>On Cruise Ships, Omicron Puts Safety Protocols to the Test</title>
+      <link>https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/travel/cruise-ships-coronavirus.html" rel="standout"></atom:link>
+      <description>Many lines are adjusting their masking, testing and vaccine rules, while criticism is mounting about the lack of transparency in reporting positive cases to passengers and crew members.</description>
+      <dc:creator>Ceylan Yeginsu</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 21:44:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Delta Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney Cruise Line</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Caribbean Cruises Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Cruise Line Holdings Ltd.</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/13/travel/xxcruises-omicron/xxcruises-omicron-moth.jpg" width="151"></media:content>
+      <media:credit>James D. DeCamp/Zuma Press Wire, via Newscom</media:credit>
+      <media:description>The Norwegian Breakaway, docked in New Orleans in November. The Norwegian Cruise Line ship reported 17 coronavirus cases the first week of December.</media:description>
+    </item>
+    <item>
+      <title>France Refused to Repatriate a Sick Woman Who Joined the Islamic State. She Died.</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/frenchwoman-dead-syria-detention-camp.html" rel="standout"></atom:link>
+      <description>A Frenchwoman died of health complications in a detention camp in Syria on Tuesday, her lawyer said. She had repeatedly asked to be repatriated to treat severe diabetes.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 16:44:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15france-isis-06/15france-isis-06-moth.jpg" width="151"></media:content>
+      <media:credit>Delil Souleiman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A woman walking through Roj, the camp where relatives of people suspected of belonging to the Islamic State are being detained in Syria’s northeastern Hasakah Province.</media:description>
+    </item>
+    <item>
+      <title>Malta Becomes First E.U. Country to Legalize Marijuana</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/malta-eu-marijuana-legalize.html" rel="standout"></atom:link>
+      <description>The government said that the new law was aimed at ending the criminalization of people for smoking the drug and at reducing criminal trafficking.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 15:14:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malta</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15malta-cannabis01/15malta-cannabis01-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty/Associated Press</media:credit>
+      <media:description>Malta’s new rules allow people to carry up to seven grams of marijuana, grow up to four plants in their apartments and keep up to 50 grams of dried cannabis at home. </media:description>
+    </item>
+    <item>
+      <title>Biden’s China Dilemma: How to Enforce Trump’s Trade Deal</title>
+      <link>https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/business/economy/china-trump-trade-deal-biden.html" rel="standout"></atom:link>
+      <description>The Biden administration must decide whether to enforce a Trump-era trade deal that has not fulfilled its promise.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 14:49:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/business/15dc-chinabuy/15dc-chinabuy-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>In a call last month with President Xi Jinping of China, President Biden underscored the importance of China fulfilling the commitments.</media:description>
+    </item>
+    <item>
+      <title>The U.S. secretary of state cuts his Asia trip short after a journalist on his plane tests positive.</title>
+      <link>https://www.nytimes.com/2021/12/15/world/the-us-secretary-of-state-cuts-his-asia-trip-short-after-a-journalist-on-his-plane-tests-positive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/the-us-secretary-of-state-cuts-his-asia-trip-short-after-a-journalist-on-his-plane-tests-positive.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/the-us-secretary-of-state-cuts-his-asia-trip-short-after-a-journalist-on-his-plane-tests-positive.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 14:37:17 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/us/15virus-briefing-blinken/15virus-briefing-blinken-moth.jpg" width="151"></media:content>
+      <media:credit>Olivier Douliery/Pool</media:credit>
+      <media:description>Secretary of State Antony J. Blinken at the U.S. Embassy in Jakarta, Indonesia, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Vaccine Opponents in Germany Investigated Over Plot to Kill State Governor</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/germany-michael-kretschmer-plot-saxony-vaccines.html" rel="standout"></atom:link>
+      <description>The authorities in Dresden raided the homes of a group of people who they said were targeting the leader of the state of Saxony. A number of weapons were seized.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 17:25:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dresden (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15virus-Germany01/15virus-Germany01-moth.jpg" width="151"></media:content>
+      <media:credit>Sebastian Kahnert/DPA, via Associated Press</media:credit>
+      <media:description>Police officers leading a suspect out of a building in Dresden, Germany, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>5 Republican Governors Seek Vaccine Exemptions for National Guard Troops</title>
+      <link>https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/us/politics/gop-governors-vaccine-pentagon.html" rel="standout"></atom:link>
+      <description>The move comes as the Pentagon released a new order this week saying that National Guard members who do not get vaccinated would receive a general order of reprimand, essentially ending their careers.</description>
+      <dc:creator>Jennifer Steinhauer</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 15:18:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/multimedia/15virus-briefing-gop-governors/15virus-briefing-gop-governors-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jason Andrew for The New York Times</media:credit>
+      <media:description>Members of the Wyoming National Guard at the U.S. Capitol in Washington in February.</media:description>
+    </item>
+    <item>
+      <title>Blinken Halts Asia Trip After Journalist Tests Positive for Covid</title>
+      <link>https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/asia/antony-blinken-journalist-covid.html" rel="standout"></atom:link>
+      <description>Citing the need for caution, the secretary of state expressed “deep regret” to Thailand’s deputy prime minister before returning to the United States earlier than planned.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 13:31:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuala Lumpur (Malaysia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15blinken-01/15blinken-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Olivier Douliery</media:credit>
+      <media:description>Secretary of State Antony J. Blinken arriving in Kuala Lumpur, Malaysia, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>India&#39;s Supreme Court Mandates Benefits for Sex Workers</title>
+      <link>https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/asia/india-sex-workers-benefits.html" rel="standout"></atom:link>
+      <description>Officials must enter them into databases for voting and benefits, the judges said, after they suffered from the effects of Covid-19 lockdowns.</description>
+      <dc:creator>Sameer Yasir</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 14:21:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rationing and Allocation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15india-sexworkers-04/15india-sexworkers-04-moth.jpg" width="151"></media:content>
+      <media:credit>Hemanshi Kamani/Reuters</media:credit>
+      <media:description>A sex worker in a red light area of Sangli in the western state of Maharashtra, India, in June.</media:description>
+    </item>
+    <item>
+      <title>Two Doses of China&#39;s Sinovac Inadequate Against Omicron, Hong Kong Study Suggests</title>
+      <link>https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/asia/omicron-hong-kong-study.html" rel="standout"></atom:link>
+      <description>Laboratory experiments suggest that the Chinese vaccine provides little protection against an Omicron infection.</description>
+      <dc:creator>Paul Mozur and John Liu</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 13:54:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinovac Biotech Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15virus-briefing-coronavac-01/15virus-briefing-coronavac-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>Lining up to receive China’s Sinovac Covid-19 vaccine at a community inoculation center in Hong Kong last month.</media:description>
+    </item>
+    <item>
+      <title>Jacob Zuma Must Return to Prison, South Africa Judge Rules</title>
+      <link>https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/africa/jacob-zuma-prison-south-africa.html" rel="standout"></atom:link>
+      <description>The former president had been granted medical parole two months into a 15-month prison sentence on contempt charges linked to a corruption inquiry.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 18:06:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15safrica-zuma-01/15safrica-zuma-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Jerome Delay</media:credit>
+      <media:description>Jacob Zuma in court in Pietermaritzburg, South Africa, in October. A judge ruled on Wednesday that the former president’s health had not “deteriorated permanently or reached an irreversible state.”</media:description>
+    </item>
+    <item>
+      <title>Russian Is Convicted in Murder of Chechen Man in a Berlin Park</title>
+      <link>https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html" rel="standout"></atom:link>
+      <description>A German court ruled that the Russian state had orchestrated the attack, which strained ties between Berlin and Moscow.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 16:50:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Security Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15germany-murder01/15germany-murder01-moth.jpg" width="151"></media:content>
+      <media:credit>Christoph Soeder/DPA, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police officers at the site in Berlin where Zelimkhan Khangoshvili was killed in 2019.</media:description>
+    </item>
+    <item>
+      <title>2021 in Photos</title>
+      <link>https://www.nytimes.com/2021/12/15/briefing/year-in-photos-2021.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/briefing/year-in-photos-2021.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/briefing/year-in-photos-2021.html" rel="standout"></atom:link>
+      <description>It’s time to look at the Pictures of the Year.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 11:11:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty One</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/lens/15ambriefing-promo/15ambriefing-yip01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jason Andrew for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>North Korea Executes People for Watching K-Pop, Rights Group Says</title>
+      <link>https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/asia/north-korea-kpop-executions.html" rel="standout"></atom:link>
+      <description>At least seven people have been put to death in the past decade for watching or distributing K-pop videos, as the North cracks down on what its leader calls a “vicious cancer.”</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 11:05:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transitional Justice Working Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15nkorea-execution-01/15nkorea-execution-01-moth.jpg" width="151"></media:content>
+      <media:credit>Korean Central News Agency, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>North Korea’s leader, Kim Jong-un, has at times tried to appear more flexible toward outside culture​. In 2018, he invited South Korean musicians to a rare concert in Pyongyang.</media:description>
+    </item>
+    <item>
+      <title>Australia eases restrictions even as it expects more Omicron cases.</title>
+      <link>https://www.nytimes.com/2021/12/15/world/australia/australia-eases-restrictions-even-as-it-expects-more-omicron-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/australia/australia-eases-restrictions-even-as-it-expects-more-omicron-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/australia/australia-eases-restrictions-even-as-it-expects-more-omicron-cases.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 16:22:42 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15virus-brief-australia-open/15virus-brief-australia-open-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Rob Blakers/EPA, via Shutterstock</media:credit>
+      <media:description>Travelers arrived at Hobart Airport in Hobart, Australia, on Wednesday, as the country reopened to all fully vaccinated travelers from mainland states and territories.</media:description>
+    </item>
+    <item>
+      <title>Putin and Xi Hold Video Summit</title>
+      <link>https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/asia/china-russia-summit-xi-putin.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin of Russia and President Xi Jinping of China, meeting in a video summit, sought mutual support in their conflicts with the West but have not yet declared a formal alliance.</description>
+      <dc:creator>Anton Troianovski and Steven Lee Myers</dc:creator>
+      <pubDate>Thu, 16 Dec 2021 00:13:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/15/world/15russia-china01/15russia-china01-moth.jpg" width="151"></media:content>
+      <media:credit>Ueslei Marcelino/Reuters</media:credit>
+      <media:description>President Vladimir V. Putin of Russia and Xi Jinping, the leader of China, in 2019 in Brazil. The two leaders are presenting a united front against Western pressure. </media:description>
+    </item>
+    <item>
+      <title>The Nobel Peace Prize That Paved the Way for War in Ethiopia</title>
+      <link>https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/12/15/world/africa/ethiopia-abiy-ahmed-nobel-war.html" rel="standout"></atom:link>
+      <description>This is the story behind how Ethiopia’s prime minister, Abiy Ahmed, won a Nobel Prize for making peace with his country’s longtime enemy — and then used the alliance to plan a war.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Wed, 15 Dec 2021 23:13:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tigray People&#39;s Liberation Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nobel Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oromia (Ethiopia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/12/16/world/16Ethiopia-Nobel-Print-top/00Ethiopia-Nobel-top-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Welsh for The New York Times</media:credit>
+      <media:description>Prime Minister Abiy Ahmed of Ethiopia drew early acclaim for his promise to unify his country.</media:description>
+    </item>
+  </channel>
+</rss>

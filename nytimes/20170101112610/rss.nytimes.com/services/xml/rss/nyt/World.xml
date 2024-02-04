@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 11:22:31 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Terrorist Attack at Nightclub in Istanbul Kills Dozens</title>
+      <link>http://www.nytimes.com/2017/01/01/world/europe/turkey-istanbul-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/01/world/europe/turkey-istanbul-attack.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/01/world/europe/turkey-istanbul-attack.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/europe/01turkey-web1/01turkey-web1-moth.png" medium="image" height="151" width="151"/>
+      <media:description>A statement threatening attacks in Turkey that was published this week by Nashir Media Foundation, an organization with connections to the Islamic State.</media:description>
+      <media:credit/>
+      <description>The gunman was still at large after the mass shooting on New Year&#x2019;s Day. Dozens of people were wounded, Turkish officials said.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Sun, 01 Jan 2017 11:13:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>With Trump, Russia Goes From Thursday&#x2019;s Foe of U.S. to Friday&#x2019;s Friend</title>
+      <link>http://www.nytimes.com/2016/12/31/world/europe/trump-russia-us-foe-to-friend.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/europe/trump-russia-us-foe-to-friend.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/europe/trump-russia-us-foe-to-friend.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/RUSSIA/RUSSIA-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia with President Obama in Hangzhou, China, in September.</media:description>
+      <media:credit>Alexei Druzhinin/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>With Donald J. Trump making admiring remarks about Vladimir V. Putin, many Americans, accustomed to be suspicious of Russia, are confused and uneasy.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 17:18:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+    </item>
+    <item>
+      <title>Sick With a Cold, Queen Elizabeth Misses New Year&#x2019;s Service</title>
+      <link>http://www.nytimes.com/2017/01/01/world/europe/sick-with-a-cold-queen-elizabeth-misses-new-years-service.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/01/world/europe/sick-with-a-cold-queen-elizabeth-misses-new-years-service.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/01/world/europe/sick-with-a-cold-queen-elizabeth-misses-new-years-service.html?partner=rss&amp;emc=rss"/>
+      <description>A week earlier, the queen missed a Christmas Day church service, for the first time since 1988.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Sun, 01 Jan 2017 11:11:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Damaged by War, Syria&#x2019;s Cultural Sites Rise Anew in France</title>
+      <link>http://www.nytimes.com/2016/12/31/world/europe/destroyed-by-isis-syrias-cultural-sites-rise-again-in-france.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/europe/destroyed-by-isis-syrias-cultural-sites-rise-again-in-france.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/europe/destroyed-by-isis-syrias-cultural-sites-rise-again-in-france.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/29/world/europe/louvre-3d/louvre-3d-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;Eternal Sites: From Bamiyan to Palmyra,&#x201D; an exhibition that calls attention to the rising threats to global heritage, has attracted large crowds to the Grand Palais in Paris.</media:description>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <description>More than 40,000 images taken from Palmyra are part of a Louvre-curated 3-D exhibition highlighting the threats of war against global heritage.</description>
+      <dc:creator>MARLISE SIMONS</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 15:03:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assyrian Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palmyra (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>U.N. Encourages, but Stops Short of Endorsing, Syria Cease-Fire</title>
+      <link>http://www.nytimes.com/2016/12/31/world/middleeast/syria-united-nations-security-council-cease-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/middleeast/syria-united-nations-security-council-cease-fire.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/middleeast/syria-united-nations-security-council-cease-fire.html?partner=rss&amp;emc=rss"/>
+      <description>The cease-fire was announced by Russia on Thursday and is supposed to stop the fighting between forces loyal to President Bashar al-Assad of Syria and the rebels seeking his ouster.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 20:32:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>ISIS Claims 2 Bombings in Baghdad, While Fighting to Hold On to Mosul</title>
+      <link>http://www.nytimes.com/2016/12/31/world/middleeast/isis-bombings-baghdad.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/middleeast/isis-bombings-baghdad.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/middleeast/isis-bombings-baghdad.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/SUB-IRAQ/SUB-IRAQ-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Residents fleeing their home in the Intisar district of Mosul took cover behind a wall on Saturday as Iraqi forces advanced against fighters from the Islamic State.</media:description>
+      <media:credit>Ahmad Al-Rubaye/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Over two dozen people were killed in the attacks, which the Islamic State said were directed at Shiite Muslims.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 16:33:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+    </item>
+    <item>
+      <title>Propaganda With a Millennial Twist Pops Up in China</title>
+      <link>http://www.nytimes.com/2016/12/31/world/asia/china-propaganda-communist-party-millennials.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/asia/china-propaganda-communist-party-millennials.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/asia/china-propaganda-communist-party-millennials.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/20/world/20PROPAGANDA-1/20PROPAGANDA-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the rap group CD REV, on the rooftop of a recording studio in Chengdu, China. The group has recorded music videos featuring songs about China&#x2019;s claims in the contested South China Sea and Mao Zedong&#x2019;s legacy.</media:description>
+      <media:credit>Gilles Sabri&#xE9; for The New York Times</media:credit>
+      <description>President Xi Jinping wants the propaganda apparatus to modernize and target a key group that some in the Communist Party worry it may be losing.</description>
+      <dc:creator>JAVIER C. HERN&#xC1;NDEZ</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 16:38:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Millennial Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>North Korea Will Test Intercontinental Ballistic Missile, Kim Says</title>
+      <link>http://www.nytimes.com/2017/01/01/world/asia/north-korea-intercontinental-ballistic-missile-test-kim-jong-un.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/01/world/asia/north-korea-intercontinental-ballistic-missile-test-kim-jong-un.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/01/world/asia/north-korea-intercontinental-ballistic-missile-test-kim-jong-un.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/02/world/asia/02nkorea-photo1/02nkorea-photo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;We have reached the final stage in preparations to test-launch an intercontinental ballistic rocket,&#x201D; North Korea&#x2019;s Kim Jong-un said Sunday.</media:description>
+      <media:credit>KCNA/Reuters</media:credit>
+      <description>The country&#x2019;s leader, Kim Jong-un, spoke proudly of the progress of its nuclear weapons and ballistic missile programs.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Sun, 01 Jan 2017 09:49:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Taiwan&#x2019;s President Accuses China of Renewed Intimidation</title>
+      <link>http://www.nytimes.com/2016/12/31/world/asia/taiwan-china-tsai-ing-wen-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/asia/taiwan-china-tsai-ing-wen-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/asia/taiwan-china-tsai-ing-wen-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/01TAIWAN/01TAIWAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Tsai Ing-wen of Taiwan at a news conference on Saturday in Taipei.</media:description>
+      <media:credit>Taiwan Presidential Office, via Associated Press</media:credit>
+      <description>&#x2018;Step by step, Beijing is going back to the old path of dividing, coercing and even threatening and intimidating Taiwan,&#x2019; President Tsai Ing-wen said.</description>
+      <dc:creator>JAVIER C. HERN&#xC1;NDEZ</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 19:31:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>News Analysis: Closing China&#x2019;s Ivory Market: Will It Save Elephants?</title>
+      <link>http://www.nytimes.com/2016/12/31/world/africa/africa-ivory-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/africa/africa-ivory-china.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/africa/africa-ivory-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/IVORY/IVORY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chinese law enforcement officials handling confiscated ivory at a Beijing wildlife center in 2015.</media:description>
+      <media:credit>Wu Hong/European Pressphoto Agency</media:credit>
+      <description>If the Chinese government really commits to combating the ivory trade, then the price of ivory could collapse. Criminal organizations and poachers will then abandon the business.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 16:42:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ivory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>What in the World: Six Feet Across and Full of Peril: England&#x2019;s Killer Creek</title>
+      <link>http://www.nytimes.com/2016/12/30/world/what-in-the-world/six-feet-across-and-full-of-peril-englands-killer-creek.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/what-in-the-world/six-feet-across-and-full-of-peril-englands-killer-creek.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/what-in-the-world/six-feet-across-and-full-of-peril-englands-killer-creek.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/03/world/wit-britain-stream/wit-britain-stream-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Bolton Strid is narrow and deep, a powerful wedge of water racing through a crevasse riddled with underwater caves and overhangs.</media:description>
+      <media:credit>Andy Haslam for The New York Times</media:credit>
+      <description>The Bolton Strid burbles among moss-covered stones in Yorkshire. But this scenic stretch of river, deceptively deep and riddled with caves, is deadly.</description>
+      <dc:creator>DES SHOE</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 10:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkshire (England)</category>
+    </item>
+    <item>
+      <title>A Maverick Former Japanese Prime Minister Goes Antinuclear</title>
+      <link>http://www.nytimes.com/2016/12/31/world/asia/a-maverick-former-japanese-prime-minister-goes-antinuclear.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/asia/a-maverick-former-japanese-prime-minister-goes-antinuclear.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/asia/a-maverick-former-japanese-prime-minister-goes-antinuclear.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/20/world/20KOIZUMI-4/20KOIZUMI-4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Former Prime Minister Junichiro Koizumi of Japan in September. Although he supported nuclear power during his run as prime minister from 2001 to 2006, Mr. Koizumi now actively opposes it.</media:description>
+      <media:credit>The Asahi Shimbun, via Getty Images</media:credit>
+      <description>Junichiro Koizumi&#x2019;s opposition to nuclear power has led him to seek medical help for American sailors who lent aid after the 2011 Fukushima disaster.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 16:29:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koizumi, Junichiro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japan Earthquake and Tsunami (2011)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Navy</category>
+    </item>
+    <item>
+      <title>Trump&#x2019;s Indonesia Projects, Still Moving Ahead, Create Potential Conflicts</title>
+      <link>http://www.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/27/world/27TRUMPINDONESIA-1/27TRUMPINDONESIA-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Setya Novanto, speaker of the Indonesian House of Representatives, with Donald J. Trump in New York in 2015. Later that year, Mr. Setya was forced to leave his leadership post temporarily because of corruption allegations.</media:description>
+      <media:credit>Richard Drew/Associated Press</media:credit>
+      <description>President-elect Donald J. Trump has made deals involving two resorts in Indonesia and forged relationships with powerful political figures there.</description>
+      <dc:creator>RICHARD C. PADDOCK and ERIC LIPTON</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 16:09:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Novanto, Setya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Freeport-McMoRan Copper&amp;Gold Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Icahn, Carl C</category>
+    </item>
+    <item>
+      <title>Korean Official Charged With Illegally Swaying Samsung Merger Vote</title>
+      <link>http://www.nytimes.com/2016/12/31/world/asia/south-korea-samsung-merger-moon-hyung-pyo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/asia/south-korea-samsung-merger-moon-hyung-pyo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/asia/south-korea-samsung-merger-moon-hyung-pyo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/asia/01korea-photo1/01korea-photo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Moon Hyung-pyo, in Seoul on Tuesday, is the chairman of South Korea&#x2019;s national pension fund, the world&#x2019;s third-largest.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>Prosecutors accused Moon Hyung-pyo of ordering a pension fund to back the deal, which helped ensure that control of Samsung passed from its chairman to his son.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 08:52:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon Hyung-pyo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung C&amp;T Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cheil Industries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+    </item>
+    <item>
+      <title>The Lauded Russian Hacker Whose Company Landed on the U.S. Blacklist</title>
+      <link>http://www.nytimes.com/2016/12/31/world/europe/russia-hacking-alisa-shevchenko.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/31/world/europe/russia-hacking-alisa-shevchenko.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/31/world/europe/russia-hacking-alisa-shevchenko.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/01/world/01SANCTIONS-2/01SANCTIONS-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An image of Alisa Shevchenko on her Twitter profile.</media:description>
+      <media:credit/>
+      <description>The United States&#x2019; sanctions list includes the company of a minor celebrity hacker who was once recognized by the American government for her work helping companies fight cybercrime.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Sat, 31 Dec 2016 05:00:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shevchenko, Alisa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Sinosphere: Mongolia, With Deep Ties to Dalai Lama, Turns From Him Toward China</title>
+      <link>http://www.nytimes.com/2016/12/30/world/asia/china-mongolia-dalai-lama.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/asia/china-mongolia-dalai-lama.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/asia/china-mongolia-dalai-lama.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/31/world/31CHINADALAI-1/31CHINADALAI-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Dalai Lama after addressing a crowd in Ulan Bator, the capital of Mongolia, in November. China had objected to his visit.</media:description>
+      <media:credit>B. Rentsendorj/Reuters</media:credit>
+      <description>The country appeared to be bowing to pressure from Beijing after the spiritual leader&#x2019;s visit, but his trip prompted speculation that his successor might be born there.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 15:58:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dalai Lama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongolia</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: John Kerry and Israel: Too Little and Too Late</title>
+      <link>http://www.nytimes.com/2016/12/29/opinion/john-kerry-and-israel-too-little-and-too-late.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/29/opinion/john-kerry-and-israel-too-little-and-too-late.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/29/opinion/john-kerry-and-israel-too-little-and-too-late.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/30/opinion/30khalidiWeb/30khalidiWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>John Kerry speaking at the State Department on Wednesday.</media:description>
+      <media:credit>Zach Gibson/Getty Images</media:credit>
+      <description>Perhaps years of sustained pressure would have limited Benjamin Netanyahu&#x2019;s appetite for settlement expansion. Or perhaps not.</description>
+      <dc:creator>RASHID KHALIDI</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 02:12:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+    </item>
+    <item>
+      <title>Editorial: President Obama Punishes Russia, at Last</title>
+      <link>http://www.nytimes.com/2016/12/29/opinion/president-obama-punishes-russia-at-last.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/29/opinion/president-obama-punishes-russia-at-last.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/29/opinion/president-obama-punishes-russia-at-last.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/30/opinion/30fri1web/30fri1web-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Obama and President Putin in 2015.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>No, Mr. Trump, Americans are not going to forget about Russian hacking.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 01:41:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Editorials</category>
+    </item>
+    <item>
+      <title>15 of the Best Journals by Our Reporters Around the World</title>
+      <link>http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/01/18/world/asia/19India-slideshow-slide-FU7J/19India-slideshow-slide-FU7J-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man folding blankets that are rented out to the homeless in Delhi.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The conversational and visual on-the-ground reports offered a glimpse of captivating people and places, from a &#x201C;sleep mafia&#x201D; in Delhi to a monastery seeking salvation in beer.</description>
+      <dc:creator>Compiled by BARBARA TIERNEY</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 14:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>&#x2018;I Didn&#x2019;t Want to Lose My Identity&#x2019;: 16,000 Readers Reflect on Their Surnames</title>
+      <link>http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/17/world/surnames/surnames-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katherine Yuk from Toronto was one of more than 16,000 readers who responded when The New York Times asked women around the world why they kept or changed their surnames when they married.</media:description>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <description>The Times asked women around the world why they had kept or changed their surnames when they married. For many, the decision carried significant weight.</description>
+      <dc:creator>HANNA INGBER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 11:00:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-comments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+    </item>
+  </channel>
+</rss>

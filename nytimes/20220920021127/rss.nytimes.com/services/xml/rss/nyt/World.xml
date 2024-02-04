@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 20 Sep 2022 02:11:27 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2022 01:49:50 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Thousands Pay Tribute as Britain Says Final Farewell to Queen Elizabeth</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral.html" rel="standout"></atom:link>
+      <description>More than 100 world leaders, including President Biden, attended the funeral for Queen Elizabeth II, and Britons lined the streets for a procession that took her to her final resting place at Windsor Castle.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:49:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-lede-video-new/19queen-lede-video-new-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Queen Elizabeth II Is Buried at Windsor Alongside Her Husband, Prince Philip</title>
+      <link>https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/19/world/queen-elizabeth-funeral" rel="standout"></atom:link>
+      <description>After a state funeral at Westminster Abbey and a procession across central London, the British monarch was interred at the King George VI Memorial Chapel.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:43:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-header-01/19queen-elizabeth-header-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Strike Near Another Ukrainian Nuclear Plant Escalates Fears of Disaster</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-nuclear-plant-missile.html" rel="standout"></atom:link>
+      <description>A powerful Russian missile hit 300 yards from the plant far from the front lines, Ukraine said, a reminder that despite its recent retreat, Russia can still threaten nuclear sites.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 23:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">South Ukraine Nuclear Power Plant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-ledeall-top/19ukraine-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Olga Yakimovich/Reuters</media:credit>
+      <media:description>The South Ukraine Nuclear Power Plant in Yuzhnoukrainsk, Ukraine, about 70 miles north of the city of Mykolaiv, in 2015.</media:description>
+    </item>
+    <item>
+      <title>Mexico Has Tequila. Peru, Pisco. In Colombia, a Push for Viche, Now Legal.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/colombia-viche-petronio-alvarez-festival.html" rel="standout"></atom:link>
+      <description>Invented by formerly enslaved people, viche, a cane sugar liquor, was long banned, a sort of Colombian moonshine. Now, it’s a symbol of the country’s often ignored Afro-Colombian culture.</description>
+      <dc:creator>Genevieve Glatsky and Julie Turkewitz</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 17:09:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liquor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marquez, Francia</category>
+      <category domain="">viche</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/00colombia-dispatch1-top-sub/00colombia-dispatch1-top-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Lucía Solís, a sixth generation producer of viche, selling the liquor at the Petronio Alvarez festival in Cali, Colombia, last month.</media:description>
+    </item>
+    <item>
+      <title>Russian Setbacks Are Hampering Army Recruitment, Says Pentagon Official</title>
+      <link>https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/19/world/ukraine-russia-war" rel="standout"></atom:link>
+      <description>A Ukrainian official said that of 146 bodies exhumed so far in a northeastern city, most were civilians and some had been tortured.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:33:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-header/19ukraine-briefing-header-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian service members near the Siversky Donets River in Izium, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Hostage Exchanged for Afghan Drug Lord in Prisoner Swap</title>
+      <link>https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/mark-frerichs-prisoner-swap-biden-taliban.html" rel="standout"></atom:link>
+      <description>The Taliban said it had freed an American engineer, Mark R. Frerichs, in exchange for the release of a prominent Afghan tribal leader convicted of drug trafficking.</description>
+      <dc:creator>Yaqoob Akbary and Christina Goldbaum</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 21:24:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frerichs, Mark (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noorzai, Haji Bashir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Muhammad (Taliban Leader)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zawahri, Ayman Al-</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19Afghan-Prisoner-image/19Afghan-Prisoner-image-moth.jpg" width="151"></media:content>
+      <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
+      <media:description>Bashir Noorzai, who was convicted of drug trafficking in the United States in 2008, attends his release ceremony at the Intercontinental Hotel in Kabul on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Ukraine, Glass Is a Precious Substance as Winter Looms</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukraine-war-glass.html" rel="standout"></atom:link>
+      <description>Russian bombs. Soaring energy costs. Severed trade links. It’s getting hard to fix all the shattered windows in Ukraine, and winter is coming.</description>
+      <dc:creator>Jeffrey Gettleman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:47:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernihiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/13/world/00UkraineGlass01/00UkraineGlass01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Workmen installed new windows on the eighth floor of an apartment complex that was damaged by Russian bombings in the northern city of Chernihiv.</media:description>
+    </item>
+    <item>
+      <title>Bus Taking People to Quarantine Crashes in China, Killing 27</title>
+      <link>https://www.nytimes.com/2022/09/19/world/asia/china-bus-crash-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/asia/china-bus-crash-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/asia/china-bus-crash-covid.html" rel="standout"></atom:link>
+      <description>The deaths renewed an anguished debate over the price of China’s “zero Covid” policy.</description>
+      <dc:creator>Vivian Wang and Joy Dong</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guiyang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guizhou (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19china-covid-bus-01/19china-covid-bus-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yang Ying/Xinhua, via Associated Press</media:credit>
+      <media:description>A Covid testing site in Guiyang, China, in September. Local officials said they would start sending people elsewhere for quarantine because there were too many for the city’s facilities to accommodate.</media:description>
+    </item>
+    <item>
+      <title>From Coronation to Funeral: Bookends to the Life of a Queen, and a Generation</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-coronation.html" rel="standout"></atom:link>
+      <description>For 70 years, Elizabeth II was the anchor of a nation’s identity. Charles III now will take on, or recast, that role.</description>
+      <dc:creator>Alan Cowell</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:02:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-essay-new/19queen-essay-new-moth-v2.jpg" width="151"></media:content>
+      <media:credit>PA Images, via Getty Images; Pool photo by Frank Augstein</media:credit>
+      <media:description>Queen Elizabeth’s coronation in 1953, and her funeral on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Parks and on Post Boxes, Crowds Say Farewell to Queen Elizabeth II</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-crowds.html" rel="standout"></atom:link>
+      <description>The death of Queen Elizabeth II brought droves of people together in central London, where mourning has distracted many from Britain’s political tumult and cost-of-living crisis.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 23:11:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-scene-top/19queen-scene-top-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>After the state funeral service for Queen Elizabeth II at Westminster Abbey in London on Monday, her coffin was taken on a gun carriage to Wellington Arch.</media:description>
+    </item>
+    <item>
+      <title>Windsor, Queen’s Final Resting Place, Has a Long Association With Her</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-windsor-castle.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth spent much time as the castle outside London. Her husband is also buried there.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:38:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor Castle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-windsor-live/19queen-windsor-live-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>As they did in London, crowds gathered on Monday at Windsor Castle to say goodbye to Queen Elizabeth II.</media:description>
+    </item>
+    <item>
+      <title>United Nations: What to Expect at the General Assembly This Week</title>
+      <link>https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</link>
+      <guid isPermaLink="true">https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly</guid>
+      <atom:link href="https://www.nytimes.com/explain/2022/09/19/world/united-nations-general-assembly" rel="standout"></atom:link>
+      <description>The session will feature top leaders in New York City in person for the first time in three years. But the tone will be one of crisis, not triumph.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 20 Sep 2022 01:03:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19unga-explainer-sectionfront/19unga-explainer-lede1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Slim/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Earthquake Shakes Mexico on Anniversary of 2 Major Temblors</title>
+      <link>https://www.nytimes.com/2022/09/19/world/americas/mexico-earthquake-september-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/americas/mexico-earthquake-september-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/americas/mexico-earthquake-september-19.html" rel="standout"></atom:link>
+      <description>The magnitude 7.6 earthquake, centered near the boundary of Colima and Michoacan states, killed at least one person. It came on the same day as devastating quakes in 1985 and 2017.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:56:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colima (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michoacan (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19Mexico-Quake/merlin_213471252_dd3a723a-1921-4503-8888-7aa440a18563-moth.jpg" width="151"></media:content>
+      <media:credit>Jose Mendez/EPA, via Shutterstock</media:credit>
+      <media:description>People rushed into the streets in Mexico City after a magnitude 7.6 earthquake struck Mexico’s central Pacific coast on Monday.</media:description>
+    </item>
+    <item>
+      <title>Is Choosing Medically Assisted Death Too Easy in Canada?</title>
+      <link>https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/canada/medically-assisted-death.html" rel="standout"></atom:link>
+      <description>Since the government expanded the eligibility for assisted death last year to include those with disabilities, critics have been saying there should be more checks and balances.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 18:54:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Condition (Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/00canada-death-top/00canada-death-top-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>Cheryl Romaire, who wears a fentanyl patch for pain from a degenerative spinal condition, was recently approved for an assisted death.</media:description>
+    </item>
+    <item>
+      <title>Pentagon Orders Review of Its Overseas Social Media Campaigns</title>
+      <link>https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/us/politics/pentagon-social-media.html" rel="standout"></atom:link>
+      <description>The move comes after Twitter and Facebook shut down misleading accounts that they determined were sending messages to promote U.S. foreign policy.</description>
+      <dc:creator>Julian E. Barnes and Sheera Frenkel</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 23:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/us/politics/19dc-military1/19dc-military1-moth.jpg" width="151"></media:content>
+      <media:credit>Stefani Reynolds for The New York Times</media:credit>
+      <media:description>The Pentagon has ordered a review of secretive operations to influence populations overseas after White House officials expressed concerns.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Britain Buries Queen Elizabeth II</title>
+      <link>https://www.nytimes.com/2022/09/19/briefing/queen-funeral-un-ukraine-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/briefing/queen-funeral-un-ukraine-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/briefing/queen-funeral-un-ukraine-asia.html" rel="standout"></atom:link>
+      <description>Plus a preview of the U.N. General Assembly and growing nuclear fears in Ukraine.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 21:16:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarsour, Linda (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/20/world/092022ambriefing-asia-promo1/20ambriefing-asia-queen-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>The Queen’s coffin was moved from the gun carriage to a hearse before traveling on to Windsor on Monday.</media:description>
+    </item>
+    <item>
+      <title>In the eastern Donbas, a slew of contradictions.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/in-the-eastern-donbas-a-slew-of-contradictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/in-the-eastern-donbas-a-slew-of-contradictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/in-the-eastern-donbas-a-slew-of-contradictions.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jeffrey Gettleman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 16:08:40 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17UkraineDonbas01a/17UkraineDonbas01a-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>A road outside Chasiv Yar with mountains of slag visible on the horizon.</media:description>
+    </item>
+    <item>
+      <title>McDonald’s Begins to Reopen Restaurants in Ukraine This Week</title>
+      <link>https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/business/mcdonalds-reopen-ukraine.html" rel="standout"></atom:link>
+      <description>Three outlets will open in Kyiv for delivery, before a wider reopening in the capital and west of the country over the next two months.</description>
+      <dc:creator>Isabella Simonetti</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 19:16:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19ukraine-mcdonalds/19ukraine-mcdonalds-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>All 109 McDonald’s restaurants in Ukraine closed after Russia invaded in February.</media:description>
+    </item>
+    <item>
+      <title>Thousands Gather in Hyde Park to Watch Queen Elizabeth&#39;s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-hyde-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-hyde-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-hyde-park.html" rel="standout"></atom:link>
+      <description>Tens of thousands of people gathered in the park in central London to watch Queen Elizabeth II’s funeral service.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 20:17:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hyde Park (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-hyde-park-scene/merlin_213422595_257de825-fa15-468c-9f3a-a8aeb0744e8c-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Crowds watched the funeral service on Monday on a screen at Hyde Park in London.</media:description>
+    </item>
+    <item>
+      <title>Crowds Gather in Windsor to Await the Arrival of the Queen’s Coffin</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-windsor-crowd.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-windsor-crowd.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-windsor-crowd.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II will be interred in St. George’s Chapel at Windsor Castle later on Monday.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 11:37:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-history-of-funeral/merlin_213414354_50703130-ed6a-4e7c-a683-76392620f550-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Throngs of people waited along the Long Walk at Windsor Castle on Monday.</media:description>
+    </item>
+    <item>
+      <title>Where Will the Queen Be Buried? </title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-burial-site-windsor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-burial-site-windsor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-burial-site-windsor.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II spent much of the pandemic at Windsor Castle. She will be interred in the King George VI Memorial Chapel, next to Prince Philip, her husband of 73 years.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 11:52:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-history-of-funeral2/merlin_213404367_fd1f7930-64c7-48a0-9e38-d9cb96d325e6-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>The Long Walk to Windsor Castle on Monday morning.</media:description>
+    </item>
+    <item>
+      <title>Democracy Challenged</title>
+      <link>https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/briefing/democracy-challenged-threats-elections.html" rel="standout"></atom:link>
+      <description>Representative government faces its most serious threats in decades.</description>
+      <dc:creator>Joseph Kahn</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 10:35:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Europe’s Energy Crisis Forces Factories to Go Dark</title>
+      <link>https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html" rel="standout"></atom:link>
+      <description>Manufacturers are furloughing workers and shutting down lines because they can’t pay the gas and electric charges.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 19:04:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glass</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/business/19eu-manufacturing-1/19eu-manufacturing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Glass stems on a conveyor belt at Arc International in France. The company needs natural gas to make its glassware, but Europe’s energy crisis has caused gas prices to surge.</media:description>
+    </item>
+    <item>
+      <title>Jenny Xie Explores the Subversive Power of the Concealed and the Overlooked</title>
+      <link>https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/books/jenny-xie-the-rupture-tense-poetry.html" rel="standout"></atom:link>
+      <description>In her new poetry collection, “The Rupture Tense,” Xie peeks at the past — her family’s, and China’s — to examine the consequences of “how we see, what we see, and also what we allow to remain unseen.”</description>
+      <dc:creator>Han Zhang</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 19:42:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cultural Revolution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Zhensheng (1940- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xie, Jenny (Author)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/books/19xie-1/19xie-1-moth.jpg" width="151"></media:content>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <media:description>“A lot of things remained hidden by people who became accustomed to living inside these dead silences,” Xie said.</media:description>
+    </item>
+    <item>
+      <title>Widespread business and public service closures put Britain’s economy on hold.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/widespread-business-and-public-service-closures-put-britains-economy-on-hold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/widespread-business-and-public-service-closures-put-britains-economy-on-hold.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/widespread-business-and-public-service-closures-put-britains-economy-on-hold.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Eshe Nelson</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 07:43:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-economy/19queen-elizabeth-economy-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>The line to view the queen’s coffin curled past the City of London on Sunday. Schools and workplaces are closed on Monday for the funeral, as well as businesses including restaurants, gyms and stores.</media:description>
+    </item>
+    <item>
+      <title>What Time Is Queen Elizabeth’s Funeral?</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-schedule.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-schedule.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-schedule.html" rel="standout"></atom:link>
+      <description>The funeral for Queen Elizabeth II will begin at 11 a.m. on Monday, followed by a procession across central London.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 13:09:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/multimedia/19queen-elizabeth-schedule-of-events-02/19queen-elizabeth-schedule-of-events-02-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Queen Elizabeth II has been lying in state at Westminster Hall since Wednesday. A procession will accompany the queen’s coffin from Westminster Hall to Westminster Abbey on Monday morning.</media:description>
+    </item>
+    <item>
+      <title>How to Watch Queen Elizabeth II’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-elizabeth-funeral-how-to-watch.html" rel="standout"></atom:link>
+      <description>The New York Times will feature a livestream of the main events.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:54:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19queen-elizabeth-how-to-watch1/19queen-elizabeth-how-to-watch1-moth.jpg" width="151"></media:content>
+      <media:credit>Yoan Valat/EPA, via Shutterstock</media:credit>
+      <media:description>Watching a broadcast of the procession of the coffin containing the body of Queen Elizabeth II as it arrived from Buckingham Palace at Westminster Hall in London on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Ukrainian officials try to build pressure to hold Russia accountable for war crimes.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/ukrainian-officials-try-to-build-public-support-for-the-prosecution-of-war-crimes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/ukrainian-officials-try-to-build-public-support-for-the-prosecution-of-war-crimes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/ukrainian-officials-try-to-build-public-support-for-the-prosecution-of-war-crimes.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ron DePasquale and Juston Jones</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 12:39:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markarova, Oksana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kostin, Andrey L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">60 Minutes (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">This Week (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Face the Nation (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucha (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/19ukraine-briefing-sunday-interviews/19ukraine-briefing-sunday-interviews-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian investigators at a grave site in Izium, Ukraine, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Who Is Attending the Queen’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-guest-list.html" rel="standout"></atom:link>
+      <description>President Biden will be among the 2,000 mourners at the funeral for Queen Elizabeth II at Westminster Abbey.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 08:55:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albanese, Anthony (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masako, Empress of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattarella, Sergio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naruhito, Emperor of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/13/world/19queen-elizabeth-guest-1/13biden-overseas-photo-carousel-queen12-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>President Biden and Queen Elizabeth II last year at Windsor Castle.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/briefing/ukraine-war-funeral-elizabeth.html" rel="standout"></atom:link>
+      <description>Pressure on Russian forces in southern Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 04:49:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/19ambriefing-europe-nl-promo-sept/19ambriefing-europe-nl-promo-sept-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Ukrainian forces moving near the Kherson front this month. Officials claim they are making slow, hard-fought but steady gains.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth: A Visual Dictionary</title>
+      <link>https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/style/queen-elizabeth-icon-symbols.html" rel="standout"></atom:link>
+      <description>The things that made the queen the queen.</description>
+      <dc:creator>Louis Lucero II</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 15:22:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/fashion/19QUEEN-ICONOGRAPHY-top/19QUEEN-ICONOGRAPHY-top-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Rebecca Naden</media:credit>
+    </item>
+    <item>
+      <title>Ukraine’s Counteroffensive Forces Face Mobilized Inmates and Drones</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/ukraine-war-drones-inmates.html" rel="standout"></atom:link>
+      <description>Ukraine has been pushing a counteroffensive in the east and south, applying greater pressure to Russian forces, but there is no indication of any mass Russian withdrawal.</description>
+      <dc:creator>Thomas Gibbons-Neff, Marc Santora and Andrew E. Kramer</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 22:35:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-ledeall1/18ukraine-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier in front of a hotel in Kramatorsk on Sunday. It was struck by a Russian missile overnight.</media:description>
+    </item>
+    <item>
+      <title>Biden Pays Homage to Queen Elizabeth as ‘Decent, Honorable’</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/queen-elizabeth-biden.html" rel="standout"></atom:link>
+      <description>The U.S. president will be one of dozens of world leaders attending the funeral on Monday for a royal who had ruled for nearly as long as the president has lived.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 22:10:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18queen-biden1/18queen-biden1-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>President Biden signing the official condolence book for Queen Elizabeth II at Lancaster House in London on Sunday.</media:description>
+    </item>
+    <item>
+      <title>The Singular Offense of the Mass Grave</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/izium-mass-grave-ukraine.html" rel="standout"></atom:link>
+      <description>Violent loss is even more devastating when the dead are disposed of without identification. When Russians pull out in Ukraine, they leave a trail of anonymous death.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 23:26:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geneva Conventions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18ukraine-graves1-sub/18ukraine-graves1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Numbers, not names, on makeshift grave markers near Izium last week.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing: Queen Elizabeth II’s Funeral</title>
+      <link>https://www.nytimes.com/2022/09/18/briefing/queen-funeral-japan-typhoon-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/queen-funeral-japan-typhoon-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/briefing/queen-funeral-japan-typhoon-asia.html" rel="standout"></atom:link>
+      <description>Plus a powerful typhoon lashes Japan and cheetahs return to India.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 21:17:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheetahs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/19/world/091922ambriefing-asia-promo/091922ambriefing-asia-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>People gathered in the streets around Parliament Square in Westminster on the day ahead of the funeral of Queen Elizabeth II in London on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Guest List for Queen Elizabeth’s Funeral Includes Everyday Honorees</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-public-service-guests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-public-service-guests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/queen-funeral-public-service-guests.html" rel="standout"></atom:link>
+      <description>Among those invited to Queen Elizabeth II’s funeral are almost 200 people who were honored for various forms of public service this year.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 06:59:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Westminster Abbey (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Exhumations in Izium will continue for two more weeks, its mayor says.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/exhumations-in-izium-will-continue-for-two-more-weeks-its-mayor-says.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/exhumations-in-izium-will-continue-for-two-more-weeks-its-mayor-says.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/exhumations-in-izium-will-continue-for-two-more-weeks-its-mayor-says.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Carly Olson</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:07:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/16/world/18ukraine-briefing-izium-1/16ukraine-graves-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian investigators at a large grave site in the forest by Izium, in northeastern Ukraine. Russian soldiers occupied the city for six months before fleeing last week.</media:description>
+    </item>
+    <item>
+      <title>Alla Pugacheva, Russian Pop Star, Comes Out Against Ukraine War </title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/alla-pugacheva-ukraine.html" rel="standout"></atom:link>
+      <description>Alla Pugacheva, whose stardom has spanned from the Soviet era to after the Cold War, said the invasion of Ukraine had turned Russia into a “pariah.”</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 17:05:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pugacheva, Alla</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18ukraine-briefing-russia-pop-star-1/18ukraine-briefing-russia-pop-star-1-moth.jpg" width="151"></media:content>
+      <media:credit>Anton Belitsky/Epsilon via Getty Images</media:credit>
+      <media:description>The Russian singer Alla Pugacheva in Moscow in 2011. The war, she wrote in a post on Instagram, was “turning our country into a pariah and worsening the lives of our citizens.”</media:description>
+    </item>
+    <item>
+      <title>A Russian attack during an evacuation of psychiatric patients kills four Ukrainian health care workers.</title>
+      <link>https://www.nytimes.com/2022/09/19/world/europe/a-russian-attack-during-an-evacuation-of-psychiatric-patients-kills-four-ukrainian-health-care-workers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/19/world/europe/a-russian-attack-during-an-evacuation-of-psychiatric-patients-kills-four-ukrainian-health-care-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/19/world/europe/a-russian-attack-during-an-evacuation-of-psychiatric-patients-kills-four-ukrainian-health-care-workers.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 16:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s Military Says Iranian Attack Drones Have Reached the Battlefield</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/iran-attack-drones-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/iran-attack-drones-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/iran-attack-drones-ukraine.html" rel="standout"></atom:link>
+      <description>A Ukrainian colonel said attacks that took out howitzers and armored vehicles were carried out by Iranian-made drones that had not previously been used outside of the Middle East.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 18:27:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Pelosi, in Armenia, Condemns Azerbaijan Over Clashes</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/pelosi-armenia-azerbaijan.html" rel="standout"></atom:link>
+      <description>Fighting last week, the deadliest between the two countries since 2020, was “initiated by the Azeris,” Speaker Nancy Pelosi said, while also calling for a negotiated settlement.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 17:01:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Armenians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nagorno-Karabakh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18armenia-pelosi/18armenia-pelosi-moth.jpg" width="151"></media:content>
+      <media:credit>Karen Minasyan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Speaker Nancy Pelosi, center, on Sunday at the Tsitsernakaberd Armenian Genocide Memorial Complex in Yerevan, the capital.</media:description>
+    </item>
+    <item>
+      <title>The View From Russia</title>
+      <link>https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/briefing/russians-ukraine-invasion.html" rel="standout"></atom:link>
+      <description>Russians near Ukraine are starting to hear the sound of explosions, and their worries are growing.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 11:21:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/multimedia/18-the-morning-nl-ukzlede-promo/18-the-morning-nl-ukzlede-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Refugees arrive from the Kharkiv Region of Ukraine to a temporary camp in Belgorod, Russia, on Wednesday amid the Ukrainian counteroffensive in the region.</media:description>
+    </item>
+    <item>
+      <title>Powerful Typhoon Thrashes Japan, With Millions Told to Evacuate</title>
+      <link>https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/typhoon-nanmadol-japan.html" rel="standout"></atom:link>
+      <description>The storm, called Nanmadol, carried gales and heavy rain as it was expected to creep up nearly the entire length of the country.</description>
+      <dc:creator>Hikari Hida and John Yoon</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 15:56:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18japan-storm1/18japan-storm1-moth.jpg" width="151"></media:content>
+      <media:credit>Kyodo News, via Associated Press</media:credit>
+      <media:description>High waves hitting the shore on Sunday in Miyazaki, in southern Japan.</media:description>
+    </item>
+    <item>
+      <title>A Welsh Village Embraces Its Bond With the Queen</title>
+      <link>https://www.nytimes.com/2022/09/18/world/europe/aberfan-wales-queen-elizabeth-funeral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/europe/aberfan-wales-queen-elizabeth-funeral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/europe/aberfan-wales-queen-elizabeth-funeral.html" rel="standout"></atom:link>
+      <description>A disaster at Aberfan, a small Welsh community, almost 60 years ago forged an unusual link between the community and the queen. The atmosphere there today — quiet grief coupled with brief flashes of dissent — encapsulates the national mood.</description>
+      <dc:creator>Patrick Kingsley and Mary Turner</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aberfan (Wales)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avalanches</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/18/world/18QueenWales01-promo/18QueenWales01-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Moy Road in Aberfan, the site of a school and several houses that were destroyed during an avalanche that killed 116 children and 28 adults in a disaster in October 1966.</media:description>
+    </item>
+    <item>
+      <title>How Russian Trolls Helped Keep the Women’s March Out of Lock Step</title>
+      <link>https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/us/womens-march-russia-trump.html" rel="standout"></atom:link>
+      <description>As American feminists came together in 2017 to protest Donald Trump, Russia’s disinformation machine set about deepening the divides among them.</description>
+      <dc:creator>Ellen Barry</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 20:27:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s March Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internet Research Agency (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarsour, Linda (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bland, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perez, Carmen (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mallory, Tamika (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/multimedia/00russia-march-1/merlin_117020882_2750d4c3-55ad-448a-b8d9-ee495d4c3f31-moth.jpg" width="151"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Powerful Earthquake Strikes Taiwan, Killing at Least 1</title>
+      <link>https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/taiwan-earthquake.html" rel="standout"></atom:link>
+      <description>A southeastern county was shaken by a strong temblor for the second day in a row.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 09:45:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18taiwan-earthquake5/18taiwan-earthquake5-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ritchie B Tongo/EPA, via Shutterstock</media:credit>
+    </item>
+    <item>
+      <title>In South Korea, President Yoon Treads Fine Line Between U.S. and China</title>
+      <link>https://www.nytimes.com/2022/09/18/world/asia/south-korea-yoon-china-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/18/world/asia/south-korea-yoon-china-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/18/world/asia/south-korea-yoon-china-us.html" rel="standout"></atom:link>
+      <description>Yoon Suk Yeol has aligned his country more closely with the United States, but there are limits to how far he can go without angering China or provoking North Korea.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 01:06:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoon Suk-yeol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/15/world/00skorea-yoon-09/00skorea-yoon-09-moth.jpg" width="151"></media:content>
+      <media:credit>Woohae Cho for The New York Times</media:credit>
+      <media:description>President Yoon Suk Yeol of South Korea. </media:description>
+    </item>
+    <item>
+      <title>Biden Warns Russia Against Using Unconventional Weapons</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/ukraine-russia-war-crimes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/ukraine-russia-war-crimes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/ukraine-russia-war-crimes.html" rel="standout"></atom:link>
+      <description>Some officials worry that the more cornered Vladimir Putin feels, particularly with recent setbacks from Ukraine’s counteroffensive, the greater the chance that he might turn to an unconventional weapon.</description>
+      <dc:creator>Marc Santora and Norimitsu Onishi</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 16:23:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-ledeall6/17ukraine-ledeall6-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Ukrainian emergency services workers collecting unexploded ordnance from the side of the road near Izium on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Zaporizhzhia Nuclear Plant Has Power Restored, Watchdog Says</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/zaporizhzhia-nuclear-plant.html" rel="standout"></atom:link>
+      <description>Maintaining power at Europe’s largest nuclear plant has been crucial to prevent a meltdown in the shadow of fighting nearby.</description>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 20:49:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-Zaporizhzhia/17ukraine-briefing-Zaporizhzhia-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>A motorcade transporting experts with the International Atomic Energy Agency arrived at the Zaporizhzhia Nuclear Power Plant outside the Russian-controlled city of Enerhodar, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Nancy Pelosi visits Armenia after outbreak of deadly fighting with Azerbaijan.</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-visits-armenia-after-outbreak-of-deadly-fighting-with-azerbaijan.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Carlotta Gall</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 20:17:38 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ukraine-briefing-pelosi-in-armenia-version/17ukraine-briefing-pelosi-in-armenia-version-moth.jpg" width="151"></media:content>
+      <media:credit>PHOTOLURE, via Associated Press</media:credit>
+      <media:description>In a photo provided by the Armenian government, Speaker Nancy Pelosi was greeted by Alen Simonyan, the president of the National Assembly, on Saturday outside Yerevan, Armenia’s capital.</media:description>
+    </item>
+    <item>
+      <title>Nancy Pelosi Visits Armenia Amid Conflict With Azerbaijan</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/nancy-pelosi-armenia.html" rel="standout"></atom:link>
+      <description>The House speaker, who has previously inserted herself at the center of global conflicts, is the highest-ranking American official to visit Armenia since it gained independence 30 years ago.</description>
+      <dc:creator>Carlotta Gall</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 21:26:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Armenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Azerbaijan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pashinyan, Nikol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17armenia-pelosi/17armenia-pelosi-moth.jpg" width="151"></media:content>
+      <media:credit>PHOTOLURE, via Associated Press</media:credit>
+      <media:description>In a photo provided by the Armenian government, Speaker Nancy Pelosi was greeted by Alen Simonyan, the president of the National Assembly, on Saturday outside Yerevan, Armenia’s capital.</media:description>
+    </item>
+    <item>
+      <title>Russia continues attacking in Ukraine’s east despite recent setbacks.</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/russia-continues-attacking-in-ukraines-east-despite-recent-setbacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/russia-continues-attacking-in-ukraines-east-despite-recent-setbacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/russia-continues-attacking-in-ukraines-east-despite-recent-setbacks.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Thomas Gibbons-Neff and Natalia Yermak</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 18:23:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/multimedia/17ukraine-briefing-bakhmut-topart/17ukraine-briefing-bakhmut-topart-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Ukrainian armored vehicle rolled through the streets of Bakhmut, Ukraine, on Thursday as the town remained under assault by Russian forces.</media:description>
+    </item>
+    <item>
+      <title>Prince William and Prince Harry Stood Vigil Over the Queen at Westminster Hall</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/queen-elizabeth-william-harry-queue.html" rel="standout"></atom:link>
+      <description>Prince William and Prince Harry stood vigil over their grandmother, Queen Elizabeth II, at Westminster Hall as mourners streamed in to pay their respects.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 19 Sep 2022 10:03:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17queen-scene1/17queen-scene1-moth.jpg" width="151"></media:content>
+      <media:credit>Jeff J Mitchell/Getty Images</media:credit>
+      <media:description>The line to see Queen Elizabeth II lying in state at Westminster Hall stretched for miles along the south bank of the Thames on Saturday in London.</media:description>
+    </item>
+    <item>
+      <title>Three Ancient Sculptures Will Be Returned to Italy </title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/getty-statues-returned-italy.html" rel="standout"></atom:link>
+      <description>Three statues were returned to Italy after the J. Paul Getty Museum discovered they had been looted. They will be displayed temporarily in Rome before heading to Taranto, Italy, their permanent home.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sat, 17 Sep 2022 20:29:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Getty, J Paul, Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Roman Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taranto (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17ITALY-STATUES1/17ITALY-STATUES1-moth.jpg" width="151"></media:content>
+      <media:credit>Emanuele Antonio Minerva and Agnese Sbaffi/Italian Ministry of Culture</media:credit>
+      <media:description>Orpheus and the Sirens</media:description>
+    </item>
+    <item>
+      <title>What’s Behind the Success of the Far-Right Sweden Democrats?</title>
+      <link>https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/17/world/europe/sweden-far-right-election.html" rel="standout"></atom:link>
+      <description>Campaigning on issues like immigration, religion, crime and the cost of environmental rules, the Sweden Democrats, a party with neo-Nazi roots, built its support.</description>
+      <dc:creator>Steven Erlanger and Christina Anderson</dc:creator>
+      <pubDate>Sun, 18 Sep 2022 01:25:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/17/world/17SWEDEN1/17SWEDEN1-moth.jpg" width="151"></media:content>
+      <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A campaign poster for the Sweden Democrats with the slogan “Sweden Will Be Great Again” on a bus stop in Stockholm last month.</media:description>
+    </item>
+  </channel>
+</rss>

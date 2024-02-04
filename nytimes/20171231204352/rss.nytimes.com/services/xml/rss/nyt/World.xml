@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 31 Dec 2017 20:26:11 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Coming Out in Lebanon</title>
+      <link>https://www.nytimes.com/2017/12/30/world/middleeast/lebanon-coming-out.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/middleeast/lebanon-coming-out.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/middleeast/lebanon-coming-out.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31Lebanon-LGBT1/xxLebanon-LGBT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alexander Paulikevitch, a dancer and choreographer, on the roof of his building in Beirut, Lebanon.</media:description>
+      <media:credit>Laura Boushnak for The New York Times</media:credit>
+      <description>Openly gay, lesbian and transgender people face persecution across the Arab world. The exception may be in Lebanon, which has slowly grown more tolerant thanks to the work of activists.</description>
+      <dc:creator>LAURA BOUSHNAK and MONA BOSHNAQ</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 13:45:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+    </item>
+    <item>
+      <title>&#x2018;Massive Mental Health Crisis&#x2019; Feared for Rohingya Children</title>
+      <link>https://www.nytimes.com/2017/12/31/world/asia/rohingya-children-myanmar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/asia/rohingya-children-myanmar.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/asia/rohingya-children-myanmar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/23/world/00rohingya-children-1/00rohingya-children-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gulbahar, a 25-year-old Rohingya Muslim, with her youngest daughter after arriving in Bangladesh in November.</media:description>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <description>&#x201C;I have nightmares that the military is chasing me,&#x201D; says a 12-year-old who fled Myanmar. For hundreds of thousands like her, the horror isn&#x2019;t over.</description>
+      <dc:creator>HANNAH BEECH</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 16:45:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rakhine State (Myanmar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Save the Children</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Even in Poland, Workers&#x2019; Wages Flow to North Korea</title>
+      <link>https://www.nytimes.com/2017/12/31/world/europe/north-korea-poland-workers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/europe/north-korea-poland-workers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/europe/north-korea-poland-workers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01NKPOLAND-01/01NKPOLAND-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A shipyard, at right, in Police, Poland, where North Koreans have worked. The Polish government has pledged to phase out work permits for North Koreans, but the practice has persisted.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>Defying Washington, a NATO ally hosts North Korean laborers, showing how difficult it is to sever the nuclear pariah state from the global economy.</description>
+      <dc:creator>PETER S. GOODMAN, CHOE SANG-HUN and JOANNA BERENDT</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 14:56:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Rouhani Urges Calm in Iran as Protests Continue</title>
+      <link>https://www.nytimes.com/2017/12/31/world/middleeast/iran-protests.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/middleeast/iran-protests.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/middleeast/iran-protests.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01Iran1/01Iran1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iranian riot police tossed smoke grenades on Saturday at a protest at Tehran University.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>Two demonstrators were reported killed in recent days as protests quickly grew into a nationwide outpouring of anger.</description>
+      <dc:creator>MARTIN FACKLER</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 20:24:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+    </item>
+    <item>
+      <title>Laughter, Then Horror, as Flames Engulfed Upscale Mumbai Restaurants</title>
+      <link>https://www.nytimes.com/2017/12/31/world/asia/india-mumbai-restaurant-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/asia/india-mumbai-restaurant-fire.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/asia/india-mumbai-restaurant-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01Indiafire1/merlin_131694206_8adf25ca-1859-4239-a457-3f740f3d4b86-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The fire in Mumbai, India, on Friday, destroyed two restaurants and left at least 14 people dead.</media:description>
+      <media:credit>Danish Siddiqui/Reuters</media:credit>
+      <description>The fire at two restaurants on Friday killed 14 people. Patrons said the establishments had no fire alarms, sprinklers or clear emergency exits.</description>
+      <dc:creator>AYESHA VENKATARAMAN and KAI SCHULTZ</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 13:49:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">1 Above (restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+    </item>
+    <item>
+      <title>Merkel&#x2019;s Wishes for 2018: More Empathy and a New Government</title>
+      <link>https://www.nytimes.com/2017/12/31/world/europe/germany-angela-merkel-new-year.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/europe/germany-angela-merkel-new-year.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/europe/germany-angela-merkel-new-year.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01Germany1/merlin_131729690_0851a1b4-dd77-4837-8552-c90207cf213d-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In her New Year&#x2019;s address, an annual televised event, Chancellor Angela Merkel spoke about fears of a rift in German society.</media:description>
+      <media:credit>Pool photo by Michele Tantussi</media:credit>
+      <description>In her New Year&#x2019;s address, Chancellor Angela Merkel of Germany promised to work swiftly on a new coalition, and to help heal rifts in society.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 15:39:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Social Democratic Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christian Democratic Union (Germany  I'm pretty sure this must exist but I can't make it come up, apologies)</category>
+    </item>
+    <item>
+      <title>In Congo, 8 Killed and Altar Boys Arrested Amid Crackdown on Protests</title>
+      <link>https://www.nytimes.com/2017/12/31/world/africa/congo-protest-joseph-kabila.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/africa/congo-protest-joseph-kabila.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/africa/congo-protest-joseph-kabila.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01Congo/01Congo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Joseph Kabila on a billboard in Kinshasa, Democratic Republic of Congo. As Mr. Kabila&#x2019;s government has stalled in organizing elections, anger across the country has risen.</media:description>
+      <media:credit>Robert Carrubba/Reuters</media:credit>
+      <description>Churches had planned a peaceful march to protest President Joseph Kabila&#x2019;s refusal to leave office, but security forces fired tear gas at churches and set up checkpoints in the capital.</description>
+      <dc:creator>JINA MOORE and STEVE WEMBI</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 19:36:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabila, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>Suicide Bomber Kills at Least 17 at Funeral in Afghanistan</title>
+      <link>https://www.nytimes.com/2017/12/31/world/asia/afghanistan-suicide-bomber-funeral.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/asia/afghanistan-suicide-bomber-funeral.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/asia/afghanistan-suicide-bomber-funeral.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/01/world/01Afghanistan/01Afghanistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Maqam Khan cemetery outside Jalalabad, Afghanistan, on Sunday after a bomber detonated an explosive vest during the funeral of a former district chief.</media:description>
+      <media:credit>Ghulamullah Habibi/European Pressphoto Agency</media:credit>
+      <description>The attacker, who was on foot, set off explosives in his vest among mourners gathered for the funeral of a former district chief at a cemetery in Nangarhar Province.</description>
+      <dc:creator>ZABIHULLAH GHAZI and FAHIM ABED</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 15:48:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jalalabad (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nangarhar Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+    </item>
+    <item>
+      <title>Romania Braces for President&#x2019;s Decision on Bills Seen as Weakening Judiciary</title>
+      <link>https://www.nytimes.com/2017/12/30/world/europe/romania-corruption-iohannis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/europe/romania-corruption-iohannis.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/europe/romania-corruption-iohannis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/29/world/europe/romania1/romania1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters marched in December in Bucharest, Romania, in support of the judicial system and against changes adopted by the governing coalition.</media:description>
+      <media:credit>Daniel Mihailescu/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>President Klaus Iohannis, who has long criticized efforts to weaken the fight against corruption, has 20 days to sign the measures into law or send them back to Parliament.</description>
+      <dc:creator>KIT GILLET</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 22:27:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iohannis, Klaus W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Kazakhstan Prizes Its Cowboys, but Few Want to Saddle Up for Harsh Life</title>
+      <link>https://www.nytimes.com/2017/12/30/world/asia/kazakhstan-cowboys.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/asia/kazakhstan-cowboys.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/asia/kazakhstan-cowboys.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/26/world/00cowboys1/00cowboys1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Erlan Kozhakov, 63, a herder on the sandy scrub land between Kazakhstan&#x2019;s biggest city and the Chinese border.</media:description>
+      <media:credit>Andrea Bruce for The New York Times</media:credit>
+      <description>Kazakh cowboys, while proud of providing their rapidly modernizing nation with a link to its nomadic past, rarely want their children to follow them onto the frigid steppes.</description>
+      <dc:creator>ANDREW HIGGINS</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 10:00:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cowboys and Cowgirls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ranches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nomadic People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>A Year of Animal Oddities Around the World: 7 Reader Favorites</title>
+      <link>https://www.nytimes.com/2017/12/30/world/animal-oddities-2017.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/animal-oddities-2017.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/animal-oddities-2017.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/17/world/africa/white-giraffe-img/white-giraffe-img-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A rare white giraffe and her calf in Kenya. Video of the animals was believed to be the first of its kind.</media:description>
+      <media:credit>Hirola Conservation Program/Caters</media:credit>
+      <description>From rare white giraffes to criminal donkeys to chilly elephants, take a look at some of our strangest stories about animals in 2017 that resonated with readers.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 22:58:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elephants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Giraffes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Snakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Donkeys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Endangered and Extinct Species</category>
+    </item>
+    <item>
+      <title>Some Afghan Children Find an Alternative to Jail &#x2014; for Now</title>
+      <link>https://www.nytimes.com/2017/12/30/world/asia/some-afghan-children-find-an-alternative-to-jail-for-now.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/asia/some-afghan-children-find-an-alternative-to-jail-for-now.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/asia/some-afghan-children-find-an-alternative-to-jail-for-now.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31jailbirds1/31jailbirds1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Playtime at the Children&#x2019;s Support Center in Kabul, an orphanage-like facility for children whose mothers are in prison, and that is in danger of losing its funding.</media:description>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <description>Orphanages for Afghan children of jailed mothers meet part of the need, but funding cuts threaten their future and many others stay in prison.</description>
+      <dc:creator>ROD NORDLAND</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 08:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The U.S. Has Pummeled Al Qaeda in Yemen. But the Threat Is Barely Dented.</title>
+      <link>https://www.nytimes.com/2017/12/30/world/middleeast/yemen-al-qaeda-us-terrorism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/middleeast/yemen-al-qaeda-us-terrorism.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/middleeast/yemen-al-qaeda-us-terrorism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/us/politics/31dc-yemen/31dc-yemen-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The scene of a suicide bombing this year in southern Yemen, where a branch of Al Qaeda has seized large swaths of land.</media:description>
+      <media:credit>Saleh Al-Obeidi/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Despite tripling airstrikes this year, American officials concede an attack emanating from the chaotic, ungoverned spaces of Yemen remains among their top terrorism fears.</description>
+      <dc:creator>ERIC SCHMITT and SAEED AL-BATATI</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 17:46:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Qaeda in the Arabian Peninsula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Origami-Style Cardboard Tents for Homeless in Brussels</title>
+      <link>https://www.nytimes.com/2017/12/30/world/europe/belgium-cardboard-tents-homeless.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/europe/belgium-cardboard-tents-homeless.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/europe/belgium-cardboard-tents-homeless.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31Belgium/31Belgium-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>One of the cardboard tents, known as the ORIG-AMI project, outside a Brussels train station on Friday. Material tents are banned on the city streets.</media:description>
+      <media:credit>Nicolas Maeterlinck/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The entrepreneur behind the project hopes to give people somewhere safe to sleep in a city that bans material tents.</description>
+      <dc:creator>ELIAN PELTIER</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 19:32:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+    </item>
+    <item>
+      <title>Amsterdam Journal: New Slaughtering Rules Pit Dutch Religious Freedoms Against Animal Rights</title>
+      <link>https://www.nytimes.com/2017/12/31/world/europe/netherlands-kosher-halal-animal-rights.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/europe/netherlands-kosher-halal-animal-rights.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/europe/netherlands-kosher-halal-animal-rights.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/28/world/europe/xxbutchers1/xxbutchers1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Slagerij Marcus kosher butcher shop in Amsterdam. Jewish and Muslim groups have agreed to change ritual slaughter practices in the face of pressure from animal rights activists. <br/><br/></media:description>
+      <media:credit>Jasper Juinen for The New York Times</media:credit>
+      <description>The authorities say the rules are intended to make kosher and halal slaughtering more humane, but some Jews and Muslims say they feel singled out.</description>
+      <dc:creator>NINA SIEGAL</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 18:45:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kosher Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Halal Foods and Products</category>
+    </item>
+    <item>
+      <title>Australia Diary: We Will Carry You</title>
+      <link>https://www.nytimes.com/2017/12/31/world/australia/diary-perth-lifegaurds.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/31/world/australia/diary-perth-lifegaurds.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/31/world/australia/diary-perth-lifegaurds.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/17/world/australia/00AustraliaDiary_Scarborough_Beach/00AustraliaDiary_Scarborough_Beach-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Courtesy of Peter Papathanasiou</media:credit>
+      <description>He thought it was a fight, then the two Perth lifeguards showed up.</description>
+      <dc:creator>DIANA OLIVA CAVE</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 18:00:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lifeguards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Perth (Australia)</category>
+    </item>
+    <item>
+      <title>A Year in Bloopers: The Making of The Daily 360</title>
+      <link>https://www.nytimes.com/video/world/100000005540257/a-year-in-bloopers-the-making-of-the-daily-360.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/100000005540257/a-year-in-bloopers-the-making-of-the-daily-360.html</guid>
+      <description>Happy New Year from the Daily 360 team! We've made 435 videos in 426 days. Here are some of the moments that didn&#x2019;t make the cut. Pro tip: If you can see the camera, the camera can see you.</description>
+      <dc:creator/>
+      <pubDate>Sun, 31 Dec 2017 10:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Video Recordings, Downloads and Streaming</category>
+    </item>
+    <item>
+      <title>Greek Prime Minister Seeks to Block Asylum for Turkish Officer</title>
+      <link>https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/europe/greece-turkey-coup-asylum.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/us/31GReece/31GReece-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Alexis Tsipras of Greece, left, welcomes President Recep Tayyip Erdogan of Turkey during Mr. Erdogan&#x2019;s two-day visit to Greece this month.</media:description>
+      <media:credit>Louisa Gouliamaki/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In an apparent effort to avoid antagonizing Turkey, Greece&#x2019;s prime minister moved to block asylum for a Turkish officer who fled last year&#x2019;s failed coup.</description>
+      <dc:creator>NIKI KITSANTONIS</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 03:54:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsipras, Alexis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+    </item>
+    <item>
+      <title>Congo Reports Arrest in Killing of 2 U.N. Experts</title>
+      <link>https://www.nytimes.com/2017/12/30/world/africa/congo-united-nations-zaida-catalan-michael-sharp.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/africa/congo-united-nations-zaida-catalan-michael-sharp.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/africa/congo-united-nations-zaida-catalan-michael-sharp.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/14/world/31CONGO-02/xxcongo3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Zaida Catalan and Michael Sharp were abducted in March while investigating crimes in the Democratic Republic of Congo.</media:description>
+      <media:credit>Bertil Ericson/Agence France-Presse &#x2014; Getty Images; Timo Mueller/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The experts, Michael Sharp, an American, and Zaida Catalan, a Swede, were investigating crimes associated with a rebellion in the Democratic Republic of Congo.</description>
+      <dc:creator>STEVE WEMBI and JINA MOORE</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 00:20:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catalan, Zaida (1980-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharp, Michael J (1982-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+    </item>
+    <item>
+      <title>Nepal Bars Solo Climbers From Mount Everest</title>
+      <link>https://www.nytimes.com/2017/12/30/world/asia/everest-nepal-ban-solo-climbers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/asia/everest-nepal-ban-solo-climbers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/asia/everest-nepal-ban-solo-climbers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31NEPAL-01/31NEPAL-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nepal, a Himalayan nation between India and China, has eight of the world&#x2019;s 10 tallest mountains, including Mount Everest, center.</media:description>
+      <media:credit>Heath Holden/Getty Images</media:credit>
+      <description>The action was an attempt to promote safety and reduce accidents, officials said, although some climbers said they intended to challenge the rule.</description>
+      <dc:creator>RAJNEESH BHANDARI</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 21:56:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Himalayas</category>
+    </item>
+    <item>
+      <title>Iran Confronts 3rd Day of Protests, With Calls for Khamenei to Quit</title>
+      <link>https://www.nytimes.com/2017/12/30/world/middleeast/iran-protests-rouhani.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/middleeast/iran-protests-rouhani.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/middleeast/iran-protests-rouhani.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31Iran1/31Iran1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A rally in support of the Iranian government in Tehran on Saturday. At rival protests in the capital on the same day, demonstrators directed their anger over the economy at Iran&#x2019;s supreme leader.</media:description>
+      <media:credit>Hamed Malekpour/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>As demonstrators called for Ayatollah Ali Khamenei, Iran&#x2019;s supreme leader, to step down, about 4,000 people in Tehran took part in an annual rally in support of the government.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 20:17:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>Battle Royale Over Rightful Heir to Israeli Self-Defense Discipline</title>
+      <link>https://www.nytimes.com/2017/12/30/world/middleeast/israel-krav-maga.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/middleeast/israel-krav-maga.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/middleeast/israel-krav-maga.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31kravmaga1/00kravmaga1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Haim Gidon, left, a claimant to the Krav Maga grandmaster title, at the beach in his hometown, Netanya, Israel. &#x201C;Even with eye gouging, you have to know how,&#x201D; he said. &#x201C;You have to bring your thumb all the way in.&#x201D;</media:description>
+      <media:credit>Uriel Sinai for The New York Times</media:credit>
+      <description>Krav Maga, which extols eye gouging and groin kicking, is a mainstay of military training and increasingly popular with civilians. Now, its founder&#x2019;s disciples are sparring over who is the real grandmaster.</description>
+      <dc:creator>ISABEL KERSHNER</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 21:29:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mixed Martial Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Krav Maga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netanya (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Self-Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lichtenfeld, Emrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gidon, Haim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yanilov, Eyal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zut, Haim</category>
+    </item>
+    <item>
+      <title>The Look: Don&#x2019;t Call It Street Style</title>
+      <link>https://www.nytimes.com/2017/12/30/style/world-style-identity-the-look.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/style/world-style-identity-the-look.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/style/world-style-identity-the-look.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/fashion/31THELOOK-TOPPER/31THELOOK-TOPPER-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Clockwise from top left: Jake Michaels for The New York Times; Andre D. Wagner for The New York Times; Daniel Arnold for The New York Times; Rose Marie Cromwell for The New York Times</media:credit>
+      <description>This year, 21 photographers captured the ways we present ourselves to the world.</description>
+      <dc:creator>EVE LYONS</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 11:01:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+    </item>
+    <item>
+      <title>China to Try Tibetan Education Advocate Detained for 2 Years</title>
+      <link>https://www.nytimes.com/2017/12/30/world/asia/tashi-wangchuck-trial-tibet.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/asia/tashi-wangchuck-trial-tibet.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/asia/tashi-wangchuck-trial-tibet.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/31tibet/31tibet-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tashi Wangchuk faces up to 15 years in prison if convicted of inciting separatism. He says he only wants the authorities to provide more Tibetan language education.</media:description>
+      <media:credit>Gilles Sabri&#xE9; for The New York Times</media:credit>
+      <description>Tashi Wangchuk, who was detained after appearing in a New York Times video about Tibetan language education, faces 15 years in prison for inciting separatism.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 14:06:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tashi Wangchuk</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yushu (China)</category>
+    </item>
+    <item>
+      <title>The BBC in Pidgin? People Like It Well-Well</title>
+      <link>https://www.nytimes.com/2017/12/30/world/africa/bbc-pidgin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/africa/bbc-pidgin.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/africa/bbc-pidgin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/19/world/xxpidgin/xxpidgin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An article on the BBC website telling the story of a Tinder date gone wrong, written in West African pidgin English.</media:description>
+      <media:credit>BBC</media:credit>
+      <description>The British broadcaster, once a bastion of &#x201C;received pronunciation,&#x201D; has learned that if it wants to reach new audiences, it needs to try new approaches.</description>
+      <dc:creator>KIMIKO de FREYTAS-TAMURA</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 08:29:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">West African pidgin English</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">English Language</category>
+    </item>
+    <item>
+      <title>Pandas, U.F.O.s and Other Curiosities from Britain&#x2019;s National Archives</title>
+      <link>https://www.nytimes.com/2017/12/30/world/europe/britain-national-archives-panda-margaret-thatcher.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/30/world/europe/britain-national-archives-panda-margaret-thatcher.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/30/world/europe/britain-national-archives-panda-margaret-thatcher.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/europe/30archive1/30archive1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Margaret Thatcher and President Ronald Reagan in the Oval Office in 1981.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>British government memos, tweets and other documents find their way to the National Archives, with some released each year. Here&#x2019;s a quirky look at Friday&#x2019;s yield.</description>
+      <dc:creator>PALKO KARASZ</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 10:06:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pandas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Unidentified Flying Objects (UFO)</category>
+    </item>
+    <item>
+      <title>20 Great Reads You Probably Missed in 2017</title>
+      <link>https://www.nytimes.com/2017/12/29/world/20-great-reads-you-probably-missed-in-2017.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/20-great-reads-you-probably-missed-in-2017.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/20-great-reads-you-probably-missed-in-2017.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/16/magazine/16turkey1/16turkey1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A poster of President Recep Tayyip Erdogan in Istanbul.</media:description>
+      <media:credit>VII for The New York Times</media:credit>
+      <description>With news breaking at a relentless pace, you might have missed some terrific articles The New York Times published this year. Here&#x2019;s a selection.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 03:20:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>City of the Future? Humans, Not Technology, Are the Challenge in Toronto</title>
+      <link>https://www.nytimes.com/2017/12/29/world/canada/google-toronto-city-future.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/canada/google-toronto-city-future.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/canada/google-toronto-city-future.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30CANADA-GOOGLE-01/31CANADA-GOOGLE-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A subsidiary of Google&#x2019;s parent, Alphabet, plans to develop a futuristic neighborhood in Toronto.</media:description>
+      <media:credit>Aaron Vincent Elkaim for The New York Times</media:credit>
+      <description>Plans by a Google sibling for a development where robots collect trash and heated paths melt snow have generated excitement. But its data-collection sensors have spurred privacy concerns.</description>
+      <dc:creator>IAN AUSTEN</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 01:36:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sidewalk Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doctoroff, Daniel L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+    </item>
+    <item>
+      <title>The Bronx, New Year&#x2019;s, I.R.S.: Your Friday Evening Briefing</title>
+      <link>https://www.nytimes.com/2017/12/29/briefing/the-bronx-new-years-irs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/briefing/the-bronx-new-years-irs.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/briefing/the-bronx-new-years-irs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/29/briefing/29evening-ss-slide-M421/29evening-ss-slide-M421-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Andres Kudacki/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>KAREN ZRAICK and SANDRA STEVENSON</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 23:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turkey Completes Deal to Buy Antimissile System From Russia</title>
+      <link>https://www.nytimes.com/2017/12/29/world/europe/turkey-russia-arms-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/europe/turkey-russia-arms-deal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/europe/turkey-russia-arms-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30turkey-russia/30turkey-russia-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Turkish news media reported on Friday that Turkey would purchase four S-400 units from Russia at a cost of $2.5 billion.</media:description>
+      <media:credit>Vasily Maximov/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The deal would make Turkey the first member of NATO to own Russia&#x2019;s most advanced air defense system, and it has raised concerns among Turkey&#x2019;s NATO allies.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 05:40:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+    </item>
+    <item>
+      <title>Deaths in 2017: Among the Luminaries, Fighters With a Cause</title>
+      <link>https://www.nytimes.com/2017/12/29/obituaries/deaths-in-2017-among-the-luminaries-fighters-with-a-cause.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/obituaries/deaths-in-2017-among-the-luminaries-fighters-with-a-cause.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/obituaries/deaths-in-2017-among-the-luminaries-fighters-with-a-cause.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/obituaries/30OBITYEAR-liu/30OBITYEAR-liu-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Liu Xiaobo was awarded the Nobel Peace Prize in 2010, while he was still in prison in China, for his efforts to promote democracy. He died on July 13.</media:description>
+      <media:credit>European Pressphoto Agency</media:credit>
+      <description>Remembering Mary Tyler Moore, Chuck Berry, Jerry Lewis, Sam Shepard, Della Reese and many more, but also a remarkable roster of champions who pressed for change.</description>
+      <dc:creator>WILLIAM McDONALD</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 07:05:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television</category>
+    </item>
+    <item>
+      <title>Germans Will Ring in New Year With Extra Security, Especially for Women</title>
+      <link>https://www.nytimes.com/2017/12/29/world/europe/germans-will-ring-in-new-year-with-extra-security-especially-for-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/europe/germans-will-ring-in-new-year-with-extra-security-especially-for-women.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/europe/germans-will-ring-in-new-year-with-extra-security-especially-for-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/europe/30germany/30germany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers closed off the area around the Brandenburg Gate in Berlin in preparation for the city&#x2019;s New Year Eve festivities. Organizers have set up a &#x201C;women&#x2019;s safety area&#x201D; for girls and women who have been assaulted or feel threatened.</media:description>
+      <media:credit>Omer Messinger/European Pressphoto Agency</media:credit>
+      <description>Since attacks two years ago in Cologne, German cities, including Berlin, are setting up safety zones for women who feel threatened or have been assaulted.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 19:31:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New Year</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cologne (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+    </item>
+    <item>
+      <title>Photographers&#x2019; Notebook: A Desperate Trek Toward Misery and Resignation: Capturing the Plight of the Rohingya</title>
+      <link>https://www.nytimes.com/2017/12/29/insider/a-desperate-trek-toward-misery-and-resignation-capturing-the-plight-of-the-rohingya.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/insider/a-desperate-trek-toward-misery-and-resignation-capturing-the-plight-of-the-rohingya.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/insider/a-desperate-trek-toward-misery-and-resignation-capturing-the-plight-of-the-rohingya.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/27/insider/27insider-rohingya3/27insider-rohingya3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rohingya refugees walk on a flooded trail to mainland Bangladesh.</media:description>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <description>Adam Dean and Tomas Munita, two photographers whose work appears regularly in The New York Times, describe their coverage of the crisis in Myanmar and Bangladesh.</description>
+      <dc:creator>ADAM DEAN and TOMAS MUNITA</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 19:18:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Scattered Protests Erupt in Iran Over Economic Woes</title>
+      <link>https://www.nytimes.com/2017/12/29/world/middleeast/scattered-protests-erupt-in-iran-over-economic-woes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/middleeast/scattered-protests-erupt-in-iran-over-economic-woes.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/middleeast/scattered-protests-erupt-in-iran-over-economic-woes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30IRAN-01/30IRAN-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Hassan Rouhani of Iran in Parliament this month. Supporters hoped his re-election this year would lead to greater foreign investment in the country.</media:description>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <description>Demonstrations spread to Tehran and other cities, highlighting weak economic conditions in a country where youth unemployment is over 40 percent.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 00:18:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Investments</category>
+    </item>
+    <item>
+      <title>Liberia&#x2019;s Vice President Concedes Election: &#x2018;It Has Never Been About Me&#x2019;</title>
+      <link>https://www.nytimes.com/2017/12/29/world/africa/george-weah-liberia-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/africa/george-weah-liberia-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/africa/george-weah-liberia-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30LIBERIA-01/30LIBERIA-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Vice President Joseph Boakai offered on Friday to aid the new government. &#x201C;It has always been and should always be about Liberia,&#x201D; he said.</media:description>
+      <media:credit>Seyllou/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Joseph Boakai offered to aid his opponent, George Weah, in setting the stage for the nation&#x2019;s first peaceful transfer of power in decades.</description>
+      <dc:creator>CLAIR MacDOUGALL</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 21:16:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liberia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boakai, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weah, George</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson Sirleaf, Ellen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>She Broke Japan&#x2019;s Silence on Rape</title>
+      <link>https://www.nytimes.com/2017/12/29/world/asia/japan-rape.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/asia/japan-rape.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/asia/japan-rape.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/08/02/world/10japan-assault-1/10japan-assault-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Shiori Ito told the police she had been raped by Noriyuki Yamaguchi, then the Washington bureau chief for the Tokyo Broadcasting System and a biographer of Prime Minister Shinzo Abe.</media:description>
+      <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
+      <description>She was a news intern. He was a TV journalist. She says he raped her, and she decided to do something Japanese women rarely do: Speak out.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 02:03:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ito, Shiori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yamaguchi, Noriyuki</category>
+    </item>
+    <item>
+      <title>E.U. Hoped Balkan Border Deal Would Be Model for Peace. Then It Collapsed.</title>
+      <link>https://www.nytimes.com/2017/12/29/world/europe/slovenia-croatia-border-eu.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/europe/slovenia-croatia-border-eu.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/europe/slovenia-croatia-border-eu.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/31/world/europe/31eubalkans-01p/xxeubalkans6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The border between Slovenia and Croatia near the village of Gibina, Slovenia.</media:description>
+      <media:credit>Jure Makovec/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Croatia refuses to recognize a ruling on its 26-year border dispute with Slovenia, leaving the bloc without a model for conflict resolution for other Western Balkan nations.</description>
+      <dc:creator>BARBARA SURK</dc:creator>
+      <pubDate>Sun, 31 Dec 2017 02:55:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovenia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Croatia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Balkan States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kosovo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yugoslavia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sarajevo (Bosnia and Herzegovina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>A Cage Fighter With a Soft Touch for Hard-Core Jihadists</title>
+      <link>https://www.nytimes.com/2017/12/29/world/europe/uk-cage-fighter-jihadis-reintegrate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/europe/uk-cage-fighter-jihadis-reintegrate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/europe/uk-cage-fighter-jihadis-reintegrate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/europe/30cagefighters1/xxcagefighters1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Usman Raja at the Fight Science gym in Aldershot, England. Over the last eight years, Mr. Raja, a former cage fighter, has helped reintegrate more than 50 released prisoners convicted of terrorism offenses.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>Usman Raja, a former mixed martial arts fighting star, has earned international attention for his singular method of rehabilitating jihadists.</description>
+      <dc:creator>DAVID D. KIRKPATRICK</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 01:10:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mixed Martial Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raja, Usman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Unity Initiative (Anti-Extremist Group)</category>
+    </item>
+    <item>
+      <title>We&#x2019;re Not &#x2018;National Hangover Service,&#x2019; N.H.S. Tells U.K. Drinkers</title>
+      <link>https://www.nytimes.com/2017/12/29/world/europe/uk-nhs-alcohol.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/europe/uk-nhs-alcohol.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/europe/uk-nhs-alcohol.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/europe/30uk-drinking/30nhs-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bottles left for recycling in Bracknell, in southern England. &#x201C;It&#x2019;s frankly selfish&#x201D; when paramedics and nurses have to be diverted to looking after those who have overindulged, said Simon Stevens, the chief executive of the health service in England.</media:description>
+      <media:credit>Steve Parsons/Press Association, via Associated Press</media:credit>
+      <description>The chief executive of the National Health Service in England said people who drank to excess were &#x201C;selfish&#x201D; and suggested greater use of drunk tanks.</description>
+      <dc:creator>CEYLAN YEGINSU</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 01:32:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New Year</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Health Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Zimbabwean Family Lingers in Limbo at Thai Airport for 2 Months</title>
+      <link>https://www.nytimes.com/2017/12/29/world/asia/zimbabwe-family-thailand-airport-bangkok.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/asia/zimbabwe-family-thailand-airport-bangkok.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/asia/zimbabwe-family-thailand-airport-bangkok.html?partner=rss&amp;emc=rss"/>
+      <description>The eight travelers, including children, are unwilling to return home because of political uncertainty and unable to secure visas to a third country.</description>
+      <dc:creator>RICHARD C. PADDOCK and MUKTITA SUHARTONO</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 05:40:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zimbabwe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations High Commissioner for Refugees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+    </item>
+    <item>
+      <title>South African Court Raises Pressure for Zuma to Go</title>
+      <link>https://www.nytimes.com/2017/12/29/world/africa/south-africa-court-zuma-impeach.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/africa/south-africa-court-zuma-impeach.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/africa/south-africa-court-zuma-impeach.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/africa/30safrica1/30safrica1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Jacob Zuma of South Africa at an African National Congress meeting this month. Cyril Ramaphosa was elected there as the party&#x2019;s new leader.</media:description>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <description>The court said Parliament had failed to hold President Jacob Zuma accountable in a corruption case and ordered lawmakers to set rules on impeachment.</description>
+      <dc:creator>NORIMITSU ONISHI</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 22:09:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+    </item>
+    <item>
+      <title>Taiwan President Says China&#x2019;s Military Expansion Could Destabilize Asia</title>
+      <link>https://www.nytimes.com/2017/12/29/world/asia/taiwan-china-tsai-ing-wen.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/asia/taiwan-china-tsai-ing-wen.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/asia/taiwan-china-tsai-ing-wen.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/asia/30taiwan/30taiwan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Growing military pressure from China &#x201C;is not just a situation that Taiwan faces,&#x201D; President Tsai Ing-wen said at a news conference on Friday.</media:description>
+      <media:credit>Chiang Ying-Ying/Associated Press</media:credit>
+      <description>Her comments, made at a year-end news conference, underlined a commitment to self-defense just days after Beijing reiterated its goal of annexing the island.</description>
+      <dc:creator>CHRIS HORTON</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 08:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>Gunmen Attack Cairo Church, Killing at Least 9</title>
+      <link>https://www.nytimes.com/2017/12/29/world/middleeast/egypt-church-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/middleeast/egypt-church-attack.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/middleeast/egypt-church-attack.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30egypt/30egypt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gunmen attacked the Mar Mina Church in Cairo on Friday. Experts believe the assault to be the work of the Islamic State.</media:description>
+      <media:credit>Amr Abdallah Dalsh/Reuters</media:credit>
+      <description>The Islamic State claimed responsibility for the assault on a Coptic Orthodox Church, which was the latest in a wave of violence targeting the Christian minority in Egypt.</description>
+      <dc:creator>NOUR YOUSSEF</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 05:40:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Coptic Orthodox Church of Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cairo (Egypt)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+    </item>
+    <item>
+      <title>The Getaway: Visiting Windsor Before the Royal Wedding: A Guide </title>
+      <link>https://www.nytimes.com/2017/12/29/travel/harry-meaghan-royal-wedding-guide.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/travel/harry-meaghan-royal-wedding-guide.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/travel/harry-meaghan-royal-wedding-guide.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/01/07/travel/07getaway1/07getaway1-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>The upcoming marriage of Prince Harry and his fianc&#xE9;e, Meghan Markle, is generating a frenzy of interest among travelers.</media:description>
+      <media:credit>Daniel Leal-Olivas/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Prince Harry and Meghan Markle will wed this spring just outside London, but why wait for the crowds to descend to soak up the royal atmosphere?</description>
+      <dc:creator>STEPHANIE ROSENBLOOM</dc:creator>
+      <pubDate>Fri, 29 Dec 2017 10:00:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince Harry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+    </item>
+    <item>
+      <title>How Did Bombs Made in Italy Kill a Family In Yemen?</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000005254317/civilian-deaths-yemen-italian-bombs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000005254317/civilian-deaths-yemen-italian-bombs.html</guid>
+      <description>We followed shipments of bombs from a holiday island in Italy to Saudi Arabia, then found those bombs at the scene of civilian deaths in Yemen. Is Italy capitalizing on a brutal conflict or just doing business?</description>
+      <dc:creator/>
+      <pubDate>Fri, 29 Dec 2017 10:00:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/mdes">Bombs and Explosives</category>
+    </item>
+    <item>
+      <title>Mumbai Restaurant Fire Kills at Least 14</title>
+      <link>https://www.nytimes.com/2017/12/29/world/asia/mumbai-fire-restaurant.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/asia/mumbai-fire-restaurant.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/asia/mumbai-fire-restaurant.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/30/world/30india-1/30india-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The fire at an rooftop restaurant in Mumbai, India, on Friday killed at least 14 people.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>A blaze engulfed two rooftop restaurants in Mumbai on Friday. The police filed criminal complaints against restaurant managers.</description>
+      <dc:creator>KAI SCHULTZ and HARI KUMAR</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 05:45:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+    </item>
+    <item>
+      <title>South Korea Seizes Ship Suspected of Sending Oil to North Korea</title>
+      <link>https://www.nytimes.com/2017/12/29/world/asia/south-korea-ship-seized.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/12/29/world/asia/south-korea-ship-seized.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/12/29/world/asia/south-korea-ship-seized.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/29/world/asia/29nkorea-3/29nkorea-3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Lighthouse Winmore, a Hong Kong-flagged vessel suspected of transferring oil to North Korea in violation of United Nations sanctions.</media:description>
+      <media:credit>Iwan Afwan/MarineTraffic</media:credit>
+      <description>The seizure of the Lighthouse Winmore was revealed after President Trump accused China of secretly transferring petroleum to North Korean ships.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Sat, 30 Dec 2017 01:02:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 11 Jan 2017 12:12:31 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Arms Seized Off Coast of Yemen Appear to Have Been Made in Iran</title>
+      <link>http://www.nytimes.com/2017/01/10/world/middleeast/yemen-iran-weapons-houthis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/middleeast/yemen-iran-weapons-houthis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/middleeast/yemen-iran-weapons-houthis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11Yemen1/11Yemen1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Weapons seized in February from smugglers near Yemen&#x2019;s coast.</media:description>
+      <media:credit>Australian Department of Defense, via Small Arms Survey</media:credit>
+      <description>Photographs of the weapons were analyzed by the Small Arms Survey, which obtained them after an open-records dispute with the Australian military.</description>
+      <dc:creator>C. J. CHIVERS and ERIC SCHMITT</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 01:23:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+    </item>
+    <item>
+      <title>As Protests Flare, Iran Bids Farewell to Rafsanjani</title>
+      <link>http://www.nytimes.com/2017/01/10/world/middleeast/iran-rafsanjani-funeral-protests.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/middleeast/iran-rafsanjani-funeral-protests.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/middleeast/iran-rafsanjani-funeral-protests.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11iran4/11iran4-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The funeral in Tehran on Tuesday of Ayatollah Ali Akbar Hashemi Rafsanjani, a former president of Iran and a founder of the Islamic republic.</media:description>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <description>The top cleric was interred in the tomb of his confidant, Ayatollah Ruhollah Khomeini, as protesters cursed Russia and hailed Iran&#x2019;s reformist heroes.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 13:43:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rafsanjani, Ali Akbar Hashemi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>United Arab Emirates Says 5 Officials Are Among Dead in Afghan Blasts</title>
+      <link>http://www.nytimes.com/2017/01/11/world/asia/uae-afghanistan-attack-kandahar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/11/world/asia/uae-afghanistan-attack-kandahar.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/11/world/asia/uae-afghanistan-attack-kandahar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/12AFGHANISTAN-1/12AFGHANISTAN-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The police outside the governor&#x2019;s compound in Kandahar, Afghanistan, on Tuesday. The explosions killed at least 11 people and wounded 18.</media:description>
+      <media:credit>Jawed Tanveer/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The explosions were believed to have been caused by bombs placed in couches before a reception for the visiting Emirati ambassador and his delegation.</description>
+      <dc:creator>MUJIB MASHAL</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 10:57:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kandahar (Afghanistan)</category>
+    </item>
+    <item>
+      <title>&#x2018;There Are No Homes Left&#x2019;: Rohingya Tell of Rape, Fire and Death in Myanmar</title>
+      <link>http://www.nytimes.com/2017/01/10/world/asia/rohingya-violence-myanmar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/asia/rohingya-violence-myanmar.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/asia/rohingya-violence-myanmar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/10/world/10BANGLADESH-1/10BANGLADESH-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rohingya from Myanmar at a refugee camp in Teknaf, Bangladesh, in December. An estimated 65,000 Rohingya have fled across the border, according to the International Organization for Migration.</media:description>
+      <media:credit>A.M. Ahad/Associated Press</media:credit>
+      <description>From camps in Bangladesh, refugees shed light on the violence that has unfolded in Myanmar in recent months as troops carry out a brutal counterinsurgency.</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 05:02:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rakhine State (Myanmar)</category>
+    </item>
+    <item>
+      <title>Samsung Leader Is Named a Suspect in South Korean Bribery Inquiry</title>
+      <link>http://www.nytimes.com/2017/01/11/world/asia/samsung-jay-lee-south-korea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/11/world/asia/samsung-jay-lee-south-korea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/11/world/asia/samsung-jay-lee-south-korea.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/12KOREA-1/12KOREA-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jay Y. Lee, the vice chairman of Samsung, at the National Assembly in Seoul, South Korea, last month. The special prosecutor&#x2019;s office recommended that he be investigated on suspicion of perjury.</media:description>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <description>Jay Y. Lee was summoned for questioning in connection with the corruption scandal that led to President Park Geun-hye&#x2019;s impeachment.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 11:43:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Jay Y</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choi Soon-sil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Perjury</category>
+    </item>
+    <item>
+      <title>Caroline Kennedy, an Ambassador Whose Role Transcended the Embassy</title>
+      <link>http://www.nytimes.com/2017/01/11/world/asia/caroline-kennedy-japan-ambassador.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/11/world/asia/caroline-kennedy-japan-ambassador.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/11/world/asia/caroline-kennedy-japan-ambassador.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/12kennedy1/12kennedy1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Caroline Kennedy, the ambassador to Japan, at her office in the United States Embassy in Tokyo this month. In her three years in Japan she sought to convey to women across the country a quiet message of empowerment.</media:description>
+      <media:credit>Ko Sasaki for The New York Times</media:credit>
+      <description>She helped manage relations with Japan, a vital ally, and, as the first female ambassador there, was consequential for a traditionally male-dominated nation.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 05:01:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Caroline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women's Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+    </item>
+    <item>
+      <title>Breitbart&#x2019;s Man in Rome: A Gentle Voice in a Strident Chorus</title>
+      <link>http://www.nytimes.com/2017/01/10/world/europe/breitbarts-man-in-rome-a-gentle-voice-in-a-strident-chorus.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/europe/breitbarts-man-in-rome-a-gentle-voice-in-a-strident-chorus.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/europe/breitbarts-man-in-rome-a-gentle-voice-in-a-strident-chorus.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/03/world/03Breitbart1/03Breitbart1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Thomas Williams, a former priest, is the Rome bureau chief for Breitbart News.</media:description>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <description>Thomas Williams, a former priest, gives an organization that sees itself as an expanding empire a foothold in the home of the Crusades.</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 05:15:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Thomas D (Theologian)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Breitbart News Network LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+    </item>
+    <item>
+      <title>Compromising Dossier on Donald Trump Is &#x2018;Pulp Fiction,&#x2019; Russia Says</title>
+      <link>http://www.nytimes.com/2017/01/11/world/europe/donald-trump-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/11/world/europe/donald-trump-russia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/11/world/europe/donald-trump-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/12Russia-web/12Russia-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President-elect Donald J. Trump at a &#x201C;thank you&#x201D; rally in Michigan in December. &#x201C;The Kremlin has no compromising dossier on Mr. Trump,&#x201D; a spokesman said on Wednesday.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The Kremlin said an uncorroborated report about the president-elect&#x2019;s ties with Russian leaders was intended to hurt relations.</description>
+      <dc:creator>IVAN NECHEPURENKO</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 11:48:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Muslim Girls in Switzerland Must Attend Swim Classes With Boys, Court Says</title>
+      <link>http://www.nytimes.com/2017/01/10/world/europe/swiss-muslim-girls-must-attend-swim-classes-with-boys-court-says.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/europe/swiss-muslim-girls-must-attend-swim-classes-with-boys-court-says.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/europe/swiss-muslim-girls-must-attend-swim-classes-with-boys-court-says.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11swiss1/11swiss1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Norrebro district of Copenhagen. European countries are struggling to integrate an influx of migrants, many from majority-Muslim countries.</media:description>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <description>The girls&#x2019; parents had resisted the mandatory classes on religious grounds, taking their case to the European Court of Human Rights.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 17:11:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Human Rights</category>
+    </item>
+    <item>
+      <title>Roman Herzog, Germany&#x2019;s President in 1990s, Is Dead at 82</title>
+      <link>http://www.nytimes.com/2017/01/10/world/europe/roman-herzog-german-president-dead-obituary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/europe/roman-herzog-german-president-dead-obituary.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/europe/roman-herzog-german-president-dead-obituary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11RomanHerzog/11RomanHerzog-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Roman Herzog, a former president of Germany, in 2015.</media:description>
+      <media:credit>Markus Schreiber/Associated Press</media:credit>
+      <description>A former judge, Mr. Herzog encouraged economic overhauls and a remembrance of the Holocaust during his presidency, the second since reunification.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 16:33:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Roman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Christian Democratic Union (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>What in the World: Talking to In-laws Can Be Hard. In Some Languages, It&#x2019;s Impossible.</title>
+      <link>http://www.nytimes.com/2017/01/09/world/what-in-the-world/avoidance-speech-mother-in-law-languages.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/09/world/what-in-the-world/avoidance-speech-mother-in-law-languages.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/09/world/what-in-the-world/avoidance-speech-mother-in-law-languages.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/03/world/00wit_avoidance-speech/00wit_avoidance-speech-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Maziyar Pahlevan</media:credit>
+      <description>A geographically widespread practice known as avoidance speech imposes strict rules on how one speaks &#x2014; or doesn&#x2019;t &#x2014; to the parents of a spouse.</description>
+      <dc:creator>BRYANT ROUSSEAU</dc:creator>
+      <pubDate>Mon, 09 Jan 2017 10:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aborigines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>China Sends Aircraft Carrier Into Taiwan Strait</title>
+      <link>http://www.nytimes.com/2017/01/10/world/asia/china-taiwan-strait-aircraft-carrier-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/asia/china-taiwan-strait-aircraft-carrier-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/asia/china-taiwan-strait-aircraft-carrier-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/12/world/11TAIWAN-1/11TAIWAN-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>China&#x2019;s lone aircraft carrier, the Liaoning, with accompanying ships during a drill in the South China Sea in December.</media:description>
+      <media:credit>China Stringer Network, via Reuters</media:credit>
+      <description>The defiant move signals China&#x2019;s growing naval strength and could presage a foreign policy challenge for the incoming administration of Donald J. Trump.</description>
+      <dc:creator>MICHAEL FORSYTHE and CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 10:07:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+    </item>
+    <item>
+      <title>Prosecutors Seek 2 Years in Jail for James Cartwright in Leak Case</title>
+      <link>http://www.nytimes.com/2017/01/10/us/politics/leak-iran-james-cartwright.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/us/politics/leak-iran-james-cartwright.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/us/politics/leak-iran-james-cartwright.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/us/11cartwright/11cartwright-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>James E. Cartwright, a retired Marine general, arriving at Federal District Court in Washington in October.</media:description>
+      <media:credit>Pablo Martinez Monsivais/Associated Press</media:credit>
+      <description>The prosecutors said the sentence would be a deterrent in the case of the ex-general who lied to F.B.I. agents about discussing Iran&#x2019;s nuclear program with reporters.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 03:53:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cartwright, James E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanger, David E</category>
+    </item>
+    <item>
+      <title>As China Seeks Bigger Role on World Stage, Xi Jinping Will Go to Davos World Economic Forum</title>
+      <link>http://www.nytimes.com/2017/01/10/world/asia/davos-china-xi-jinping-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/asia/davos-china-xi-jinping-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/asia/davos-china-xi-jinping-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11davos1/11davos1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>China&#x2019;s president, Xi Jinping, left, and premier, Li Keqiang, at the National People&#x2019;s Congress in March. Chinese premiers, including Mr. Li, have attended the World Economic Forum before, but Mr. Xi will be the first Chinese president &#x2014; and head of the Communist Party &#x2014; to do so.</media:description>
+      <media:credit>Wu Hong/European Pressphoto Agency</media:credit>
+      <description>President Xi Jinping&#x2019;s appearance is China&#x2019;s latest attempt to compete with the United States&#x2019; dominant position in world economic and strategic institutions.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 01:49:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Economic Forum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Davos (Switzerland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Under Pressure, Jeremy Corbyn Tries to Recalibrate His Image in U.K.</title>
+      <link>http://www.nytimes.com/2017/01/10/world/europe/uk-jeremy-corbyn-labour-maximum-wage.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/europe/uk-jeremy-corbyn-labour-maximum-wage.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/europe/uk-jeremy-corbyn-labour-maximum-wage.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11Corbyn/11Corbyn-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jeremy Corbyn, leader of Britain&#x2019;s Labour Party, in London last month.</media:description>
+      <media:credit>Jack Taylor/Getty Images</media:credit>
+      <description>The opposition Labour leader said he was &#x201C;not wedded to freedom of movement&#x201D; in the European Union, opening the way to supporting a so-called soft Brexit.</description>
+      <dc:creator>STEVEN ERLANGER and STEPHEN CASTLE</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 14:47:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wages and Salaries</category>
+    </item>
+    <item>
+      <title>Bombings Near Afghanistan&#x2019;s Parliament Kill Dozens on Day of Assaults</title>
+      <link>http://www.nytimes.com/2017/01/10/world/asia/afghanistan-kabul-bombing-parliament.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/asia/afghanistan-kabul-bombing-parliament.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/asia/afghanistan-kabul-bombing-parliament.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11AFGHANISTAN-web/11AFGHANISTAN-1484087626394-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Afghan officers guarded the area near Parliament in Kabul after twin bombings on Tuesday killed at least 30 and injured 80.</media:description>
+      <media:credit>Hedayatullah Amid/European Pressphoto Agency</media:credit>
+      <description>The attacks came as workers left the Parliament compound in Kabul, killing at least 30 and wounding more than 80. The Taliban claimed responsibility.</description>
+      <dc:creator>MUJIB MASHAL and TAIMOOR SHAH</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 18:39:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>Memo From China: China Wants to Be a Climate Change Watchdog, but Can It Lead by Example?</title>
+      <link>http://www.nytimes.com/2017/01/10/world/asia/china-wants-to-be-a-climate-change-watchdog-but-cant-yet-lead-by-example.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/asia/china-wants-to-be-a-climate-change-watchdog-but-cant-yet-lead-by-example.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/asia/china-wants-to-be-a-climate-change-watchdog-but-cant-yet-lead-by-example.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11beijing1/11beijing1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A large steel plant in Inner Mongolia, China, in November. To meet China&#x2019;s targets to reduce emissions of carbon dioxide, authorities are pushing to shut down privately owned steel, coal, and other high-polluting factories scattered across rural areas.</media:description>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <description>To take on a leadership role to promote the Paris Agreement, as China has indicated it wants to do, Beijing will have to be more transparent on emissions.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 14:30:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Carbon Caps and Emissions Trading Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Michael Chamberlain, Father of Baby Killed by a Dingo in Australia, Dies at 72</title>
+      <link>http://www.nytimes.com/2017/01/10/world/australia/michael-chamberlain-dingo-baby.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/world/australia/michael-chamberlain-dingo-baby.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/world/australia/michael-chamberlain-dingo-baby.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/obituaries/11xp-chamberlain/11xp-chamberlain-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lindy and Michael Chamberlain in 1990, when she published a book on the disappearance of their baby daughter, Azaria.</media:description>
+      <media:credit>Russell Mcphadran/Associated Press</media:credit>
+      <description>Mr. Chamberlain and his first wife fought for decades to prove that the animal was responsible for their daughter&#x2019;s disappearance.</description>
+      <dc:creator>NIRAJ CHOKSHI</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 13:23:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dingoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chamberlain, Michael (1944-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chamberlain, Azaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+    </item>
+    <item>
+      <title>Editorial: In Bolivia, an Entrenched President</title>
+      <link>http://www.nytimes.com/2017/01/11/opinion/in-bolivia-an-entrenched-president.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/11/opinion/in-bolivia-an-entrenched-president.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/11/opinion/in-bolivia-an-entrenched-president.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/opinion/11tue3web/11tue3web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bolivia&#x2019;s president, Evo Morales, at a meeting of his political party in December.</media:description>
+      <media:credit>Bolivian News Agency, via European Pressphoto Agency</media:credit>
+      <description>Bolivian voters decided last year that Evo Morales should not be allowed to run for a fourth term. He now intends to disregard their call.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Wed, 11 Jan 2017 08:21:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morales, Evo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zapata, Gabriela</category>
+    </item>
+    <item>
+      <title>Editorial: Myanmar&#x2019;s Shameful Denial</title>
+      <link>http://www.nytimes.com/2017/01/10/opinion/myanmars-shameful-denial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/opinion/myanmars-shameful-denial.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/opinion/myanmars-shameful-denial.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/11editorial-inyt-1/11editorial-inyt-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rohingya women near a refugee camp in Cox&#x2019;s Bazar, Bangladesh, in November.</media:description>
+      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
+      <description>Brutal attacks on the Rohingya are a stain on the government of Daw Aung San Suu Kyi.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 14:49:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: Bannon Versus Trump</title>
+      <link>http://www.nytimes.com/2017/01/10/opinion/bannon-versus-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/10/opinion/bannon-versus-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/10/opinion/bannon-versus-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/10/opinion/10brooksWeb/10brooksWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen K. Bannon in December.</media:description>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <description>The larger battle is over whether the Republican Party as a whole will become an ethno-populist party.</description>
+      <dc:creator>DAVID BROOKS</dc:creator>
+      <pubDate>Tue, 10 Jan 2017 08:21:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dugin, Alexander (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+    </item>
+    <item>
+      <title>15 of the Best Journals by Our Reporters Around the World</title>
+      <link>http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/01/18/world/asia/19India-slideshow-slide-FU7J/19India-slideshow-slide-FU7J-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man folding blankets that are rented out to the homeless in Delhi.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The conversational and visual on-the-ground reports offered a glimpse of captivating people and places, from a &#x201C;sleep mafia&#x201D; in Delhi to a monastery seeking salvation in beer.</description>
+      <dc:creator>Compiled by BARBARA TIERNEY</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 14:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>&#x2018;I Didn&#x2019;t Want to Lose My Identity&#x2019;: 16,000 Readers Reflect on Their Surnames</title>
+      <link>http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/17/world/surnames/surnames-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katherine Yuk from Toronto was one of more than 16,000 readers who responded when The New York Times asked women around the world why they kept or changed their surnames when they married.</media:description>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <description>The Times asked women around the world why they had kept or changed their surnames when they married. For many, the decision carried significant weight.</description>
+      <dc:creator>HANNA INGBER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 11:00:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-comments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+    </item>
+  </channel>
+</rss>

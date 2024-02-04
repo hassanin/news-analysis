@@ -1,0 +1,841 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 21 Mar 2018 10:31:00 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Cambridge Analytica Had a Role in Kenya Election, Too</title>
+      <link>https://www.nytimes.com/2018/03/20/world/africa/kenya-cambridge-analytica-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/africa/kenya-cambridge-analytica-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/africa/kenya-cambridge-analytica-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21kenya1/21kenya1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Supporters greeting President Uhuru Kenyatta of Kenya, center, during a rally in Nairobi last year. Cambridge Analytica played a critical role in Mr. Kenyatta&#x2019;s campaign.</media:description>
+      <media:credit>Simon Maina/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>An undercover video broadcast on British television revealed that the company worked for the re-election of President Uhuru Kenyatta.</description>
+      <dc:creator>JINA MOORE</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 23:18:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge Analytica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+    </item>
+    <item>
+      <title>In Nafta Talks, U.S. Tries to Limit Junk Food Warning Labels</title>
+      <link>https://www.nytimes.com/2018/03/20/world/americas/nafta-food-labels-obesity.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/americas/nafta-food-labels-obesity.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/americas/nafta-food-labels-obesity.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21nafta-labels1/21nafta-labels1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mexicans drink on average more than 44 gallons of soda a year per person. A family shopping at a supermarket in San Crist&#xF3;bal de las Casas, in Chiapas, last year.</media:description>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <description>A Trump administration proposal would limit the ability of Mexico, Canada and the U.S. to warn consumers about the dangers of foods linked to obesity.</description>
+      <dc:creator>AZAM AHMED, MATT RICHTEL and ANDREW JACOBS</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 00:05:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labeling and Labels (Product)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Soft Drinks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dr. Simon Barquera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Grocery Manufacturers Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of the United States Trade Representative</category>
+    </item>
+    <item>
+      <title>South Korea&#x2019;s Leader Floats 3-Way Talks With Trump and Kim Jong-un</title>
+      <link>https://www.nytimes.com/2018/03/21/world/asia/moon-jae-in-meeting-kim-jong-un-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/21/world/asia/moon-jae-in-meeting-kim-jong-un-trump.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/21/world/asia/moon-jae-in-meeting-kim-jong-un-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21korea-1a/21korea-1a-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A TV at a railway station in Seoul, the South Korean capital, showing, from left, President Trump, President Moon Jae-in of South Korea and Kim Jong-un, North Korea&#x2019;s leader.</media:description>
+      <media:credit>Ahn Young-Joon/Associated Press</media:credit>
+      <description>President Moon Jae-in of South Korea said he hoped that after he and President Trump met separately with Mr. Kim, the three leaders could sit down together.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 07:18:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon Jae-in</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Korean Demilitarized Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panmunjom (South Korea)</category>
+    </item>
+    <item>
+      <title>Cambridge Analytica Suspends C.E.O. Amid Facebook Data Scandal</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/cambridge-analytica-ceo-suspended.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/cambridge-analytica-ceo-suspended.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/europe/cambridge-analytica-ceo-suspended.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21britain-cambridge/21britain-cambridge-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alexander Nix, the chief executive of the London-based political consulting firm Cambridge Analytica, left his offices through the back door on Tuesday.</media:description>
+      <media:credit>Facundo Arrizabalaga/EPA, via Shutterstock</media:credit>
+      <description>The company&#x2019;s board said it was suspending the chief executive, Alexander Nix, with immediate effect, pending an independent investigation.</description>
+      <dc:creator>MATTHEW ROSENBERG</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 06:26:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cambridge Analytica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nix, Alexander</category>
+    </item>
+    <item>
+      <title>Fearing New Outbreaks, Brazil Will Vaccinate Country Against Yellow Fever</title>
+      <link>https://www.nytimes.com/2018/03/20/world/americas/yellow-fever-brazil-vaccinate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/americas/yellow-fever-brazil-vaccinate.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/americas/yellow-fever-brazil-vaccinate.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21brazil1/merlin_135039132_d4de0d0d-a749-45ec-b92f-e96e753215a2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Health workers visited the Pirituba neighborhood of S&#xE3;o Paulo this month to vaccinate residents.</media:description>
+      <media:credit>Dado Galdieri for The New York Times</media:credit>
+      <description>The measure comes after health officials had declared an outbreak last year contained. Yet, more than 300 people have died from the virus this year.</description>
+      <dc:creator>SHASTA DARLINGTON</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 06:08:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+    </item>
+    <item>
+      <title>China&#x2019;s New &#x2018;Helmsman&#x2019; Offers a Strident Nationalist Message</title>
+      <link>https://www.nytimes.com/2018/03/20/world/asia/china-xi-jinping-helmsman-congress.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/asia/china-xi-jinping-helmsman-congress.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/asia/china-xi-jinping-helmsman-congress.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21China/21China-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping&#x2019;s speech on Tuesday, the last day of the National People&#x2019;s Congress in Beijing, was a final flourish in a spectacle that has emphasized his supremacy. &#x201C;Miracles are constantly emerging across this great land of China,&#x201D; he said.</media:description>
+      <media:credit>Damir Sagolj/Reuters</media:credit>
+      <description>President Xi Jinping&#x2019;s speech on the last day of the National People&#x2019;s Congress in Beijing was heavy on patriotism and underscored his dominance.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 10:30:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Russia, a Founder of a Chemical Arms Watchdog, Is Now in Its Cross Hairs</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/russia-chemical-weapons-novichok.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/russia-chemical-weapons-novichok.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/europe/russia-chemical-weapons-novichok.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21russiaspy1/21russiaspy1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin during a video conference in September 2017, when he was said to order the destruction of the last chemical weapons stored in Russia.</media:description>
+      <media:credit>Pool photo by Alexei Nikolsky</media:credit>
+      <description>Six months ago, chemical weapons experts celebrated Russia&#x2019;s disarmament. Now they are investigating Britain&#x2019;s allegation of a secret weapons program.</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 05:05:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Organization for the Prohibition of Chemical Weapons</category>
+    </item>
+    <item>
+      <title>Beijing Journal: A Beijing Bookstore Where George Washington Is on the Shelves</title>
+      <link>https://www.nytimes.com/2018/03/20/world/asia/beijing-bookstore-allsages.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/asia/beijing-bookstore-allsages.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/asia/beijing-bookstore-allsages.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/13/world/00beijing-bookstore-1/00beijing-bookstore-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The All Sages Bookstore in Beijing &#x201C;is a way to express our longing for freedom and our hope for the establishment of a free society,&#x201D; its owner says.</media:description>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>All Sages Bookstore, run by a onetime Tiananmen protester, has survived the capital&#x2019;s ferocious property market and the censorship of the Xi Jinping era.</description>
+      <dc:creator>JANE PERLEZ</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 07:16:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+    </item>
+    <item>
+      <title>Kabul Suicide Bombing Kills 26 in Holiday Crowd, Officials Say</title>
+      <link>https://www.nytimes.com/2018/03/21/world/asia/kabul-suicide-bombing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/21/world/asia/kabul-suicide-bombing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/21/world/asia/kabul-suicide-bombing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/22/world/22afghanistan/22afghanistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Victims&#x2019; bodies at a hospital in Kabul, Afghanistan, after the suicide bombing of a crowd celebrating Nowruz, the Persian New Year, on Wednesday.</media:description>
+      <media:credit>Rahmat Gul/Associated Press</media:credit>
+      <description>Dozens in a crowd celebrating Nowruz, the Persian New Year, were killed by a bombing near a Shiite shrine in the western part of the Afghan capital.</description>
+      <dc:creator>ROD NORDLAND</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 09:30:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+    </item>
+    <item>
+      <title>Where Do Birds Flock Together? Australians Are Mailing In Feathers to Help Find Out </title>
+      <link>https://www.nytimes.com/2018/03/21/climate/australia-feathers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/21/climate/australia-feathers.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/21/climate/australia-feathers.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/15/climate/cli-feathers/cli-feathers-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>David Maurice Smith for The New York Times</media:credit>
+      <description>Kate Brandis, an Australian researcher, has enlisted the public to help her track elusive waterfowl as the country&#x2019;s wetlands disappear.</description>
+      <dc:creator>LIVIA ALBECK-RIPKA</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 09:00:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wetlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Feathers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Migration</category>
+    </item>
+    <item>
+      <title>James Packer, Australian Billionaire, Resigns From Casino Company</title>
+      <link>https://www.nytimes.com/2018/03/20/world/australia/james-packer-australia-resigns-casino.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/australia/james-packer-australia-resigns-casino.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/australia/james-packer-australia-resigns-casino.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21packer/21packer-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>James Packer &#x201C;intends to step back from all commitments,&#x201D; his investment company said.</media:description>
+      <media:credit>Ted Aljibe/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Mr. Packer, one of Australia&#x2019;s richest men, recently found himself embroiled in a corruption scandal involving Israel&#x2019;s prime minister.</description>
+      <dc:creator>DAMIEN CAVE and JACQUELINE WILLIAMS</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 02:30:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Crown Resorts Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Packer, James D (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+    </item>
+    <item>
+      <title>FedEx, Facebook, Iraq: Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2018/03/20/briefing/fedex-facebook-iraq.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/briefing/fedex-facebook-iraq.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/briefing/fedex-facebook-iraq.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/briefing/20Evening-slide-XXJA/20Evening-slide-XXJA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>KAREN ZRAICK and DAVID SCULL</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 22:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canada Plans to Tighten Gun Reviews and Records</title>
+      <link>https://www.nytimes.com/2018/03/20/world/canada/gun-control.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/canada/gun-control.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/canada/gun-control.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21canada-guns1/21canada-guns1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Justin Trudeau speaking in the House of Commons on Tuesday. &#x201C;We&#x2019;re taking action for common-sense gun control,&#x201D; he said on Twitter, &#x201C;while protecting the rights of law-abiding gun owners.&#x201D;</media:description>
+      <media:credit>Chris Wattie/Reuters</media:credit>
+      <description>Prime Minister Justin Trudeau&#x2019;s government proposed legislation to restore record-keeping requirements for long-gun sales and expand background checks for gun owners.</description>
+      <dc:creator>IAN AUSTEN</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 20:28:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+    </item>
+    <item>
+      <title>A Town Quebec Would Rather Forget: The Canada Letter</title>
+      <link>https://www.nytimes.com/2018/03/20/world/canada/quebec-road-trip.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/canada/quebec-road-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/canada/quebec-road-trip.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/americas/21canadaletter/21canadaletter-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>H&#xE9;rouxville has one set of traffic lights, a post office, a church and a d&#xE9;panneur, or convenience store.</media:description>
+      <media:credit>Jasmin Lavoie</media:credit>
+      <description>Dan Bilefsky&#x2019;s road trip takes him to H&#xE9;rouxville, where a code of conduct for immigrants issued 10 years ago is still a sore subject.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 20:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>BMW Offices Raided by Authorities in Emissions-Cheating Investigation</title>
+      <link>https://www.nytimes.com/2018/03/20/business/energy-environment/bmw-diesel-emissions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/business/energy-environment/bmw-diesel-emissions.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/business/energy-environment/bmw-diesel-emissions.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/business/21BMW02/21BMW02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The German carmaker BMW&#x2019;s headquarters in Munich. Prosecutors searched the offices on Tuesday for evidence that some of the company&#x2019;s cars had evaded emissions controls.</media:description>
+      <media:credit>Christof Stache/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Munich prosecutors targeted BMW&#x2019;s headquarters in search of evidence of possible emissions cheating, further tarnishing the reputation of German carmakers.</description>
+      <dc:creator>JACK EWING</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 19:21:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bayerische Motorenwerke AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Daimler AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Audi Division of Volkswagen AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>Cropped Cuts for Everyone</title>
+      <link>https://www.nytimes.com/2018/03/20/style/gender-neutral-haircuts-barberette-prague.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/style/gender-neutral-haircuts-barberette-prague.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/style/gender-neutral-haircuts-barberette-prague.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/22/fashion/20BARBERETTE1/20BARBERETTE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>At Barberette, a gender-neutral salon with locations in Prague and London, there&#x2019;s no &#x201C;men&#x2019;s price&#x201D; for a short haircut. The cost of a cropped do is the same for everyone.</media:description>
+      <media:credit>Milan Bures for The New York Times</media:credit>
+      <description>At Barberette, Klara Vanova offers a catalog of hairstyles that renounce gender conformity.</description>
+      <dc:creator>PHILIP J. HEIJMANS</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 18:25:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Barbers and Barbering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+    </item>
+    <item>
+      <title>What&#x2019;s in a Name? For Macedonia, the Key to Peace and Security</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/macedonia-greece-name.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/macedonia-greece-name.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/europe/macedonia-greece-name.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21Macedonia-Name1/28Macedonia-Name1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A statue of Alexander the Great in Skopje, the capital of Macedonia. The government of Greece also lays claim to the leader&#x2019;s history.</media:description>
+      <media:credit>Akos Stiller for The New York Times</media:credit>
+      <description>The Balkan country has been blocked from joining NATO and the European Union by Greece, which for decades has fought to keep the name Macedonia for itself.</description>
+      <dc:creator>MARC SANTORA</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 23:38:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Macedonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Geographical</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Trump Congratulates Putin, but Doesn&#x2019;t Mention Meddling in U.S.</title>
+      <link>https://www.nytimes.com/2018/03/20/us/politics/trump-putin-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/us/politics/trump-putin-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/us/politics/trump-putin-russia.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/us/politics/21dc-trumpputin/21dc-trumpputin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia was re-elected this week.</media:description>
+      <media:credit>Yuri Kadobnov/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>&#x201C;We had a very good call,&#x201D; President Trump told reporters in the Oval Office after speaking with the Russian leader after his re-election. &#x201C;We will probably be meeting in the not-too-distant future.&#x201D;</description>
+      <dc:creator>MARK LANDLER</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 00:36:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Norway&#x2019;s Justice Minister Resigns in Storm Over Facebook Post</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/norways-justice-minister-resigns-in-storm-over-facebook-post.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/norways-justice-minister-resigns-in-storm-over-facebook-post.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/europe/norways-justice-minister-resigns-in-storm-over-facebook-post.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/europe/21norway/21norway-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Norwegian justice minister, Sylvi Listhaug, accused the country&#x2019;s Labor Party of &#x201C;protecting terrorists over citizens.&#x201D; Norway&#x2019;s worst terrorist attack of modern times, in 2011, targeted Labor members.</media:description>
+      <media:credit>Hakon Mosvold Larsen/NTB Scanpix, via Associated Press</media:credit>
+      <description>The post by the right-wing minister, Sylvi Listhaug, revived memories of a 2011 terrorist attack and stirred a controversy that threatened the coalition government.</description>
+      <dc:creator>HENRIK PRYSER LIBELL and RICHARD MARTYN-HEMPHILL</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 16:41:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Progress Party (Norway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labor Party (Norway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+    </item>
+    <item>
+      <title>The Last Male Northern White Rhino Is Gone</title>
+      <link>https://www.nytimes.com/video/world/africa/100000005808451/the-last-male-northern-white-rhino-is-gone.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/africa/100000005808451/the-last-male-northern-white-rhino-is-gone.html</guid>
+      <description>The 45-year-old Sudan, the sole remaining male of the rare subspecies of white rhino, died in Kenya.</description>
+      <dc:creator/>
+      <pubDate>Tue, 20 Mar 2018 15:24:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Rhinoceroses</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Poaching (Wildlife)</category>
+    </item>
+    <item>
+      <title>A Glimpse of a Crown Prince&#x2019;s Dream? Saudi Arabia Invades Iran in CGI</title>
+      <link>https://www.nytimes.com/2018/03/20/world/middleeast/saudi-arabia-iran-invasion-video.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/middleeast/saudi-arabia-iran-invasion-video.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/middleeast/saudi-arabia-iran-invasion-video.html?partner=rss&amp;emc=rss"/>
+      <description>An animated video depicts the kingdom&#x2019;s forces under Mohammed bin Salman marching into Tehran as conquering heroes. Is it serious or a satire?</description>
+      <dc:creator>DAVID D. KIRKPATRICK</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 14:10:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animated Films</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+    </item>
+    <item>
+      <title>Nigeria Failed to Act in Schoolgirl Kidnappings by Boko Haram, Report Says</title>
+      <link>https://www.nytimes.com/2018/03/20/world/africa/nigeria-boko-haram-schoolgirls.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/africa/nigeria-boko-haram-schoolgirls.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/africa/nigeria-boko-haram-schoolgirls.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21Amnesty1/21Amnesty1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A classroom at the school in Dapchi, Nigeria, where dozens of school girls were kidnapped by Boko Haram militants last month.</media:description>
+      <media:credit>Afolabi Sotunde/Reuters</media:credit>
+      <description>Amnesty International accused security forces of doing nothing despite warnings that the militants were nearby. The military denounced the group&#x2019;s findings.</description>
+      <dc:creator>DIONNE SEARCEY and EMMANUEL AKINWOTU</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 16:07:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boko Haram</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amnesty International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dapchi (Nigeria)</category>
+    </item>
+    <item>
+      <title>Nicolas Sarkozy, Ex-President of France, Is Held for Questioning on Libyan Cash</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/nicolas-sarkozy-custody.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/nicolas-sarkozy-custody.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/europe/nicolas-sarkozy-custody.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21Sarkozy/21Sarkozy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Former President Nicolas Sarkozy of France, left, welcomed Col. Muammar el-Qaddafi of Libya to the &#xC9;lys&#xE9;e Palace in 2007.</media:description>
+      <media:credit>Franck Fife/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Mr. Sarkozy is facing an investigation into whether his 2007 election campaign received funding from the regime of Col. Muammar el-Qaddafi.</description>
+      <dc:creator>AURELIEN BREEDEN</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 16:33:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qaddafi, Muammar el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarkozy, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mediapart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
+    </item>
+    <item>
+      <title>&#x2018;At War,&#x2019; The Times&#x2019;s Renegade Blog From the Front Lines, Returns</title>
+      <link>https://www.nytimes.com/2018/03/20/insider/at-war-returns.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/insider/at-war-returns.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/insider/at-war-returns.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/insider/20insider-at-war-kunduz/21insider-at-war-kunduz-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>American soldiers in Kunduz, Afghanistan, in October 2010.</media:description>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <description>On the 15th anniversary of the U.S. invasion of Iraq, The Times reintroduces At War, a forum for the firsthand experiences of global conflict.</description>
+      <dc:creator>LARA TAKENAGA</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 11:48:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Blogs and Blogging (Internet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">At War</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Bagdad Bureau</category>
+    </item>
+    <item>
+      <title>How Do You Get 200,000 Pounds of Trash Off Everest? Recruit Yaks.</title>
+      <link>https://www.nytimes.com/2018/03/20/world/asia/mount-everest-trash-nepal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/asia/mount-everest-trash-nepal.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/asia/mount-everest-trash-nepal.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21everest-trash/00everest-trash-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Workers loading garbage collected from the Everest region at the airport in Lukla, Nepal, from which it will be flown to Kathmandu for recycling. Porters and yaks ferry the trash on their backs from a string of villages leading up to Everest base camp.</media:description>
+      <media:credit>Bikas Karki/EPA, via Shutterstock</media:credit>
+      <description>Nepal has begun an ambitious waste management project aimed at &#x201C;saving the glory of the Everest region&#x201D; from trekkers&#x2019; garbage.</description>
+      <dc:creator>BHADRA SHARMA and KAI SCHULTZ</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 11:36:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+    </item>
+    <item>
+      <title>World Economic Leaders Warn of Trade War as Mnuchin Defends Policies</title>
+      <link>https://www.nytimes.com/2018/03/20/us/politics/mnuchin-trump-tariffs-g20-meeting.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/us/politics/mnuchin-trump-tariffs-g20-meeting.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/us/politics/mnuchin-trump-tariffs-g20-meeting.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/business/21DC-MNUCHING20-1/21DC-MNUCHING20-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Steven Mnuchin, the United States Treasury secretary, on Tuesday at a meeting of the Group of 20 finance ministers and central bankers in Buenos Aires.</media:description>
+      <media:credit>Natacha Pisarenko/Associated Press</media:credit>
+      <description>As global finance ministers gather in Argentina, the United States&#x2019; protectionist position on trade has consumed the discussions.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 10:30:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Group of Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnuchin, Steven T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>At War: 15 Years Ago, I Helped Start a War That Hasn&#x2019;t Ended</title>
+      <link>https://www.nytimes.com/2018/03/20/magazine/iraq-war-invasion-15-years.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/magazine/iraq-war-invasion-15-years.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/magazine/iraq-war-invasion-15-years.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/16/autossell/INVASION/INVASION-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Preparing for war: Marine Corps reservists from Syracuse, N.Y., working on their Abrams M1-A1 tank as a &#x201C;Jolly Roger&#x201D; flies from the radio antenna of another tank on Feb. 16, 2003, at U.S.M.C. Camp Grizzly in the northern Kuwaiti desert near Iraq.</media:description>
+      <media:credit>Paul J. Richards/Agence France-Presse</media:credit>
+      <description>As the United States enters its 15th year of war in Iraq, a former Marine Corps tanker remembers the invasion that set the occupation, and all its destruction, in motion.</description>
+      <dc:creator>MATT UFFORD</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 18:36:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Marine Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+    </item>
+    <item>
+      <title>International Herald Tribune: 1893: Arrest of a Suspected German Spy</title>
+      <link>https://www.nytimes.com/2018/03/20/world/europe/german-spy-arrested.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/europe/german-spy-arrested.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/world/europe/german-spy-arrested.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/europe/21iht-retrospective-spy/21iht-retrospective-spy-moth.png" medium="image" height="151" width="151"/>
+      <media:description>An officer in the German Army was arrested and imprisoned on suspicion of being a spy.</media:description>
+      <media:credit/>
+      <description>An officer in the German Army was arrested in Rouen, after suspicions arose that he was working there as a spy.</description>
+      <dc:creator>THE INTERNATIONAL HERALD TRIBUNE</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 08:59:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Herald Tribune</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rouen (France)</category>
+    </item>
+    <item>
+      <title>A Saudi War With Iran? It&#x2019;s a Cartoon, for Now</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000005724646/a-saudi-war-with-iran-its-a-cartoon-for-now.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000005724646/a-saudi-war-with-iran-its-a-cartoon-for-now.html</guid>
+      <description>An animated video published by an anonymous pro-Saudi-government group makes a point of showing off the kingdom&#x2019;s arsenal in an imagined invasion of its regional nemesis, Iran. Some say they believe Crown Prince Mohammed bin Salman is behind it.</description>
+      <dc:creator/>
+      <pubDate>Tue, 20 Mar 2018 08:50:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Animated Films</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Middle East</category>
+    </item>
+    <item>
+      <title>&#x2018;We&#x2019;re Losing the Fight&#x2019;: Tuberculosis Batters a Venezuela in Crisis</title>
+      <link>https://www.nytimes.com/2018/03/20/world/americas/venezuela-tuberculosis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/world/americas/venezuela-tuberculosis.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/20/world/americas/venezuela-tuberculosis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/americas/Venez-TB-slide-FNZ0/Venez-TB-slide-FNZ0-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pallbearers carried the coffin of Victor Mart&#xED;nez, 47, who died of tuberculosis last month in Petare, Venezuela.</media:description>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <description>The disease, which until recently seemed to be under control in Venezuela, is making an aggressive comeback in the nation, overwhelming its broken health care system.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 07:43:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuberculosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Profiles in Science: David Reich Unearths Human History Etched in Bone</title>
+      <link>https://www.nytimes.com/2018/03/20/science/david-reich-human-migrations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/20/science/david-reich-human-migrations.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/20/science/david-reich-human-migrations.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/science/20SCI-REICH1/20SCI-REICH1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jonas Oppenheimer, a technician in the lab of David Reich, a geneticist at Harvard, sandblasts an ancient skull fragment to find the cochlea, or inner ear, the area likeliest to retain DNA.</media:description>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <description>The geneticist at Harvard Medical School has retrieved DNA from more than 900 ancient people. His findings trace the prehistoric migrations of our species.</description>
+      <dc:creator>CARL ZIMMER</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 18:41:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Neanderthal Man</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Denisova Hominid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Paleontology</category>
+    </item>
+    <item>
+      <title>Five Important Takeaways From China&#x2019;s National People&#x2019;s Congress</title>
+      <link>https://www.nytimes.com/2018/03/19/world/asia/china-national-peoples-congress-xi-jinping.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/asia/china-national-peoples-congress-xi-jinping.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/asia/china-national-peoples-congress-xi-jinping.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/21/world/21china-coverage/21china-coverage-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping taking the oath of office on Saturday after being re-elected in a landslide, at a meeting of China&#x2019;s largely ceremonial National People&#x2019;s Congress.</media:description>
+      <media:credit>Ju Peng/Xinhua</media:credit>
+      <description>Lawmakers revoked term limits for Xi Jinping and made other changes that will shape China for years. Here&#x2019;s how The Times covered the annual session.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 03:11:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National People's Congress (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>What&#x2019;s Next for Humanity: Automation, New Morality and a &#x2018;Global Useless Class&#x2019;</title>
+      <link>https://www.nytimes.com/2018/03/19/world/europe/yuval-noah-harari-future-tech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/europe/yuval-noah-harari-future-tech.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/world/europe/yuval-noah-harari-future-tech.html?partner=rss&amp;emc=rss"/>
+      <description>In an event organized by The New York Times and How To Academy, the historian and author Yuval Noah Harari offered his predictions for the future.</description>
+      <dc:creator>KIMIKO de FREYTAS-TAMURA</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 02:41:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harari, Yuval Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+    </item>
+    <item>
+      <title>Yuval Noah Harari on the Future of Humanity</title>
+      <link>https://www.nytimes.com/video/world/europe/100000005808005/yuval-noah-harari-on-the-future-of-humanity.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000005808005/yuval-noah-harari-on-the-future-of-humanity.html</guid>
+      <description>Humans, Mr. Harari warned, &#x201C;have created such a complicated world that we&#x2019;re no longer able to make sense of what is happening.&#x201D;</description>
+      <dc:creator/>
+      <pubDate>Tue, 20 Mar 2018 02:36:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Harari, Yuval Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Ethics (Personal)</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Science and Technology</category>
+    </item>
+    <item>
+      <title>U.S. and South Korea to Resume Joint Military Exercises</title>
+      <link>https://www.nytimes.com/2018/03/19/us/politics/us-south-korea-joint-military-exercises.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/us/politics/us-south-korea-joint-military-exercises.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/us/politics/us-south-korea-joint-military-exercises.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/autossell/20dc-military1/20dc-military1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>South Korean marines during joint exercises with the United States in April 2017.</media:description>
+      <media:credit>Jung Yeon-Je/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>On April 1, the countries will resume the annual drills that they suspended during the Olympics and Paralympics, the Pentagon announced Monday.</description>
+      <dc:creator>HELENE COOPER and CHOE SANG-HUN</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 06:01:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Soldier in Bloody Niger Mission Had Warned of Gaps, Defense Officials Say</title>
+      <link>https://www.nytimes.com/2018/03/19/world/africa/niger-ambush-defense-department-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/africa/niger-ambush-defense-department-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/africa/niger-ambush-defense-department-report.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/us/politics/20dc-niger1/20dc-niger1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The coffin of Sgt. La David Johnson, one of four American soldiers killed during an ambush in Niger last year, was moved after a viewing in Cooper City, Fla., in October.</media:description>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <description>Pentagon leaders are said to be troubled by draft conclusions of an inquiry that blames low-level officers in an ambush that killed four American troops.</description>
+      <dc:creator>HELENE COOPER, THOMAS GIBBONS-NEFF and ERIC SCHMITT</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 01:20:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Africa Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Black, Bryan C (1982-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Jeremiah W (1977-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Dustin M (1988-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, La David T (1992-2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Saun, Alan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Perozeni, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunford, Joseph F Jr</category>
+    </item>
+    <item>
+      <title>How the Ambush of U.S. Soldiers in Niger Unfolded</title>
+      <link>https://www.nytimes.com/video/world/africa/100000005794489/american-soliders-green-berets-ambushed-niger.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/africa/100000005794489/american-soliders-green-berets-ambushed-niger.html</guid>
+      <description>One of the American soldiers ambushed by militants in Niger was wearing a helmet camera &#x2013; we analyzed the footage to understand what happened.</description>
+      <dc:creator/>
+      <pubDate>Tue, 20 Mar 2018 00:20:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Niger</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Driving With Assad: Syria&#x2019;s President Tours a Destroyed Suburb</title>
+      <link>https://www.nytimes.com/2018/03/19/world/middleeast/syria-assad-drive-ghouta.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/middleeast/syria-assad-drive-ghouta.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/middleeast/syria-assad-drive-ghouta.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/20assad2/20assad2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Government airstrikes hit eastern Ghouta on Monday.</media:description>
+      <media:credit>Hamza Al-Ajweh/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>As his soldiers wage a brutal offensive near Damascus, President Bashar al-Assad takes a leisurely drive into the heart of the civil war.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Mon, 19 Mar 2018 23:14:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghouta (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Army</category>
+    </item>
+    <item>
+      <title>White House Bans Venezuela&#x2019;s Digital Currency and Expands Sanctions</title>
+      <link>https://www.nytimes.com/2018/03/19/world/americas/trump-venezuela-sanctions-petro.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/americas/trump-venezuela-sanctions-petro.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/world/americas/trump-venezuela-sanctions-petro.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/us/politics/20dc-sanctions-2/20dc-sanctions-2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The sanctions were intended to send a message to Venezuela&#x2019;s president, Nicol&#xE1;s Maduro, that the United States holds him directly responsible for his country&#x2019;s economic devastation, the White House said.</media:description>
+      <media:credit>Federico Parra/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The Trump administration also blacklisted four associates of President Nicol&#xE1;s Maduro, pressuring a government it has accused of graft and repression.</description>
+      <dc:creator>JULIE HIRSCHFELD DAVIS and NATHANIEL POPPER</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 01:17:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Executive Orders and Memorandums</category>
+    </item>
+    <item>
+      <title>Cambridge Analytica, Trump, Cynthia Nixon: Your Evening Briefing</title>
+      <link>https://www.nytimes.com/2018/03/19/briefing/cambridge-analytica-trump-cynthia-nixon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/briefing/cambridge-analytica-trump-cynthia-nixon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/briefing/cambridge-analytica-trump-cynthia-nixon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/19/briefing/19Eveningbriefing-slide-CKKQ/19Eveningbriefing-slide-CKKQ-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Bryan Bedder/Getty Images</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>ZACH JOHNK and DAVID SCULL</dc:creator>
+      <pubDate>Mon, 19 Mar 2018 22:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assad Takes Driving Tour of Eastern Ghouta</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000005806841/assad-syria-eastern-ghouta-video-tour.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000005806841/assad-syria-eastern-ghouta-video-tour.html</guid>
+      <description>President Bashar al-Assad of Syria appeared in a series of videos driving from Damascus to eastern Ghouta, the suburb that has been under siege for almost five years.</description>
+      <dc:creator/>
+      <pubDate>Mon, 19 Mar 2018 21:50:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Damascus (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Ghouta (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Syrian Army</category>
+    </item>
+    <item>
+      <title>Russia Credits the West for Putin&#x2019;s Big Victory</title>
+      <link>https://www.nytimes.com/2018/03/19/world/europe/russia-putin-vote-president.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/europe/russia-putin-vote-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/europe/russia-putin-vote-president.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/20russia2/20russia2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>At the Kremlin on Monday, President Vladimir V. Putin, left, met with the opposition candidates who ran against him in the presidential election: Vladimir V. Zhirinovsky, shaking hands with the president; Pavel N. Grudinin; and Sergei Baburin, right.</media:description>
+      <media:credit>Pool photo by Yuri Kadobnov</media:credit>
+      <description>Officials said Western pressure had galvanized &#x201C;the consolidation and unification&#x201D; of support for the Russian president in Sunday&#x2019;s presidential vote.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 06:42:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grudinin, Pavel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Skripal, Sergei V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>Russian Election: Videos Show Possible Fraud</title>
+      <link>https://www.nytimes.com/video/world/europe/100000005806829/russian-vote-fraud-video-putin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000005806829/russian-vote-fraud-video-putin.html</guid>
+      <description>Election observers and opposition activists shared videos on social media showing individuals appearing to cast multiple ballots during Russia&#x2019;s election on Sunday.</description>
+      <dc:creator/>
+      <pubDate>Mon, 19 Mar 2018 18:59:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Voting and Voters</category>
+    </item>
+    <item>
+      <title>Drawn to a Cause, British Woman Dies Fighting Alongside Kurds in Syria</title>
+      <link>https://www.nytimes.com/2018/03/19/world/middleeast/anna-campbell-syria-ypj-kurds.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/middleeast/anna-campbell-syria-ypj-kurds.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/world/middleeast/anna-campbell-syria-ypj-kurds.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/20britain-syria1/20britain-syria1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Turkish-backed Free Syrian Army soldiers celebrated after capturing the city of Afrin in northern Syria from Kurdish forces known as the People&#x2019;s Protection Units, or Y.P.G., on Sunday.</media:description>
+      <media:credit>Aref Tammawi/EPA, via Shutterstock</media:credit>
+      <description>Anna Campbell, 26, was the eighth Briton, and the first British woman, to be killed fighting for Kurdish-led forces in Syria&#x2019;s civil war.</description>
+      <dc:creator>RICHARD P&#xC9;REZ-PE&#xD1;A</dc:creator>
+      <pubDate>Mon, 19 Mar 2018 19:48:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Free Syrian Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">People's Protection Units (YPG)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Women's Protection Units (YPJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afrin (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Democratic Federation of Rojava-North Syria</category>
+    </item>
+    <item>
+      <title>Ban on Face Veils at Indonesian University Lasted Just a Week</title>
+      <link>https://www.nytimes.com/2018/03/19/world/asia/indonesia-niqab-university.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/asia/indonesia-niqab-university.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/asia/indonesia-niqab-university.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/13/world/00indonesia-niqab-1/00indonesia-niqab-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In banning full niqab head coverings at Sunan Kalijaga State Islamic University this month, its rector said they were not a natural part of Indonesian culture. After days of protests, he dropped the ban.</media:description>
+      <media:credit>Koko/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Protests led an Islamic university to reverse its ban on niqabs, a move that advocates of moderate Islam see as a troubling sign.</description>
+      <dc:creator>JOE COCHRANE</dc:creator>
+      <pubDate>Wed, 21 Mar 2018 10:30:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+    </item>
+    <item>
+      <title>French Consulate Worker Is Accused of Smuggling Guns From Gaza</title>
+      <link>https://www.nytimes.com/2018/03/19/world/middleeast/french-consulate-worker-gaza-guns.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/middleeast/french-consulate-worker-gaza-guns.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/middleeast/french-consulate-worker-gaza-guns.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/20israel1/20israel1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Romain Franck, face covered, an employee of the French Consulate in Jerusalem, at a court in Beersheba, Israel, on Monday.</media:description>
+      <media:credit>Amir Cohen/Reuters</media:credit>
+      <description>The charges came after a weekend in which three people were killed in two attacks, and as Israelis braced for more violence in the Palestinian territories.</description>
+      <dc:creator>DAVID M. HALBFINGER</dc:creator>
+      <pubDate>Tue, 20 Mar 2018 07:05:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shin Bet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+    </item>
+    <item>
+      <title>Mighty Women Warriors, Resurrected From an Ancient Epic</title>
+      <link>https://www.nytimes.com/2018/03/19/world/asia/uzbekistan-forty-girls-musical.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/asia/uzbekistan-forty-girls-musical.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/03/19/world/asia/uzbekistan-forty-girls-musical.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/asia/20uzbekistan1/xxuzbekistan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A rehearsal of &#x201C;Forty Girls&#x201D; in Tashkent, Uzbekistan. The musical retells an ancient epic of female warriors in Central Asia who resisted male invaders, fighting to the death rather than submit to the victors.</media:description>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <description>The new telling of &#x201C;Forty Girls,&#x201D; which mixes video, songs and traditional and modern music, is a bold departure for a Muslim country, especially Uzbekistan.</description>
+      <dc:creator>ANDREW HIGGINS</dc:creator>
+      <pubDate>Mon, 19 Mar 2018 21:09:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Forty Girls (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ismailova, Saodat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brooklyn Academy of Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>U.K. Reaches Brexit Transition Deal With E.U.</title>
+      <link>https://www.nytimes.com/2018/03/19/world/europe/uk-brexit-eu.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/03/19/world/europe/uk-brexit-eu.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/03/19/world/europe/uk-brexit-eu.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/03/20/world/20Brexit/20Brexit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>David Davis, Britain&#x2019;s chief negotiator, left, and Michel Barnier, his European Union counterpart, in Brussels on Monday. The two announced a conditional deal on a transition period after Britain&#x2019;s withdrawal from the European Union, though Mr. Barnier warned, &#x201C;Nothing is agreed until everything is agreed.&#x201D;</media:description>
+      <media:credit>Olivier Hoslet/EPA, via Shutterstock</media:credit>
+      <description>The two sides have negotiated a 21-month transition period after the withdrawal next March. But the deal depends on a solution to the Irish border question.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Mon, 19 Mar 2018 19:31:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnier, Michel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, David (1948- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+    </item>
+  </channel>
+</rss>

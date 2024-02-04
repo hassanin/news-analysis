@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 10 Nov 2021 05:23:02 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Nov 2021 04:44:06 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>E.U. Blames Belarus for Migrant Crisis at Poland Border</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html" rel="standout"></atom:link>
+      <description>Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country.</description>
+      <dc:creator>Anton Troianovski, Monika Pronczuk and Anatol Magdziarz</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 21:05:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09vid-belarus-poland-cover/09vid-belarus-poland-cover-moth.jpg" width="151"></media:content>
+      <media:credit>Polish Defence Ministry, via Reuters</media:credit>
+    </item>
+    <item>
+      <title>India Risks Covid-19 Complacency After Its Vaccine Campaign</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html" rel="standout"></atom:link>
+      <description>The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries.</description>
+      <dc:creator>Emily Schmall and Hari Kumar</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 18:06:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/00virus-india-01/00virus-india-01-moth.jpg" width="151"></media:content>
+      <media:credit>Atul Loke for The New York Times</media:credit>
+      <media:description>A health worker inoculating a man at a health center in the Uttar Pradesh state in India in June.</media:description>
+    </item>
+    <item>
+      <title>France Will Require Booster Shot for Those 65 and Older</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html" rel="standout"></atom:link>
+      <description>President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 20:23:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09virus-macron-franceHFO01/09virus-macron-franceHFO01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Ludovic Marin</media:credit>
+      <media:description>President Emmanuel Macron last month in Paris.</media:description>
+    </item>
+    <item>
+      <title>Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html" rel="standout"></atom:link>
+      <description>More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban.</description>
+      <dc:creator>David Zucchino</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 02:06:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tajikistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09afghan-pilots-1/09afghan-pilots-1-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <media:description>Afghan Air Force ground crew members servicing a military plane in Kabul in 2018.</media:description>
+    </item>
+    <item>
+      <title>Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</title>
+      <link>https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html" rel="standout"></atom:link>
+      <description>The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region.</description>
+      <dc:creator>Rick Gladstone</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 23:24:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09ethiopia-1/09ethiopia-1-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A military parade in Addis Ababa, Ethiopia, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Africa&#39;s Leaders Say Rich Countries Need to Quit Oil and Gas First</title>
+      <link>https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html" rel="standout"></atom:link>
+      <description>As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones.</description>
+      <dc:creator>Shola Lawal</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 02:05:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/climate/09cli-africacop261/09cli-africacop261-moth.jpg" width="151"></media:content>
+      <media:credit>Akintunde Akinleye/EPA, via Shutterstock</media:credit>
+      <media:description>A new solar panel in Lagos, Nigeria, last year. “It’s the bigger emitters that should have the responsibility to cut,” one analyst said of fossil fuels. “We should be sensitive to history.”</media:description>
+    </item>
+    <item>
+      <title>Brexit Brain Drain  Delivers Financial Boon to Estonia</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html" rel="standout"></atom:link>
+      <description>The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 21:13:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/02/world/xxbrexit-estonia01/xxbrexit-estonia01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Valery Sharifulin\TASS, via Getty Images</media:credit>
+      <media:description>A view of Tallinn, the Estonian capital. Several thousand British companies have registered in the country, seeking access to a wider European market.</media:description>
+    </item>
+    <item>
+      <title>Paytm&#39;s Parent Company, One97 Communications, Goes Public</title>
+      <link>https://www.nytimes.com/2021/11/08/business/paytm-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/business/paytm-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/business/paytm-ipo.html" rel="standout"></atom:link>
+      <description>One97 Communications, the app’s parent company, has drawn interest from institutional investors as online shopping in India expands.</description>
+      <dc:creator>Emily Schmall</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 19:34:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paytm Payments Bank Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reserve Bank of India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08economy-briefing-india-paytm/08economy-briefing-india-paytm-moth.jpg" width="151"></media:content>
+      <media:credit>Punit Paranjpe/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A billboard in Mumbai, India, promoting Paytm, a cellphone-based digital payments platform.</media:description>
+    </item>
+    <item>
+      <title>U.S. Travel Ban Ends, and Europeans Head Overseas Again</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html" rel="standout"></atom:link>
+      <description>Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 15:54:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08europe-travelban-1/08europe-travelban-1-moth.jpg" width="151"></media:content>
+      <media:credit>Franck Fife/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Charles de Gaulle airport outside Paris in September.</media:description>
+    </item>
+    <item>
+      <title>E.U. Blames Belarus for Migrant Crisis at Poland Border</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html" rel="standout"></atom:link>
+      <description>Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country.</description>
+      <dc:creator>Anton Troianovski, Monika Pronczuk and Anatol Magdziarz</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 21:05:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09vid-belarus-poland-cover/09vid-belarus-poland-cover-moth.jpg" width="151"></media:content>
+      <media:credit>Polish Defence Ministry, via Reuters</media:credit>
+    </item>
+    <item>
+      <title>‘America Is Back’ Pelosi Says at Glasgow Climate Talks</title>
+      <link>https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html" rel="standout"></atom:link>
+      <description>Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit.</description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 04:44:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green New Deal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/10/multimedia/10cop26-briefing-vid-pelosi-promo/10cop26-briefing-vid-pelosi-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Robert Perry/EPA, via Shutterstock</media:credit>
+      <media:description>Nancy Pelosi, Speaker of the United States House of Representatives, addresses the audience during Gender Day at the COP26 UN Climate Summit in Glasgow, Britain, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Can Glasgow Deliver on a Global Climate Deal?</title>
+      <link>https://www.nytimes.com/2021/11/08/climate/glasgow-climate-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/climate/glasgow-climate-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/climate/glasgow-climate-summit.html" rel="standout"></atom:link>
+      <description>Negotiators from about 200 countries are entering Week 2 of climate talks trying to resolve big issues around money, transparency and timelines.</description>
+      <dc:creator>Brad Plumer and Lisa Friedman</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 16:48:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08cli-stateofplay1/08cli-stateofplay1-moth.jpg" width="151"></media:content>
+      <media:credit>Kieran Dodds for The New York Times</media:credit>
+      <media:description>A meeting of the Coalition of Finance Ministers for Climate Action in Glasgow last week.</media:description>
+    </item>
+    <item>
+      <title>Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</title>
+      <link>https://www.nytimes.com/2021/11/08/us/politics/isis-military.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/us/politics/isis-military.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html" rel="standout"></atom:link>
+      <description>The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 02:14:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadi, Zemari (d 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/09/28/video/28vid-cvr-kabul-strike-folo/28vid-cvr-kabul-strike-folo-moth-v2.png" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Justice Dept. Brings New Charges in Ransomware Attacks</title>
+      <link>https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html" rel="standout"></atom:link>
+      <description>The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack.</description>
+      <dc:creator>Katie Benner and Nicole Perlroth</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 22:38:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JBS SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kaseya Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DarkSide (Hacking Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">REvil (Hacking Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polyanin, Yevgeniy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vasinskyi, Yaroslav</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/us/politics/08dc-ransomware/merlin_197536380_fe8f180d-1cee-4d0c-92ae-9f8d8d617308-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Harnik/Associated Press</media:credit>
+      <media:description>Christopher A. Wray, the F.B.I. director, left, and Attorney General Merrick B. Garland at the Justice Department on Monday. The department has recently escalated its fight against cyber crime.</media:description>
+    </item>
+    <item>
+      <title>Barack Obama Calls for &#39;Ongoing Activism&#39; In COP26 Speech</title>
+      <link>https://www.nytimes.com/2021/11/08/climate/obama-cop26-climate-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/climate/obama-cop26-climate-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/climate/obama-cop26-climate-summit.html" rel="standout"></atom:link>
+      <description>The former president, who helped seal the Paris climate accord, spoke at COP26 in Glasgow.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 04:25:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08CLI-obama1/08CLI-obama1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Milligan/Press Association, via Associated Press</media:credit>
+      <media:description>Former President Barack Obama, center, at the COP26 climate summit in Glasgow on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html" rel="standout"></atom:link>
+      <description>An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 10:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latvia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/07/world/07virus-romania01/07virus-romania01-moth.jpg" width="151"></media:content>
+      <media:credit>Cristian Movila for The New York Times</media:credit>
+      <media:description>The emergency unit of Bucharest University Hospital. Short of beds, the hospital erected a big treatment tent in the parking lot and turned the lobby into a new Covid ward.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/09/briefing/belarus-poland-migrants-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/briefing/belarus-poland-migrants-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/briefing/belarus-poland-migrants-africa.html" rel="standout"></atom:link>
+      <description>Troops at the Poland-Belarus border.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 04:23:26 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/10/multimedia/10ambriefing-europe-nl-promo/10ambriefing-europe-nl-lead-moth.jpg" width="151"></media:content>
+      <media:credit>Kacper Pempel/Reuters</media:credit>
+      <media:description>Hundreds of people camped at the Belarus-Poland border in frigid weather seeking to enter Poland.</media:description>
+    </item>
+    <item>
+      <title>U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html" rel="standout"></atom:link>
+      <description>Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.”</description>
+      <dc:creator>Jesus Jiménez</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 03:20:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Simon-Skjodt Center for the Prevention of Genocide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Holocaust Memorial Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09xp-holocaust/09xp-holocaust-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>Members of a Uyghur family prayed at the grave of a loved one at a cemetery in Xinjiang in 2016.</media:description>
+    </item>
+    <item>
+      <title>Malala Yousafzai Is Married in England</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html" rel="standout"></atom:link>
+      <description>Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter.</description>
+      <dc:creator>Alyssa Lukpat</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 03:06:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yousafzai, Malala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Asser Malik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09xp-malala-top/09xp-malala-top-moth.jpg" width="151"></media:content>
+      <media:credit>Christophe Petit Tesson/Reuters</media:credit>
+      <media:description>Malala Yousafzai married Asser Malik, a manager for the Pakistan Cricket Board, at a small ceremony in Birmingham, England. </media:description>
+    </item>
+    <item>
+      <title>Pakistan Reaches Cease-Fire With Resurgent Taliban Militants</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html" rel="standout"></atom:link>
+      <description>The Pakistani government said it would offer amnesty for insurgents who are willing to disarm.</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 22:05:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehrik-e-Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yousafzai, Malala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zardari, Bilawal Bhutto</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09pakistan-1/09pakistan-1-moth.jpg" width="151"></media:content>
+      <media:credit>Anjum Naveed/Associated Press</media:credit>
+      <media:description>A military outpost in Khyber District, Pakistan, in August.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/09/briefing/india-covid-evergrande-china-space-x.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/briefing/india-covid-evergrande-china-space-x.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/briefing/india-covid-evergrande-china-space-x.html" rel="standout"></atom:link>
+      <description>India’s Covid turnaround has blind spots.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 20:33:03 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/10/world/10ambriefing-asia-nl-india-promo/merlin_189302916_cd8ffb8d-e751-4cb4-bec7-52f8e8e1a981-moth.jpg" width="151"></media:content>
+      <media:credit>Atul Loke for The New York Times</media:credit>
+      <media:description>A healthcare worker administers a dose of the coronavirus vaccine in Ahmedabad, India, in June.</media:description>
+    </item>
+    <item>
+      <title>Canada Approves Pfizer Boosters for Adults</title>
+      <link>https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html" rel="standout"></atom:link>
+      <description>Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 20:44:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09virus-briefing-canada1/09virus-briefing-canada1-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Osorio/Reuters</media:credit>
+      <media:description>A health care worker administers the Pfizer-BioNTech vaccine at a pop-up clinic in Toronto this year.</media:description>
+    </item>
+    <item>
+      <title>Macron announces a new vaccine rule for people 65 or older in France.</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html" rel="standout"></atom:link>
+      <description>Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 22:12:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/lens/09virus-briefing-france1/09virus-briefing-france1-moth.jpg" width="151"></media:content>
+      <media:credit>Adrienne Surprenant/Associated Press</media:credit>
+      <media:description>Red Cross volunteers helping a man activate his pass on the TousAntiCovid contact-tracing application in Le Bourget, France.</media:description>
+    </item>
+    <item>
+      <title>Dutch government rejects hundreds of millions of pieces of protective gear.</title>
+      <link>https://www.nytimes.com/2021/11/09/world/dutch-government-ppe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/dutch-government-ppe.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/dutch-government-ppe.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:05:50 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09virus-briefing-netherlands-ppe1/09virus-briefing-netherlands-ppe1-moth.jpg" width="151"></media:content>
+      <media:credit>Sem Van Der Wal/ANP/AFP via Getty Images</media:credit>
+      <media:description>A health worker performing a coronavirus test in Utrecht. The Netherlands has reported almost 77,000 cases over the past week.</media:description>
+    </item>
+    <item>
+      <title>England Will Require N.H.S. Workers to Be Vaccinated by April</title>
+      <link>https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html" rel="standout"></atom:link>
+      <description> </description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Wed, 10 Nov 2021 03:03:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Health Service</category>
+    </item>
+    <item>
+      <title>New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</title>
+      <link>https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html" rel="standout"></atom:link>
+      <description>After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places.</description>
+      <dc:creator>Charlotte Graham-McLay</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 16:16:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sea Lions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ecology and Evolution (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dunedin (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Island (New Zealand)</category>
+    </item>
+    <item>
+      <title>India Hospital Fire Leaves at Least 4 Infants Dead</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html" rel="standout"></atom:link>
+      <description>The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months.</description>
+      <dc:creator>Suhasini Raj</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 19:52:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bhopal (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09India-fire/09India-fire-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>A man carried a child out of the Kamla Nehru Hospital in Bhopal, India, on Monday after a deadly fire engulfed the newborn care unit.</media:description>
+    </item>
+    <item>
+      <title>A Trash Can From Myrtle Beach Washed Up in Ireland</title>
+      <link>https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html" rel="standout"></atom:link>
+      <description>“It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family.</description>
+      <dc:creator>Claire Fahy and Derrick Bryson Taylor</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 13:05:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">County Mayo (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myrtle Beach (SC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/00xp-trash-03/00xp-trash-03-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Keith McGreal</media:credit>
+      <media:description>Mr. McGreal and his children spotted a blue object in the distance and decided to race toward it.</media:description>
+    </item>
+    <item>
+      <title>Scientists confront a new source of vaccine misinformation: Aaron Rodgers.</title>
+      <link>https://www.nytimes.com/2021/11/09/world/scientists-confront-a-new-source-of-vaccine-misinformation-aaron-rodgers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/scientists-confront-a-new-source-of-vaccine-misinformation-aaron-rodgers.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/scientists-confront-a-new-source-of-vaccine-misinformation-aaron-rodgers.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ken Belson and Emily Anthes</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 12:15:02 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09virus-briefing-nfl-unvaxxed-01/09virus-briefing-nfl-unvaxxed-01-moth.jpg" width="151"></media:content>
+      <media:credit>Christian Petersen/Getty Images</media:credit>
+      <media:description>Aaron Rodgers of the Green Bay Packers watching action from the sideline during a game against the Arizona Cardinals last month in Glendale, Ariz.</media:description>
+    </item>
+    <item>
+      <title>In Hong Kong, a mandatory smartphone app draws pushback and mockery.</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/in-hong-kong-a-mandatory-smartphone-app-draws-pushback-and-mockery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/in-hong-kong-a-mandatory-smartphone-app-draws-pushback-and-mockery.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/in-hong-kong-a-mandatory-smartphone-app-draws-pushback-and-mockery.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 11:30:19 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08virus-briefing-hk-tracing-01/08virus-briefing-hk-tracing-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>A woman scanning the government’s contact tracing QR code for the “LeaveHomeSafe” mobile app before entering a Hong Kong market last week.</media:description>
+    </item>
+    <item>
+      <title>What Moves Swing Voters</title>
+      <link>https://www.nytimes.com/2021/11/09/briefing/swing-voters-us-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/briefing/swing-voters-us-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/briefing/swing-voters-us-elections.html" rel="standout"></atom:link>
+      <description>A creative new poll tries to understand.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 11:25:35 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09ambriefing-promo/09ambriefing-vote-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Ahmed Gaber for The New York Times</media:credit>
+      <media:description>Election Day in New York City.</media:description>
+    </item>
+    <item>
+      <title>U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html" rel="standout"></atom:link>
+      <description>Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 16:59:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhang Zhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09virus-briefing-china-journalist-01/09virus-briefing-china-journalist-01-moth.jpg" width="151"></media:content>
+      <media:credit>Melanie Wang, via Associated Press</media:credit>
+      <media:description>Zhang Zhan in a park during a visit to Wuhan, China, last year.</media:description>
+    </item>
+    <item>
+      <title>Protest outside New Zealand’s Parliament assails sweeping new Covid mandates.</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/protest-outside-new-zealands-parliament-assails-sweeping-new-covid-mandates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/protest-outside-new-zealands-parliament-assails-sweeping-new-covid-mandates.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/protest-outside-new-zealands-parliament-assails-sweeping-new-covid-mandates.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:58:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09virus-briefing-nz-protests-02/09virus-briefing-nz-protests-02-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Sands/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A demonstration to demand an end to Covid-19 restrictions and mandatory vaccination in Wellington, New Zealand, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Singapore to End Free Covid Treatment for Those &#39;Unvaccinated by Choice&#39;</title>
+      <link>https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html" rel="standout"></atom:link>
+      <description>The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:12:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/world/09virus-briefing-singapore-01/09virus-briefing-singapore-01-moth.jpg" width="151"></media:content>
+      <media:credit>Edgar Su/Reuters</media:credit>
+      <media:description>Taking rapid antigen tests in September in Singapore, where severe Covid cases are testing the city’s hospitals.</media:description>
+    </item>
+    <item>
+      <title>How a 55-Year-Old California Teacher Became a Bollywood Actor </title>
+      <link>https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html" rel="standout"></atom:link>
+      <description>Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.”</description>
+      <dc:creator>Sheila Yasmin Marikar</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 10:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mumbai (India)</category>
+      <category domain="">Bollywood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Richard Klein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="">nevertoolate2021</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/fashion/09NeverTooLate-Bollywood3/09NeverTooLate-Bollywood3-moth.jpg" width="151"></media:content>
+      <media:credit>Prarthna Singh for The New York Times</media:credit>
+      <media:description>Richard Klein rehearses in his apartment in the Mumbai suburb of Bandra. Behind him is his sidekick, an orange rescue cat named Mr. Bill. </media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/09/briefing/vaccines-romania-israel-spyware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/09/briefing/vaccines-romania-israel-spyware.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/09/briefing/vaccines-romania-israel-spyware.html" rel="standout"></atom:link>
+      <description>Vaccine refusal in Romania.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 05:13:29 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/multimedia/09ambriefing-europe-nl-promo/09ambriefing-europe-nl-moth.jpg" width="151"></media:content>
+      <media:credit>Cristian Movila for The New York Times</media:credit>
+      <media:description>The emergency unit of Bucharest University Hospital.</media:description>
+    </item>
+    <item>
+      <title>U.S. Allows Vaccinated Foreign Travelers to Enter</title>
+      <link>https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html" rel="standout"></atom:link>
+      <description>On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted.</description>
+      <dc:creator>Ceylan Yeginsu, Heather Murphy and Concepción de León</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:16:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/travel/08travel-reopening-1/merlin_197522979_0777fa15-3bc1-4aca-a75a-c607c5c76e5a-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>Débora and Sergio Vitorini flew from São Paulo, Brazil, to see their daughter Natalia and her weeks-old son. They had not been able to see her during the pregnancy. </media:description>
+    </item>
+    <item>
+      <title>More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</title>
+      <link>https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html" rel="standout"></atom:link>
+      <description>The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally.</description>
+      <dc:creator>Winston Choi-Schagrin</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 23:41:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/climate/09CLI-COP26-HEALTH1/09CLI-COP26-HEALTH1-moth.jpg" width="151"></media:content>
+      <media:credit>Isadora Kosofsky for the New York Times</media:credit>
+      <media:description>The health care industry currently accounts for almost five percent of global greenhouse gas emissions.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/08/briefing/us-borders-reopen-travel-cop-26.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/briefing/us-borders-reopen-travel-cop-26.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/briefing/us-borders-reopen-travel-cop-26.html" rel="standout"></atom:link>
+      <description>Emotional reunions at U.S. airports.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 22:17:02 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/09/travel/09ambriefing-asia-nl-usborders-promo/09ambriefing-asia-nl-usborders-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>Virgin Airways employees at Heathrow airport in London welcomed travelers heading to the United States on Monday.</media:description>
+    </item>
+    <item>
+      <title>Expensive Virus Test Still Hinders Canadian Travel to U.S. </title>
+      <link>https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html" rel="standout"></atom:link>
+      <description>Canada requires travelers to present the results of an expensive coronavirus test to enter, deterring short hops across the border.</description>
+      <dc:creator>Ian Austen and Hallie Golden</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 21:24:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08virus-briefing-canada1/08virus-briefing-canada1-moth.jpg" width="151"></media:content>
+      <media:credit>Lindsay Dedario/Reuters</media:credit>
+      <media:description>A coronavirus testing site near the Rainbow Bridge in Niagara Falls, N.Y. </media:description>
+    </item>
+    <item>
+      <title>Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</title>
+      <link>https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html" rel="standout"></atom:link>
+      <description>The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 20:41:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pistorius, Oscar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steenkamp, Reeva</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08safrica-pistorius-1/08safrica-pistorius-1-moth.jpg" width="151"></media:content>
+      <media:credit>Charlie Shoemaker/Getty Images</media:credit>
+      <media:description>Oscar Pistorius leaving a sentencing hearing in 2016.</media:description>
+    </item>
+    <item>
+      <title>French Catholic Church Will Sell Assets to Compensate Abuse Victims</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html" rel="standout"></atom:link>
+      <description>The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 00:52:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08france-church1/08france-church1-moth.jpg" width="151"></media:content>
+      <media:credit>Valentine Chapuis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>“We will ensure that no one is left behind,” Éric de Moulins-Beaufort, the archbishop of Reims and the president of the Bishops’ Conference of France, told reporters in Lourdes, France, on Monday.  </media:description>
+    </item>
+    <item>
+      <title>Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</title>
+      <link>https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html" rel="standout"></atom:link>
+      <description>In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation.</description>
+      <dc:creator>Ernesto Londoño, Flávia Milhorance and Jack Nicas</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:27:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/06/world/00brazil-telegram1/00brazil-telegram1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Supporters of President Jair Bolsonaro at a rally. Ahead of next year’s presidential elections, Mr. Bolsonaro urged his voters to follow him on Telegram.</media:description>
+    </item>
+    <item>
+      <title>Thousands of Canadians Head for the Southern United States Again</title>
+      <link>https://www.nytimes.com/2021/11/08/us/canada-travel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/us/canada-travel.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/us/canada-travel.html" rel="standout"></atom:link>
+      <description>With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow.</description>
+      <dc:creator>Miriam Jordan</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 19:22:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yuma (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08virus-briefing-snowbirds1/08virus-briefing-snowbirds1-moth.jpg" width="151"></media:content>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>The swimming pool area at the Country Roads RV Village in Yuma, Ariz.</media:description>
+    </item>
+    <item>
+      <title>Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html" rel="standout"></atom:link>
+      <description>The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.”</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 16:33:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morrison, Van</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tweed, Paul (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belfast (Northern Ireland)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08virus-briefing-van-morrison/08virus-briefing-van-morrison-moth.jpg" width="151"></media:content>
+      <media:credit>Gareth Cattermole/Getty Images</media:credit>
+      <media:description>Van Morrison performing in London in 2020. He has been an outspoken critic of pandemic safety protocols.</media:description>
+    </item>
+    <item>
+      <title>Despite Abuses of NSO Spyware, Israel Will Lobby U.S. to Defend It</title>
+      <link>https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html" rel="standout"></atom:link>
+      <description>As a new accusation surfaces that NSO’s software may have been used to spy on Palestinians, Israeli officials say it is crucial to national security.</description>
+      <dc:creator>Ronen Bergman and Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 21:55:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NSO Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08israel-nso/08israel-nso-moth.jpg" width="151"></media:content>
+      <media:credit>Sebastian Scheiner/Associated Press</media:credit>
+      <media:description>A branch of the Israeli NSO Group company, near the southern Israeli town of Sapir.</media:description>
+    </item>
+    <item>
+      <title>Excited Passengers Board First Flight from Heathrow to the U.S.</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html" rel="standout"></atom:link>
+      <description>Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban.</description>
+      <dc:creator>Ceylan Yeginsu</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 21:02:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heathrow Airport (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08virus-briefing-heathrow-travel1/08virus-briefing-heathrow-travel1-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>Performers hired by Virgin Atlantic welcomed U.S.-bound travelers on Monday at Heathrow Airport, near London.</media:description>
+    </item>
+    <item>
+      <title>U.S. Covid Deaths Get Even Redder</title>
+      <link>https://www.nytimes.com/2021/11/08/briefing/covid-death-toll-red-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/briefing/covid-death-toll-red-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/briefing/covid-death-toll-red-america.html" rel="standout"></atom:link>
+      <description>The partisan gap in Covid’s death toll has grown faster over the past month than at any previous point.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 22:55:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/lens/08ambriefing-promo/08ambriefing-covid-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Shannon Stapleton/Reuters</media:credit>
+      <media:description>A nurse in Rexburg, Idaho monitors a covid patient.</media:description>
+    </item>
+    <item>
+      <title>In hard-hit Romania, the virus is surging as vaccine hesitancy spreads.</title>
+      <link>https://www.nytimes.com/2021/11/08/world/in-hard-hit-romania-the-virus-is-surging-as-vaccine-hesitancy-spreads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/in-hard-hit-romania-the-virus-is-surging-as-vaccine-hesitancy-spreads.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/in-hard-hit-romania-the-virus-is-surging-as-vaccine-hesitancy-spreads.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 21:47:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08virus-briefing-romania-vaccine-refusal/08virus-briefing-romania-vaccine-refusal-moth.jpg" width="151"></media:content>
+      <media:credit>Vadim Ghirda/Associated Press</media:credit>
+      <media:description>A banner reading, “No to vaccination — our children are not your guinea pigs,” at a protest in Bucharest, Romania, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>New Zealand&#39;s Biggest City Is to Ease Lockdown Restrictions</title>
+      <link>https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html" rel="standout"></atom:link>
+      <description>The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 18:09:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Auckland (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08virus-briefing-nz-lockdown-01/08virus-briefing-nz-lockdown-01-moth.jpg" width="151"></media:content>
+      <media:credit>Fiona Goodall/Getty Images</media:credit>
+      <media:description>A rally outside the Auckland War Memorial Museum in October to protest lockdowns in New Zealand.</media:description>
+    </item>
+    <item>
+      <title>Inside a Volcanic Ritual on the Indonesian Island of Java</title>
+      <link>https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html" rel="standout"></atom:link>
+      <description>During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo.</description>
+      <dc:creator>Putu Sayoga</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 20:07:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Java (Indonesia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/travel/08travel-indonesia-promo-1/merlin_195850971_cdaa0313-72d4-43fc-a928-9dc49442291a-moth.jpg" width="151"></media:content>
+      <media:credit>Putu Sayoga</media:credit>
+      <media:description>A view of Mount Batok, as seen from Mount Bromo, during the Hindu ritual of Yadnya Kasada.</media:description>
+    </item>
+    <item>
+      <title>When the Taliban Are in Your Bedroom</title>
+      <link>https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html" rel="standout"></atom:link>
+      <description>As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder.</description>
+      <dc:creator>Thomas Gibbons-Neff</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 01:16:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/10/us/10afghan-bureau-print2/08insider-kabul-bureau-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Body armor sits in the New York Times bureau in Kabul, Afghanistan.</media:description>
+    </item>
+    <item>
+      <title>Police Officer Stabbed on French Riviera, Authorities Say</title>
+      <link>https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html" rel="standout"></atom:link>
+      <description>Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear.</description>
+      <dc:creator>Aurelien Breeden and Constant Méheut</dc:creator>
+      <pubDate>Tue, 09 Nov 2021 17:26:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cannes (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lisnard, David (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08france-stabbing-02/08france-stabbing-02-moth.jpg" width="151"></media:content>
+      <media:credit>Twitter/Eciotti Via Reuters</media:credit>
+      <media:description>Éric Ciotti, a lawmaker who represents the Alpes-Maritimes area, visiting the police station in Cannes where a police officer was reported stabbed on Monday.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/08/briefing/xi-jinping-us-travel-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/08/briefing/xi-jinping-us-travel-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/08/briefing/xi-jinping-us-travel-restrictions.html" rel="standout"></atom:link>
+      <description>Rewriting China’s past.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 08 Nov 2021 05:04:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/us/08ambriefing-europe-nl-Jinping-promo/08ambriefing-europe-nl-Jinping-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>People in Shanghai watched Xi Jinping speak on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/11/07/briefing/your-monday-briefing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/07/briefing/your-monday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/07/briefing/your-monday-briefing.html" rel="standout"></atom:link>
+      <description>China’s new official history.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 07 Nov 2021 21:16:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Jobs Plan (2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sushi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Black Caucus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unification Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon, Sun Myung</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/08/world/08ambriefing-asia-NL-china-promo/08ambriefing-asia-NL-china-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>People in Shanghai watched a broadcast of China’s President Xi Jinping speaking on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</title>
+      <link>https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html" rel="standout"></atom:link>
+      <description>Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid.</description>
+      <dc:creator>David Zucchino</dc:creator>
+      <pubDate>Sun, 07 Nov 2021 22:00:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tajikistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hicks, David</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/11/07/world/07afghan-pilots-1/07afghan-pilots-1-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <media:description>An Afghan Air Force training exercise in Logar Province in 2018. The United States spent billions of dollars training and equipping Afghan forces.</media:description>
+    </item>
+  </channel>
+</rss>

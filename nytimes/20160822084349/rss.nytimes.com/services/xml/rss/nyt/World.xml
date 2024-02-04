@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Mon, 22 Aug 2016 08:32:31 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>One Photo of a Syrian Child Caught the World&#x2019;s Attention. These 7 Went Unnoticed.</title>
+      <link>http://www.nytimes.com/2016/08/22/world/middleeast/syria-omran-photo-children.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/middleeast/syria-omran-photo-children.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/middleeast/syria-omran-photo-children.html?partner=rss&amp;emc=rss"/>
+      <description>Millions around the world now know of Omran Daqneesh, a 5-year-old Syrian boy injured in an airstrike. He isn&#x2019;t alone.</description>
+      <dc:creator>ANNE BARNARD and HWAIDA SAAD</dc:creator>
+      <pubDate>Mon, 22 Aug 2016 02:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>After Olympics, Rio Is Altered if Not Reborn</title>
+      <link>http://www.nytimes.com/2016/08/22/world/americas/rio-olympics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/americas/rio-olympics.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/americas/rio-olympics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/21/world/21riolegacy1/21riolegacy1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Military police personnel patrolling the route of the Olympic torch relay in a suburb of Rio de Janeiro two days before the Summer Games.</media:description>
+      <media:credit>Lalo de Almeida for The New York Times</media:credit>
+      <description>There have been cost overruns and many other complaints, but the 2016 Summer Games in Rio also yielded infrastructure improvements that had been on wish lists for years.</description>
+      <dc:creator>ANDREW JACOBS</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 23:50:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paes, Eduardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Budgets and Budgeting</category>
+    </item>
+    <item>
+      <title>Iraq Executes Dozens for 2014 Massacre by ISIS</title>
+      <link>http://www.nytimes.com/2016/08/22/world/middleeast/iraq-executes-isis-2014-massacre-speicher.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/middleeast/iraq-executes-isis-2014-massacre-speicher.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/middleeast/iraq-executes-isis-2014-massacre-speicher.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/world/22IRAQ/22IRAQ-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Iraqi security forces on Sunday escorted one of the 36 men sentenced to death in the mass killing of Shiite military personnel at an air base in 2014.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>Thirty-six men were hanged in connection with the group&#x2019;s killing of 1,700 Shiite military personnel, despite concerns over the country&#x2019;s criminal justice system.</description>
+      <dc:creator>OMAR AL-JAWOSHY and TIM ARANGO</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 20:08:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Camp Speicher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tikrit (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunni Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Confessions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Torture</category>
+    </item>
+    <item>
+      <title>Syria&#x2019;s Horrors Visit Turkey Again as Bomber Attacks Kurdish Wedding</title>
+      <link>http://www.nytimes.com/2016/08/22/world/europe/turkey-wedding-attack-isis-blamed.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/europe/turkey-wedding-attack-isis-blamed.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/europe/turkey-wedding-attack-isis-blamed.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/world/22TURKEY3/22TURKEY3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mourners at a funeral on Sunday for victims of an attack on a wedding party the previous night that left at least 51 dead in Gaziantep, Turkey.</media:description>
+      <media:credit>Ilyas Akengin/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The suicide attack, which killed more than 50, is the deadliest in a string of bombings in Turkey as the war in Syria spills over the border.</description>
+      <dc:creator>TIM ARANGO and CEYLAN YEGINSU</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 17:42:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaziantep (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Soldiers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yildirim, Binali (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+    </item>
+    <item>
+      <title>English Village Becomes Climate Leader by Quietly Cleaning Up Its Own Patch</title>
+      <link>http://www.nytimes.com/2016/08/22/science/english-village-becomes-climate-leader-by-quietly-cleaning-up-its-own-patch.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/science/english-village-becomes-climate-leader-by-quietly-cleaning-up-its-own-patch.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/science/english-village-becomes-climate-leader-by-quietly-cleaning-up-its-own-patch.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/world/22CLIMATE1/22CLIMATE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Garry Charnock near some of the many solar panels in Ashton Hayes, England. Mr. Charnock, a former journalist, started the town&#x2019;s emissions-reduction effort about 10 years ago.</media:description>
+      <media:credit>Elizabeth Dalziel for The New York Times</media:credit>
+      <description>In Ashton Hayes, residents have banded together to cut greenhouse emissions with solar panels, wine-and-cheese nights and no politicians.</description>
+      <dc:creator>TATIANA SCHLOSSBERG</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 16:26:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ashton Hayes (Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charnock, Garry</category>
+    </item>
+    <item>
+      <title>Suicide Bombing Kills at Least 20 in Somalia</title>
+      <link>http://www.nytimes.com/2016/08/22/world/africa/suicide-bombing-kills-at-least-20-in-somalia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/africa/suicide-bombing-kills-at-least-20-in-somalia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/africa/suicide-bombing-kills-at-least-20-in-somalia.html?partner=rss&amp;emc=rss"/>
+      <description>Militants struck a market in the town of Galkayo and then stormed a government building and engaged in gun battles with security forces.</description>
+      <dc:creator>JEFFREY GETTLEMAN and HUSSEIN MOHAMED</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 19:25:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shabab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Ethiopian Marathoner&#x2019;s Protest Puts Him at Odds With His Government</title>
+      <link>http://www.nytimes.com/2016/08/22/world/africa/feyisa-lilesa-ethiopia-olympic-marathon-protest.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/africa/feyisa-lilesa-ethiopia-olympic-marathon-protest.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/africa/feyisa-lilesa-ethiopia-olympic-marathon-protest.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/world/22XP-RUNNER/22XP-RUNNER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Feyisa Lilesa of Ethiopia, who won the silver medal in the men&#x2019;s marathon at the Rio Olympics, during an award ceremony on Sunday.</media:description>
+      <media:credit>Robert F. Bukaty/Associated Press</media:credit>
+      <description>Feyisa Lilesa, the Olympic silver medal winner, said his gesture at the finish line in Rio de Janeiro could get him killed if he returned home.</description>
+      <dc:creator>DANIEL VICTOR</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 23:17:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lilesa, Feyisa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Marathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Oromo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+    </item>
+    <item>
+      <title>A Morning Surprise for Japan: Shinzo Abe as Super Mario</title>
+      <link>http://www.nytimes.com/2016/08/23/world/asia/shinzo-abe-super-mario-tokyo-rio-olympics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/23/world/asia/shinzo-abe-super-mario-tokyo-rio-olympics.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/23/world/asia/shinzo-abe-super-mario-tokyo-rio-olympics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/23/world/22ABEMARIO/22ABEMARIO-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Shinzo Abe of Japan, whose capital, Tokyo, will host the 2020 Summer Games, appeared as Super Mario during the Olympic closing ceremony in Rio de Janeiro.</media:description>
+      <media:credit>Stoyan Nenov/Reuters</media:credit>
+      <description>Reaction on social media was swift and amused when the normally dry prime minister popped out of a pipe at the closing ceremony of the Rio Games.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Mon, 22 Aug 2016 07:43:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Super Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nintendo Co Ltd</category>
+    </item>
+    <item>
+      <title>Obama Readies One Last Push for Trans-Pacific Partnership</title>
+      <link>http://www.nytimes.com/2016/08/22/business/international/trans-pacific-partnership-obama.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/business/international/trans-pacific-partnership-obama.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/business/international/trans-pacific-partnership-obama.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/19/business/20TRADE/20TRADE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Obama discussed the Trans-Pacific Partnership after a meeting with current and former diplomats and defense officials at the White House in November 2015.</media:description>
+      <media:credit>Zach Gibson/The New York Times</media:credit>
+      <description>As both presidential candidates campaign against it, the White House is negotiating with Republicans in Congress to ratify the largest regional trade agreement ever.</description>
+      <dc:creator>JACKIE CALMES</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 23:45:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Trans-Pacific Partnership</category>
+    </item>
+    <item>
+      <title>For Donald Trump&#x2019;s Family, an Immigrant&#x2019;s Tale With 2 Beginnings</title>
+      <link>http://www.nytimes.com/2016/08/22/us/politics/for-donald-trumps-family-an-immigrants-tale-with-2-beginnings.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/us/politics/for-donald-trumps-family-an-immigrants-tale-with-2-beginnings.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/us/politics/for-donald-trumps-family-an-immigrants-tale-with-2-beginnings.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/20/us/20german-web1/20german-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A copy of a photo from the early 1900s of Donald J. Trump&#x2019;s forebears. From left, Fred Trump, his father; Friedrich Trump, his grandfather; Elizabeth Trump; Elizabeth Christ, his grandmother; and John George Trump.</media:description>
+      <media:credit>Bryan Thomas for The New York Times</media:credit>
+      <description>For decades, in part to avoid alienating Jewish friends and clients, the Trumps buried their German heritage, instead saying that the family was Swedish.</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 23:18:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">German-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Fred C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bavaria (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brooklyn Daily Eagle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+    </item>
+    <item>
+      <title>Gord Downie, Frontman for the Tragically Hip, in His Final Act</title>
+      <link>http://www.nytimes.com/2016/08/22/arts/music/tragically-hip-gord-downie-final-show.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/arts/music/tragically-hip-gord-downie-final-show.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/arts/music/tragically-hip-gord-downie-final-show.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/arts/22TRAGICALLYHIP1/22TRAGICALLYHIP1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gord Downie, the Tragically Hip&#x2019;s frontman, in Kingston, Ontario.</media:description>
+      <media:credit>David Bastedo</media:credit>
+      <description>On Saturday, Mr. Downie, who has terminal brain cancer, played what could be his last major outing with that venerable Canadian band.</description>
+      <dc:creator>MELENA RYZIK</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 21:55:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Downie, Gordon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tragically Hip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+    </item>
+    <item>
+      <title>Blackpool Journal: A Once-Declining British Resort Town Sees New Life, Post-Brexit</title>
+      <link>http://www.nytimes.com/2016/08/22/world/europe/blackpool-post-brexit-resort-town.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/world/europe/blackpool-post-brexit-resort-town.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/world/europe/blackpool-post-brexit-resort-town.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/17/world/xxblackpool1/xxblackpool1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Amusements on one of Blackpool&#x2019;s piers. The British coastal city is trying to reinvent itself as a seaside resort for the modern age.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>Seaside Blackpool is trying to reinvigorate itself for the modern age, and with fewer Britons vacationing abroad, things are looking up.</description>
+      <dc:creator>STEVEN ERLANGER</dc:creator>
+      <pubDate>Sun, 21 Aug 2016 15:40:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Circuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Amusement and Theme Parks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Merlin Entertainments Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Blackpool (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Winter Gardens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Blackpool Tower</category>
+    </item>
+    <item>
+      <title>What in the World: Here&#x2019;s a New Angle on the Shape of the World</title>
+      <link>http://www.nytimes.com/2016/08/20/world/what-in-the-world/heres-a-new-angle-on-the-shape-of-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/20/world/what-in-the-world/heres-a-new-angle-on-the-shape-of-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/20/world/what-in-the-world/heres-a-new-angle-on-the-shape-of-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/15/world/what-in-the-world/00wit_rectangles2/00wit_rectangles2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Maziyar Pahlevan</media:credit>
+      <description>An Australian statistician has devised a method to rank the world&#x2019;s nations by how rectangular they are, with Egypt at the head of the class.</description>
+      <dc:creator>JAKE DOHERTY</dc:creator>
+      <pubDate>Fri, 19 Aug 2016 13:08:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barry, David (Statistician)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>What in the World: What&#x2019;s That on Your Bumper? A Hairy Kind of Car Insurance</title>
+      <link>http://www.nytimes.com/2016/08/19/world/what-in-the-world/whats-that-on-your-bumper-a-hairy-kind-of-car-insurance.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/19/world/what-in-the-world/whats-that-on-your-bumper-a-hairy-kind-of-car-insurance.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/19/world/what-in-the-world/whats-that-on-your-bumper-a-hairy-kind-of-car-insurance.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/10/world/what-in-the-world/00wit_africa-ponytails/00wit_africa-ponytails-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Alvaro Dominguez; Photos by Bruno Ferrari, Cammep, ArtHeart/Shutterstock</media:credit>
+      <description>Ponytails are attached to taxis for strength and good fortune in West Africa. Religious icons are also popular blessings for safe travel.</description>
+      <dc:creator>DIONNE SEARCEY</dc:creator>
+      <pubDate>Thu, 18 Aug 2016 09:00:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Luck</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superstitions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Saudi Arabia Kills Civilians, the U.S. Looks the Other Way</title>
+      <link>http://www.nytimes.com/2016/08/22/opinion/international/saudi-arabia-kills-civilians-the-us-looks-the-other-way.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/opinion/international/saudi-arabia-kills-civilians-the-us-looks-the-other-way.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/opinion/international/saudi-arabia-kills-civilians-the-us-looks-the-other-way.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/opinion/22oakford-web/22oakford-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A food factory hit by a Saudi-led coalition, killing workers and destroying the building in Sanaa, Yemen, last week.</media:description>
+      <media:credit>Mohammed Huwais/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Even after a series of deadly attacks that killed Yemeni civilians, Washington&#x2019;s support remains unwavering.</description>
+      <dc:creator>SAMUEL OAKFORD</dc:creator>
+      <pubDate>Fri, 19 Aug 2016 19:44:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Editorial: Dodging Accountability at the United Nations</title>
+      <link>http://www.nytimes.com/2016/08/22/opinion/dodging-accountability-at-the-united-nations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/22/opinion/dodging-accountability-at-the-united-nations.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/22/opinion/dodging-accountability-at-the-united-nations.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/22/opinion/22mon1web/22mon1web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A doctor examined a child with symptoms of cholera in Port-au-Prince, Haiti, in February.</media:description>
+      <media:credit>Dieu Nalio Chery/Associated Press</media:credit>
+      <description>It has taken more than five years for the United Nations to start acknowledging its role in sparking Haiti&#x2019;s cholera epidemic.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Mon, 22 Aug 2016 07:21:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: I Criticized the Olympics. That Doesn&#x2019;t Make Me a Traitor.</title>
+      <link>http://www.nytimes.com/2016/08/21/opinion/sunday/i-criticized-the-olympics-that-doesnt-make-me-a-traitor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/21/opinion/sunday/i-criticized-the-olympics-that-doesnt-make-me-a-traitor.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/21/opinion/sunday/i-criticized-the-olympics-that-doesnt-make-me-a-traitor.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/21/opinion/sunday/21BARBARA/21BARBARA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People in a nearby favela watched fireworks exploding during the opening ceremonies of the Rio 2016 Olympic Games.</media:description>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <description>In Brazil, many of us are so obsessed with how the outside world sees us that we won&#x2019;t recognize our own faults.</description>
+      <dc:creator>VANESSA BARBARA</dc:creator>
+      <pubDate>Sat, 20 Aug 2016 18:30:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+    </item>
+    <item>
+      <title>Nigeria Is Freeing Children From Boko Haram, Then Locking Them Up</title>
+      <link>http://www.nytimes.com/2016/08/19/world/africa/nigeria-boko-haram.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/19/world/africa/nigeria-boko-haram.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/19/world/africa/nigeria-boko-haram.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/12/world/xxnigeria1/xxnigeria1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Displaced people taking shelter from the rain at a camp in Maiduguri, Nigeria, in June.</media:description>
+      <media:credit>Jane Hahn for The New York Times</media:credit>
+      <description>Civilians, and even infants, are ending up in military detention centers as Nigeria holds people it suspects of being sympathizers of the Islamist extremist group.</description>
+      <dc:creator>DIONNE SEARCEY</dc:creator>
+      <pubDate>Sat, 20 Aug 2016 00:17:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boko Haram</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maiduguri (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amnesty International</category>
+    </item>
+    <item>
+      <title>A Foreign Correspondent&#x2019;s Day at the Beach</title>
+      <link>http://www.nytimes.com/2016/08/19/insider/a-foreign-correspondents-day-at-the-beach.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/19/insider/a-foreign-correspondents-day-at-the-beach.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/19/insider/a-foreign-correspondents-day-at-the-beach.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/18/insider/00insider-tulum01/00insider-tulum01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tourists at a beach in Tulum.</media:description>
+      <media:credit>Reinhard Dirscherl/ullstein bild, via Getty Images</media:credit>
+      <description>Even in the wildly popular beach town of Tulum on the Yucat&#xE1;n Peninsula, menace can lurk just beneath the surface.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Fri, 19 Aug 2016 16:35:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulum (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evictions</category>
+    </item>
+    <item>
+      <title>Skala Sikaminias Journal: Greek Villagers Rescued Migrants. Now They Are the Ones Suffering.</title>
+      <link>http://www.nytimes.com/2016/08/18/world/europe/greece-lesbos-refugees.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/18/world/europe/greece-lesbos-refugees.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/18/world/europe/greece-lesbos-refugees.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/18/world/18lesbos-web/18lesbos-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The keeper of the main church in Skala Sikaminias, Lesbos, looked out to sea. Some villagers say that when they look at the horizon, they often think that another refugee boat is coming.</media:description>
+      <media:credit>Eirini Vourloumis for The New York Times</media:credit>
+      <description>The island of Lesbos was ground zero for refugees flooding across the Aegean. A year later, the imprint of that experience still affects one village that tried to help.</description>
+      <dc:creator>LIZ ALDERMAN</dc:creator>
+      <pubDate>Wed, 17 Aug 2016 14:34:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lesbos (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Skala Sikaminias (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+    </item>
+    <item>
+      <title>Talking to Terrorists</title>
+      <link>http://www.nytimes.com/2016/08/05/insider/talking-to-terrorists.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/05/insider/talking-to-terrorists.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/05/insider/talking-to-terrorists.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/05/insider/05-Insider-IsisDefector-Image/05-Insider-IsisDefector-Image-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harry Sarfo, a former Islamic State fighter from Germany, inside the maximum-security prison in Bremen where he is serving a three-year sentence on terrorism charges.</media:description>
+      <media:credit>Gordon Welters for The New York Times</media:credit>
+      <description>For once, the conversation wasn&#x2019;t via social media, and the name the Islamic State defector used was the one on his birth certificate.</description>
+      <dc:creator>RUKMINI CALLIMACHI</dc:creator>
+      <pubDate>Tue, 09 Aug 2016 15:38:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sarfo, Harry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>At the Front in a Scarred Falluja</title>
+      <link>http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/30/world/middleeast/xxFalluja-slide-ZW8K/xxFalluja-slide-ZW8K-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>Bryan Denton, a photographer who works for The New York Times and is based in Beirut, Lebanon, gives his account of covering Iraqi forces&#x2019; recapture of Falluja from the Islamic State.</description>
+      <dc:creator>BRYAN DENTON</dc:creator>
+      <pubDate>Sat, 30 Jul 2016 18:22:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Falluja (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Iraqi Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>Devanampattinam Journal: Mortal to Divine and Back: India&#x2019;s Transgender Goddesses</title>
+      <link>http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/26/world/asia/xxkhoti-ss-slide-81HN/xxkhoti-ss-slide-81HN-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Candace Feit</media:credit>
+      <description>During the 10-day Hindu festival Mayana Kollai, the troubles of transgender women are distant as they transform into the deities they worship and are revered by villagers.</description>
+      <dc:creator>Photographs by CANDACE FEIT</dc:creator>
+      <pubDate>Sun, 24 Jul 2016 18:25:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tamil Nadu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Mayana Kollai festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Kothis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Devanampattinam (India)</category>
+    </item>
+  </channel>
+</rss>

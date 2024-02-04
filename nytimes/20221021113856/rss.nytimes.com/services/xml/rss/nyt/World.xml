@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 21 Oct 2022 11:35:04 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 11:24:15 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>As Inflation Stalks Europe, Leaders Shudder</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/inflation-prices-britain-ukraine-russia.html" rel="standout"></atom:link>
+      <description>The downfall of Britain’s prime minister served as a warning to all of the political peril that awaits those who fail to address the erosion of living standards, no matter the cause.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 10:20:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conte, Giuseppe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latvia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/00europe-inflation01/merlin_207551574_915f0898-ae07-4b89-a215-b2467c10f25d-moth.jpg" width="151"></media:content>
+      <media:credit>Alessandro Grassani for The New York Times</media:credit>
+      <media:description>A market in Milan. The incoming government of Giorgia Meloni will have to struggle with how to cushion inflation’s blow in Italy without inflating already bloated deficits.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss Resigns After 6 Chaotic Weeks, Igniting New Leadership Fight</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resigns-conservative-party.html" rel="standout"></atom:link>
+      <description>The beleaguered British prime minister relinquished her office after just 44 days of political and economic tumult, the shortest tenure in British history.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:41:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-truss-blog-header-9am-ET/20uk-truss-blog-header-9am-ET-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss announced her intention to resign as Britain’s prime minister outside 10 Downing Street in London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Zelensky Calls for Observer Mission at Key Hydroelectric Dam</title>
+      <link>https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/10/21/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky of Ukraine warned that Russia was preparing to blow up a large hydroelectric dam in the south of the country, threatening the city of Kherson.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 11:24:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/21UKRAINE-BRIEFING-HEADER-4AM/20UKRAINE-LEDEALL-4-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Members of a drone unit taking a break during bad weather on the front lines near Russian-occupied Donetsk on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Liberated Ukrainians Share Tales of Russian Occupation</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilans-russia-occupation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilans-russia-occupation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/ukraine-civilans-russia-occupation.html" rel="standout"></atom:link>
+      <description>With Russian soldiers pushed out of parts of the Kharkiv region, Ukrainian investigators have been overwhelmed with accounts of detentions, torture and missing relatives, as well as collaboration and property theft.</description>
+      <dc:creator>Carlotta Gall and Ivor Prickett</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 19:59:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borova (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/18/world/18Ukraine-occupation-promo/18Ukraine-occupation-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Oleksandr Avdeev, 60, looked on as a rescue worker worked to exhume the body of his son Serhii Avdeev, who was abducted and killed by Russian forces last month, in Borova.</media:description>
+    </item>
+    <item>
+      <title>Truss Defied the Markets, and They Ruthlessly Sealed Her Fate</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-britain-resigns.html" rel="standout"></atom:link>
+      <description>World leaders buffeted by economic challenges are watching the turmoil in Britain with anything but relish, hoping that Liz Truss’s woes won’t be a harbinger for other countries.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 18:22:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-analysis_2/20uk-analysis_2-moth.jpg" width="151"></media:content>
+      <media:credit>Sam Bush for The New York Times</media:credit>
+      <media:description>The scene outside the Bank of England in central London. The market’s swift, withering verdict on Prime Minister Liz Truss’s tax-cutting agenda shattered her credibility.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss Is Eligible for an Allowance of $129,000 a Year for Life</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/uk-allowance-liz-truss.html" rel="standout"></atom:link>
+      <description>The departing British leader would be the sixth prime minister to receive the reimbursement for her expenses after leaving office.</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 22:30:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-truss-allowance-01-1-d1e9/20uk-blog-truss-truss-allowance-01-1-d1e9-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>Prime Minister Liz Truss is eligible for the Public Duty Costs Allowance, a reimbursement of expenses incurred after she leaves office.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss’s Quick Resignation Spurs Anger and Bewilderment Among Britons</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/uk-liz-truss-reactions.html" rel="standout"></atom:link>
+      <description>Prime Minister Liz Truss’s resignation, yet another episode of political instability, only added to concerns over galloping inflation and a looming economic crisis.</description>
+      <dc:creator>Euan Ward and Isabella Kwai</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 07:02:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-voices-4-1-2d4a/20uk-voices-4-1-2d4a-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Ingram for The New York Times</media:credit>
+      <media:description>Market stalls in Kingston upon Thames, England. Britons who had already stared down a year of economic and political turmoil met the latest developments with anxiety and concern.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Rations Power Despite Battle Gains in Kherson</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/russia-ukraine-power-grid-kherson.html" rel="standout"></atom:link>
+      <description>Russia may be preparing to retreat from the southern city of Kherson, Western analysts say, but Ukraine’s president warned of possible destruction of a dam upstream.</description>
+      <dc:creator>Megan Specia, Monika Pronczuk and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 23:11:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20UKRAINE-LEDEALL-TOP/20UKRAINE-LEDEALL-TOP-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>The Podil neighborhood of Kyiv on Thursday. The government asked Ukrainians to cut back on energy usage to ensure enough heat and light during the coming winter months.</media:description>
+    </item>
+    <item>
+      <title>Berlusconi, Caught on Tape Gushing Over Putin, Heightens Anxiety About Italy</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/silvio-berlusconi-vladimir-putin-russia-italy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/silvio-berlusconi-vladimir-putin-russia-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/silvio-berlusconi-vladimir-putin-russia-italy.html" rel="standout"></atom:link>
+      <description>Silvio Berlusconi, the former Italian leader and linchpin of the incoming right-wing government, blames Ukraine’s president for pushing President Vladimir V. Putin to invade.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 14:44:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Letters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conte, Giuseppe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Draghi, Mario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salvini, Matteo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGreevy, John T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20Berlusconi-Russia01/20Berlusconi-Russia01-moth.jpg" width="151"></media:content>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <media:description>The billionaire media mogul Silvio Berlusconi at a rally for his right-wing alliance last month in Rome.</media:description>
+    </item>
+    <item>
+      <title>How Taiwan’s Ambitious Diplomacy Aims to Keep the Island Safe From China</title>
+      <link>https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/asia/taiwan-diplomacy-china.html" rel="standout"></atom:link>
+      <description>Even as China’s threats on reunification grow more pointed, most recently at the Communist Party congress, Taiwan is working creatively to bolster its alliances.</description>
+      <dc:creator>Damien Cave and Amy Chang Chien</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:45:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20taiwan-diplomacy-01/20taiwan-diplomacy-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Taiwanese flags at Taiwan’s National Day celebrations in Taoyuan, Taiwan, this month.</media:description>
+    </item>
+    <item>
+      <title>She’s Inheriting Millions of Euros. She Wants Her Wealth Taxed Away.</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/marlene-engelhorn-wealth-tax.html" rel="standout"></atom:link>
+      <description>Marlene Engelhorn, 30, heir to a fortune, isn’t interested in philanthropy, believing it only perpetuates existing power dynamics. She’s calling for structural change to how the ultrarich are taxed.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:00:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marlene Engelhorn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inheritance and Estate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute on Taxation and Economic Policy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriotic Millionaires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Resource Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/00Austria-MarleneEngelhorn-Profile01/00Austria-MarleneEngelhorn-Profile01-moth.jpg" width="151"></media:content>
+      <media:credit>Mashid Mohadjerin for The New York Times</media:credit>
+      <media:description>Marlene Engelhorn at a Millionaires for Humanity event in Amsterdam in late August, where activists were calling for wealth to be taxed.</media:description>
+    </item>
+    <item>
+      <title>A Shrinking Town at the Center of France’s Culture Wars</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/france-callac-immigrants-refugees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/france-callac-immigrants-refugees.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/france-callac-immigrants-refugees.html" rel="standout"></atom:link>
+      <description>A plan to revitalize the town of Callac by bringing in skilled immigrants has divided it and made it an emblem of a nation’s anxiety over its identity and decline.</description>
+      <dc:creator>Catherine Porter</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 01:41:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Benoit (Filmmaker)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zemmour, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brittany (France)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/12/world/00france-migration01/00france-migration01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Ibrahim Zakaria Youssouf, originally from Sudan, with his wife, Mariam Hissein Abderamam, outside their home in Callac, France, where they have been living for two years.</media:description>
+    </item>
+    <item>
+      <title>Mystery Surrounds Deadly Attack at a Notorious Myanmar Prison</title>
+      <link>https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/asia/myanmar-prison-attack.html" rel="standout"></atom:link>
+      <description>A little-known group has claimed responsibility for two explosions, yet it remains unclear how the bombs got in, and how much of the carnage was a result of subsequent gunfire.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:51:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20Myanmar-prison01/merlin_214411539_60cbef37-8bb5-4508-8e89-c9ac39150c73-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>The main gate to Insein Prison in Yangon earlier this month. Explosions and shooting at a building where prisoners’ family members deliver packages killed eight people on Wednesday and injured 18.</media:description>
+    </item>
+    <item>
+      <title>Cough Syrup: What We Know About Tainted Medicine from India</title>
+      <link>https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/asia/cough-syrup-india-indonesia.html" rel="standout"></atom:link>
+      <description>Tainted syrup from India may be connected to the deaths of dozens of children in Gambia, officials said. Indonesia banned cough syrup sales, though the link there is unclear.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:58:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethylene Glycol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haryana (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21xp-cough-syrup-01/21xp-cough-syrup-01-moth.jpg" width="151"></media:content>
+      <media:credit>Tatan Syuflana/Associated Press</media:credit>
+      <media:description>A notice at a pharmacy in Jakarta, Indonesia, on Thursday announcing that the sale of medicinal syrup had been halted. </media:description>
+    </item>
+    <item>
+      <title>Liz Truss’s Downfall</title>
+      <link>https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/briefing/liz-truss-resign-britain.html" rel="standout"></atom:link>
+      <description>Liz Truss is inflation’s latest political victim, and probably not its last.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 11:04:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21-THE-MORNING-NL-TRUSS-PROMO/21-THE-MORNING-NL-TRUSS-3-e3f4-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss.</media:description>
+    </item>
+    <item>
+      <title>5 Australian Women Sue Qatar Over Invasive Searches at Airport</title>
+      <link>https://www.nytimes.com/2022/10/21/world/australia/qatar-airways-women-searches.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/australia/qatar-airways-women-searches.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/australia/qatar-airways-women-searches.html" rel="standout"></atom:link>
+      <description>The women say that they have suffered lasting trauma from the episode and are pushing for policy changes.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 11:08:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamad International Airport (Qatar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Qatar Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21oz-qatar/21oz-qatar-moth.jpg" width="151"></media:content>
+      <media:credit>Karim Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Hamad International Airport in Doha, Qatar, in 2018.</media:description>
+    </item>
+    <item>
+      <title>How Australia Fell Behind on Data Privacy</title>
+      <link>https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/australia/how-australia-fell-behind-on-data-privacy.html" rel="standout"></atom:link>
+      <description>A recent spate of cyberattacks have highlighted the nation’s relatively lax approach to safeguarding personal data. But change may be on the way.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 10:57:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21ausletter-1/21ausletter-1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Baker/Associated Press</media:credit>
+      <media:description>An Optus store in Sydney’s central business district this week. A data breach at the company was the largest in Australian history.</media:description>
+    </item>
+    <item>
+      <title>Hasta la Vista? This Time, Boris Johnson May Say, ‘I’m Back’</title>
+      <link>https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/world/europe/boris-johnson-uk-liz-truss.html" rel="standout"></atom:link>
+      <description>A comeback by Mr. Johnson is viewed as a very real possibility, delighting some Conservative Party lawmakers and repelling others.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 10:32:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dorries, Nadine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rees-Mogg, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Rory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/world/21uk-johnson-promo/21uk-johnson-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Isabel Infantes/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2022/10/21/briefing/truss-britain-resign-ukraine-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/21/briefing/truss-britain-resign-ukraine-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/21/briefing/truss-britain-resign-ukraine-europe.html" rel="standout"></atom:link>
+      <description>Liz Truss resigns.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 04:33:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21am-brf-euro-promo/21am-brf-euro-Truss-1-b207-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Russian Errors Prompted Deployment of Iranian Drone Personnel to Ukraine, U.S. Says</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/russia-iran-drones-ukraine.html" rel="standout"></atom:link>
+      <description>John Kirby, a National Security Council official, also warned that Russia may try to buy advanced missiles from Iran.</description>
+      <dc:creator>Julian E. Barnes and John Ismay</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:12:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/world/20ukraine-briefing-kirby-iran-drones/17russia-iran1-moth.jpg" width="151"></media:content>
+      <media:credit>Yasuyoshi Chiba/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A drone believed to be an Iranian Shahed-136, which explodes on impact, nearing a target in Kyiv, Ukraine, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: Liz Truss Quits</title>
+      <link>https://www.nytimes.com/2022/10/20/briefing/liz-truss-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/briefing/liz-truss-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/briefing/liz-truss-ukraine.html" rel="standout"></atom:link>
+      <description>Plus accounts of torture in Ukraine and Taiwan’s ambitious diplomacy.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 20:50:32 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/21/multimedia/21ambriefing-asia-nl-TRUSS-1-7fbc/21ambriefing-asia-nl-TRUSS-1-7fbc-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Alberto Pezzali/Associated Press</media:credit>
+      <media:description>Britain’s Prime Minister Liz Truss addresses the media in Downing Street in London.</media:description>
+    </item>
+    <item>
+      <title>As War Rages, a Ukrainian Family in Michigan Holds On to Home</title>
+      <link>https://www.nytimes.com/2022/10/20/us/ukraine-immigration-michigan-ann-arbor-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/ukraine-immigration-michigan-ann-arbor-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/us/ukraine-immigration-michigan-ann-arbor-war.html" rel="standout"></atom:link>
+      <description>Amber Galkin and her children find themselves navigating complicated connections with their homeland as they embrace a new national identity.</description>
+      <dc:creator>Peter Kujawinski and Erin Kirkland for The New York Times</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 21:06:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ann Arbor (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Custody and Support</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="">howigothere</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+    </item>
+    <item>
+      <title>For King Charles, Liz Truss’s Resignation Presents an Early Test</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/king-charles-liz-truss-resignation.html" rel="standout"></atom:link>
+      <description>King Charles has never sworn in a prime minister, and he will not be crowned until May, making the task of projecting stability more difficult.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 20:59:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-charles-challenges-topart-1-f35e/20uk-blog-truss-charles-challenges-topart-1-f35e-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Yui Mok</media:credit>
+      <media:description>King Charles III meeting with Prime Minister Liz Truss at Buckingham Palace in London in September, shortly after the death of Queen Elizabeth II.</media:description>
+    </item>
+    <item>
+      <title>Memes Accompanied Liz Truss’s Rise, And Helped Propel Her Fall.</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-memes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-memes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-memes.html" rel="standout"></atom:link>
+      <description>One of Ms. Truss’s defining talents as a politician has been her willingness to embrace a provocative message — and to provide visuals to match.</description>
+      <dc:creator>Peter Robins</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 19:21:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/11/18/multimedia/18uk-blog-truss-memes-image2-1-7356/18uk-blog-truss-memes-image2-1-7356-moth.jpg" width="151"></media:content>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <media:description>Prime Minister Liz Truss onstage at the Conservative Party’s annual conference in Birmingham, England, this month.</media:description>
+    </item>
+    <item>
+      <title>American Woman Pleads Guilty in Death of British Teenager</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/anne-sacoolas-guilty-harry-dunn.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/anne-sacoolas-guilty-harry-dunn.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/anne-sacoolas-guilty-harry-dunn.html" rel="standout"></atom:link>
+      <description>Anne Sacoolas pleaded guilty on Thursday to causing the death of Harry Dunn, a 19-year-old British motorcyclist, in 2019, when she was a State Department employee in England.</description>
+      <dc:creator>Amanda Holpuch</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 19:53:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Immunity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunn, Harry (d 2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sacoolas, Anne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20xp-sacoolas-topart/merlin_215179308_35172592-3eec-410a-9abc-394e2923a6a4-moth.jpg" width="151"></media:content>
+      <media:credit>Alastair Grant/Associated Press</media:credit>
+      <media:description>Members of Harry Dunn’s family arriving for a court hearing in London on Thursday. An American, Anne Sacoolas, pleaded guilty to causing Mr. Dunn’s death.</media:description>
+    </item>
+    <item>
+      <title>Virginia Uses Treated Wastewater to Shore Up a Drinking Water Aquifer</title>
+      <link>https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/climate/treated-sewage-virginia-aquifer.html" rel="standout"></atom:link>
+      <description>A crucial aquifer is running low, so officials are pumping in treated sewage. It’s an increasingly common strategy as heavy demand and climate change strain water supplies.</description>
+      <dc:creator>Elena Shao</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 03:46:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recycling of Waste Materials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aquifers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chesapeake Bay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drilling and Boring</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/science/20cli-drinkingwater-05/merlin_215142009_b65e3b45-3503-4dc0-84ab-0db509cc68a0-moth.jpg" width="151"></media:content>
+      <media:credit>Kristen Zeis for The New York Times</media:credit>
+      <media:description>A sediment sample taken this week in Newport News, Va. A planned recharge well at the site will inject additional treated wastewater into the Potomac Aquifer. </media:description>
+    </item>
+    <item>
+      <title>Biden Says US-UK Partnership Is Strong After Liz Truss Resignation</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/biden-liz-truss-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/biden-liz-truss-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/biden-liz-truss-uk.html" rel="standout"></atom:link>
+      <description>“She was a great partner on Russia and Ukraine,” President Biden said of the British leader. “And the British are going to solve their problem.”</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 16:46:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-biden-reax-topart/20uk-blog-truss-live-biden-1-5bed-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Liz Truss and President Biden met at the United Nations building in New York in September.</media:description>
+    </item>
+    <item>
+      <title>Boris Johnson Expected to Be a Candidate in Conservative Leadership Race</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/boris-johnson-uk-prime-minister-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/boris-johnson-uk-prime-minister-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/boris-johnson-uk-prime-minister-return.html" rel="standout"></atom:link>
+      <description>When the former prime minister left in September, he hinted at a potential comeback. He is now being mentioned as a successor to Liz Truss.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 19:44:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-boris-johnson-topart-1-af76/20uk-blog-truss-boris-johnson-topart-1-af76-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Chown/Press Association, via Associated Press</media:credit>
+      <media:description>During his final speech as prime minister on Sept. 6, Boris Johnson hinted at the possibility of a comeback.</media:description>
+    </item>
+    <item>
+      <title>E.U. Places New Sanctions on Iran for Supplying Russia With Drones</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/eu-sanctions-iran-russia-drones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/eu-sanctions-iran-russia-drones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/eu-sanctions-iran-russia-drones.html" rel="standout"></atom:link>
+      <description>The sanctions will target the company that manufactures Shahed-136 drones, diplomats said, as well as three individuals.</description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:53:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/17/multimedia/20ukraine-briefing-sanctions-new-01/20ukraine-briefing-sanctions-new-01-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Protesters gathered outside Iran’s Embassy in Kyiv, Ukraine’s capital, after Russia used Iranian-supplied explosive drones to attack the city center on Monday.</media:description>
+    </item>
+    <item>
+      <title>Read Liz Truss’s Resignation Speech</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resignation-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resignation-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/liz-truss-resignation-speech.html" rel="standout"></atom:link>
+      <description>“I cannot deliver the mandate on which I was elected by the Conservative Party,” she said in a televised statement on Thursday.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 14:03:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20uk-blog-truss-full-remarks-topart-1-84ef/20uk-blog-truss-full-remarks-topart-1-84ef-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Liz Truss resigned as the prime minister of Britain in a televised statement on Thursday.</media:description>
+    </item>
+    <item>
+      <title>What Happened With Liz Truss in Britain? A Guide to the Basics.</title>
+      <link>https://www.nytimes.com/article/uk-politics-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/uk-politics-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/article/uk-politics-liz-truss.html" rel="standout"></atom:link>
+      <description>A little over six weeks into her leadership, the British prime minister said she would resign.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20truss-explainer-03-1-9984/20truss-explainer-03-1-9984-moth.jpg" width="151"></media:content>
+      <media:credit>Alberto Pezzali/Associated Press</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain announced on Thursday that she would resign, as her husband, Hugh O’Leary, looked on.</media:description>
+    </item>
+    <item>
+      <title>Shetland Cut Off From the World After Undersea Cable Breaks</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/shetland-scotland-outage.html" rel="standout"></atom:link>
+      <description>The remote archipelago became even more so with phone and internet service disrupted.</description>
+      <dc:creator>Derrick Bryson Taylor and Christine Chung</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 10:15:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shetland Islands (Scotland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BT Group PLC</category>
+      <category domain="">subsea cable</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Faroese Telecom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20xp-shetland-02-1-a736/20xp-shetland-02-1-a736-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Lerwick, in the Shetland Islands. There are about 100 islands in Shetland, only 16 of which are inhabited. </media:description>
+    </item>
+    <item>
+      <title>These Are the Likely Front-Runners to Replace Liz Truss</title>
+      <link>https://www.nytimes.com/2022/10/20/world/europe/replacement-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/europe/replacement-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/europe/replacement-liz-truss.html" rel="standout"></atom:link>
+      <description>Penny Mordaunt, Rishi Sunak and Ben Wallace, all current or former Conservative cabinet members, are seen as candidates for Britain’s next prime minister.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 19:43:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braverman, Suella</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mordaunt, Penny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallace, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/20uk-blog-truss-possible-successor-01/20uk-blog-truss-possible-successor-01-moth.jpg" width="151"></media:content>
+      <media:credit>Susannah Ireland/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Rishi Sunak, Britain’s former chancellor of the Exchequer.</media:description>
+    </item>
+    <item>
+      <title>1897: India Frontier Fighting</title>
+      <link>https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/world/1897-india-frontier-fighting.html" rel="standout"></atom:link>
+      <description>A skirmish between British-led colonial forces and Pashtuns in what would later become northwestern Pakistan, near Afghanistan, left 10 dead and 53 wounded.</description>
+      <dc:creator>The International Herald Tribune</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 12:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of the Midterms</title>
+      <link>https://www.nytimes.com/2022/10/20/briefing/midterms-republicans-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/briefing/midterms-republicans-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/briefing/midterms-republicans-democrats.html" rel="standout"></atom:link>
+      <description>The midterm elections are less than three weeks away. We explain the state of the races for the House and Senate.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 14:39:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/multimedia/20themorning-promo/20themorning-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Nyege Nyege, a Cutting-Edge Music Festival in Uganda, Keeps the Beat</title>
+      <link>https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/arts/music/nyege-nyege-music-festival.html" rel="standout"></atom:link>
+      <description>Despite being called “immoral” by some politicians, this year’s Nyege Nyege festival celebrated diversity and innovation in contemporary African music.</description>
+      <dc:creator>Tom Faber</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 09:00:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nyege Nyege (Music Collective)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dilsizian, Arlen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Debru, Derek</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/23/arts/23nyege07/23nyege07-moth.jpg" width="151"></media:content>
+      <media:credit>Martin Kharumwa/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>DJ Kampire of Uganda is one of the Nyege Nyege collective’s biggest stars.</media:description>
+    </item>
+    <item>
+      <title>U.S. Sees Opportunity for Ukraine to Capitalize on Russian Weakness</title>
+      <link>https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/us/politics/us-ukraine-war.html" rel="standout"></atom:link>
+      <description>The next six weeks, before fall mud spreads, could allow Ukraine’s military to press forward in the Donbas and potentially retake Kherson, American officials said. But Russia may not be deterred.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 15:25:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/politics/19dc-intel-1/merlin_214910700_3dd58aed-73a3-4a18-9a15-17c51410332b-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Military analysts say that Ukrainian forces have momentum on their side.</media:description>
+    </item>
+    <item>
+      <title>‘Modern Love’ Goes Global in New Television Series</title>
+      <link>https://www.nytimes.com/2022/10/20/insider/modern-love-global-new-television-series.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/20/insider/modern-love-global-new-television-series.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/20/insider/modern-love-global-new-television-series.html" rel="standout"></atom:link>
+      <description>The latest iteration of the “Modern Love” franchise, “Modern Love Tokyo,” begins streaming on Oct. 21.</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Daniel (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Modern Love (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+    </item>
+    <item>
+      <title>The Iranian Drones in Ukraine’s Already Crowded Skies</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/ukraine-drones-iran-russia.html" rel="standout"></atom:link>
+      <description>Russian forces have deployed two types of Iranian drones. Dozens of models of the remote-controlled and programmable weapons are now being used in the war.</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 23:32:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="">Loitering munitions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/politics/19dc-drone-1/merlin_215029920_b33f9ff1-a120-490d-b276-79a639a27299-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Smoke billowing from the site of an explosive drone strike in Kyiv on Monday, when Iranian Shahed-136 drones struck the city.</media:description>
+    </item>
+    <item>
+      <title>Putin Declares Martial Law in 4 Illegally Annexed Ukrainian Regions</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/russia-putin-ukraine-martial-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/russia-putin-ukraine-martial-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/russia-putin-ukraine-martial-law.html" rel="standout"></atom:link>
+      <description>The Russian leader also imposed restrictions in over two dozen areas in Russia, signaling an attempt to crack down on dissent at home.</description>
+      <dc:creator>Andrew E. Kramer and Neil MacFarquhar</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 07:32:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Martial Law</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19ukraine-ledeall-TOPART/19ukraine-ledeall-TOPART-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Destroyed vehicles on Wednesday in Bakhmut, in Ukraine’s eastern Donetsk region, which has been under constant assault by Russian forces.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing: Russia Declares Martial Law In Occupied Ukraine</title>
+      <link>https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/briefing/ukraine-liz-truss.html" rel="standout"></atom:link>
+      <description>Plus the British prime minister pushed to resign, China’s most powerful female politician to retire.</description>
+      <dc:creator>Lauren Hard</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 22:04:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/20ambriefing-asia-nl-russia-OCT-PROMO/19ukraine-briefing-russia-martial-law-topart-1-f035-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>Carrying Ukrainian flags in a city administration building that was heavily damaged by shelling in the Donetsk region of Ukraine this week.</media:description>
+    </item>
+    <item>
+      <title>Biden Expands Effort to Lower Gas Prices and Secure Energy Independence</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/biden-gas-prices-oil-electric-vehicles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/biden-gas-prices-oil-electric-vehicles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/biden-gas-prices-oil-electric-vehicles.html" rel="standout"></atom:link>
+      <description>Depleting emergency oil reserves spurs criticism that the White House is trying to lower gas prices with midterm election politics in mind.</description>
+      <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 23:36:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Petroleum Reserve (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/us/politics/19dc-energy/merlin_215140998_2da6a359-8128-44b7-a62e-82a5ba1eb54d-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Biden said that he has ordered the release of 15 million additional barrels of oil from the Strategic Petroleum Reserve to address gas shortage concerns.</media:description>
+    </item>
+    <item>
+      <title>Schoolgirl’s Killing Shocks France and Fuels Right-Wing Fury</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/france-girl-murdered-lola-macron-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/france-girl-murdered-lola-macron-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/france-girl-murdered-lola-macron-immigration.html" rel="standout"></atom:link>
+      <description>An Algerian woman who had been ordered to leave the country has been arrested and charged in the killing of a girl who was found in a box in Paris, stoking anger over the government’s immigration record.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 18:22:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19france-girl-image/19france-girl-image-moth.jpg" width="151"></media:content>
+      <media:credit>Geoffroy Van Der Hasselt/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Bouquets at the entrance of the building where the 12-year-old girl, Lola, lived in Paris.</media:description>
+    </item>
+    <item>
+      <title>E.V. Bonanza Flows to Red States That Denounce Biden Climate Policies</title>
+      <link>https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/business/electric-vehicles-republicans-investment-south.html" rel="standout"></atom:link>
+      <description>No Republican in Congress voted for the Inflation Reduction Act. But their districts and states will greatly benefit from the investments spurred by the law.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 19:24:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayerische Motorenwerke AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Volkswagen AG</category>
+      <category domain="">future of transportation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/business/19ev-investment1/19ev-investment1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Diego Reyes for The New York Times</media:credit>
+      <media:description>BMW said on Wednesday that it would expand its manufacturing complex in Spartanburg, S.C.</media:description>
+    </item>
+    <item>
+      <title>Russia Shrinks Forces in Syria, a Factor in Israeli Strategy There</title>
+      <link>https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/russia-syria-israel-ukraine.html" rel="standout"></atom:link>
+      <description>Moscow withdrew a key air defense system and some troops to bolster its war in Ukraine, officials said, potentially altering Israel’s calculations about striking Syria or arming Ukraine.</description>
+      <dc:creator>Patrick Kingsley and Ronen Bergman</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 17:44:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gantz, Benny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19Israel-Ukraine01/merlin_171449583_b6d83a07-ce2b-4490-8bdc-eeabb0de3d51-moth.jpg" width="151"></media:content>
+      <media:credit>Delil Souleiman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Russian military police in the northeastern Syrian city of Qamishli in 2020. Moscow is sending more military police to Syria to help replace troops withdrawn from the country.</media:description>
+    </item>
+    <item>
+      <title>Iran Denies It Supplied Russia With Drones</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/eu-sanctions-iran-drones.html" rel="standout"></atom:link>
+      <description>Iran has denied supplying Russia with drones for use in Ukraine.</description>
+      <dc:creator>Monika Pronczuk</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 14:22:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19ukraine-briefing-eu-drone-sanctions-topart-1-d962/19ukraine-briefing-eu-drone-sanctions-topart-1-d962-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Ram/Getty Images</media:credit>
+      <media:description>An apartment building in Kyiv was among many sites of drone strikes across Ukraine this week. The European Union is preparing to impose sanctions on the Iranian company that manufactures drones that Russia is using.</media:description>
+    </item>
+    <item>
+      <title>The Lettuce Outlasts Liz Truss</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-lettuce-stream.html" rel="standout"></atom:link>
+      <description>Inspired by a columnist’s turn of phrase, a British newspaper tracked whether the embattled prime minister could survive longer than off-the-shelf produce.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Fri, 21 Oct 2022 09:59:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Daily Star (British Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economist, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/lens/19xp-lettucevideo-promo/19xp-lettucevideo-promo-moth-v5.png" width="151"></media:content>
+      <media:credit>The Daily Star</media:credit>
+      <media:description>A days-old head of lettuce has become a caricature of Prime Minister Liz Truss’s tenuous grip on power in Britain.</media:description>
+    </item>
+    <item>
+      <title>In Britain, Demands for Tough Response After Beating at Chinese Consulate</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/britain-china-consulate-protester.html" rel="standout"></atom:link>
+      <description>Activists who fled Hong Kong and some British lawmakers have called for a tough government response to the episode in Manchester, as the man who was beaten spoke out.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 18:43:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19china-consulate/19china-consulate-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Bob Chan, a Hong Kong pro-democracy protester, was kicked and beaten just inside the gates of the Chinese Consulate in Manchester, England, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Preserving a Palestinian Identity in the Kitchen</title>
+      <link>https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/palestinian-culinary-traditions.html" rel="standout"></atom:link>
+      <description>With many Palestinians fearful that their cuisine is being lost, kitchen practices handed down by family matriarchs for generations are still being passed along.</description>
+      <dc:creator>Aina J. Khan</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 21:57:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/08/world/08palestinian-food1/08palestinian-food1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
+      <media:description>Mariam Sindawi in the kitchen of her home, in Haifa, Israel, with her granddaughter Abeer Abbasi. “Our relationship is really based around the kitchen,” Ms. Abbasi said.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss Fires Home Secretary Suella Braverman After Email Breach</title>
+      <link>https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/europe/liz-truss-uk-parliament.html" rel="standout"></atom:link>
+      <description>Britain’s prime minister dismissed Suella Braverman after an email breach. Ms. Truss was also grilled in Parliament over her repudiated budget.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 03:08:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scottish National Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hunt, Jeremy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kwarteng, Kwasi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19uk-politics-image/19uk-politics-image-moth.jpg" width="151"></media:content>
+      <media:credit>Rob Pinney/Getty Images</media:credit>
+      <media:description>Prime Minister Liz Truss of Britain said she would guarantee a pension increase that her finance chief had called into question.</media:description>
+    </item>
+    <item>
+      <title>Iranian Climber Elnaz Rekabi Is Welcomed by Crowds in Tehran</title>
+      <link>https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/middleeast/iran-climber-elnaz-rekabi.html" rel="standout"></atom:link>
+      <description>Elnaz Rekabi, whose appearance without a head scarf at an event in Seoul raised fears about her future, was welcomed home by crowds in Tehran. Her motivations, and her fate, however, remain unclear.</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 02:58:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19iran-athlete-image/merlin_215077053_79e69a71-5cb4-47cd-996b-0269c716bac4-moth.jpg" width="151"></media:content>
+      <media:credit>Rhea Kang/International Federation of Sport Climbing, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Elnaz Rekabi competing at the Asian Championships in Seoul on Sunday, in a photograph provided by the International Federation of Sport Climbing.</media:description>
+    </item>
+    <item>
+      <title>The Two Inflation Crises</title>
+      <link>https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/briefing/inflation-britain-united-states-europe.html" rel="standout"></atom:link>
+      <description>Why Europe’s inflation crisis is different from America’s.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 23:36:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/multimedia/19themorning-lead-1-4f0f/19themorning-lead-1-4f0f-moth.jpg" width="151"></media:content>
+      <media:credit>Alice Zoo for The New York Times</media:credit>
+      <media:description>Oxford Circus in London this year.</media:description>
+    </item>
+    <item>
+      <title>India Bars Kashmiri Photographer From Traveling to Receive Pulitzer</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/india-photographer-pulitzer.html" rel="standout"></atom:link>
+      <description>The Indian authorities stopped Sanna Irshad Mattoo at the New Delhi airport, in the latest case of harassment of journalists in the country.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 17:14:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/20/world/19india-photographer-01/19india-photographer-01-moth.jpg" width="151"></media:content>
+      <media:credit>Saqib Majeed/SOPA Images/LightRocket, via Getty Images</media:credit>
+      <media:description>The Kashmiri photojournalist Sanna Irshad Mattoo, center, celebrating her Pulitzer Prize for feature photography at her home in Srinagar in May.</media:description>
+    </item>
+    <item>
+      <title>South Korean Super App Kakao Goes Down, Putting a Halt on Life</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/korea-kakao-ceo.html" rel="standout"></atom:link>
+      <description>A days-long outage at Kakao has led to the resignation of a co-CEO and a reckoning over Big Tech’s extensive grip over the South Korean economy.</description>
+      <dc:creator>Chang Che and Jin Yu Young</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 08:09:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KakaoTalk</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/19/world/19skorea-kakao-01/19skorea-kakao-01-moth.jpg" width="151"></media:content>
+      <media:credit>Hwang Gwang-Mo/Yonhap, via Associated Press</media:credit>
+      <media:description>The co-chiefs of Kakao. Namkoong Whon, left, and Hong Eun-taek, right, during a news conference at Kakao’s office in Pangyo, South Korea, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Waiting for Refugee Status, Thousands Live in Limbo</title>
+      <link>https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/us/politics/refugees-asylum-immigration.html" rel="standout"></atom:link>
+      <description>As the Biden administration prioritizes resettling people fleeing Ukraine and Afghanistan, many other refugees are waiting years in a system struggling to rebuild.</description>
+      <dc:creator>Zolan Kanno-Youngs and Miriam Jordan</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 07:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizenship and Immigration Services (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/29/us/politics/00dc-refugees_1/00dc-refugees_1-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>Feroza Binti Abdul Rashid, a Rohingya refugee, and her 5-year-old daughter at their home in Milwaukee. Her husband has not been able to join the family in the United States.</media:description>
+    </item>
+    <item>
+      <title>Britain Slashes Foreign Aid: ‘You Couldn’t Pick a Worse Time’</title>
+      <link>https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/health/britain-global-health-aid.html" rel="standout"></atom:link>
+      <description>The nation is often the second-largest donor to groups working in poor countries to prevent and treat infectious diseases, and to provide reproductive health services to women.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Wed, 19 Oct 2022 15:41:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trachoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuberculosis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/15/science/15uk-donations1/15uk-donations1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A shipment of medical supplies, sent from the Foreign, Commonwealth and Development Office in Britain, arriving in New Delhi last year.</media:description>
+    </item>
+    <item>
+      <title>South Korea Gets Squeezed Between the US and China</title>
+      <link>https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/10/19/world/asia/korea-china-us-thaad-missiles.html" rel="standout"></atom:link>
+      <description>The intensifying rivalry between Washington and Beijing is causing jitters in South Korea, where security ties and economic priorities are not always aligned.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Thu, 20 Oct 2022 06:26:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/13/world/00skorea-yankees-01/00skorea-yankees-01-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Residents and protesters blocked a road to the nearby Thaad base in Soseong-ri, South Korea, in September.</media:description>
+    </item>
+  </channel>
+</rss>

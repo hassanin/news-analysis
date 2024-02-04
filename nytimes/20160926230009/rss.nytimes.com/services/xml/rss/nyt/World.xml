@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Mon, 26 Sep 2016 22:52:36 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Unrelenting Assault on Aleppo Is Worst Yet in Five-Year Civil War</title>
+      <link>http://www.nytimes.com/2016/09/27/world/middleeast/aleppo-syria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/middleeast/aleppo-syria.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/middleeast/aleppo-syria.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/27/world/27aleppo2/27aleppo2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People looking for survivors on Monday at a site hit previously by an airstrike in the rebel-held Tariq al-Bab neighborhood of Aleppo, Syria.</media:description>
+      <media:credit>Abdalrhman Ismail/Reuters</media:credit>
+      <description>Residents and rescuers described the bombardment as among the worst yet in the five-year war.</description>
+      <dc:creator>RICK GLADSTONE and SOMINI SENGUPTA</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 21:12:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>Syria and Russia Appear Ready to Scorch Aleppo</title>
+      <link>http://www.nytimes.com/2016/09/26/world/middleeast/syria-un-security-council.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/middleeast/syria-un-security-council.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/middleeast/syria-un-security-council.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26SYRIA/26SYRIA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Syrian Civil Defense group recovered a body after airstrikes on Saturday in the contested city of Aleppo. More than 90 people died on Friday, and more than 100 on Saturday.</media:description>
+      <media:credit>Syrian Civil Defense White Helmets, via Associated Press</media:credit>
+      <description>The Syrians and Russians appear to be mobilizing to apply a kill-all-who-resist strategy to their most ambitious target yet.</description>
+      <dc:creator>ANNE BARNARD and SOMINI SENGUPTA</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 00:43:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Power, Samantha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Mistura, Staffan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churkin, Vitaly I</category>
+    </item>
+    <item>
+      <title>Iran Releases Homa Hoodfar, a Canadian-Iranian Professor Held Since June</title>
+      <link>http://www.nytimes.com/2016/09/27/world/canada/iran-prisoner-release-homa-hoodfar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/canada/iran-prisoner-release-homa-hoodfar.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/canada/iran-prisoner-release-homa-hoodfar.html?partner=rss&amp;emc=rss"/>
+      <description>Iran never said why it was holding the professor, but her release coincided with an announcement that Canada and Iran would discuss reopening embassies.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 19:56:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoodfar, Homa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+    </item>
+    <item>
+      <title>Two Years After a Night of Horror, Mexican Students Seek Answers</title>
+      <link>http://www.nytimes.com/2016/09/26/world/americas/mexico-missing-students-second-anniversary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/americas/mexico-missing-students-second-anniversary.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/americas/mexico-missing-students-second-anniversary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26MEXICO1/26MEXICO1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Edgar Andr&#xE9;s Vargas, 21, survived a night of violence in September 2014 in which 43 Mexican college students were kidnapped. He was shot in the face and has had six surgeries.</media:description>
+      <media:credit>Meghan Dhaliwal for The New York Times</media:credit>
+      <description>The families of 43 kidnapped college students continue to lobby the government for justice &#x2014; accompanied by students who lived through the 2014 attack.</description>
+      <dc:creator>KIRK SEMPLE and PAULINA VILLEGAS</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 07:00:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iguala (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vargas, Edgar Andres</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arellano, Manuel Vazquez</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gutierrez, Aldo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Escuela Normal Rural Raul Isidro Burgos (Guerrero, Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Inside France&#x2019;s &#x2018;Jungle&#x2019;: Desperate Migrants Keep Coming to Calais</title>
+      <link>http://www.nytimes.com/2016/09/27/world/europe/calais-jungle-france-migrants.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/europe/calais-jungle-france-migrants.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/europe/calais-jungle-france-migrants.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/20/world/europe/calais1/calais1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Makeshift shelters in a camp known as the Jungle.</media:description>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <description>The camp perched at the edge of the English Channel has doubled in size, a highly visible symbol of Europe&#x2019;s inability to cope with the migrant influx.</description>
+      <dc:creator>ADAM NOSSITER and TYLER HICKS</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 09:02:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+    <item>
+      <title>Russia, Jailer of Local Separatists, Welcomes Foreign Secessionists</title>
+      <link>http://www.nytimes.com/2016/09/26/world/europe/russia-kremlin-opposition-groups.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/europe/russia-kremlin-opposition-groups.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/europe/russia-kremlin-opposition-groups.html?partner=rss&amp;emc=rss"/>
+      <description>A global troupe of marginal liberation movements invited to a curious gathering near the Kremlin included, improbably, four from the United States.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 23:52:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+    </item>
+    <item>
+      <title>Scientists Inspect the Great Barrier Reef, From 28,000 Feet Above</title>
+      <link>http://www.nytimes.com/2016/09/27/science/great-barrier-reef-nasa-australia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/science/great-barrier-reef-nasa-australia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/science/great-barrier-reef-nasa-australia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/25/world/REEF/REEF-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Researchers preparing to collect data off Lizard Island, Australia, for a study of the Great Barrier Reef that will also use aerial images.</media:description>
+      <media:credit>Bermuda Institute of Ocean Sciences/Jpl-Caltech, via NASA</media:credit>
+      <description>A NASA flying laboratory is using a specially designed sensor in a search for answers about what is killing large sections of the world&#x2019;s coral reefs.</description>
+      <dc:creator>MICHELLE INNIS</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 15:48:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Barrier Reef (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coral</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Aeronautics and Space Administration</category>
+    </item>
+    <item>
+      <title>Changbaishan Journal: For South Koreans, a Long Detour to Their Holy Mountain</title>
+      <link>http://www.nytimes.com/2016/09/27/world/asia/korea-china-baekdu-changbaishan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/asia/korea-china-baekdu-changbaishan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/asia/korea-china-baekdu-changbaishan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/27/world/27MOUNTAIN-web1/27MOUNTAIN-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The crater of Baekdusan, a volcanic mountain, with the caldera lake in the background. On the border between China and North Korea, Baekdusan is revered by North and South Koreans. South Koreans have to take a detour through China to be able to climb its slopes.</media:description>
+      <media:credit>Gilles Sabrie for The New York Times</media:credit>
+      <description>For Koreans from both North and South, the Cheonji crater lake and the Baekdusan mountain on which it sits are considered the spiritual home of their nations.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 13:30:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong Il</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Changbaishan (Baekdusan, China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountains</category>
+    </item>
+    <item>
+      <title>3 Labor Activists in China Get Suspended Prison Terms</title>
+      <link>http://www.nytimes.com/2016/09/27/world/asia/china-labor-activists-guangdong-sentenced.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/asia/china-labor-activists-guangdong-sentenced.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/asia/china-labor-activists-guangdong-sentenced.html?partner=rss&amp;emc=rss"/>
+      <description>The organizers&#x2019; activities had long been tolerated, but the prosecution and sentences suggested a tougher government line now that growth is slowing.</description>
+      <dc:creator>MICHAEL FORSYTHE</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 12:05:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guangdong Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeng Feiyan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tang Jian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Xiaomei</category>
+    </item>
+    <item>
+      <title>South Sudan Rebel Leader Making New Accusations Against President</title>
+      <link>http://www.nytimes.com/aponline/2016/09/26/world/africa/south-sudan-machar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/aponline/2016/09/26/world/africa/south-sudan-machar.html</guid>
+      <description>South Sudan's rebel leader, Riek Machar, on Monday accused President Salva Kiir of wanting to turn the country into an "ethnic state" for his Dinka group.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 22:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>For Rosetta, a Landing and an Ending on a Comet</title>
+      <link>http://www.nytimes.com/2016/09/27/science/rosetta-spacecraft-comet-mission-end.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/science/rosetta-spacecraft-comet-mission-end.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/science/rosetta-spacecraft-comet-mission-end.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/17/science/ROSETTA-LISTY6/ROSETTA-LISTY6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>This false-color image, taken by the Rosetta spacecraft at a distance of 45 miles, shows the smooth region that connects the two lobes of Comet 67P/Churyumov-Gerasimenko.</media:description>
+      <media:credit>European Space Agency</media:credit>
+      <description>The spacecraft is to end its 12-year pursuit of Comet 67P/Churyumov&#x2013;Gerasimenko on Friday. Here is what the European Space Agency mission found out.</description>
+      <dc:creator>KENNETH CHANG</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 16:32:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Rosetta (spacecraft)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Space Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Matt (Brtish Physicist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Joel W</category>
+    </item>
+    <item>
+      <title>Iran&#x2019;s Supreme Leader Advises Ahmadinejad Not to Run for President</title>
+      <link>http://www.nytimes.com/2016/09/27/world/middleeast/iran-ayatollah-ali-khamenei-mahmoud-ahmadinejad.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/middleeast/iran-ayatollah-ali-khamenei-mahmoud-ahmadinejad.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/middleeast/iran-ayatollah-ali-khamenei-mahmoud-ahmadinejad.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/27/world/27iran-web1/27iran-web1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ayatollah Ali Khamenei, the supreme leader of Iran, in Tehran this month. His recent statements about the former President Mahmoud Ahmadinejad make it almost impossible for Mr. Ahmadinejad to run again for the country&#x2019;s leadership.</media:description>
+      <media:credit>Office of the Iranian Supreme Leader, via European Pressphoto Agency</media:credit>
+      <description>Ayatollah Ali Khamenei said the former president, known in the West for denying the Holocaust and for threats against Israel, should not be a candidate in May.</description>
+      <dc:creator>THOMAS ERDBRINK</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 13:12:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+    </item>
+    <item>
+      <title>To the Moon, North Korea? Or Does a Rocket Have a Darker Aim?</title>
+      <link>http://www.nytimes.com/2016/09/27/world/asia/north-korea-rocket-moon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/asia/north-korea-rocket-moon.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/asia/north-korea-rocket-moon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26moonshot/26moonshot-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An illuminated globe at a science and technology complex in Pyongyang, North Korea. Space officials say a moonshot is the nation&#x2019;s goal.</media:description>
+      <media:credit>Kim Kwang Hyon/Associated Press</media:credit>
+      <description>The North explains a rocket engine test as a moonshot, but intelligence agencies are exploring another option: the beginnings of a missile that could reach the American mainland.</description>
+      <dc:creator>DAVID E. SANGER and WILLIAM J. BROAD</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 12:02:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Space and Astronomy</category>
+    </item>
+    <item>
+      <title>Mexico Extinguishes Fuel Tanker Fire Off Gulf Coast</title>
+      <link>http://www.nytimes.com/2016/09/26/world/americas/mexico-fuel-tanker-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/americas/mexico-fuel-tanker-fire.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/americas/mexico-fuel-tanker-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26tanker/26tanker-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A tanker belonging to Mexico&#x2019;s state oil company caught fire after an explosion on Saturday morning. Firefighting crews extinguished the blaze roughly 30 hours later.</media:description>
+      <media:credit>Mexico Navy, via European Pressphoto Agency</media:credit>
+      <description>Crew members were safely evacuated and no extensive spill had been detected, but the episode was another blow to the state oil company.</description>
+      <dc:creator>ELISABETH MALKIN</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 01:25:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pemex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez Anaya, Jose Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Veracruz (Mexico)</category>
+    </item>
+    <item>
+      <title>Socialist Party Sees Deep Losses in Spain Elections</title>
+      <link>http://www.nytimes.com/2016/09/26/world/europe/spain-elections-socialist.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/europe/spain-elections-socialist.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/europe/spain-elections-socialist.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/SPAIN/SPAIN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Inigo Urkullu, a Basque Nationalist Party candidate, after wining a regional vote on Sunday that has national implications.</media:description>
+      <media:credit>Ander Gillenea/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The regional votes have implications on whether the country&#x2019;s four national parties can end the nine-month deadlock in Spain&#x2019;s national politics.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 00:37:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Galicia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Basque Region (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajoy, Mariano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Popular Party (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Spanish Socialist Workers' Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Podemos (Spanish Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ciudadanos Party (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+    </item>
+    <item>
+      <title>Bosnian Serbs Keep Holiday in Vote Assailed as Illegal</title>
+      <link>http://www.nytimes.com/2016/09/26/world/europe/bosnian-serbs-holiday-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/europe/bosnian-serbs-holiday-vote.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/europe/bosnian-serbs-holiday-vote.html?partner=rss&amp;emc=rss"/>
+      <description>Bosnia&#x2019;s international peace envoy, Valentin Inzko, said that the referendum was an attack on Bosnia&#x2019;s constitutional order and was not legally valid.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 23:56:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+    </item>
+    <item>
+      <title>Plan to Let Migrant Children Attend School Enrages Many Greeks</title>
+      <link>http://www.nytimes.com/2016/09/26/world/europe/greece-migrant-children-school.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/europe/greece-migrant-children-school.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/europe/greece-migrant-children-school.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/00GREECE1/00GREECE1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jihan Sheikh Mohammed, center, with some of her children, including Mariya bint Loqman Abdlkarim, 9, at a refugee camp in Oraiokastro, Greece. They fled from Syria.</media:description>
+      <media:credit>Angelos Tzortzinis for The New York Times</media:credit>
+      <description>Citing health concerns and cultural differences, parents and officials in Greece want to keep refugee camp children out of local schools.</description>
+      <dc:creator>NIKI KITSANTONIS</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 22:29:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>Activist in South Korea Dies of Injuries From Police Water Cannon</title>
+      <link>http://www.nytimes.com/2016/09/26/world/asia/activist-in-south-korea-dies-of-injuries-from-police-water-cannon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/asia/activist-in-south-korea-dies-of-injuries-from-police-water-cannon.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/asia/activist-in-south-korea-dies-of-injuries-from-police-water-cannon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26Korea/26Korea-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description>A South Korean farmer protesting the government&#x2019;s agricultural policy in Seoul last week. Another activist farmer, Baek Nam-gi, who was struck by a police water cannon at a protest last year, died on Sunday.</media:description>
+      <media:credit>Jeon Heon-Kyun/European Pressphoto Agency</media:credit>
+      <description>The activist, Baek Nam-gi, who had been expelled from school twice for protests against the dictator Park Chung-hee, was injured while opposing Mr. Park&#x2019;s daughter, President Park Geun-hye.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 14:35:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baek Nam-gi</category>
+    </item>
+    <item>
+      <title>Writer Charged With Insulting Islam Is Killed as Extremism Boils Over in Jordan</title>
+      <link>http://www.nytimes.com/2016/09/26/world/middleeast/nahed-hattar-jordanian-writer-killed.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/middleeast/nahed-hattar-jordanian-writer-killed.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/middleeast/nahed-hattar-jordanian-writer-killed.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/middleeast/26jordan-photo1/26jordan-photo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The police cordoned off the area where Nahed Hattar, a Jordanian writer, was fatally shot in Amman on Sunday.</media:description>
+      <media:credit>Ahmad Alameen/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Nahed Hattar, who was recently arrested after sharing a cartoon on Facebook that offended some Muslims, was killed outside a court in Amman.</description>
+      <dc:creator>RANA F. SWEIS and PETER BAKER</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 21:20:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hattar, Nahed (1960-2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amman (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cartoons and Cartoonists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+    </item>
+    <item>
+      <title>China Hunts for Scientific Glory, and Aliens, With New Telescope</title>
+      <link>http://www.nytimes.com/2016/09/26/world/asia/china-telescope-fast-space-seti.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/asia/china-telescope-fast-space-seti.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/asia/china-telescope-fast-space-seti.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/world/26chinascope/26chinascope-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The new Five-hundred-meter Aperture Spherical Telescope, or FAST, in Guizhou Province, is roughly twice as sensitive as the world&#x2019;s next-biggest single-dish radio telescope.</media:description>
+      <media:credit>Liu Xu/Xinhua, via Associated Press</media:credit>
+      <description>The telescope, which officially began operating on Sunday in a majestic but poor part of Guizhou Province, embodies China&#x2019;s ambitions as a scientific power.</description>
+      <dc:creator>CHRIS BUCKLEY and ADAM WU</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 12:59:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guizhou (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Five-hundred-meter Aperture Spherical Telescope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Sinosphere: Jewish and Chinese: Explaining a Shared Identity</title>
+      <link>http://www.nytimes.com/2016/09/26/world/asia/china-kaifeng-jews-moshe-bernstein.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/26/world/asia/china-kaifeng-jews-moshe-bernstein.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/26/world/asia/china-kaifeng-jews-moshe-bernstein.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/21/world/21CHINABERNSTEIN/21CHINABERNSTEIN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Residents in what was a Jewish neighborhood, next to the site of the old synagogue, in Kaifeng.</media:description>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <description>Moshe Bernstein, a researcher based in Western Australia, discusses the revival of an ancient Jewish community facing a government clampdown.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 07:57:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bernstein, Moshe Yehuda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaifeng (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Sidelined at the U.N., a Frustrated Taiwan Presses On</title>
+      <link>http://www.nytimes.com/2016/09/23/world/asia/taiwan-china-united-nations-un.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/23/world/asia/taiwan-china-united-nations-un.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/23/world/asia/taiwan-china-united-nations-un.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/23/world/23taiwan-web1/23taiwan-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Joanne Ou, the director of Taiwan&#x2019;s United Nations Task Force, at her office in Manhattan this month. Ms. Ou is responsible for efforts to gain greater recognition for Taiwanese.</media:description>
+      <media:credit>Bryan Thomas for The New York Times</media:credit>
+      <description>China has for decades chipped away at Taiwan&#x2019;s global standing, but now the island is pushing back with behind-the-scenes diplomacy and soft power.</description>
+      <dc:creator>ANDREW JACOBS</dc:creator>
+      <pubDate>Sun, 25 Sep 2016 20:43:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United Nations Framework Convention on Climate Change</category>
+    </item>
+    <item>
+      <title>What in the World: Buy Me Some Peanuts and Wiener Nougat</title>
+      <link>http://www.nytimes.com/2016/09/27/world/what-in-the-world/finland-pesapallo-baseball.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/world/what-in-the-world/finland-pesapallo-baseball.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/world/what-in-the-world/finland-pesapallo-baseball.html?partner=rss&amp;emc=rss"/>
+      <description>The similarities between the Finnish game of pesapallo and baseball are striking, as are the differences. (Wiener Nougat, a Finnish candy, is not like Cracker Jack.)</description>
+      <dc:creator>VICTOR MATHER</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 09:00:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">pesapallo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+    </item>
+    <item>
+      <title>What in the World: Australia Is Not as Down Under as Everyone Thinks It Is</title>
+      <link>http://www.nytimes.com/2016/09/24/world/what-in-the-world/australia-continental-drift-location-gps.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/24/world/what-in-the-world/australia-continental-drift-location-gps.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/24/world/what-in-the-world/australia-continental-drift-location-gps.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/09/world/what-in-the-world/00wit_australia-move/00wit_australia-move-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sasha Portis</media:credit>
+      <description>That map of Australia you have? It&#x2019;s wrong. And the whole country is going to officially relocate north to correct the error.</description>
+      <dc:creator>MICHELLE INNIS</dc:creator>
+      <pubDate>Fri, 23 Sep 2016 09:00:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Positioning System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geography</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: To Save Mosul, Arm the Sunnis</title>
+      <link>http://www.nytimes.com/2016/09/27/opinion/to-save-mosul-arm-the-sunnis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/opinion/to-save-mosul-arm-the-sunnis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/opinion/to-save-mosul-arm-the-sunnis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/opinion/26Al-dhari-B/26Al-dhari-B-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sunni fighters gathering this month in Shirqat, Iraq.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>Liberating Iraq&#x2019;s second largest city from the Islamic State will require more than air power and Shiite militias.</description>
+      <dc:creator>JAMAL AL-DHARI</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 13:44:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunni Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shiite Muslims</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Hong Kong and the Realities of China&#x2019;s Rise</title>
+      <link>http://www.nytimes.com/2016/09/27/opinion/hong-kong-and-the-realities-of-chinas-rise.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/27/opinion/hong-kong-and-the-realities-of-chinas-rise.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/27/opinion/hong-kong-and-the-realities-of-chinas-rise.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/26/opinion/27Chan-B/27Chan-B-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Alex Hofford/European Pressphoto Agency</media:credit>
+      <description>Like the rest of the world, Hong Kongers will have to cope with a more powerful and assertive China.</description>
+      <dc:creator>YUEN YING CHAN</dc:creator>
+      <pubDate>Mon, 26 Sep 2016 11:06:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+    </item>
+    <item>
+      <title>Opinion: Forget Trump&#x2019;s Wall: For Mexico, the Election Is About Nafta</title>
+      <link>http://www.nytimes.com/2016/09/25/opinion/sunday/forget-trumps-wall-for-mexico-the-election-is-about-nafta.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/25/opinion/sunday/forget-trumps-wall-for-mexico-the-election-is-about-nafta.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/25/opinion/sunday/forget-trumps-wall-for-mexico-the-election-is-about-nafta.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/25/opinion/sunday/25grillo/25grillo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Daniel Aguilar/Reuters</media:credit>
+      <description>With both candidates bashing free trade, how their anger translates into policy is the big question south of the border.</description>
+      <dc:creator>IOAN GRILLO</dc:creator>
+      <pubDate>Fri, 23 Sep 2016 12:00:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Postcard From the Hajj: A Pilgrim&#x2019;s Progress: Checking Mecca Off My Bucket List</title>
+      <link>http://www.nytimes.com/2016/09/21/insider/a-pilgrims-progress-checking-mecca-off-my-bucket-list.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/21/insider/a-pilgrims-progress-checking-mecca-off-my-bucket-list.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/21/insider/a-pilgrims-progress-checking-mecca-off-my-bucket-list.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/21/insider/21-Insider-Hadid-Image1/21-Insider-Hadid-Image1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;Pilgrims surprised me with their warmth.&#x201D;</media:description>
+      <media:credit>Diaa Hadid/The New York Times</media:credit>
+      <description>This reporter&#x2019;s long-dreamed-of journey to explore the heart of Islam revealed surprises, debunked stereotypes and produced one stunning bird video.</description>
+      <dc:creator>DIAA HADID</dc:creator>
+      <pubDate>Wed, 21 Sep 2016 19:32:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mecca (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Hajj</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+    </item>
+    <item>
+      <title>Postscript: One Year Later, a Tip About a Border Crossing Pays Off</title>
+      <link>http://www.nytimes.com/2016/09/20/insider/one-year-later-a-tip-about-fertilizer-at-a-border-crossing-pays-off.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/20/insider/one-year-later-a-tip-about-fertilizer-at-a-border-crossing-pays-off.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/20/insider/one-year-later-a-tip-about-fertilizer-at-a-border-crossing-pays-off.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/07/insider/07insider-hubbard/07insider-hubbard-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Laborers transported ammonium nitrate at the crossing from Akcakale, Turkey, into Syria in April 2015. The compound, a common fertilizer, has been used by terrorists to create explosives.</media:description>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <description>How New York Times reporting may have made the Middle East just a little bit safer.</description>
+      <dc:creator>BEN HUBBARD and KARAM SHOUMALI</dc:creator>
+      <pubDate>Tue, 20 Sep 2016 00:21:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Border Crossing</category>
+    </item>
+    <item>
+      <title>Turkish Dam Project Threatens to Submerge Thousands of Years of History</title>
+      <link>http://www.nytimes.com/2016/09/02/world/europe/turkey-hasankeyf-ilisu-dam.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/02/world/europe/turkey-hasankeyf-ilisu-dam.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/02/world/europe/turkey-hasankeyf-ilisu-dam.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/09/06/world/europe/xxturkeydam-slide-RQ6M/xxturkeydam-slide-RQ6M-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Turkish town of Hasankeyf will be submerged under 200 feet of water after a hydroelectric dam now under construction is completed.</media:description>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <description>A contentious dam project that dates to the 1950s is more than 80 percent complete, and the filling of a reservoir will swamp much of the town of Hasankeyf.</description>
+      <dc:creator>TIM ARANGO</dc:creator>
+      <pubDate>Thu, 01 Sep 2016 16:50:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hasankeyf (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigris River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Ilisu Dam</category>
+    </item>
+    <item>
+      <title>Devanampattinam Journal: Mortal to Divine and Back: India&#x2019;s Transgender Goddesses</title>
+      <link>http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/26/world/asia/xxkhoti-ss-slide-81HN/xxkhoti-ss-slide-81HN-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Candace Feit</media:credit>
+      <description>During the 10-day Hindu festival Mayana Kollai, the troubles of transgender women are distant as they transform into the deities they worship and are revered by villagers.</description>
+      <dc:creator>Photographs by CANDACE FEIT</dc:creator>
+      <pubDate>Sun, 24 Jul 2016 18:25:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tamil Nadu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Mayana Kollai festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Kothis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Devanampattinam (India)</category>
+    </item>
+  </channel>
+</rss>

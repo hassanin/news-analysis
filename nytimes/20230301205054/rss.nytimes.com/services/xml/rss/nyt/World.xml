@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 01 Mar 2023 20:47:08 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 20:45:37 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>How Russia Lost an Epic Tank Battle, Repeating Earlier Mistakes</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/ukraine-russia-tanks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/ukraine-russia-tanks.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/ukraine-russia-tanks.html" rel="standout"></atom:link>
+      <description>A three-week fight in the town of Vuhledar in southern Ukraine produced what Ukrainian officials say was the biggest tank battle of the war so far, and a stinging setback for the Russians.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 18:52:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ukraine-tanks-01-cpzv/01ukraine-tanks-01-cpzv-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Ukraine’s 72nd Brigade near Vuhledar, in the Donetsk region of Ukraine, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Blinken Says He Sees No Sign That Putin Wants Peace</title>
+      <link>https://www.nytimes.com/live/2023/03/01/world/russia-ukraine-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2023/03/01/world/russia-ukraine-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2023/03/01/world/russia-ukraine-news" rel="standout"></atom:link>
+      <description>Secretary of State Antony J. Blinken concluded a visit to Central Asia, where he reiterated U.S. support for a region that has long been in Moscow’s sphere. Here is what we’re covering:</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 20:45:37 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ukraine-briefing-promo-330pm/01ukraine-briefing-carousel-245pm-02-qtvb-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Bola Tinubu Elected to Be Nigeria’s Next President</title>
+      <link>https://www.nytimes.com/2023/03/01/world/africa/nigeria-president-election-tinubu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/africa/nigeria-president-election-tinubu.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/africa/nigeria-president-election-tinubu.html" rel="standout"></atom:link>
+      <description>Bola Tinubu, declared the winner on Wednesday in the presidential election, has boasted of making the careers of major politicians. Now he has to deliver for a divided country facing multiple emergencies.</description>
+      <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:30:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tinubu, Bola Ahmed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obi, Peter (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abubakar, Atiku</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buhari, Muhammadu</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01nigeria-election-briefing-mjpl/01nigeria-election-briefing-mjpl-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <media:description>Bola Tinubu celebrating with supporters at his party’s campaign headquarters after winning the presidential elections in Abuja, Nigeria, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Video: How an Israeli Raid on a Safe House Ended With Civilians Killed </title>
+      <link>https://www.nytimes.com/2023/03/01/world/middleeast/israel-palestinian-safe-house-raid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/middleeast/israel-palestinian-safe-house-raid.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/middleeast/israel-palestinian-safe-house-raid.html" rel="standout"></atom:link>
+      <description>A New York Times analysis of videos shows how an Israeli raid to capture Palestinian gunmen rippled into one of the most violent encounters in the West Bank in decades.</description>
+      <dc:creator>Haley Willis, Christiaan Triebert, Hiba Yazbek and Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 15:41:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nablus (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+    </item>
+    <item>
+      <title>Bola Tinubu’s Victory Extends His Party’s Time in Power in Nigeria</title>
+      <link>https://www.nytimes.com/live/2023/02/28/world/nigeria-election-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2023/02/28/world/nigeria-election-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2023/02/28/world/nigeria-election-news" rel="standout"></atom:link>
+      <description>Mr. Tinubu asked the opposition to work with him as Africa’s most populous country navigates an economic crisis. Opponents said the election was marred by fraud, and the running mate of one said they would contest the results.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:59:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ukraine-briefing-promo-245pm-pcmb/01ukraine-briefing-promo-145pm-pcmb-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Greece Train Crash: At Least 38 Dead as Rescuers Search for Survivors</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/greece-train-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/greece-train-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/greece-train-crash.html" rel="standout"></atom:link>
+      <description>A train with over 300 passengers on board collided with a freight train. Two of the carriages “basically don’t exist anymore,” a regional governor said, and the transport minister announced his resignation.</description>
+      <dc:creator>Niki Kitsantonis and Jason Horowitz</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 20:21:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greece Train Crash (Feb 28, 2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Larissa (Greece)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01greece-crash-zqpl-hppromo/01greece-crash-zqpl-hppromo-moth.jpg" width="151"></media:content>
+      <media:credit>Angelos Tzortzinis for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Eritrea Faces Growing Scrutiny for Role in Ethiopia’s War in Tigray</title>
+      <link>https://www.nytimes.com/2023/03/01/world/africa/eritrea-ethiopia-tigray-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/africa/eritrea-ethiopia-tigray-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/africa/eritrea-ethiopia-tigray-war.html" rel="standout"></atom:link>
+      <description>Eritrean troops have been accused of war crimes in the northern Tigray region just weeks before a peace agreement was signed last year.</description>
+      <dc:creator>Abdi Latif Dahir and Simon Marks</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 18:55:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tigray (Ethiopia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tigrayans (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmed, Abiy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Afwerki, Isaias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eritrea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01eritrea-2-pfbq/01eritrea-2-pfbq-moth.jpg" width="151"></media:content>
+      <media:credit>Maxar Technologies, via Associated Press</media:credit>
+      <media:description>A satellite image showing military equipment positioned in the village of Serha in Eritrea, across the border from the town of Zalambessa in the Tigray region of northern Ethiopia in September.</media:description>
+    </item>
+    <item>
+      <title>Finland on Cusp of Joining NATO, but Maybe Not With Sweden</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/finland-nato-sweden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/finland-nato-sweden.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/finland-nato-sweden.html" rel="standout"></atom:link>
+      <description>The Nordic partners wanted to join together, but with Turkey holding up Sweden’s application, Helsinki will reluctantly enter alone to ensure its security.</description>
+      <dc:creator>Steven Erlanger and Andrew Higgins</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:58:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Niinisto, Sauli</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fidesz Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01nato-1-mwjb/01nato-1-mwjb-moth.jpg" width="151"></media:content>
+      <media:credit>Heikki Saukkomaa/Lehtikuva, via Reuters</media:credit>
+      <media:description>The vote by Finland’s Parliament on Wednesday is subject to ratification by the Parliaments of Turkey and Hungary.</media:description>
+    </item>
+    <item>
+      <title>Israeli Police Use Stun Grenades on Protesters in Tel Aviv</title>
+      <link>https://www.nytimes.com/2023/03/01/world/middleeast/israel-protests-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/middleeast/israel-protests-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/middleeast/israel-protests-police.html" rel="standout"></atom:link>
+      <description>The confrontations escalated tensions between the political leadership and protesters opposed to the far-right government’s plan to curb the powers of the judiciary.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:11:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tel Aviv (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01israel-protests-01-bhlp/01israel-protests-01-bhlp-moth.jpg" width="151"></media:content>
+      <media:credit>Abir Sultan/EPA, via Shutterstock</media:credit>
+      <media:description>Police officers hold back demonstrators blocking a road in the city center during an antigovernment protest in Tel Aviv on Wednesday. Several protesters were arrested or injured.</media:description>
+    </item>
+    <item>
+      <title>Turkey’s Earthquake Will Not Delay Elections in Country, Erdogan Says</title>
+      <link>https://www.nytimes.com/2023/03/01/world/middleeast/turkey-earthquake-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/middleeast/turkey-earthquake-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/middleeast/turkey-earthquake-elections.html" rel="standout"></atom:link>
+      <description>The Feb. 6 earthquake’s vast destruction will present a challenge when it comes to mounting a viable election. But President Recep Tayyip Erdogan said the vote would go on in May, “God willing.”</description>
+      <dc:creator>Ben Hubbard and Gulsin Harman</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:29:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkey Earthquake (Feb 6, 2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice and Development Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01Turkey-Quake-01-zkmc/01Turkey-Quake-01-zkmc-moth.jpg" width="151"></media:content>
+      <media:credit>Adem Altan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Recep Tayyip Erdogan of Turkey speaking on Wednesday during a party meeting in Turkey’s capital, Ankara.</media:description>
+    </item>
+    <item>
+      <title>‘A Strange Dream’: A Cruise Ship Is a Floating Shelter for Displaced Turks</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/turkey-quake-cruise-ship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/turkey-quake-cruise-ship.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/turkey-quake-cruise-ship.html" rel="standout"></atom:link>
+      <description>More than 1,000 Turkish residents displaced by the recent earthquakes are staying on a luxury boat in the Mediterranean Sea.</description>
+      <dc:creator>Cora Engelbrecht, Nimet Kirac and Sergey Ponomarev</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 08:28:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkey Earthquake (Feb 6, 2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/00turkey-quake-ship-promo/00turkey-quake-ship-06-qzgb-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>“I would never have guessed that I would be on a cruise to nowhere at a moment like this,” said Basak Atay, who lost family and friends in the quake.</media:description>
+    </item>
+    <item>
+      <title>South Africa’s Embattled Deputy President Resigns</title>
+      <link>https://www.nytimes.com/2023/03/01/world/africa/david-mabuza-resignation-south-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/africa/david-mabuza-resignation-south-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/africa/david-mabuza-resignation-south-africa.html" rel="standout"></atom:link>
+      <description>Despite scandal and controversy, David Mabuza remained in office for five years, only leaving once he had lost power within the governing African National Congress party.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:14:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mabuza, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01Safrica-mbwf/01Safrica-mbwf-moth.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>President Cyril Ramaphosa of South Africa, center, and David Mabuza, the deputy president, right, in December.</media:description>
+    </item>
+    <item>
+      <title>What Is the Northern Ireland Protocol? The Brexit Deal Changes, Explained</title>
+      <link>https://www.nytimes.com/article/northern-ireland-protocol-brexit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/northern-ireland-protocol-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/article/northern-ireland-protocol-brexit.html" rel="standout"></atom:link>
+      <description>Britain and the European Union have long clashed over post-Brexit rules known as the Northern Ireland protocol. Here’s how their renegotiated agreement will work.</description>
+      <dc:creator>Stephen Castle, Megan Specia and Peter Robins</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 18:24:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/13/multimedia/13uk-brexit-explainer-top-jghc/13uk-brexit-explainer-top-jghc-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Carlingford Lough, with Northern Ireland on the left and Ireland on the right. The inlet marks the border.</media:description>
+    </item>
+    <item>
+      <title>What’s Behind the Vegetable Shortages in U.K. Supermarkets</title>
+      <link>https://www.nytimes.com/2023/03/01/business/uk-fruits-vegetables-shortage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/business/uk-fruits-vegetables-shortage.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/business/uk-fruits-vegetables-shortage.html" rel="standout"></atom:link>
+      <description>Five major grocery chains are restricting the number of some produce items, as bad weather in Spain leads to shortages.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 16:19:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01xp-ukshortages-hwqm/01xp-ukshortages-hwqm-moth.jpg" width="151"></media:content>
+      <media:credit>Neil Hall/EPA, via Shutterstock</media:credit>
+      <media:description>Tesco is among several British grocery chains that are limiting the number of tomatoes that customers can buy.</media:description>
+    </item>
+    <item>
+      <title>Peter Obi, Third-Party Candidate in Nigeria Election, Refuses to Concede</title>
+      <link>https://www.nytimes.com/2023/02/28/world/africa/peter-obi-nigeria-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/africa/peter-obi-nigeria-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/africa/peter-obi-nigeria-election.html" rel="standout"></atom:link>
+      <description>Peter Obi was until recently a secondary player in Nigerian politics. By switching parties and appealing to the digitally savvy, he overturned the old order.</description>
+      <dc:creator>Ruth Maclean</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:09:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obi, Peter (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tinubu, Bola Ahmed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abubakar, Atiku</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forward Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/00nigeria-obi-1-bmpv/00nigeria-obi-1-bmpv-moth.jpg" width="151"></media:content>
+      <media:credit>Taiwo Aina for The New York Times</media:credit>
+      <media:description>Peter Obi campaigning in Lagos, Nigeria’s largest city, on Feb. 11.</media:description>
+    </item>
+    <item>
+      <title>Foreign Adversaries Unlikely to Blame for Havana Syndrome, Intelligence Review Finds</title>
+      <link>https://www.nytimes.com/2023/03/01/us/politics/havana-syndrome-intelligence-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/us/politics/havana-syndrome-intelligence-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/us/politics/havana-syndrome-intelligence-report.html" rel="standout"></atom:link>
+      <description>The assessment also concluded that there was no “credible evidence” that any adversaries had developed a weapon capable of causing the injuries that U.S. officials have reported.</description>
+      <dc:creator>Julian E. Barnes and Adam Entous</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 18:10:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Havana Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burns, William J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01dc-Havana-pwth/01dc-Havana-pwth-moth.jpg" width="151"></media:content>
+      <media:credit>Yamil Lage/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The U.S. Embassy in Havana, where the first reports of the mysterious ailments emerged. Some victims believe the episodes were caused by a foreign power.</media:description>
+    </item>
+    <item>
+      <title>Why Brexit’s immigration politics have fizzled out</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/brexit-immigration-eu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/brexit-immigration-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/brexit-immigration-eu.html" rel="standout"></atom:link>
+      <description>Did the Northern Ireland trade deal end Brexit politics with a whimper?</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 15:12:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/1Interpreter-Brexit-hjmc/1Interpreter-Brexit-hjmc-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Dan Kitwood</media:credit>
+      <media:description>Prime Minister Rishi Sunak of Britain and Ursula von der Leyen, president of the European Commission, speaking about details of the Northern Ireland trade deal this week.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says It’s Sending Reinforcements to Bakhmut</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/ukraine-bakhmut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/ukraine-bakhmut.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/ukraine-bakhmut.html" rel="standout"></atom:link>
+      <description>In recent weeks, Russian forces have been rushed to the front line, helping Moscow seize villages and towns around Bakhmut and surround the city on three sides.</description>
+      <dc:creator>Matthew Mpoke Bigg and Thomas Gibbons-Neff</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 20:06:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/01ukraine-briefing-bakhmut-topart/28ukraine-briefing-promo-5pm-ckqm-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier at a rocket launcher position in the Bakhmut area on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Denmark Scraps ‘Great Prayer Day,’ Adding Money to Military Budget</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/denmark-great-prayer-day-military-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/denmark-great-prayer-day-military-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/denmark-great-prayer-day-military-nato.html" rel="standout"></atom:link>
+      <description>The government estimated that eliminating Great Prayer Day would produce $430 million that it could spend on the military.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 14:29:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ukraine-briefing-denmark-holiday-wcvg/01ukraine-briefing-denmark-holiday-wcvg-moth.jpg" width="151"></media:content>
+      <media:credit>Emil Helms/EPA, via Shutterstock</media:credit>
+      <media:description>Demonstrators gathered in Copenhagen on Feb. 5 to protest the government’s plans to eliminate the Great Prayer Day holiday.</media:description>
+    </item>
+    <item>
+      <title>China’s Factories Report Surge in Activity After Lockdowns End</title>
+      <link>https://www.nytimes.com/2023/03/01/business/china-factories-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/business/china-factories-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/business/china-factories-economy.html" rel="standout"></atom:link>
+      <description>Manufacturing activity rose in February to its highest level in more than a decade, bolstering China’s recovery after restrictions paralyzed much of the country.</description>
+      <dc:creator>Patricia Cohen</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 19:10:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01china-economy1-pfbm/01china-economy1-pfbm-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>An assembly line at a Wuling Motors factory in Qingdao, a city in China’s Shandong Province.</media:description>
+    </item>
+    <item>
+      <title>Chicago Votes for Change</title>
+      <link>https://www.nytimes.com/2023/03/01/briefing/chicago-mayor-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/briefing/chicago-mayor-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/briefing/chicago-mayor-election.html" rel="standout"></atom:link>
+      <description>After a crime surge, Chicago voters have ousted their current mayor.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 16:04:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01themorning-lede-vallas-promo/01themorning-lede-vallas-czhv-moth.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>Paul Vallas voting in Chicago yesterday.</media:description>
+    </item>
+    <item>
+      <title>The 15-Minute City: Where Urban Planning Meets Conspiracy Theories</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/15-minute-city-conspiracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/15-minute-city-conspiracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/15-minute-city-conspiracy.html" rel="standout"></atom:link>
+      <description>Is having all of life’s amenities within a 15-minute walk convenient? Or is it a government leash? We explain.</description>
+      <dc:creator>Chris Stanford</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 14:45:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oxford (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Economic Forum</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/22/multimedia/00xp-15minute/00xp-15minute-moth.jpg" width="151"></media:content>
+      <media:credit>Pierre Crom/Getty Images</media:credit>
+      <media:description>The mayor of Paris has embraced the concept of so-called 15-minute cities, in which residents live near all of their daily needs.</media:description>
+    </item>
+    <item>
+      <title>U.S. fears Lukashenko’s visit to China is strengthening ties between Russia’s closest allies.</title>
+      <link>https://www.nytimes.com/2023/03/01/world/europe/us-fears-lukashenkos-visit-to-china-is-strengthening-ties-between-russias-closest-allies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/world/europe/us-fears-lukashenkos-visit-to-china-is-strengthening-ties-between-russias-closest-allies.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/world/europe/us-fears-lukashenkos-visit-to-china-is-strengthening-ties-between-russias-closest-allies.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>David Pierson</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 06:00:00 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ukraine-briefing-china-belarus-early-zghj/01ukraine-briefing-china-belarus-early-zghj-moth.jpg" width="151"></media:content>
+      <media:credit>Maxim Guchek/Belta</media:credit>
+      <media:description>President Aleksandr G. Lukashenko of Belarus arriving in Beijing on Tuesday, in a handout photo from the Belarusian state-owned news agency.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2023/03/01/briefing/spending-ukraine-nigeria-election-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/03/01/briefing/spending-ukraine-nigeria-election-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/03/01/briefing/spending-ukraine-nigeria-election-israel.html" rel="standout"></atom:link>
+      <description>Concerns about U.S. spending on aid to Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 05:42:17 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/01ambriefing-europe-nl-dc-cong/01ambriefing-europe-nl-dc-cong-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers loading a weapon onto an armored vehicle.</media:description>
+    </item>
+    <item>
+      <title>Who is Bola Tinubu, Nigeria’s President Elect?</title>
+      <link>https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-bola-tinubu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-bola-tinubu.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-bola-tinubu.html" rel="standout"></atom:link>
+      <description>Mr. Tinubu, a former governor of Lagos and the ruling party candidate, campaigned using the slogan “It’s my turn.” He promised to address widespread insecurity and economic woes, but he faced concerns about his fitness for office.</description>
+      <dc:creator>Ruth Maclean</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 03:30:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tinubu, Bola Ahmed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buhari, Muhammadu</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/nigeria-tinubu-2-lpkq/nigeria-tinubu-2-lpkq-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <media:description>A portrait of Bola Tinubu of the All Progressives Congress, at a party press conference in Abuja, Nigeria, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Foreign Efforts to Subvert Canada’s Last 2 Elections Failed, Report Says</title>
+      <link>https://www.nytimes.com/2023/02/28/world/canada/canada-elections-foreign-interference.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/canada/canada-elections-foreign-interference.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/canada/canada-elections-foreign-interference.html" rel="standout"></atom:link>
+      <description>An independent review found that China, Russia and Iran tried to interfere in the 2019 and 2021 votes, but that the elections’ integrity was not compromised.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 03:13:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Globe &amp; Mail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canadian Federal Election (2019)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/28/multimedia/28canada-vote-jtvk/28canada-vote-jtvk-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Osorio/Reuters</media:credit>
+      <media:description>Prime Minister Justin Trudeau of Canada campaigning in Burnaby, British Columbia, in 2021. A report says China, Russia and Iran tried to influence the election that year.</media:description>
+    </item>
+    <item>
+      <title>Train Crash Kills at Least 32 in Greece</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/train-crash-greece.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/train-crash-greece.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/train-crash-greece.html" rel="standout"></atom:link>
+      <description>A train with about 350 passengers aboard collided with an oncoming freight train, officials said. At least 25 people were hospitalized with serious injuries.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 07:25:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tempe (Greece)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01greece-crash-zqpl/01greece-crash-zqpl-moth.jpg" width="151"></media:content>
+      <media:credit>Angelos Tzortzinis for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Blinken Finds Receptive Leaders in Central Asia, Where Russia Seeks Aid</title>
+      <link>https://www.nytimes.com/2023/02/28/world/asia/blinken-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/asia/blinken-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/asia/blinken-russia.html" rel="standout"></atom:link>
+      <description>The U.S. secretary of state’s diplomatic mission is part of a broader Biden administration effort to strengthen support for Ukraine, or at least push neutral nations to refrain from aiding Russia.</description>
+      <dc:creator>Edward Wong and Andrew Higgins</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 05:43:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tokayev, Kassym-Jomart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28centralasia-blinken-01-mbfc/28centralasia-blinken-01-mbfc-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Olivier Douliery</media:credit>
+      <media:description>The U.S. secretary of state, Antony J. Blinken, and the Kazakh president, Kassym-Jomart Tokayev, in Astana, Kazakhstan, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Russia Accuses Ukraine of Launching Drone Strikes Over its Territory</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/russia-ukraine-drone-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/russia-ukraine-drone-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/russia-ukraine-drone-strikes.html" rel="standout"></atom:link>
+      <description>The Ukrainian government publicly follows a policy of deliberate ambiguity about strikes on Russian territory.</description>
+      <dc:creator>Matthew Mpoke Bigg and Neil MacFarquhar</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 08:11:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bryansk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Krasnodar (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/12/06/multimedia/28ukraine-briefing-drones-promo02/06ukraine-briefing-kursk-1-0b6e-moth.jpg" width="151"></media:content>
+      <media:credit>Administration of the Kursk region of Russia, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Netanyahu’s Grip Loosens Amid Israel Turmoil</title>
+      <link>https://www.nytimes.com/2023/02/28/world/middleeast/israel-netanyahu-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/middleeast/israel-netanyahu-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/middleeast/israel-netanyahu-government.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu promised stability, but two months into his new tenure, Israeli divisions have deepened, West Bank violence has escalated and splits have emerged in his coalition.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 08:47:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28israel-netanyahu-01-qcpf/28israel-netanyahu-01-qcpf-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Ronen Zvulun</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu at a cabinet meeting this month in Jerusalem.</media:description>
+    </item>
+    <item>
+      <title>How Environmentally Conscious Investing Became a Target of Conservatives</title>
+      <link>https://www.nytimes.com/2023/02/28/climate/esg-climate-backlash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/climate/esg-climate-backlash.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/climate/esg-climate-backlash.html" rel="standout"></atom:link>
+      <description>The business world has been pulled into partisan politics, with Republicans bringing their battle against socially conscious investing to Congress.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 03:20:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28cli-esg-01-wvfc/28cli-esg-01-wvfc-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Al Drago</media:credit>
+      <media:description>Representative Patrick McHenry recently announced a “Republican E.S.G. Working Group” that would question executives on their views about climate change and social issues.</media:description>
+    </item>
+    <item>
+      <title>Biden’s Semiconductor Plan Bets on Federal Aid to Change Corporate Behavior</title>
+      <link>https://www.nytimes.com/2023/02/28/business/economy/biden-chips-semiconductor-subsidies-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/business/economy/biden-chips-semiconductor-subsidies-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/business/economy/biden-chips-semiconductor-subsidies-aid.html" rel="standout"></atom:link>
+      <description>The administration says the conditions it has attached to $40 billion in new subsidies will help U.S. semiconductor makers compete globally. Some economists disagree.</description>
+      <dc:creator>Ana Swanson and Jim Tankersley</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 22:36:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raimondo, Gina M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28dc-chips-assess-01-hcgj/28dc-chips-assess-01-hcgj-moth.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Biden’s industrial policy aims to accomplish multiple goals at the same time. But the strategy also carries risks.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing: A U.S. Push to Isolate Russia</title>
+      <link>https://www.nytimes.com/2023/02/28/briefing/russia-china-covid-nigeria-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/briefing/russia-china-covid-nigeria-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/briefing/russia-china-covid-nigeria-election.html" rel="standout"></atom:link>
+      <description>Also, China’s attempt to erase “zero Covid” and Nigeria’s contested election.</description>
+      <dc:creator>Daniel E. Slotnik and Mariah Kreutter</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 21:06:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astana (Kazakhstan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/multimedia/01ambriefing-asia-ukraine1-wlbm/01ambriefing-asia-ukraine1-wlbm-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Olivier Douliery</media:credit>
+      <media:description>Secretary of State Antony Blinken, left, meeting with Kazakhstan’s foreign minister, Mukhtar Tleuberdi.</media:description>
+    </item>
+    <item>
+      <title>King Charles Faces Backlash Over E.U. Meeting</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/uk-king-charles-northern-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/uk-king-charles-northern-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/uk-king-charles-northern-ireland.html" rel="standout"></atom:link>
+      <description>King Charles’s meeting with an E.U. leader on the day a Northern Ireland trade deal was announced drew angry recriminations from critics who viewed it as an improper foray into British politics.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 02:36:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28uk-protocol-lcth/28uk-protocol-lcth-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Aaron Chown</media:credit>
+      <media:description>King Charles III and the European Commission president, Ursula von der Leyen, met on Monday for tea at Windsor Castle.</media:description>
+    </item>
+    <item>
+      <title>Satellite Imagery Shows Possible Damage to Russian Plane in Belarus</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/russian-plane-belarus-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/russian-plane-belarus-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/russian-plane-belarus-damage.html" rel="standout"></atom:link>
+      <description>The British Ministry of Defense said that the loss of the plane would be significant if confirmed, “as it is critical to Russian air operations for providing an air battle space picture.”</description>
+      <dc:creator>Christoph Koettl</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 19:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Welcomes Belarusian Leader Amid Concerns About Ukraine</title>
+      <link>https://www.nytimes.com/2023/02/28/world/asia/china-russia-belarus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/asia/china-russia-belarus.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/asia/china-russia-belarus.html" rel="standout"></atom:link>
+      <description>President Aleksandr G. Lukashenko’s visit comes shortly after the United States accused Beijing of preparing to give arms and ammunition to Russia to help its war on Ukraine.</description>
+      <dc:creator>David Pierson</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 16:14:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28china-belarus-01-ghcm/28china-belarus-01-ghcm-moth.jpg" width="151"></media:content>
+      <media:credit>Lintao Zhang/Getty Images</media:credit>
+      <media:description>China’s top leader, Xi Jinping, right, with President Alexander Lukashenko of Belarus in 2016 during a visit to Beijing.</media:description>
+    </item>
+    <item>
+      <title>Nigeria Election Tainted by Accusations of Vote Rigging</title>
+      <link>https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-challenges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-challenges.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/africa/nigeria-election-challenges.html" rel="standout"></atom:link>
+      <description>Two parties say the presidential vote in Africa’s biggest democracy was marred by fraud and violence, and they called for the head of the election commission to step down.</description>
+      <dc:creator>Ruth Maclean and Elian Peltier</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 03:56:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tinubu, Bola Ahmed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obi, Peter (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abubakar, Atiku</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buhari, Muhammadu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abuja (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lagos (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28nigeria-elex-1-fkpj/28nigeria-elex-1-fkpj-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <media:description>Election results from Nigerian states being read out at in Abuja on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Situation in Bakhmut Is ‘Getting More and More Difficult,&#39; Zelensky Says</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/ukraine-bakhmut-zelensky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/ukraine-bakhmut-zelensky.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/ukraine-bakhmut-zelensky.html" rel="standout"></atom:link>
+      <description>The eastern city, which had a prewar population of around 70,000 people, has become a focus of the fighting, with both sides pouring in troops and taking significant losses.</description>
+      <dc:creator>Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 14:12:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28ukraine-briefing-battlefield-zpvg/28ukraine-briefing-battlefield-zpvg-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Babenko/Reuters</media:credit>
+      <media:description>Buildings damaged by a Russian military strike in the frontline city of Bakhmut, on Monday.</media:description>
+    </item>
+    <item>
+      <title>A Challenge to Student Debt Relief</title>
+      <link>https://www.nytimes.com/2023/02/28/briefing/supreme-court-student-debt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/briefing/supreme-court-student-debt.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/briefing/supreme-court-student-debt.html" rel="standout"></atom:link>
+      <description>The Supreme Court could strike down a program meant to help 40 million borrowers.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 11:40:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28themorning-promo/28themorning-lede-2-zlhb-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Joe Biden speaking about student loan forgiveness at Delaware State University in December.</media:description>
+    </item>
+    <item>
+      <title>Sunak Hopes to Move Past Brexit, at Long Last, With E.U. Deal</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/uk-eu-sunak-brexit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/uk-eu-sunak-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/uk-eu-sunak-brexit.html" rel="standout"></atom:link>
+      <description>In addition to removing an obstacle to London-Brussels relations, the Northern Ireland trade deal could remove Brexit from the center of British politics after seven divisive years.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 03:54:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/00UK-ASSESS-02-bfhw/00UK-ASSESS-02-bfhw-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <media:description>Prime Minister Rishi Sunak in Windsor on Monday.</media:description>
+    </item>
+    <item>
+      <title>Europe Struggles to Find Leopard 2 Tanks for Ukraine</title>
+      <link>https://www.nytimes.com/2023/02/28/world/europe/ukraine-tanks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/europe/ukraine-tanks.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/europe/ukraine-tanks.html" rel="standout"></atom:link>
+      <description>The struggle to deliver on promises to provide Leopard 2 tanks for use against Russian forces has exposed just how unprepared European militaries are.</description>
+      <dc:creator>Erika Solomon, Steven Erlanger and Christopher F. Schuetze</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 17:45:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/00ukraine-europe-militaries-01-kfpw/00ukraine-europe-militaries-01-kfpw-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
+      <media:description>Military personnel at a media event at a base in Swietoszow, Poland in February. The event was to display to the public how the Polish military trains Ukrainian soldiers on the German-made Leopard 2 tanks.</media:description>
+    </item>
+    <item>
+      <title>China Moves to Erase the Vestiges of ‘Zero Covid’ to Deter Dissent</title>
+      <link>https://www.nytimes.com/2023/02/28/world/asia/china-covid-lab-leak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/asia/china-covid-lab-leak.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/asia/china-covid-lab-leak.html" rel="standout"></atom:link>
+      <description>The ruling Communist Party is waging an ambitious propaganda campaign to rewrite the public’s memory of its handling of the pandemic, which included some of the harshest restrictions in the world.</description>
+      <dc:creator>Nicole Hong and Zixu Wang</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 11:41:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pei, Minxin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhang Zhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Urumqi (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guangzhou (China)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/00china-propaganda-01-cvpb/00china-propaganda-01-cvpb-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jade Gao/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Removing a Covid testing booth at a park in Beijing. The booths, once ubiquitous symbols of China’s strict “zero Covid” policy, are now empty or converted into new uses.</media:description>
+    </item>
+    <item>
+      <title>C.S. Lewis’s Oxford: Where the Lion and the Witch Met the Hobbit</title>
+      <link>https://www.nytimes.com/2023/02/28/travel/cs-lewis-oxford-narnia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/travel/cs-lewis-oxford-narnia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/travel/cs-lewis-oxford-narnia.html" rel="standout"></atom:link>
+      <description>Discovering the sites in Oxford where C.S. Lewis, the writer of over 30 books, including the “Chronicles of Narnia” series, found faith, inspiration and a life-changing friendship with J.R.R. Tolkien.</description>
+      <dc:creator>Will Higginbotham and Max Miechowski</dc:creator>
+      <pubDate>Wed, 01 Mar 2023 16:55:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oxford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, C S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tolkien, J R R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oxford (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/01/multimedia/01travel-footsteps-cs-lewis-01-cwhp/01travel-footsteps-cs-lewis-01-cwhp-moth.jpg" width="151"></media:content>
+      <media:credit>Max Miechowski for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Burger King Is Hungry Jack’s in Australia. What Will Wendy’s Be?</title>
+      <link>https://www.nytimes.com/2023/02/28/world/australia/wendys-expansion-name.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/world/australia/wendys-expansion-name.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/world/australia/wendys-expansion-name.html" rel="standout"></atom:link>
+      <description>The American burger chain plans to enter the Australian market. The problem? There’s already a fast food company down under with the same name.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 21:47:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wendy&#39;s International Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/01/world/28OZ-WENDYS2-print/28OZ-WENDYS-moth.jpg" width="151"></media:content>
+      <media:credit>Lucy Nicholson/Reuters</media:credit>
+      <media:description>Wendy’s, the American hamburger chain, is considering opening restaurants in Australia.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2023/02/28/briefing/trade-deal-brexit-ukraine-west-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/28/briefing/trade-deal-brexit-ukraine-west-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/28/briefing/trade-deal-brexit-ukraine-west-bank.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 05:14:37 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/28ambriefing-europe-nl-promo-feb/28ambriefing-europe-nl-uk-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Dan Kitwood</media:credit>
+      <media:description>Britain’s prime minister, Rishi Sunak, and Ursula von der Leyen, the president of the European Commission, announced the deal, which they called the “Windsor Framework,” on Monday.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Mask Mandate, One of World’s Last, Will End</title>
+      <link>https://www.nytimes.com/2023/02/27/world/asia/hong-kong-mask-mandate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/asia/hong-kong-mask-mandate.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/asia/hong-kong-mask-mandate.html" rel="standout"></atom:link>
+      <description>As of Wednesday, the city will no longer require people to wear masks indoors, outdoors or on public transportation.</description>
+      <dc:creator>Tiffany May</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 08:03:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, John (1957- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/28hk-masks-jpth/28hk-masks-jpth-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Hong Kong’s mask mandate has been in effect since July 2020.</media:description>
+    </item>
+    <item>
+      <title>What We Know About the Lab Leak Theory and the Origins of Covid</title>
+      <link>https://www.nytimes.com/2023/02/27/us/politics/covid-origin-lab-leak-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/us/politics/covid-origin-lab-leak-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/us/politics/covid-origin-lab-leak-china.html" rel="standout"></atom:link>
+      <description>Scientists and spy agencies have tried to determine where the coronavirus originated, but conclusive evidence is hard to come by and the nation’s intelligence agencies are split.</description>
+      <dc:creator>Sheryl Gay Stolberg and Benjamin Mueller</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 00:41:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wuhan (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wuhan Institute of Virology (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27dc-lableak-kzvl/27dc-lableak-kzvl-moth.jpg" width="151"></media:content>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <media:description>The Wuhan Institute of Virology in 2021. The U.S. Energy Department has concluded with “low confidence” that an accidental laboratory leak in China most likely caused the coronavirus pandemic.</media:description>
+    </item>
+    <item>
+      <title>Ahmed Qurei, Former Palestinian Premier and Peace Envoy, Dies at 86</title>
+      <link>https://www.nytimes.com/2023/02/27/world/middleeast/ahmed-qurei-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/middleeast/ahmed-qurei-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/middleeast/ahmed-qurei-dead.html" rel="standout"></atom:link>
+      <description>A member of the old guard of Palestinian leaders, Mr. Qurei was a principal architect of the Oslo Accords, the first peace agreement with Israel.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 22:43:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qurei, Ahmed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="">Oslo Accords</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fatah, Al</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestine Liberation Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dis (West Bank)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/27qurei1-cfbk-print2/27qurei1-cfbk-moth.jpg" width="151"></media:content>
+      <media:credit>Atef Safadi/European Pressphoto Agency</media:credit>
+      <media:description>Ahmed Qurei in 2005, when he was the Palestinian prime minister. In the 1990s, he led the Palestinian side in negotiating the Oslo Accords.</media:description>
+    </item>
+    <item>
+      <title>To Heal Brexit Wound, U.K. and E.U. Strike a Northern Ireland Trade Deal</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/uk-eu-northern-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/uk-eu-northern-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/uk-eu-northern-ireland.html" rel="standout"></atom:link>
+      <description>A dispute left over from the Britain-European Union split has chilled relations, paralyzed Northern Ireland’s government, risked a trade war and even caused friction between London and Washington.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 23:08:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Unionist Party (Northern Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27UK-LEDEALL-hvtz/27UK-LEDEALL-hvtz-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Dan Kitwood</media:credit>
+      <media:description>Britain’s prime minister, Rishi Sunak, and Ursula von der Leyen, the president of the European Commission, announced the deal, which they called the “Windsor Framework,” on Monday.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: U.S. Treasury Secretary Visits Kyiv</title>
+      <link>https://www.nytimes.com/2023/02/27/briefing/kyiv-treasury-secretary-yellen-britain-eu-trade.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/briefing/kyiv-treasury-secretary-yellen-britain-eu-trade.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/briefing/kyiv-treasury-secretary-yellen-britain-eu-trade.html" rel="standout"></atom:link>
+      <description>Also, Britain and the E.U. agree on a Northern Ireland trade deal and winter devastates Afghanistan.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 21:42:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/multimedia/022823ambriefing-asia-promo2/28ambriefing-asia-yellen-qwtl-moth.jpg" width="151"></media:content>
+      <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Secretary of the Treasury Janet Yellen laid flowers to a Memory Wall of Fallen Defenders of Ukraine in the Russian-Ukrainian War during her visit to Kyiv on Monday.</media:description>
+    </item>
+    <item>
+      <title>Biden Dispatches Yellen and Blinken to Bolster Support for Ukraine</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/ukraine-yellen-blinken-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/ukraine-yellen-blinken-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/ukraine-yellen-blinken-russia.html" rel="standout"></atom:link>
+      <description>Treasury Secretary Janet Yellen traveled to Kyiv the day before Secretary of State Antony Blinken was to visit Central Asia in a show of American solidarity with Ukraine in its battle with Russia.</description>
+      <dc:creator>Marc Santora and Alan Rappeport</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 04:45:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Asia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27ukraine-ledeall-mbqj/27ukraine-ledeall-mbqj-moth.jpg" width="151"></media:content>
+      <media:credit>Thibault Camus/Associated Press</media:credit>
+      <media:description>Treasury Secretary Janet L. Yellen and Bridget Brink, the U.S. ambassador to Ukraine, placed flowers at the memorial wall of St. Michael’s Golden-Domed Cathedral in Kyiv, Ukraine, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Migrant Deaths Shine Light on Europe’s Broken Promises</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/italy-migrants-shipwreck-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/italy-migrants-shipwreck-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/italy-migrants-shipwreck-europe.html" rel="standout"></atom:link>
+      <description>At least 63 people died in a shipwreck off Italy’s coast, reviving memories of a crash in 2013 that killed hundreds and the work that did not get done in its aftermath.</description>
+      <dc:creator>Jason Horowitz and Gaia Pianigiani</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 21:23:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27italy-migrants-01-wgkt/27italy-migrants-01-wgkt-moth.jpg" width="151"></media:content>
+      <media:credit>Giovanni Isolino/LaPresse, via Associated Press</media:credit>
+      <media:description>A memorial for the shipwreck’s victims near Cutro, Italy, on Monday.</media:description>
+    </item>
+    <item>
+      <title>An Elf? A Witch? Mexico’s President Says It’s the Mythical Aluxe</title>
+      <link>https://www.nytimes.com/2023/02/27/world/americas/andres-manuel-lopez-obrador-mexico-aluxe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/americas/andres-manuel-lopez-obrador-mexico-aluxe.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/americas/andres-manuel-lopez-obrador-mexico-aluxe.html" rel="standout"></atom:link>
+      <description>President Andrés Manuel López Obrador tweeted an image of what he said was an aluxe, a legendary elflike creature. News outlets said it looked like a 2021 photo of another questionable creature.</description>
+      <dc:creator>Jesus Jiménez</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 19:59:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yucatan Peninsula (Mexico)</category>
+      <category domain="">Aluxe</category>
+    </item>
+    <item>
+      <title>In Central Asia, Blinken Will Urge Distance From Russia, and Ukraine War</title>
+      <link>https://www.nytimes.com/2023/02/27/world/asia/blinken-china-russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/asia/blinken-china-russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/asia/blinken-china-russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Secretary of State Antony J. Blinken is making the first trip by a Biden administration cabinet official to the former Soviet republics of Central Asia.</description>
+      <dc:creator>Edward Wong, Anton Troianovski and Stanley Reed</dc:creator>
+      <pubDate>Tue, 28 Feb 2023 00:30:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyrgyzstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkmenistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tajikistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27kazakhstan-blinken-01-bhjl/27kazakhstan-blinken-01-bhjl-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Lamarque/Reuters</media:credit>
+      <media:description>Antony J. Blinken, the U.S. secretary of state, will meet with foreign ministers from five Central Asian republics.</media:description>
+    </item>
+    <item>
+      <title>Betty Boothroyd, Britain’s First Female House of Commons Speaker, Dies at 93</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/betty-boothroyd-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/betty-boothroyd-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/betty-boothroyd-dead.html" rel="standout"></atom:link>
+      <description>The speaker made Britain’s parliamentary proceedings must-see TV, even in other countries.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 23:04:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boothroyd, Betty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/28/world/27xp-boothroyd1-print1/27xp-boothroyd1-moth.jpg" width="151"></media:content>
+      <media:credit>Jeff Overs/BBC News &amp;amp; Current Affairs, via Getty Images</media:credit>
+      <media:description>Betty Boothroyd in 2000. When she was named speaker as a member of the opposition Labour Party in 1992, there were just 60 women in the 651-member House of Commons.</media:description>
+    </item>
+    <item>
+      <title>King Charles Met E.U. Leader Ahead of New Brexit Deal, Sparking Controversy</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/king-charles-ursula-von-der-leyen-brexit-meeting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/king-charles-ursula-von-der-leyen-brexit-meeting.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/king-charles-ursula-von-der-leyen-brexit-meeting.html" rel="standout"></atom:link>
+      <description>Some said the meeting conflicted with the king’s apolitical role because it came at the time Ursula von der Leyen, president of the European Commission, was finalizing the new Brexit deal.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 18:54:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/multimedia/27uk-blog-king-meeting01-vtzh/27uk-blog-king-meeting01-vtzh-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Aaron Chown</media:credit>
+      <media:description>King Charles III, left, with Ursula von der Leyen, the president of the European Commission, at Windsor Castle on Monday.</media:description>
+    </item>
+    <item>
+      <title>Northern Lights Seen Across the U.K. in Rare Show</title>
+      <link>https://www.nytimes.com/2023/02/27/world/europe/northern-lights-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/02/27/world/europe/northern-lights-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/02/27/world/europe/northern-lights-uk.html" rel="standout"></atom:link>
+      <description>The sight, which usually involves a trip to a snowy outpost, could be seen in the south of England.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Mon, 27 Feb 2023 15:53:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aurora Borealis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/world/27northern-lights2/27northern-lights2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Reiss McGuire/Alamy</media:credit>
+      <media:description>The northern lights over the Trossachs in Scotland on Sunday.</media:description>
+    </item>
+  </channel>
+</rss>

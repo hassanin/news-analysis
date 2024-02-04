@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 28 Sep 2017 05:56:08 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Saudis Wonder What&#x2019;s Next After the King Allows Women to Drive</title>
+      <link>https://www.nytimes.com/2017/09/27/world/middleeast/saudi-women-drivers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/middleeast/saudi-women-drivers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/middleeast/saudi-women-drivers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28saudi-react/28saudi-react-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>While women in Riyadh, the Saudi capital, celebrated the decision to allow women to drive, rights campaigners said much remained to be done.</media:description>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <description>While the change does not take effect until next June, the announcement was so abrupt it stunned the country, and the world.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 20:33:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+    </item>
+    <item>
+      <title>Iraq Escalates Dispute With Kurds, Threatening Military Action</title>
+      <link>https://www.nytimes.com/2017/09/27/world/middleeast/kurdistan-referendum-iraq.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/middleeast/kurdistan-referendum-iraq.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/middleeast/kurdistan-referendum-iraq.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28kurds2/28kurds2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Haider al-Abadi of Iraq, center, arriving for a session of Parliament in Baghdad on Wednesday.</media:description>
+      <media:credit>Karim Kadim/Associated Press</media:credit>
+      <description>Iraq threatened to send troops and seize oil fields and moved to shut down international flights in the Kurdish region after an independence referendum.</description>
+      <dc:creator>DAVID ZUCCHINO and MARGARET COKER</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 23:30:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Erbil (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kirkuk (Iraq)</category>
+    </item>
+    <item>
+      <title>The Interpreter: Remote Textile Plant May Secretly Fuel North Korea&#x2019;s Weapons</title>
+      <link>https://www.nytimes.com/2017/09/27/world/asia/north-korea-missiles-fuel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/asia/north-korea-missiles-fuel.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/asia/north-korea-missiles-fuel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/asia/28int-nkfuel/int-nkfuel-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A suspected production site for an advanced rocket fuel known as UDMH in Hamhung, North Korea. The kidney-shaped ponds near the bottom of the image appear designed to hold large amounts of wastewater, consistent with UDMH production.</media:description>
+      <media:credit>Planet</media:credit>
+      <description>A new assessment suggests that the fuel, which some had thought might be imported from Russia or China, is made within North Korea.</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 22:30:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">missiles</category>
+    </item>
+    <item>
+      <title>Catalan Officials Squeezed as Madrid Tries to Stop Independence Vote</title>
+      <link>https://www.nytimes.com/2017/09/27/world/europe/catalonia-spain-referendum.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/europe/catalonia-spain-referendum.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/europe/catalonia-spain-referendum.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28catalonia-mayor1/28catalonia-mayor1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Catalan flag at the University of Barcelona. The government in Madrid has been trying to block Sunday&#x2019;s independence referendum.</media:description>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <description>As Sunday&#x2019;s independence referendum nears, mayors risk suspension from office for violating Spain&#x2019;s Constitution &#x2014; or the wrath of frustrated voters.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 23:46:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puigdemont, Carles (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>&#x2018;Frida Sofia&#x2019;: The Mexico Earthquake Victim Who Never Was</title>
+      <link>https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquake-trapped-girl.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquake-trapped-girl.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquake-trapped-girl.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28mexico-girl-sub/23mexico-girl-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of a rescue team searching the rubble of the Enrique R&#xE9;bsamen school in Mexico City.</media:description>
+      <media:credit>Jose Luis Gonzalez/Reuters</media:credit>
+      <description>News coverage of a girl supposedly trapped in a collapsed elementary school captured the public&#x2019;s attention. How did everyone get it so wrong?</description>
+      <dc:creator>MEGAN SPECIA</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 14:14:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Mexico Earthquake (September 19, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Rebsamen, Enrique C, School (Mexico City, Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+    </item>
+    <item>
+      <title>Still More Victims in Mexico&#x2019;s Quakes: Legions of Displaced</title>
+      <link>https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquakes-displaced.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquakes-displaced.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/americas/mexico-earthquakes-displaced.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28mexicocity1/28mexicocity1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>One of many makeshift shelters in Mexico City. Thousands of people whose homes were destroyed, or even just damaged, by the recent quakes are in an exhausting state of limbo.</media:description>
+      <media:credit>Carlos Jasso/Reuters</media:credit>
+      <description>More than 153,000 homes were damaged in two earthquakes this month, and the future for many who can&#x2019;t return to them is highly uncertain.</description>
+      <dc:creator>MARINA FRANCO and KIRK SEMPLE</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 22:48:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+    </item>
+    <item>
+      <title>Mumbai Journal: Stray Dogs Started Turning Blue. Then the Street Mobilized.</title>
+      <link>https://www.nytimes.com/2017/09/27/world/asia/mumbai-blue-dogs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/asia/mumbai-blue-dogs.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/asia/mumbai-blue-dogs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28indiadogs-1/28indiadogs-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stray dogs proliferate across India, benefiting from generous laws protecting them. Mumbai, above, is considered something of a sanctuary city for dogs.</media:description>
+      <media:credit>Atul Loke for The New York Times</media:credit>
+      <description>When a community in Mumbai turned out to help the canines, it was in a long tradition of caring for &#x201C;community dogs,&#x201D; protected by Indian law.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 16:04:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Russia Destroys Chemical Weapons, and Faults U.S. for Not Doing So</title>
+      <link>https://www.nytimes.com/2017/09/27/world/europe/russia-putin-chemical-weapons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/europe/russia-putin-chemical-weapons.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/europe/russia-putin-chemical-weapons.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28putin/28putin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia at a cabinet meeting in Moscow on Wednesday.</media:description>
+      <media:credit>Pool photo by Mikhail Klimentyev</media:credit>
+      <description>Presiding over the weapons&#x2019; destruction, President Vladimir V. Putin suggested that Washington was playing a devious double game.</description>
+      <dc:creator>ANDREW HIGGINS</dc:creator>
+      <pubDate>Wed, 27 Sep 2017 20:28:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Jeremy Corbyn Says U.K. Labour Party Is Ready to Govern</title>
+      <link>https://www.nytimes.com/2017/09/27/world/europe/uk-jeremy-corbyn-labour.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/09/27/world/europe/uk-jeremy-corbyn-labour.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/09/27/world/europe/uk-jeremy-corbyn-labour.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/09/28/world/28Labour/28Labour-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jeremy Corbyn, the Labour Party leader, addressing the party&#x2019;s conference in Brighton, England, on Wednesday. He used the speech partly to mock his critics, including Prime Minister Theresa May.</media:description>
+      <media:credit>Leon Neal/Getty Images</media:credit>
+      <description>A party conference underscored the left-wing shift in Britain&#x2019;s opposition party, and Mr. Corbyn&#x2019;s control of it.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Thu, 28 Sep 2017 02:58:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+    </item>
+  </channel>
+</rss>

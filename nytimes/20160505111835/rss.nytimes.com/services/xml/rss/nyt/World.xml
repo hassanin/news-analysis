@@ -1,0 +1,725 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 05 May 2016 11:12:38 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Fort McMurray Blaze, Fast and Unpredictable, Keeps Firefighters at a Distance</title>
+      <link>http://www.nytimes.com/2016/05/05/world/americas/fort-mcmurray-canada-fire.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/americas/fort-mcmurray-canada-fire.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/americas/fort-mcmurray-canada-fire.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05canada-web2/05canada-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A wildfire spread on Tuesday along Highway 63, the only route out of Fort McMurray. The road became gridlocked as 80,000 people fled the city.</media:description>
+      <media:credit>CBC News, via Reuters</media:credit>
+      <description>A wildfire that began last weekend in Alberta remained out of control on Wednesday. Its speed and shifting direction have made it too dangerous to tackle from the ground.</description>
+      <dc:creator>IAN AUSTEN</dc:creator>
+      <pubDate>Wed, 04 May 2016 18:59:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Oil Sands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fort McMurray (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Oil (Petroleum) and Gasoline</category>
+    </item>
+    <item>
+      <title>Matter: Bacteria-Infected Mosquitoes Could Slow Spread of Zika Virus</title>
+      <link>http://www.nytimes.com/2016/05/05/science/zika-virus-moquitoes-microbe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/science/zika-virus-moquitoes-microbe.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/science/zika-virus-moquitoes-microbe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/04/science/05ZIMMER/05ZIMMER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A wasp egg infected with Wolbachia, a microbe that researchers say protects mosquitoes from the Zika virus.</media:description>
+      <media:credit>Merijn Salverda and Richard Stouthamer/Science Source</media:credit>
+      <description>Mosquitoes infected with the bacterium Wolbachia resist viruses like Zika and dengue. Now researchers are testing the bacterium on mosquitoes in the wild.</description>
+      <dc:creator>CARL ZIMMER</dc:creator>
+      <pubDate>Wed, 04 May 2016 18:55:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zika Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Dengue Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O'Neill, Scott L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cell Host &amp; Microbe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Wolbachia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Moreira, Luciano A.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+    </item>
+    <item>
+      <title>Letter from Europe: NATO Ratchets Up Missile Defense Despite Russian Criticism</title>
+      <link>http://www.nytimes.com/2016/05/06/world/europe/nato-russia-poland.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/06/world/europe/nato-russia-poland.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/06/world/europe/nato-russia-poland.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/06/world/06Letter-web/06Letter-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A United States Air Force F-22 Raptor fighter jet, which is part of the Operation Atlantic Resolve, an American commitment to NATO&#x2019;s collective security and regional stability, at the Siauliai Air Base, Lithuania, in April.</media:description>
+      <media:credit>Mindaugas Kulbis/Associated Press</media:credit>
+      <description>A decision by the United States and its allies to proceed with ballistic missile defense is an important stage in the alliance&#x2019;s new stance toward Moscow.</description>
+      <dc:creator>STEVEN ERLANGER</dc:creator>
+      <pubDate>Thu, 05 May 2016 10:52:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+    </item>
+    <item>
+      <title>Ahmet Davutoglu, Turkey&#x2019;s Prime Minister, Is Expected to Be Replaced</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/erdogan-ahmet-davutoglu-turkey-prime-minister-is-expected-to-be-replaced.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05turkey_web1/05turkey_web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Recep Tayyip Erdogan of Turkey, left, and Prime Minister Ahmet Davutoglu at the start of their meeting in Ankara on Wednesday.</media:description>
+      <media:credit>Pool photo by Murat Cetinmuhurdar</media:credit>
+      <description>Mr. Davutoglu&#x2019;s departure is occurring amid a disagreement with President Recep Tayyip Erdogan, who is seeking more power.</description>
+      <dc:creator>TIM ARANGO and CEYLAN YEGINSU</dc:creator>
+      <pubDate>Wed, 04 May 2016 23:54:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice and Development Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kurdistan Workers' Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davutoglu, Ahmet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+    </item>
+    <item>
+      <title>Comedian Criticizes Merkel&#x2019;s Response to Lampoon of Turkish Leader</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/comedian-criticizes-merkels-response-to-lampoon-of-turkish-leader.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/comedian-criticizes-merkels-response-to-lampoon-of-turkish-leader.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/comedian-criticizes-merkels-response-to-lampoon-of-turkish-leader.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/15/world/15merkel_web2/15merkel_web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jan B&#xF6;hmermann, a German satirist who earned plaudits but also criticism when he skewered President Recep Tayyip Erdogan of Turkey on his TV show.</media:description>
+      <media:credit>Morris Mac Matzen/Reuters</media:credit>
+      <description>Jan B&#xF6;hmermann, whose poem about Recep Tayyip Erdogan stirred a diplomatic storm, said Chancellor Angela Merkel &#x201C;filleted and served me with tea&#x201D; by allowing the Turkish president to sue him.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Wed, 04 May 2016 19:56:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jan Bohmermann</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+    <item>
+      <title>Iran Accuses U.S. of Meddling as Tensions Grow</title>
+      <link>http://www.nytimes.com/2016/05/05/world/middleeast/iran-us-relations-persian-gulf.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/middleeast/iran-us-relations-persian-gulf.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/middleeast/iran-us-relations-persian-gulf.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05IRAN/05IRAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State John Kerry in New York last month with Foreign Minister Mohammad Javad Zarif of Iran.</media:description>
+      <media:credit>Brendan Mcdermid/Reuters</media:credit>
+      <description>Iran threatened to block a Persian Gulf access route and denounced what it called the American &#x201C;meddling approach and tone.&#x201D;</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Thu, 05 May 2016 00:22:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Forbes, J Randy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zarif, Mohammad Javad</category>
+    </item>
+    <item>
+      <title>Partial Truce in Syria Is Said to Extend to Aleppo</title>
+      <link>http://www.nytimes.com/2016/05/05/world/middleeast/syria-aleppo-partial-truce.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/middleeast/syria-aleppo-partial-truce.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/middleeast/syria-aleppo-partial-truce.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05SYRIA/05SYRIA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Damaged buildings in the Bab al-Hadid neighborhood of Aleppo, Syria, on Monday. Nearly 300 people, mostly civilians, have died in renewed fighting there.</media:description>
+      <media:credit>Karam Al-Masri/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>American officials and Syrian state television said a partial truce now applied to the divided city, but it was unclear when the extension took effect.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Wed, 04 May 2016 23:56:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian High Negotiations Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Al Nusra Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Sinosphere: Chinese Woman&#x2019;s Mundane Query Turns Into Surreal Court Scuffle</title>
+      <link>http://www.nytimes.com/2016/05/05/world/asia/china-police-justice-systems.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/asia/china-police-justice-systems.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/asia/china-police-justice-systems.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/asia/05CHINALETTER/05CHINALETTER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ye Jinghuan, in Beijing in April.</media:description>
+      <media:credit>Su Nan</media:credit>
+      <description>The woman needed a simple police document. Before it was all over, she was on the floor, and then behind bars.</description>
+      <dc:creator>DIDI KIRSTEN TATLOW</dc:creator>
+      <pubDate>Wed, 04 May 2016 22:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+    </item>
+    <item>
+      <title>Kim Jong-un Seeks to Cement Power at First North Korean Congress in 36 Years</title>
+      <link>http://www.nytimes.com/2016/05/05/world/asia/north-korea-congress-kim-jong-un.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/asia/north-korea-congress-kim-jong-un.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/asia/north-korea-congress-kim-jong-un.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/nytnow/05NKcongress-web1/05NKcongress-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Participants in the seventh congress of the governing Workers&#x2019; Party in Pyongyang, North Korea, on Tuesday.</media:description>
+      <media:credit>Korean Central News Agency, via Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The Workers&#x2019; Party congress &#x2014; in theory, the North&#x2019;s highest decision-making body &#x2014; will essentially be a coronation for Mr. Kim, affirming him as supreme leader.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 04 May 2016 18:40:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Workers' Party of Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Byungjin Policy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+    </item>
+    <item>
+      <title>Jean-Baptiste Bagaza, Deposed Leader of a Troubled Burundi, Is Dead at 69</title>
+      <link>http://www.nytimes.com/2016/05/05/world/africa/jean-baptiste-bagaza-ex-leader-of-burundi-is-dead-at-69.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/africa/jean-baptiste-bagaza-ex-leader-of-burundi-is-dead-at-69.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/africa/jean-baptiste-bagaza-ex-leader-of-burundi-is-dead-at-69.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05Bagaza-web/05Bagaza-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jean-Baptiste Bagaza in Burundi&#x2019;s capital in 1984.</media:description>
+      <media:credit>Georges Gobet/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>As president of the small Central African nation, Mr. Bagaza invested in infrastructure but did little to make his country a stable democracy.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Wed, 04 May 2016 17:46:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burundi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Coups D'Etat and Attempted Coups D'Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hutu Tribe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tutsi Tribe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nkurunziza, Pierre</category>
+    </item>
+    <item>
+      <title>Indonesia, Malaysia and Philippines to Bolster Security at Sea</title>
+      <link>http://www.nytimes.com/2016/05/06/world/asia/indonesia-malaysia-philippines-naval-patrols.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/06/world/asia/indonesia-malaysia-philippines-naval-patrols.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/06/world/asia/indonesia-malaysia-philippines-naval-patrols.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/06/travel/06INDONESIA-web1/06INDONESIA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Joko Widodo, center, the president of Indonesia, with officials from Indonesia, Malaysia and the Philippines at a meeting in the Indonesian city of Yogyakarta on Thursday focused on maritime security.</media:description>
+      <media:credit>Rana Dyandra/Associated Press</media:credit>
+      <description>The countries agreed to conduct coordinated sea patrols and establish a hotline to combat piracy and kidnappings in surrounding waters.</description>
+      <dc:creator>JOE COCHRANE</dc:creator>
+      <pubDate>Thu, 05 May 2016 10:35:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Piracy at Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Abu Sayyaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Retno Marsudi</category>
+    </item>
+    <item>
+      <title>Sinosphere: Q. and A.: Arthur R. Kroeber on &#x2018;China&#x2019;s Economy&#x2019;</title>
+      <link>http://www.nytimes.com/2016/05/06/world/asia/china-economy-kroeber.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/06/world/asia/china-economy-kroeber.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/06/world/asia/china-economy-kroeber.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/06/world/06CHINAKROEBER/06CHINAKROEBER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Workers welding a steel frame for an advertising billboard in Jiaxing in Zhejiang Province, China.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>The managing director of Gavekal Dragonomics discusses the role of innovation and China&#x2019;s potential for growth.</description>
+      <dc:creator>IAN JOHNSON</dc:creator>
+      <pubDate>Thu, 05 May 2016 09:05:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arthur Kroeber</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Innovation</category>
+    </item>
+    <item>
+      <title>ISIS Operative From Australia Is Killed in Iraq Airstrike, Officials Say</title>
+      <link>http://www.nytimes.com/2016/05/06/world/australia/neil-prakash-isis-iraq.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/06/world/australia/neil-prakash-isis-iraq.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/06/world/australia/neil-prakash-isis-iraq.html?partner=rss&amp;emc=rss"/>
+      <description>The recruiter, Neil Prakash, called the most dangerous Australian involved with the militant group, had been linked to some terrorist plots in Australia.</description>
+      <dc:creator>MICHELLE INNIS</dc:creator>
+      <pubDate>Thu, 05 May 2016 08:34:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mosul (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neil Prakash</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+    </item>
+    <item>
+      <title>Another Combat Death in Iraq May Presage Future U.S. Role</title>
+      <link>http://www.nytimes.com/2016/05/05/us/another-combat-death-in-iraq-may-presage-future-us-role.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/us/another-combat-death-in-iraq-may-presage-future-us-role.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/us/another-combat-death-in-iraq-may-presage-future-us-role.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05iraq-web/05iraq-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Special Warfare Operator 1st Class Charles Keating IV.</media:description>
+      <media:credit>U.S. Navy</media:credit>
+      <description>Tuesday&#x2019;s battle in Teleskof could presage a future in Iraq where American troops move even closer to routine, daily battle in the fight against ISIS.</description>
+      <dc:creator>MARK MAZZETTI and HELENE COOPER</dc:creator>
+      <pubDate>Thu, 05 May 2016 01:05:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keating, Charles H Jr (1923-2014)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Navy Seals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles Keating</category>
+    </item>
+    <item>
+      <title>Israel Responds to Hamas Mortar Fire With Airstrikes in Gaza Strip</title>
+      <link>http://www.nytimes.com/2016/05/05/world/middleeast/israel-hamas-gaza-strip-tunnels.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/middleeast/israel-hamas-gaza-strip-tunnels.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/middleeast/israel-hamas-gaza-strip-tunnels.html?partner=rss&amp;emc=rss"/>
+      <description>The mortar rounds, fired toward Israeli defense forces, were intended to discourage Israel from excavating areas east of Gaza in a search for new tunnels.</description>
+      <dc:creator>JAMES GLANZ</dc:creator>
+      <pubDate>Wed, 04 May 2016 21:57:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+    </item>
+    <item>
+      <title>Search for Family&#x2019;s Lost History Leads to Mass Grave in Poland</title>
+      <link>http://www.nytimes.com/2016/05/05/nyregion/search-for-familys-lost-history-leads-to-mass-grave-in-poland.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/nyregion/search-for-familys-lost-history-leads-to-mass-grave-in-poland.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/nyregion/search-for-familys-lost-history-leads-to-mass-grave-in-poland.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/nyregion/05pomeranc-web1/05pomeranc-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Michael Pomeranc in the lobby of his hotel, Sixty SoHo. Mr. Pomeranc spent nearly three decades working to uncover the fate of his relatives.</media:description>
+      <media:credit>Natalie Keyssar for The New York Times</media:credit>
+      <description>Michael Pomeranc, a New York hotelier, spent nearly three decades working to uncover the fate of his relatives who died in the Holocaust.</description>
+      <dc:creator>JULIE SATOW</dc:creator>
+      <pubDate>Wed, 04 May 2016 19:57:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michael Pomeranc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Adampol, Poland</category>
+    </item>
+    <item>
+      <title>David Cameron Says Britain Will Accept More Syrian Children as Refugees</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/david-cameron-syria-refugees.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/david-cameron-syria-refugees.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/david-cameron-syria-refugees.html?partner=rss&amp;emc=rss"/>
+      <description>The prime minister acted after a campaign in the House of Lords, led by Alf Dubs, who fled Czechoslovakia in 1939 at 6 years old.</description>
+      <dc:creator>STEVEN ERLANGER</dc:creator>
+      <pubDate>Wed, 04 May 2016 19:26:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cameron, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dubs, Alf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+    </item>
+    <item>
+      <title>Anti-Semitic Graffiti Appears After Spanish Village Changes Its Name</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/castrillo-mota-de-judos-anti-semitic-vandalism.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/castrillo-mota-de-judos-anti-semitic-vandalism.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/castrillo-mota-de-judos-anti-semitic-vandalism.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05village-web/05village-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A street in the Spanish village of Castrillo Mota de Jud&#xED;os, shown in April 2014, a month before a referendum that changed the village&#x2019;s name from Castrillo Matajud&#xED;os.</media:description>
+      <media:credit>Markel Redondo for The New York Times</media:credit>
+      <description>The village was once known as Castrillo Matajud&#xED;os, or Little Hill Fort of Jew Killers. Its mayor believes that the vandals are members of extremist groups with no direct connection to the village.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Wed, 04 May 2016 19:21:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Castrillo Matajudios (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Castrillo Mota de Judios (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez Perez, Lorenzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graffiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+    </item>
+    <item>
+      <title>Europe to Remove 500-Euro Bill, the &#x2018;Bin Laden&#x2019; Bank Note Criminals Love</title>
+      <link>http://www.nytimes.com/2016/05/05/business/international/ecb-to-remove-500-bill-the-bin-laden-bank-note-criminals.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/business/international/ecb-to-remove-500-bill-the-bin-laden-bank-note-criminals.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/business/international/ecb-to-remove-500-bill-the-bin-laden-bank-note-criminals.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/business/05euronote1/05euronote1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The European Central Bank will phase out the 500-euro note by the end of 2018.</media:description>
+      <media:credit>Miguel Medina/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Though the effort has been portrayed as a blow to corruption and organized crime, some critics say it is as an infringement on personal freedom and a stealthy tool of monetary policy.</description>
+      <dc:creator>JACK EWING</dc:creator>
+      <pubDate>Wed, 04 May 2016 17:53:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Central Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Euro (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+    </item>
+    <item>
+      <title>British Elections Pose Test for Jeremy Corbyn, Labour Party Leader</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/labour-party-british-elections.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/labour-party-british-elections.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/labour-party-british-elections.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05Britain-web1/05Britain-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sadiq Khan, the Labour Party&#x2019;s mayoral candidate, during a campaign stop at a market in London on Wednesday. He is the front-runner in the race to replace the outgoing mayor, Boris Johnson, a Conservative.</media:description>
+      <media:credit>Rob Stothard/Getty Images</media:credit>
+      <description>Mr. Corbyn faces continuing dissent from some of his own lawmakers. Poor results in Thursday&#x2019;s elections could add to the pressure.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Wed, 04 May 2016 17:59:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Sadiq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+    </item>
+    <item>
+      <title>Hong Kong Journal: Rest in Peace ... Just Not in Gucci Loafers</title>
+      <link>http://www.nytimes.com/2016/05/05/world/asia/hong-kong-gucci.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/asia/hong-kong-gucci.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/asia/hong-kong-gucci.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/06HONGKONG-web1/06HONGKONG-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A paper Mercedes-Benz replica is taken in to Po Fook Hill Ancestral Hall in Hong Kong. Cardboard replicas of luxury products, made to be burned in offerings to deceased relatives, have become increasingly elaborate.</media:description>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <description>The luxury brand wants Hong Kong shops to stop selling cardboard replicas of its shoes, bags and other products to be burned as offerings to the dead.</description>
+      <dc:creator>MICHAEL FORSYTHE</dc:creator>
+      <pubDate>Wed, 04 May 2016 16:18:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Gucci</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shoes and Boots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Handbags and Purses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Ancestors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kering SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paper and Pulp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Rituals</category>
+    </item>
+    <item>
+      <title>An Army Captain Takes Obama to Court Over ISIS Fight</title>
+      <link>http://www.nytimes.com/2016/05/05/us/islamic-state-war-powers-lawsuit-obama.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/us/islamic-state-war-powers-lawsuit-obama.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/us/islamic-state-war-powers-lawsuit-obama.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/us/05MILITARY/05MILITARY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Capt. Nathan Michael Smith</media:description>
+      <media:credit>U.S. Army</media:credit>
+      <description>Capt. Nathan Michael Smith, an intelligence officer, voices strong support for fighting the Islamic State, but says Congress needs to approve it.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Wed, 04 May 2016 16:09:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Emergency Powers (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Defending Their Nation&#x2019;s Honor on Social Media: #PanamaIsMoreThanPapers</title>
+      <link>http://www.nytimes.com/2016/05/05/world/americas/panama-papers-twitter-defending-honor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/americas/panama-papers-twitter-defending-honor.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/americas/panama-papers-twitter-defending-honor.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/04/world/05panama-web/05panama-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Panama City in April. After the Panama Papers scandal, Panamanians took to social media with multilingual, pro-Panama hashtags, often accompanied by photos of beaches, sunsets, mountains and happy, carefree people.</media:description>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <description>Panamanians have erupted in patriotic fervor on Twitter in reaction to the negative attention that followed the release of the Panama Papers.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Wed, 04 May 2016 15:56:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Panama Papers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mossack Fonseca &amp; Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Evasion</category>
+    </item>
+    <item>
+      <title>In China, an iPhone May Not Necessarily Be a Phone</title>
+      <link>http://www.nytimes.com/2016/05/05/technology/apple-loses-iphone-china-trademark-case.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/technology/apple-loses-iphone-china-trademark-case.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/technology/apple-loses-iphone-china-trademark-case.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/business/05iphone/05iphone-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Xintong Tiandi&#x2019;s iPhone leather goods. The Chinese manufacturer&#x2019;s legal victory is just one of a spate of high-profile trademark and piracy cases in China.</media:description>
+      <media:credit/>
+      <description>A Chinese leather goods maker has won the right to sell its wares under the iPhone name, in the latest twist in the country for popular international brands.</description>
+      <dc:creator>PAUL MOZUR</dc:creator>
+      <pubDate>Wed, 04 May 2016 14:28:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>European Court of Justice Upholds Strict Rules on Tobacco</title>
+      <link>http://www.nytimes.com/2016/05/05/business/eus-highest-court-upholds-strict-smoking-rules.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/business/eus-highest-court-upholds-strict-smoking-rules.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/business/eus-highest-court-upholds-strict-smoking-rules.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/business/05eusmoke/05eusmoke-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A customer sampled flavors for electronic cigarettes at the &#x201C;Vapexpo&#x201D; fair in Bordeaux, France, in 2014.</media:description>
+      <media:credit>Regis Duvignau/Reuters</media:credit>
+      <description>The body rejected industry challenges to uphold curbs that ban menthol, require new health warnings and set limits on e-cigarettes.</description>
+      <dc:creator>DAVID JOLLY</dc:creator>
+      <pubDate>Wed, 04 May 2016 15:31:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>What in the World: A Nickname for Daw Aung San Suu Kyi? There&#x2019;s No Short Answer</title>
+      <link>http://www.nytimes.com/2016/05/04/world/what-in-the-world/aung-san-suu-kyi-name.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/world/what-in-the-world/aung-san-suu-kyi-name.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/04/world/what-in-the-world/aung-san-suu-kyi-name.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/19/world/00wit_suukyi/00wit_suukyi-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Cari Vander Yacht and Erik Blad</media:credit>
+      <description>Western notions of first and last names don&#x2019;t really apply in Myanmar, presenting a quandary for people who speak or write about its leading political figure.</description>
+      <dc:creator>PATRICK J. LYONS</dc:creator>
+      <pubDate>Tue, 03 May 2016 09:00:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+    </item>
+    <item>
+      <title>What in the World: What&#x2019;s That You&#x2019;re Wearing? A Guide to Muslim Veils</title>
+      <link>http://www.nytimes.com/2016/05/04/world/what-in-the-world/burqa-hijab-abaya-chador.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/world/what-in-the-world/burqa-hijab-abaya-chador.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/04/world/what-in-the-world/burqa-hijab-abaya-chador.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/03/world/00WIT_HIJAB-illo/00WIT_HIJAB-illo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Antonio de Luca</media:credit>
+      <description>Veils for Muslim women come in all sizes, shapes and colors &#x2014; and with terminology that can mean different things in different places.</description>
+      <dc:creator>RUSSELL GOLDMAN</dc:creator>
+      <pubDate>Tue, 03 May 2016 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+    </item>
+    <item>
+      <title>What in the World: India&#x2019;s Answer to Global Warming: Cows That Belch Less</title>
+      <link>http://www.nytimes.com/2016/05/04/world/what-in-the-world/india-cows-carbon-emissions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/world/what-in-the-world/india-cows-carbon-emissions.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/04/world/what-in-the-world/india-cows-carbon-emissions.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/03/world/00WIT_INDIA-COWS_illo/00WIT_INDIA-COWS_illo-moth-v8.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Antonio de Luca; Photo by Subhash Sharma/ZUMA Press, Corbis</media:credit>
+      <description>Cows, goats and other ruminant animals in India release 13 tons of methane every year. Scientists are studying breeds and food, hoping to reduce their output.</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Wed, 04 May 2016 16:51:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Methane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>What in the World: Brazil Ponders an Erotic Theme Park, With No Sex Allowed</title>
+      <link>http://www.nytimes.com/2016/05/04/world/what-in-the-world/brazil-erotic-theme-park.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/world/what-in-the-world/brazil-erotic-theme-park.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/04/world/what-in-the-world/brazil-erotic-theme-park.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/03/world/00WIT_BRAZIL-EROTIKA/00WIT_BRAZIL-EROTIKA-moth-v3.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Tamara Shopsin; Photo by druvo/istock</media:credit>
+      <description>ErotikaLand will promote a healthy approach to sex, its investors say, though anyone hoping to test what they learn will be sent to a nearby motel.</description>
+      <dc:creator>SIMON ROMERO</dc:creator>
+      <pubDate>Tue, 03 May 2016 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amusement and Theme Parks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+    </item>
+    <item>
+      <title>European Union Proposes Visa-Free Travel for Turks</title>
+      <link>http://www.nytimes.com/2016/05/05/world/europe/europe-turkey-visa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/europe/europe-turkey-visa.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/europe/europe-turkey-visa.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05Belgium-web2/05Belgium-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Migrants and refugees in a camp near the Greek port of Chios Island as they wait to learn their fate.</media:description>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <description>The plan is a significant step for the bloc as it struggles to come to terms with the migrant crisis and hew to its humanitarian values.</description>
+      <dc:creator>JAMES KANTER</dc:creator>
+      <pubDate>Wed, 04 May 2016 14:39:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Dublin Regulation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Schengen Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>Sinosphere: China May Release Last Known Tiananmen Prisoner in October</title>
+      <link>http://www.nytimes.com/2016/05/05/world/asia/china-tiananmen-miao-deshun.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/05/world/asia/china-tiananmen-miao-deshun.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/05/world/asia/china-tiananmen-miao-deshun.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/world/05CHINATIANANMEN/05CHINATIANANMEN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tiananmen Square on June 2, 1989. More than 1,500 people were sentenced to prison after the crackdown that began a day later.</media:description>
+      <media:credit>Catherine Henriette/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The man, Miao Deshun, was convicted of arson for throwing a basket onto a burning tank and received a reduction in his sentence in March.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Wed, 04 May 2016 05:14:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Dui Hua</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebei Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deshun, Miao</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: The Only Way to Solve Iraq&#x2019;s Political Crisis</title>
+      <link>http://www.nytimes.com/2016/05/06/opinion/the-only-way-to-solve-iraqs-political-crisis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/06/opinion/the-only-way-to-solve-iraqs-political-crisis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/06/opinion/the-only-way-to-solve-iraqs-political-crisis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/05/opinion/05al-ali/05al-ali-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Edel Rodriguez </media:credit>
+      <description>After years of corruption and sectarianism, the country&#x2019;s political class desperately needs new blood.</description>
+      <dc:creator>ZAID al-ALI</dc:creator>
+      <pubDate>Thu, 05 May 2016 10:59:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Make Britain Great Again</title>
+      <link>http://www.nytimes.com/2016/05/04/opinion/make-britain-great-again.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/opinion/make-britain-great-again.html</guid>
+      <media:content url="https://static01.nyt.com/images/2016/05/04/opinion/04gold-inyt/04gold-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Boris Johnson in Manchester, England, last month.</media:description>
+      <media:credit>Nigel Roddis/European Pressphoto Agency</media:credit>
+      <description>Some call Boris Johnson Britain's Donald Trump. But I do not think Mr. Trump speaks Latin.</description>
+      <dc:creator>TANYA GOLD</dc:creator>
+      <pubDate>Tue, 03 May 2016 14:17:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Why We Need a Foreign Policy Elite</title>
+      <link>http://www.nytimes.com/2016/05/04/opinion/why-we-need-a-foreign-policy-elite.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/04/opinion/why-we-need-a-foreign-policy-elite.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/04/opinion/why-we-need-a-foreign-policy-elite.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/04/opinion/04thomasWeb/04thomasWeb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Richard Nixon and Henry Kissinger at the White House in 1972.</media:description>
+      <media:credit>The White House</media:credit>
+      <description>Donald Trump is wrong: America&#x2019;s global security relies on its diplomatic and policy establishment.</description>
+      <dc:creator>EVAN THOMAS</dc:creator>
+      <pubDate>Wed, 04 May 2016 18:24:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Richard Milhous</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kissinger, Henry A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stimson, Henry Lewis (1867-1950)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenhower, Dwight David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+    </item>
+    <item>
+      <title>Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines</title>
+      <link>http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/19/business/media/alissa-rubin-pulitzer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/19/nyregion/19PULITZERSinternationalreporting/19PULITZERSinternationalreporting-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Alissa Rubin</media:description>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>Ms. Rubin has spent much of her career covering Iraq, Afghanistan and the Balkans.</description>
+      <dc:creator>MIKE McPHATE</dc:creator>
+      <pubDate>Tue, 19 Apr 2016 18:17:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubin, Alissa Johannsen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pulitzer Prizes</category>
+    </item>
+    <item>
+      <title>Lens Blog: Photography Pulitzer for Coverage of Refugee Crisis</title>
+      <link>http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/</guid>
+      <atom:link rel="standout" href="http://lens.blogs.nytimes.com/2016/04/18/photography-pulitzer-for-coverage-of-refugee-crisis/?partner=rss&amp;emc=rss"/>
+      <description>The New York Times and Thomson Reuters shared the Pulitzer Prize for breaking news photography for coverage of Europe&#x2019;s refugee crisis. Jessica Rinaldi of the Boston Globe won the feature photography prize for her story of a boy who endured abuse at the hands of those he trusted.</description>
+      <dc:creator>DAVID GONZALEZ and JAMES ESTRIN</dc:creator>
+      <pubDate>Thu, 28 Apr 2016 16:12:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/">Boston Globe</category>
+      <category domain="http://www.nytimes.com/namespaces/">Daniel Etter</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Furst</category>
+      <category domain="http://www.nytimes.com/namespaces/">David Gonzalez</category>
+      <category domain="http://www.nytimes.com/namespaces/">Hicks, Tyler</category>
+      <category domain="http://www.nytimes.com/namespaces/">James Estrin</category>
+      <category domain="http://www.nytimes.com/namespaces/">Jessica Rinaldi</category>
+      <category domain="http://www.nytimes.com/namespaces/">Lima, Mauricio (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/">McNally, Michele</category>
+      <category domain="http://www.nytimes.com/namespaces/">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/">Ponomarev, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/">Pulitzer Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and displaced persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/">Thomson Reuters Corporation|TRI|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/">Showcase</category>
+    </item>
+    <item>
+      <title>On the Ground in Aleppo: Bloodshed, Misery and Hope</title>
+      <link>http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/05/01/world/middleeast/syrian-city-torn-by-war-shows-jarring-resolve-to-try-to-live-normally.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/05/01/world/ALEPPO1/ALEPPO1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A civilian evacuated a baby on Friday from a site that had been hit by airstrikes in a rebel-controlled area of Aleppo, Syria. Inhabitants of the city carry on with work and school despite fighting that has killed more than 200 civilians in the past week.</media:description>
+      <media:credit>Abdalrhman Ismail/Reuters</media:credit>
+      <description>The New York Times&#x2019;s Cairo bureau chief reported from Aleppo, Syria, where inhabitants try to carry on despite a civil war&#x2019;s inescapable reality.</description>
+      <dc:creator>DECLAN WALSH</dc:creator>
+      <pubDate>Sat, 30 Apr 2016 16:48:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Free Syrian Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Army</category>
+    </item>
+    <item>
+      <title>How ISIS Built the Machinery of Terror Under Europe&#x2019;s Gaze</title>
+      <link>http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/26/world/xxisisplotheader/xxisisplotheader-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Paris attacks left 130 dead in November, but a branch within the Islamic State was obsessed with striking Europe at least two years before then.</media:description>
+      <media:credit>Philippe Wojazer/Reuters</media:credit>
+      <description>Two years before the Paris and Brussels assaults, a special branch of the group was churning out smaller attacks that the authorities repeatedly discounted as isolated or random acts.</description>
+      <dc:creator>RUKMINI CALLIMACHI</dc:creator>
+      <pubDate>Tue, 05 Apr 2016 01:06:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brussels Attacks (March 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abaaoud, Abdelhamid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hame, Reda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">State of Terror (Series)</category>
+    </item>
+  </channel>
+</rss>

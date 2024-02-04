@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 23 Feb 2022 04:06:49 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Feb 2022 04:02:37 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</title>
+      <link>https://www.nytimes.com/live/2022/02/22/world/russia-ukraine</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/02/22/world/russia-ukraine</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine" rel="standout"></atom:link>
+      <description>Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 04:02:37 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-biden-promo/22ukraine-briefing-biden-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>As French Elections Loom, Macron Tries to Strike a Balance</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html" rel="standout"></atom:link>
+      <description>The news media calls the French president “Jupiter,” the king of the gods, but he is trying to show a more human face. Will it soften his image?</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 01:34:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Gaulle, Charles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zemmour, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/00france-president-king-01/00france-president-king-01-moth.jpg" width="151"></media:content>
+      <media:credit>Sarahbeth Maney/The New York Times</media:credit>
+      <media:description>President Emmanuel Macron of France, center left, at an Armistice Day event in Paris in November. The power of the presidency in the country has little equivalent in other Western democracies.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Enclaves Long Steeped in Conflict Face New Peril</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html" rel="standout"></atom:link>
+      <description>A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 18:23:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22Ukraine-east1/22Ukraine-east1-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Viktoria Gudyatskaya and her daughter Svetlana, 14, boarding a train to Kyiv in Severodonetsk, Ukraine, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>In Kyiv, a Soldier’s Funeral and Vows of Defiance</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html" rel="standout"></atom:link>
+      <description>Ukrainians have been preparing for a possible military escalation by Russia for months. They were somber but largely defiant.</description>
+      <dc:creator>Valerie Hopkins and Brendan Hoffman</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 23:11:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-kyiv-1-promo/22ukraine-kyiv-1-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>The funeral on Tuesday for Capt. Anton Sidorov, a 35-year-old Ukrainian intelligence officer killed three days earlier while serving on the front line in eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html" rel="standout"></atom:link>
+      <description>Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 22:35:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Militia (Donetsk People&#39;s Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naryshkin, Sergei Y</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peskov, Dmitri S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21russia-propaganda-end/21russia-propaganda-end-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>People who fled from separatist territory in eastern Ukraine following Russian claims about an attack by Ukraine watching Mr. Putin speak on Monday night.</media:description>
+    </item>
+    <item>
+      <title>Canada Ends Its Freeze on Hundreds of Accounts Tied to Protests</title>
+      <link>https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html" rel="standout"></atom:link>
+      <description>After a court denied bail to one arrested protest organizer, the government said it was winding up its pursuit of people involved in the unrest.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 01:20:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assets, Frozen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/21/world/22canada-assets-1/21canada-assets-1-moth.jpg" width="151"></media:content>
+      <media:credit>Brett Gundlock for The New York Times</media:credit>
+      <media:description>Police officers making arrests at the trucker protest in Ottawa on Friday.</media:description>
+    </item>
+    <item>
+      <title>Colombia Decriminalizes Abortion, Bolstering Trend Across Region</title>
+      <link>https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html" rel="standout"></atom:link>
+      <description>The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape.</description>
+      <dc:creator>Julie Turkewitz</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 05:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21colombia-3/21colombia-3-moth.jpg" width="151"></media:content>
+      <media:credit>Nathalia Angarita for The New York Times</media:credit>
+      <media:description>Abortion rights supporters celebrating in front of Colombia’s Constitutional Court during the ruling in favor of decriminalizing abortion up to 24 weeks gestation, in Bogotá on Monday.</media:description>
+    </item>
+    <item>
+      <title>To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</title>
+      <link>https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html" rel="standout"></atom:link>
+      <description>Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government.</description>
+      <dc:creator>Salman Masood and Zia ur-Rehman</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 23:38:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baluch (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehrik-e-Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baluchistan (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/19/world/19PAKISTAN-TALIBAN1/19PAKISTAN-TALIBAN1-moth.jpg" width="151"></media:content>
+      <media:credit>Danial Shah/Getty Images</media:credit>
+      <media:description>Taliban fighters at the Torkham crossing as seen from the Pakistani side, last August.</media:description>
+    </item>
+    <item>
+      <title>Europe Sanctions Russia Over Ukraine Crisis, Coordinating Squeeze With the U.S.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html" rel="standout"></atom:link>
+      <description>The European Union, acting in tandem with the United States and Britain, hopes to restrain Moscow by keeping bigger penalties in reserve.</description>
+      <dc:creator>Steven Erlanger and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 22:57:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-eu01/22ukraine-eu01-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Central Moscow, with Red Square in the background, last year. In drawing up penalties, Western leaders must decide whether President Vladimir V. Putin’s actions amount to a further Russian invasion of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html" rel="standout"></atom:link>
+      <description>In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country.</description>
+      <dc:creator>Michael Schwirtz</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 14:43:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synagogues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hatzolah Volunteer Ambulance Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Odessa (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/xxOdessa-Jews/xxOdessa-Jews-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Prayer services following shabbat at the Great Choral Synagogue in Odessa, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>‘Dark Money’ Suddenly Dominates Australia’s Election</title>
+      <link>https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html" rel="standout"></atom:link>
+      <description>Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 15:29:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Party (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morrison, Scott (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dutton, Peter C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/00oz-money1/00oz-money1-moth.jpg" width="151"></media:content>
+      <media:credit>Lukas Coch/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Scott Morrison, left, and Anthony Albanese, the opposition leader, at the House of Representatives in Canberra, Australia. </media:description>
+    </item>
+    <item>
+      <title>Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</title>
+      <link>https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine" rel="standout"></atom:link>
+      <description>As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 03:25:38 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/multimedia/22virus-briefing-SFpromo/22virus-briefing-SFpromo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <media:description>Old San Juan, Puerto Rico, in January. Puerto Rico, the largest U.S. territory, has yet to announce any changes to its island-wide mask mandate.</media:description>
+    </item>
+    <item>
+      <title>Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html" rel="standout"></atom:link>
+      <description>A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II.</description>
+      <dc:creator>Motoko Rich and Hikari Hida</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 00:02:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Educational, Scientific and Cultural Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/15/world/00japan-sado1/00japan-sado1-moth.jpg" width="151"></media:content>
+      <media:credit>Shiho Fukada for The New York Times</media:credit>
+      <media:description>A gold and silver mine on Sado Island, Japan. Mines on the island once supplied the shoguns of Japan with precious metals.</media:description>
+    </item>
+    <item>
+      <title>U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</title>
+      <link>https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html" rel="standout"></atom:link>
+      <description>President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis.</description>
+      <dc:creator>Michael D. Shear, Richard Pérez-Peña, Zolan Kanno-Youngs and Anton Troianovski</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 03:31:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/us/politics/22dc-ukraine-ledeall-2sub/merlin_202673406_fca6742b-4820-4d03-adbe-3cf09814a1b7-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Parents said goodbye to their children in Severodonetsk, eastern Ukraine, on Tuesday, after President Vladimir V. Putin recognized separatist areas of the country.</media:description>
+    </item>
+    <item>
+      <title>Will Biden’s Sanctions Halt a Russian Invasion of Ukraine?</title>
+      <link>https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia.</description>
+      <dc:creator>Edward Wong and Michael Crowley</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 01:54:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/us/politics/22dc-sanctions-sub/22dc-sanctions-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>President Vladimir V. Putin has had years to make his country’s $1.5 trillion economy more insular so that parts of Russia would be shielded from tough penalties.</media:description>
+    </item>
+    <item>
+      <title>UN Leader Deepens Criticism of Russia Over Ukraine Crisis</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/un-russia-antonio-guterres.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/un-russia-antonio-guterres.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/un-russia-antonio-guterres.html" rel="standout"></atom:link>
+      <description>António Guterres said Ukraine’s sovereign territory had been violated, and he rejected Vladimir Putin’s description of Russian troops as peacekeepers.</description>
+      <dc:creator>Rick Gladstone</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 01:34:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-UN-secretary-general1/22ukraine-briefing-UN-secretary-general1-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Szenes/EPA, via Shutterstock</media:credit>
+      <media:description>António Guterres, the secretary general of the United Nations, at the U.N. headquarters in New York on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Here Is a Transcript of President Biden’s Speech on Russia</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html" rel="standout"></atom:link>
+      <description>Here is a lightly edited transcript of the president’s speech announcing new sanctions.</description>
+      <dc:creator>Azi Paybarah</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 02:59:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/12/world/122ukraine-briefing-biden-transcript/122ukraine-briefing-biden-transcript-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Joe Biden at the White House on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Trump Refers to Russian Aggression Toward Ukraine as ‘Genius’</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html" rel="standout"></atom:link>
+      <description>In a radio interview, the former president also described Russian troops along the Ukrainian border as peacekeepers.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 03:57:21 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-trump-response1/22ukraine-briefing-trump-response1-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Former President Donald J. Trump and President Vladimir V. Putin of Russia in Osaka, Japan, in 2019.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</title>
+      <link>https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html" rel="standout"></atom:link>
+      <description>Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there.</description>
+      <dc:creator>Clifford Krauss and Stanley Reed</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 01:55:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BP Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Dutch Shell Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Total SA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Exxon Mobil Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/business/22oilandgas-01alt/22oilandgas-01alt-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A power station in eastern Ukraine was heavily bombed on Tuesday. Oil prices quickly jumped to nearly $100 a barrel after reports that Russian troops had entered Ukrainian separatist territories.</media:description>
+    </item>
+    <item>
+      <title>The Limits of a Europe Whole and Free</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html" rel="standout"></atom:link>
+      <description>Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him?</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 22:24:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nord Stream AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-shift-1/22ukraine-shift-1-moth.jpg" width="151"></media:content>
+      <media:credit> The New York Times</media:credit>
+      <media:description>Russian self-propelled howitzers Msta-S are loaded onto a train car at the station outside Taganrog, Russia, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>The West Sanctions Russia </title>
+      <link>https://www.nytimes.com/2022/02/22/briefing/ukraine-russia-hong-kong-tests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/briefing/ukraine-russia-hong-kong-tests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/briefing/ukraine-russia-hong-kong-tests.html" rel="standout"></atom:link>
+      <description>President Biden condemned what he called the “beginning of a Russian invasion of Ukraine.”</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 21:22:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/23/multimedia/23ambriefing-asia-nl-PROMO/23ambriefing-asia-nl-BIDEN2-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Joe Biden spoke on Tuesday about tensions between Russia and Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Global Tours Were Key for Orchestras. Then the Pandemic Hit.</title>
+      <link>https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html" rel="standout"></atom:link>
+      <description>Two years after the coronavirus paralyzed classical music, ensembles are again returning to the global stage. But they face significant challenges.</description>
+      <dc:creator>Javier C. Hernández</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 18:32:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carnegie Hall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vienna Philharmonic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Froschauer, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gergiev, Valery</category>
+    </item>
+    <item>
+      <title>Biden Calls Putin’s Actions ‘Beginning of a Russian Invasion of Ukraine&#39;</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html" rel="standout"></atom:link>
+      <description>President Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying the new sanctions cut off Russia from Western finance.</description>
+      <dc:creator>Michael D. Shear and Anton Troianovski</dc:creator>
+      <pubDate>Wed, 23 Feb 2022 02:25:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22blog-header-biden/22blog-header-biden-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Biden speaking at the White House on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Sanctions on Russia pose new threat to a fragile global economy.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html" rel="standout"></atom:link>
+      <description>Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 18:37:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-global-economy/merlin_202661730_a7132c82-ce80-46c3-9bf7-07485f4e3b87-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian soldier at a frontline position in Novozvanivka, in the region of Luhansk, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Three key decisions have shaped Biden’s handling of the Ukraine crisis.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/three-key-decisions-have-shaped-bidens-handling-of-the-ukraine-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/three-key-decisions-have-shaped-bidens-handling-of-the-ukraine-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/three-key-decisions-have-shaped-bidens-handling-of-the-ukraine-crisis.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Michael D. Shear, Julian E. Barnes and Eric Schmitt</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 16:15:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-biden-3-decisions/merlin_202495773_24716ecc-0eaf-4ee3-9923-60dba58a8117-moth.jpg" width="151"></media:content>
+      <media:credit>Sarahbeth Maney/The New York Times</media:credit>
+      <media:description>President Biden in Washington last week.</media:description>
+    </item>
+    <item>
+      <title>White House Weighs How Hard to Hit Putin With Sanctions</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html" rel="standout"></atom:link>
+      <description>Early indications suggested the Biden administration would hold some punishments back in hopes of preventing a broader attack.</description>
+      <dc:creator>Michael D. Shear and David E. Sanger</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 15:37:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-whitehouse/merlin_202635624_86b0bb28-c7c8-4add-9437-ca0d5b2cc413-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>A protest in support of Ukraine outside the White House on Sunday.</media:description>
+    </item>
+    <item>
+      <title>US Troops in Poland Brace for Possible Ukrainian Evacuees.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html" rel="standout"></atom:link>
+      <description>The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 18:19:59 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-dc-refugee/22ukraine-briefing-dc-refugee-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Woolston/Reuters</media:credit>
+      <media:description>U.S. soldiers at a camp near the Polish border with Ukraine on Monday.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth Cancels All Virtual Engagements as She Battles Covid</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>The queen  will “continue with light duties,” Buckingham Palace said, and “further engagements over the coming week will be decided upon nearer the time.”</description>
+      <dc:creator>Aina J. Khan</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 14:15:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22virus-briefing-uk-queen-covid/22virus-briefing-uk-queen-covid-moth.jpg" width="151"></media:content>
+      <media:credit>Chris Jackson Collection, via Getty Images</media:credit>
+      <media:description>Queen Elizabeth II, center, last year. On Sunday, she became one of the world’s most prominent figures to battle the virus.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Will Require Its Residents to Get Tested in March</title>
+      <link>https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html" rel="standout"></atom:link>
+      <description>Residents will have to take three tests over a short period, starting in March.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 17:20:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22virus-briefing-hong-kong-testing/merlin_202676361_b0a397d6-fa70-44e9-b3db-10411a2f8748-moth.jpg" width="151"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>Lining up to get tested for the coronavirus at a temporary testing center in Hong Kong on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>The European Union Drafts a Set of Sanctions Against Russia</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html" rel="standout"></atom:link>
+      <description>The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities.</description>
+      <dc:creator>Matina Stevis-Gridneff and Stephen Castle</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 17:25:54 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-eu-sanctions/22ukraine-briefing-eu-sanctions-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>In Moscow this month.</media:description>
+    </item>
+    <item>
+      <title>The Ginni Thomas Question</title>
+      <link>https://www.nytimes.com/2022/02/22/briefing/ginni-thomas-clarence-thomas-russia-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/briefing/ginni-thomas-clarence-thomas-russia-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/briefing/ginni-thomas-clarence-thomas-russia-ukraine.html" rel="standout"></atom:link>
+      <description>We have a Times investigation of Ginni and Clarence Thomas — as well as the latest news from Ukraine.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 11:20:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Clarence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Virginia Lamp</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/multimedia/22the-morning-hed1-promo/22the-morning-hed1-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <media:description>Ginni Thomas at the Heritage Foundation.</media:description>
+    </item>
+    <item>
+      <title>A Victorian graveyard’s leafy pathways have taken on new meaning for some during the pandemic.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/a-victorian-graveyards-leafy-pathways-have-taken-on-new-meaning-for-some-during-the-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/a-victorian-graveyards-leafy-pathways-have-taken-on-new-meaning-for-some-during-the-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/a-victorian-graveyards-leafy-pathways-have-taken-on-new-meaning-for-some-during-the-pandemic.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 11:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s president says his country is committed to peace but ‘ready for everything.’</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/ukraines-president-says-his-country-is-committed-to-peace-but-ready-for-everything.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/ukraines-president-says-his-country-is-committed-to-peace-but-ready-for-everything.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/ukraines-president-says-his-country-is-committed-to-peace-but-ready-for-everything.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Austin Ramzy and Maria Varenikova</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 12:34:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-zelensky-01/22ukraine-briefing-zelensky-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ukrainian Presidential Press Office, via Associated Press</media:credit>
+      <media:description>President Volodymyr Zelensky of Ukraine addressing the nation in a live broadcast in Kyiv early Tuesday.</media:description>
+    </item>
+    <item>
+      <title>If You Haven’t Thought About Coronavirus in Animals, You Should</title>
+      <link>https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html" rel="standout"></atom:link>
+      <description>With the virus widespread in white-tailed deer, scientists wonder which animals might be next.</description>
+      <dc:creator>Sabrina Imbler and Emily Anthes</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 18:06:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mammals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/science/22virus-spillback/22virus-spillback-moth.jpg" width="151"></media:content>
+      <media:credit>Marine Buffard</media:credit>
+    </item>
+    <item>
+      <title>The conflict’s economic consequences are likely to threaten global growth.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/the-conflicts-economic-consequences-are-likely-to-threaten-global-growth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/the-conflicts-economic-consequences-are-likely-to-threaten-global-growth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/the-conflicts-economic-consequences-are-likely-to-threaten-global-growth.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Patricia Cohen, Jack Ewing and Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 09:20:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-briefing-economic-consequences-02/22ukraine-briefing-economic-consequences-02-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Trucks carrying wheat at a port in Mykolaiv, Ukraine. Combined, Russia and Ukraine account for nearly a quarter of global wheat exports.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2022/02/22/briefing/ukraine-troops-russia-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/briefing/ukraine-troops-russia-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/briefing/ukraine-troops-russia-coronavirus.html" rel="standout"></atom:link>
+      <description>Russia orders troops into Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 06:01:38 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/multimedia/22ambriefing-europe-nl-promo/22ambriefing-europe-nl-RUS-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Russian armored vehicles on Monday near Rostov-on-Don, a Russian city 60 miles from Ukraine.</media:description>
+    </item>
+    <item>
+      <title>U.S. diplomatic staff relocate from Ukraine to Poland.</title>
+      <link>https://www.nytimes.com/2022/02/22/world/europe/us-diplomatic-staff-have-relocated-from-ukraine-to-poland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/22/world/europe/us-diplomatic-staff-have-relocated-from-ukraine-to-poland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/22/world/europe/us-diplomatic-staff-have-relocated-from-ukraine-to-poland.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Edward Wong</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 12:34:58 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/21/world/21ukraine-briefing-embassy-01/21ukraine-briefing-embassy-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>The U.S. Embassy in Kyiv the day after the United States announced it was relocating its diplomatic staff.</media:description>
+    </item>
+    <item>
+      <title>Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html" rel="standout"></atom:link>
+      <description>In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory.</description>
+      <dc:creator>Michael Schwirtz, Maria Varenikova and Rick Gladstone</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 15:38:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Revolution (1917)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/world/22ukraine-history/22ukraine-history-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>People in Odessa on Sunday commemorated protesters killed in 2014 by paramilitary police forces in Kyiv, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</title>
+      <link>https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html" rel="standout"></atom:link>
+      <description>President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia.</description>
+      <dc:creator>Michael D. Shear and David E. Sanger</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 06:13:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/multimedia/21dc-prexy-photo01/21dc-prexy-photo01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alexei Nikolsky</media:credit>
+      <media:description>President Vladimir V. Putin of Russia signing documents recognizing the independence of separatist regions in eastern Ukraine on Monday. He then ordered Russian troops into those areas.</media:description>
+    </item>
+    <item>
+      <title>Putin Orders Forces to Russia-Backed Ukraine Regions</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html" rel="standout"></atom:link>
+      <description>The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II.</description>
+      <dc:creator>Anton Troianovski, Valerie Hopkins and Steven Erlanger</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 10:47:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-ledeall-06/21ukraine-ledeall-06-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Kristina Makarenko, 24, sitting in a shelter with her two-year-old son, Anton, after hearing news that more shelling might be imminent Monday in the eastern Ukrainian village of Vrubivka.</media:description>
+    </item>
+    <item>
+      <title>Israel Says Police Didn’t Hack Civilians Without Court Approval</title>
+      <link>https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html" rel="standout"></atom:link>
+      <description>An official investigation refuted claims that the police had illegally hacked dozens of civilians using spyware from NSO Group, an Israeli company that has long attracted global scrutiny.</description>
+      <dc:creator>Ronen Bergman and Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 21:57:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NSO Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21israel-nso-1/21israel-nso-1-moth.jpg" width="151"></media:content>
+      <media:credit>Menahem Kahana/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The NSO Group logo on a wall of a building next to one of the company’s branches in southern Israel.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Putin Recognizes Separatists in Ukraine</title>
+      <link>https://www.nytimes.com/2022/02/21/briefing/putin-recognizes-separatists-ukraine-australia-tourists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/briefing/putin-recognizes-separatists-ukraine-australia-tourists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/briefing/putin-recognizes-separatists-ukraine-australia-tourists.html" rel="standout"></atom:link>
+      <description>Western officials warn that Russia is paving a path toward war.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 20:55:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Highlights From Putin&#39;s Address on Breakaway Regions in Ukraine</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html" rel="standout"></atom:link>
+      <description>President Vladimir V. Putin said he would recognize the independence of two Russia-backed territories in eastern Ukraine. Here are highlights from his 40-minute speech.</description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 23:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-excerpts2/21ukraine-briefing-excerpts2-moth.jpg" width="151"></media:content>
+      <media:credit>Anatoly Maltsev/EPA, via Shutterstock</media:credit>
+      <media:description>A woman in St. Petersburg, Russia, watching President Vladimir Putin address the nation on Monday.</media:description>
+    </item>
+    <item>
+      <title>On the ground: A column of Russian vehicles, and soldiers without insignia.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/on-the-ground-a-column-of-russian-vehicles-and-soldiers-without-insignia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/on-the-ground-a-column-of-russian-vehicles-and-soldiers-without-insignia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/on-the-ground-a-column-of-russian-vehicles-and-soldiers-without-insignia.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 20:59:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-dispatch-ivan-01/21ukraine-briefing-dispatch-ivan-01-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>A column of Russian armored vehicles, military trucks and supply units about 60 miles away from the border with Ukraine on Monday.</media:description>
+    </item>
+    <item>
+      <title>In Photos: Eastern Ukraine on Monday.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/in-photos-eastern-ukraine-on-monday.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/in-photos-eastern-ukraine-on-monday.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/in-photos-eastern-ukraine-on-monday.html" rel="standout"></atom:link>
+      <description></description>
+      <pubDate>Mon, 21 Feb 2022 19:53:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boris Johnson warns that Russia is planning the biggest war in Europe since 1945.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-warns-that-russia-is-planning-the-biggest-war-in-europe-since-1945.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Dan Bilefsky</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 19:18:34 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-johnson2/21ukraine-johnson2-moth.jpg" width="151"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Russian and Belarusian soldiers during joint exercises near Baranovichi, Belarus, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Paul Farmer, Pioneer of Global Health, Dies at 62</title>
+      <link>https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html" rel="standout"></atom:link>
+      <description>As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities.</description>
+      <dc:creator>Ellen Barry and Alex Traub</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 21:01:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Partners in Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farmer, Paul E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kidder, Tracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man Who Would Cure the World (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/22/multimedia/21farmer-haiti2-print3-SUB/21farmer-haiti2-moth.jpg" width="151"></media:content>
+      <media:credit>Angel Franco/The New York Times</media:credit>
+      <media:description>Dr. Paul Farmer speaking with an H.I.V. patient, Altagrace Cenatus, at a Partners in Health hospital in Haiti in 2003. He worked to provide quality health care to some of the poorest people in the world.</media:description>
+    </item>
+    <item>
+      <title>Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html" rel="standout"></atom:link>
+      <description>The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army.</description>
+      <dc:creator>Valerie Hopkins and Andrew E. Kramer</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 15:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Militia (Donetsk People&#39;s Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-borders-why-matters/21ukraine-briefing-borders-why-matters-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>A woman at the border crossing between Russia and the separatist Donetsk People’s Republic in Avilo-Uspenka, Russia, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</title>
+      <link>https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html" rel="standout"></atom:link>
+      <description>Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 23:25:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/us/21dc-refugee-2/21dc-refugee-2-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Woolston/Reuters</media:credit>
+      <media:description>U.S. Army soldiers in the 82nd Airborne Division in Poland near the Ukranian border on Monday.</media:description>
+    </item>
+    <item>
+      <title>In an Uneven Fight With China, Lithuania&#39;s Brand Becomes Toxic</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html" rel="standout"></atom:link>
+      <description>After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 17:22:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/02/world/00china-lithuania01/merlin_200473857_0aadb60a-4854-4391-aa76-06fe9fcdccb9-moth.jpg" width="151"></media:content>
+      <media:credit>Andrej Vasilenko for The New York Times</media:credit>
+      <media:description>Brolis Group, a chip maker in Lithuania, recently scrapped plans to build a $50 million factory at home, mindful that foreign customers want to avoid ending up on China’s blacklist.</media:description>
+    </item>
+    <item>
+      <title>Got a Covid Booster? You Probably Won’t Need Another for a Long Time</title>
+      <link>https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html" rel="standout"></atom:link>
+      <description>A flurry of new studies suggests that several parts of the immune system can mount a sustained, potent response to any coronavirus variant.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 05:13:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Omicron Variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/19/science/19-2nd-SUB-VIRUS-IMMUNITY-02-PRINT/09virus-immunity1-moth.jpg" width="151"></media:content>
+      <media:credit>Dr. Klaus Boller/Science Source</media:credit>
+      <media:description>A colored transmission electron micrograph of a T cell. Antibodies are relatively easy to study, whereas analyzing immune cells requires blood, skill, special equipment and lots of time.</media:description>
+    </item>
+    <item>
+      <title>U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit.html" rel="standout"></atom:link>
+      <description>Vladimir Putin ratcheted up tensions further Monday, announcing that he would recognize two breakaway Ukrainian regions as independent states.</description>
+      <dc:creator>Michael D. Shear, David E. Sanger and Steven Erlanger</dc:creator>
+      <pubDate>Tue, 22 Feb 2022 23:16:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-biden01/21ukraine-briefing-biden01-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian army frontline position in Krymske, in eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>21uk</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/ukrainians-abroad-rally-in-support-of-their-friends-and-families-at-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/ukrainians-abroad-rally-in-support-of-their-friends-and-families-at-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/ukrainians-abroad-rally-in-support-of-their-friends-and-families-at-home.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Cora Engelbrecht and Emma Bubola</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 16:30:10 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/world/21ukraine-briefing-expat-global-roundup-02/21ukraine-briefing-expat-global-roundup-02-moth.jpg" width="151"></media:content>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <media:description>Ukrainian demonstrators protesting against Russia outside the White House on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Putin says Russia will decide on Monday whether to recognize breakaway regions.</title>
+      <link>https://www.nytimes.com/2022/02/21/world/europe/putin-says-he-will-consider-recognizing-the-independence-of-two-separatist-territories-in-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/02/21/world/europe/putin-says-he-will-consider-recognizing-the-independence-of-two-separatist-territories-in-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/02/21/world/europe/putin-says-he-will-consider-recognizing-the-independence-of-two-separatist-territories-in-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Valerie Hopkins and Anton Troianovski</dc:creator>
+      <pubDate>Mon, 21 Feb 2022 17:21:02 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/multimedia/21ukraine-briefing-putin-speech-03/21ukraine-briefing-putin-speech-03-moth.jpg" width="151"></media:content>
+      <media:credit>Sputnik/Via Reuters</media:credit>
+      <media:description>Russian President Vladimir V. Putin chairing a meeting with members of the Security Council in Moscow on Monday.</media:description>
+    </item>
+  </channel>
+</rss>

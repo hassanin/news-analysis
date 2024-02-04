@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 09 Aug 2016 05:27:05 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>At 82, Emperor Akihito of Japan Wants to Retire. Will Japan Let Him?</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/japan-emperor-akihito-retirement.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/japan-emperor-akihito-retirement.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/japan-emperor-akihito-retirement.html?partner=rss&amp;emc=rss"/>
+      <description>The emperor spoke publicly for the first time about retiring, saying he feared it would become &#x201C;more difficult&#x201D; to fulfill his duties.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 22:02:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akihito</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naruhito, Crown Prince of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michiko, Empress of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+    </item>
+    <item>
+      <title>New Photos Cast Doubt on China&#x2019;s Vow Not to Militarize Disputed Islands</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-spratly-islands-south-china-sea.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-spratly-islands-south-china-sea.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-spratly-islands-south-china-sea.html?partner=rss&amp;emc=rss"/>
+      <description>Satellite imagery shows China has been building reinforced hangars on the disputed Spratly Islands that can easily accommodate warplanes.</description>
+      <dc:creator>DAVID E. SANGER and RICK GLADSTONE</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 23:47:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South China Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spratly Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">People's Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Center for Strategic and International Studies</category>
+    </item>
+    <item>
+      <title>Suicide Bomber Kills Dozens at Pakistani Hospital in Quetta</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/quetta-pakistan-blast-hospital.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/quetta-pakistan-blast-hospital.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/quetta-pakistan-blast-hospital.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09Pakistan-web2/09Pakistan-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mourners on Monday after the hospital attack in Quetta. The blast occurred shortly after the body of a prominent lawyer, killed by gunmen earlier in the day, had been transferred to the hospital.</media:description>
+      <media:credit>Banaras Khan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A lawyers&#x2019; group had gathered to condemn the killing of a prominent colleague only hours earlier in the violence-torn city in Baluchistan Province.</description>
+      <dc:creator>SALMAN MASOOD</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 18:50:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quetta (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+    </item>
+    <item>
+      <title>Once Foes Over Syria, Erdogan and Putin Look to Patch Things Up</title>
+      <link>http://www.nytimes.com/2016/08/09/world/europe/russia-putin-turkey-erdogan-syria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/europe/russia-putin-turkey-erdogan-syria.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/europe/russia-putin-turkey-erdogan-syria.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09turkey-russia1/09turkey-russia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia, left, with President Recep Tayyip Erdogan of Turkey at a conference in November in Antalya, Turkey. Relations between the two leaders have been strained.</media:description>
+      <media:credit>Chris McGrath/Getty Images</media:credit>
+      <description>The Turkish president, Recep Tayyip Erdogan, will visit his Russian counterpart, Vladimir V. Putin, on Tuesday to show mutual admiration and to discuss Syria and trade.</description>
+      <dc:creator>NEIL MacFARQUHAR and TIM ARANGO</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 20:12:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+    </item>
+    <item>
+      <title>Edward Daly, Peace-Seeking Bishop in Northern Ireland&#x2019;s &#x2018;Troubles,&#x2019; Dies at 82</title>
+      <link>http://www.nytimes.com/2016/08/09/world/europe/edward-daly-bishop-northern-ireland-troubles-dies.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/europe/edward-daly-bishop-northern-ireland-troubles-dies.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/europe/edward-daly-bishop-northern-ireland-troubles-dies.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09daly-obit-1/09daly-obit-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Father Edward Daly waving a bloodied white handkerchief in a widely circulated picture from Jan. 30, 1972, known as Bloody Sunday.</media:description>
+      <media:credit>Mirrorpix</media:credit>
+      <description>As a priest and later as bishop, he argued relentlessly for peace during the three decades of sectarian violence.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 13:09:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daly, Edward</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+    </item>
+    <item>
+      <title>What in the World: Put One Foot Wrong in This Town and You&#x2019;ve Left the Country</title>
+      <link>http://www.nytimes.com/2016/08/09/world/what-in-the-world/put-one-foot-wrong-in-this-town-and-youve-left-the-country.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/what-in-the-world/put-one-foot-wrong-in-this-town-and-youve-left-the-country.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/what-in-the-world/put-one-foot-wrong-in-this-town-and-youve-left-the-country.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/25/world/what-in-the-world/-00wit_netherlands-borde-2/-00wit_netherlands-borde-2-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Cari Vander Yacht</media:credit>
+      <description>Borders dating to the 12th century carve Baarle into a crazy patchwork, splitting sidewalks, shops and houses between Belgium and the Netherlands.</description>
+      <dc:creator>LIZ ALDERMAN</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 09:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>Sudden Rainfall Left Little Time to Flee Mudslides in Mexico</title>
+      <link>http://www.nytimes.com/2016/08/09/world/americas/mexico-mudslides-tropical-storm-deaths.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/americas/mexico-mudslides-tropical-storm-deaths.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/americas/mexico-mudslides-tropical-storm-deaths.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09MEXICO/09MEXICO-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eight people died as this home and the one beside it were destroyed in mudslides in Mexico over the weekend amid torrential rainstorms from Tropical Storm Earl.</media:description>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <description>At least 44 people have died in landslides in the Mexican states of Puebla and Veracruz amid torrential rainstorms from Tropical Storm Earl.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Tue, 09 Aug 2016 00:40:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+    </item>
+    <item>
+      <title>Judge Reopens Complaint Against Argentine Ex-President in 1994 Bombing</title>
+      <link>http://www.nytimes.com/2016/08/09/world/americas/argentina-cristina-fernandez-de-kirchner-1994-bombing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/americas/argentina-cristina-fernandez-de-kirchner-1994-bombing.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/americas/argentina-cristina-fernandez-de-kirchner-1994-bombing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09argentina1/09argentina1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Demonstrators in Buenos Aires last month with portraits of victims of a bombing at a Jewish center in 1994.</media:description>
+      <media:credit>Daniel Vides/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The former president, Cristina Fern&#xE1;ndez de Kirchner, had been accused of conspiring to derail an investigation into the bombing of a Jewish center.</description>
+      <dc:creator>JONATHAN GILBERT</dc:creator>
+      <pubDate>Tue, 09 Aug 2016 01:21:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nisman, Alberto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rafecas, Daniel E (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonadio, Claudio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Timerman, Hector (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+    </item>
+    <item>
+      <title>As Peace Talks in Yemen Crumble, Civilians End Up in Cross Hairs Again</title>
+      <link>http://www.nytimes.com/2016/08/09/world/middleeast/yemen-talks-bombing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/middleeast/yemen-talks-bombing.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/middleeast/yemen-talks-bombing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09YEMEN/09YEMEN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Praying at the graves of children who were killed last week in a Saudi airstrike in Sana, Yemen. United Nations-brokered peace talks have collapsed.</media:description>
+      <media:credit>Yaha Arhab/European Pressphoto Agency</media:credit>
+      <description>The Saudi-led coalition is accused of bombing nonmilitary targets, but a United Nations panel said the Houthi rebels had hidden weapons and fighters in residential areas.</description>
+      <dc:creator>SHUAIB ALMOSAWA and ROD NORDLAND</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 12:15:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hadi, Abdu Rabbu Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+    </item>
+    <item>
+      <title>From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor&#x2019;s Guilt</title>
+      <link>http://www.nytimes.com/2016/08/07/world/europe/refugee-song-syria-germany.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/07/world/europe/refugee-song-syria-germany.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/07/world/europe/refugee-song-syria-germany.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/07/world/07pianoman11/04pianoman11-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>On a street in Wiesbaden, Germany, a woman recognized Mr. Ahmad from one of his concerts.</media:description>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <description>In a nation torn between embracing and fearing the migrants who have arrived in the past year, Aeham Ahmad has set himself the task of putting a human face on his fellow arrivals.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Sat, 06 Aug 2016 11:58:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmad, Aeham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+    </item>
+    <item>
+      <title>Airstrikes Barely Holding Off Taliban in Helmand, Afghan Officials Say</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/afghanistan-taliban-helmand.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/afghanistan-taliban-helmand.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/afghanistan-taliban-helmand.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09afghanistan1/09afghanistan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Afghan security troops in Helmand Province on Saturday. The Taliban have intensified offensive operations in that region of Afghanistan.</media:description>
+      <media:credit>Watan Yar/European Pressphoto Agency</media:credit>
+      <description>Even as Afghan and American officials insist they will not allow another urban center to fall, the noose is tightening around Lashkar Gah in Helmand Province.</description>
+      <dc:creator>MUJIB MASHAL and TAIMOOR SHAH</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 21:18:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001-14)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">airstrikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lashkar Gah (Afghanistan)</category>
+    </item>
+    <item>
+      <title>Letter From Europe: For Italians, Donald Trump&#x2019;s Act Is Familiar</title>
+      <link>http://www.nytimes.com/2016/08/09/world/europe/donald-trump-silvio-berlusconi-vladimir-putin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/europe/donald-trump-silvio-berlusconi-vladimir-putin.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/europe/donald-trump-silvio-berlusconi-vladimir-putin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09Letter-web/09Letter-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Silvio Berlusconi, center, in 2015. Much has been made in Italy of the similarities between Donald J. Trump and Mr. Berlusconi: Both glorify their success in business, both dominate the media landscape, both boast about their sexual prowess, and both seem to enjoy insulting people and nations.</media:description>
+      <media:credit>Flavio Lo Scalzo/European Pressphoto Agency</media:credit>
+      <description>&#x2018;&#x2018;Tocca a voi&#x2019;&#x2019; is a comment Italians often make to Americans now, meaning &#x2018;&#x2018;It is your turn,&#x2019;&#x2019; because Italy was once led by Silvio Berlusconi.</description>
+      <dc:creator>CELESTINE BOHLEN</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 15:06:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+    </item>
+    <item>
+      <title>Longcao Journal: Sneaking Into a Chinese Village Where Floodwater and Unrest Linger</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-hebei-floods.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-hebei-floods.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-hebei-floods.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/06/world/09LONGCAO-web1/09LONGCAO-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A street in Longcao, China, a week after floods hit last month.</media:description>
+      <media:credit>Christopher Beam</media:credit>
+      <description>Some residents of Longcao say the authorities did not issue a warning of a flood on July 19 that killed at least 164 people across two provinces.</description>
+      <dc:creator>CHRISTOPHER BEAM and XIUZHONG XU</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 14:56:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Longcao (Hebei, China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Evacuations and Evacuees</category>
+    </item>
+    <item>
+      <title>Thailand&#x2019;s Divisions on Display in Vote Approving New Constitution</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/thailand-junta-constitution-opposition.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/thailand-junta-constitution-opposition.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/thailand-junta-constitution-opposition.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09THAILAND-web1/09THAILAND-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gen. Prayuth Chan-ocha, second from left, the prime minister of Thailand and leader of the junta, in Bangkok on Monday. Initial results showed most voters in the capital and central Thailand favored the proposed constitution, while majorities elsewhere opposed it.</media:description>
+      <media:credit>Narong Sangnak/European Pressphoto Agency</media:credit>
+      <description>The proposed charter, which gives the military a powerful role, won strong support in central Thailand but was opposed in the northeast and far south.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 11:33:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prayuth Chan-ocha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Council for Peace and Order (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thaksin Shinawatra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yingluck Shinawatra</category>
+    </item>
+    <item>
+      <title>Whoops! When Museum Visitors Get Touchy-Feely With the Exhibits and Unleash Mayhem</title>
+      <link>http://www.nytimes.com/2016/08/08/world/whoops-when-museum-visitors-get-touchy-feely-with-the-exhibits-and-unleash-mayhem.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/08/world/whoops-when-museum-visitors-get-touchy-feely-with-the-exhibits-and-unleash-mayhem.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/08/world/whoops-when-museum-visitors-get-touchy-feely-with-the-exhibits-and-unleash-mayhem.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/08/arts/08xp-museum_web1/08xp-museum_web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The wall clock, by the artist James Borden.</media:description>
+      <media:credit>National Watch and Clock Museum</media:credit>
+      <description>Visitors have defaced, punctured or smashed artifacts, sculptures or paintings by accident or because of a misguided desire to &#x201C;fix&#x201D; things.</description>
+      <dc:creator>CHRISTOPHER MELE</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 11:02:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Alliance of Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Watch and Clock Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+    </item>
+    <item>
+      <title>Thousands in Eastern Chinese City Protest Nuclear Waste Project</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-nuclear-waste-protest-lianyungang.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-nuclear-waste-protest-lianyungang.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-nuclear-waste-protest-lianyungang.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09CHINA-web1/09CHINA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jean-Bernard L<em>&#xE9;</em>vy, left, chief executive of the French power company EDF, with Qian Zhimin, center, president of the China National Nuclear Corporation, and Philippe Knoche, chief executive of Areva, in Paris last year.</media:description>
+      <media:credit>Dominique Faget/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Officials in Lianyungang emphasized that the plans for a fuel recycling plant had not been completed, after large crowds demonstrated over the weekend.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 10:46:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Wastes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jiangsu Province (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Keqiang</category>
+    </item>
+    <item>
+      <title>6 South Korean Lawmakers Accused of Taking China&#x2019;s Side Against Antimissile System</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-korea-thaad-opposition.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-korea-thaad-opposition.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-korea-thaad-opposition.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09KOREA-web1/09KOREA-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Park Geun-hye of South Korea accused the opponents of her decision to deploy the American military&#x2019;s Terminal High-Altitude Area Defense system, or Thaad, of making &#x201C;absurd arguments that jibe with North Korea&#x2019;s.&#x201D;</media:description>
+      <media:credit>Chung Sung-Jun/Getty Images</media:credit>
+      <description>They pressed ahead with a Beijing trip, and Korea&#x2019;s president criticized them for &#x201C;sympathizing&#x201D; with the Chinese over the American military&#x2019;s Terminal High-Altitude Area Defense system.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Tue, 09 Aug 2016 01:34:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Park Geun-hye</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Minjoo Party (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+    </item>
+    <item>
+      <title>Sinosphere: Reconstructing Taoism&#x2019;s Transformation in China</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-taoism-terry-kleeman.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-taoism-terry-kleeman.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-taoism-terry-kleeman.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/06/world/06CHINAKLEEMAN-web3/06CHINAKLEEMAN-web3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Taoist nun at the Beichan Temple in Xining, in the Chinese province of Qinghai.</media:description>
+      <media:credit>China Photos/Getty Images</media:credit>
+      <description>Terry F. Kleeman has published the first book in a Western language on the founding of Taoism as a formal religion, rooted in earlier philosophical texts.</description>
+      <dc:creator>IAN JOHNSON</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 09:12:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taoism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Confucianism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Terry Kleeman</category>
+    </item>
+    <item>
+      <title>Kenya Angers Taiwan by Deporting More Fraud Suspects to China</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/china-kenya-taiwan-deported.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/china-kenya-taiwan-deported.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/china-kenya-taiwan-deported.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/09/world/09TAIWAN-web1/09CHINATAIWAN-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Suspects in court in Nairobi, Kenya, last week before their acquittals in a telephone fraud case. Forty of the defendants, five of them from Taiwan, have since been deported to mainland China.</media:description>
+      <media:credit>Thomas Mukoya/Reuters</media:credit>
+      <description>Taiwan said the deportations of five of its people to the mainland, which followed similar ones in April, showed &#x201C;contempt for human rights.&#x201D;</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 08:15:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+    </item>
+    <item>
+      <title>5 Things to Know About Japan&#x2019;s Emperor and Imperial Family</title>
+      <link>http://www.nytimes.com/2016/08/09/world/asia/emperor-akihito-japan-imperial-family.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/09/world/asia/emperor-akihito-japan-imperial-family.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/09/world/asia/emperor-akihito-japan-imperial-family.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/08/world/08LISTY-JAPAN/08LISTY-JAPAN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Emperor Hirohito, the father of Emperor Akihito.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>The oldest continuous monarchy in the world, extending back to 600 B.C., has had an unbroken hereditary line of 125 emperors.</description>
+      <dc:creator>RUSSELL GOLDMAN</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 23:00:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akihito</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masako, Crown Princess of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hirohito, Emperor of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naruhito, Crown Prince of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Michiko, Empress of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+    </item>
+    <item>
+      <title>Editorial: A Vote for Change in South Africa</title>
+      <link>http://www.nytimes.com/2016/08/08/opinion/a-vote-for-change-in-south-africa.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/08/opinion/a-vote-for-change-in-south-africa.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/08/opinion/a-vote-for-change-in-south-africa.html?partner=rss&amp;emc=rss"/>
+      <description>Municipal elections deliver a warning to President Jacob Zuma and the African National Congress that the status quo is intolerable.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 17:04:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+    </item>
+    <item>
+      <title>Editorial: Many Countries Will Need Help Adapting to Climate Change</title>
+      <link>http://www.nytimes.com/2016/08/08/opinion/many-countries-will-need-help-adapting-to-climate-change.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/08/opinion/many-countries-will-need-help-adapting-to-climate-change.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/08/opinion/many-countries-will-need-help-adapting-to-climate-change.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/08/opinion/08mon2/08mon2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Eleni Kalorkoti</media:credit>
+      <description>Rich nations need to make good on their pledges, particularly to low-lying island nations whose very existence is threatened.</description>
+      <dc:creator>THE EDITORIAL BOARD</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 07:21:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Editorials</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: America&#x2019;s Dangerous &#x2018;Putin Panic&#x2019;</title>
+      <link>http://www.nytimes.com/2016/08/08/opinion/americas-dangerous-putin-panic.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/08/08/opinion/americas-dangerous-putin-panic.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/08/08/opinion/americas-dangerous-putin-panic.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/08/world/08krastev/08krastev-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A delegate&#x2019;s sign at the Democratic National Convention in Philadelphia last month.</media:description>
+      <media:credit>Justin Lane/European Pressphoto Agency</media:credit>
+      <description>Paranoia about Russian meddling only makes Moscow stronger.</description>
+      <dc:creator>IVAN KRASTEV</dc:creator>
+      <pubDate>Mon, 08 Aug 2016 14:02:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Propaganda</category>
+    </item>
+    <item>
+      <title>Outstanding Issues: A Yemeni Teenager&#x2019;s Trip to Estonia, by Way of Guant&#xE1;namo</title>
+      <link>http://www.nytimes.com/2016/09/02/insider/outstanding-issues-a-yemeni-teenagers-trip-to-estonia-by-way-of-guantanamo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/09/02/insider/outstanding-issues-a-yemeni-teenagers-trip-to-estonia-by-way-of-guantanamo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/09/02/insider/outstanding-issues-a-yemeni-teenagers-trip-to-estonia-by-way-of-guantanamo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/08/03/insider/03insider-savage01/03insider-savage01-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ahmed Abdul Qader, a former Guant&#xE1;namo Bay detainee, at Freedom Square in Tallinn, Estonia, in May.</media:description>
+      <media:credit>Adam Ferguson for The New York Times</media:credit>
+      <description>The reporter Charlie Savage wrote about an ex-Guant&#xE1;namo inmate&#x2019;s resettlement; the story didn&#x2019;t end when the article published.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Thu, 04 Aug 2016 20:27:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qader, Ahmed Abdul (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>At the Front in a Scarred Falluja</title>
+      <link>http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/31/world/middleeast/at-the-front-in-a-scarred-falluja.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/30/world/middleeast/xxFalluja-slide-ZW8K/xxFalluja-slide-ZW8K-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <description>Bryan Denton, a photographer who works for The New York Times and is based in Beirut, Lebanon, gives his account of covering Iraqi forces&#x2019; recapture of Falluja from the Islamic State.</description>
+      <dc:creator>BRYAN DENTON</dc:creator>
+      <pubDate>Sat, 30 Jul 2016 18:22:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Falluja (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Iraqi Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+    </item>
+    <item>
+      <title>Devanampattinam Journal: Mortal to Divine and Back: India&#x2019;s Transgender Goddesses</title>
+      <link>http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/25/world/asia/india-transgender.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/26/world/asia/xxkhoti-ss-slide-81HN/xxkhoti-ss-slide-81HN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Candace Feit</media:credit>
+      <description>During the 10-day Hindu festival Mayana Kollai, the troubles of transgender women are distant as they transform into the deities they worship and are revered by villagers.</description>
+      <dc:creator>Photographs by CANDACE FEIT</dc:creator>
+      <pubDate>Sun, 24 Jul 2016 18:25:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tamil Nadu (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Mayana Kollai festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Kothis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Devanampattinam (India)</category>
+    </item>
+    <item>
+      <title>Not Forgotten: Inside The Times Archives</title>
+      <link>http://www.nytimes.com/interactive/projects/cp/obituaries/archives?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/interactive/projects/cp/obituaries/archives</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/interactive/projects/cp/obituaries/archives?partner=rss&amp;emc=rss"/>
+      <description>Since 1851, more than 200,000 people have been the subjects of obituaries in The New York Times. Join us each day this summer as we revisit many of these memorable lives.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Wed, 01 Jun 2016 02:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voices From Europe&#x2019;s Far Right</title>
+      <link>http://www.nytimes.com/2016/07/13/world/europe/voices-from-europes-far-right.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/07/13/world/europe/voices-from-europes-far-right.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/07/13/world/europe/voices-from-europes-far-right.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/07/02/world/farright-web1/farright-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;Our economy doesn&#x2019;t increase along with the never-ending supply of immigrants,&#x201D; wrote Mikael Jakobsen, 24, a law student in Aarhus, Denmark.</media:description>
+      <media:credit>Michael Drost-Hansen for The New York Times</media:credit>
+      <description>Hundreds of readers from across the Continent responded to our call to share their experiences as supporters of far-right parties.</description>
+      <dc:creator>PALKO KARASZ</dc:creator>
+      <pubDate>Wed, 13 Jul 2016 06:42:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Danish People's Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fidesz Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Freedom Party of Austria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Jobbik (Hungary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hofer, Norbert (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 07 Sep 2022 12:20:05 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 12:17:48 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Putin Says Russia ‘Has Not Lost Anything’</title>
+      <link>https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/07/world/ukraine-russia-war" rel="standout"></atom:link>
+      <description>In a characteristically defiant speech in Russia’s far east, Vladimir Putin argued that the West had failed in its “economic, financial and technological aggression” against Moscow.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 12:13:46 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07ukraine-briefing-header-1am/07ukraine-briefing-header-1am-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Workers from the Kyiv Region Emergency Services department extinguishing a peat fire in Katyuzhanka, Ukraine on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>In India’s Tech Capital, Floods Leave Workers Riding Tractors to Work</title>
+      <link>https://www.nytimes.com/2022/09/06/world/asia/india-bangalore-floods.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/asia/india-bangalore-floods.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/asia/india-bangalore-floods.html" rel="standout"></atom:link>
+      <description>Bengaluru, India’s Silicon Valley, joined the roster of places in South Asia inundated by torrential rains during this monsoon season.</description>
+      <dc:creator>Sameer Yasir and Emily Schmall</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 15:36:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangalore (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06IndiaFlood01a/06IndiaFlood01a-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>People pulling a car through a water-logged road following torrential rains in Bengaluru, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Blackpool Shows Challenges for New U.K. Leader Liz Truss</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/uk-truss-blackpool-conservative-party.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/uk-truss-blackpool-conservative-party.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/uk-truss-blackpool-conservative-party.html" rel="standout"></atom:link>
+      <description>Blackpool contains one of the most deprived areas to turn to the Conservatives in Britain’s last general election. But with costs rising, there are already signs of cracks in that support.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 09:34:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/06/world/06UKNorth06/06UKNorth06-moth.jpg" width="151"></media:content>
+      <media:credit>Molly Darlington/Reuters</media:credit>
+      <media:description>Blackpool Tower illuminated for the queen’s Platinum Jubilee celebrations this summer. The most daunting challenges Prime Minister Liz Truss will face will come in towns like Blackpool, England.</media:description>
+    </item>
+    <item>
+      <title>In Energy Crunch, Germany Turns Down Heat but Won’t Limit Autobahn Speeds</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/germany-autobahn-speed-limits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/germany-autobahn-speed-limits.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/germany-autobahn-speed-limits.html" rel="standout"></atom:link>
+      <description>Putting general restrictions on the country’s storied highways is a simple step to save energy, carbon emissions and lives. But even with the Greens in power, the country is unlikely to take it.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 17:56:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speed Limits and Speeding</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/00germany-speed/00germany-speed-moth.jpg" width="151"></media:content>
+      <media:credit>Focke Strangmann/EPA, via Shutterstock</media:credit>
+      <media:description>Many of Germany’s autobahns have no speed limits. The German Environment Ministry found that adding restrictions could save 2.1 billion liters of fuel each year.</media:description>
+    </item>
+    <item>
+      <title>Canada Stabbing Suspect Remains at Large After Manhunt in Saskatchewan</title>
+      <link>https://www.nytimes.com/2022/09/06/world/canada/canada-stabbing-suspect-manhunt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/canada/canada-stabbing-suspect-manhunt.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/canada/canada-stabbing-suspect-manhunt.html" rel="standout"></atom:link>
+      <description>The police received reports that Myles Sanderson was spotted at the Indigenous reserve where the stabbings took place, but by day’s end he was not in custody, and an emergency alert was still in place for Saskatchewan.</description>
+      <dc:creator>Ian Austen, Vjosa Isai and Yonette Joseph</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 00:47:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Myles (September 4, 2022 Murder)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/multimedia/06canada-ledeall-02/06canada-ledeall-02-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>A police vehicle at James Smith Cree Nation after a report that Myles Sanderson may have been spotted there.</media:description>
+    </item>
+    <item>
+      <title>How Will Ukraine Rebuild (and Who Should Pay)?</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/how-will-ukraine-rebuild-and-who-should-pay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/how-will-ukraine-rebuild-and-who-should-pay.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/how-will-ukraine-rebuild-and-who-should-pay.html" rel="standout"></atom:link>
+      <description>A report to Western donors before a major reconstruction conference next month urges quick decisions, phased investment and strict foreign oversight of any aid.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 10:03:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06UkraineReconstruction01/06UkraineReconstruction01-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>A bombed bridge across the Irpin River near Kyiv in April. A report from the German Marshall Fund envisages a total of some $100 billion to rebuild Ukraine’s infrastructure.</media:description>
+    </item>
+    <item>
+      <title>U.N. Team Calls for No-Fire Zone at Ukraine Nuclear Plant</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/ukraine-war-nuclear-reactor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/ukraine-war-nuclear-reactor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/ukraine-war-nuclear-reactor.html" rel="standout"></atom:link>
+      <description>In a highly anticipated report, nuclear experts who crossed a battlefield to inspect Europe’s largest nuclear plant called for Russia and Ukraine to halt all military activity around the complex.</description>
+      <dc:creator>Eric Nagourney and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 23:29:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grossi, Rafael</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06ukraine-ledeall-sub/06ukraine-ledeall-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>The director general of the U.N. nuclear watchdog, Rafael Mariano Grossi, addressing the Security Council on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>A ‘Period Dignity Officer’ Seemed Like a Good Idea. Until a Man Was Named.</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/scotland-free-period-products.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/scotland-free-period-products.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/scotland-free-period-products.html" rel="standout"></atom:link>
+      <description>The job in the Scottish region of Tayside was eliminated after a groundswell of anger that a man would be overseeing, or ‘mansplaining,’ menstruation policy.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 19:22:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menstruation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navratilova, Martina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/06scotland/06scotland-moth.jpg" width="151"></media:content>
+      <media:credit>Jill Lawless/Associated Press</media:credit>
+      <media:description>The Scottish Parliament. Scotland was the first country to adopt a law requiring universal free access to period products.</media:description>
+    </item>
+    <item>
+      <title>Israel Recalls Envoy to Morocco After Harassment Claims</title>
+      <link>https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/middleeast/israel-morocco-envoy-misconduct.html" rel="standout"></atom:link>
+      <description>Israel is investigating accusations against David Govrin over his conduct in Rabat, the Moroccan capital. The two countries sealed formal ties in 2020 as part of a wider regional realignment.</description>
+      <dc:creator>Aida Alami and Patrick Kingsley</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 18:22:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govrin, David</category>
+    </item>
+    <item>
+      <title>France Expels Imam Accused of Hate Speech, Reviving a Thorny Debate</title>
+      <link>https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/europe/france-imam-hate-speech.html" rel="standout"></atom:link>
+      <description>The government presented the deportation of Hassan Iquioussen as part of efforts to crack down on “Islamist separatism.” Critics called it a political stunt that infringed on civil liberties.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 12:17:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Imams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Darmanin, Gerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/07france-imam1/07france-imam1-moth.jpg" width="151"></media:content>
+      <media:credit>Francois Lo Presti/Agence France-Presse — Getty Images</media:credit>
+      <media:description>By the time the police moved to deport Hassan Iquioussen, an imam, from Lourches, northern France, he had left the country and could not be found.</media:description>
+    </item>
+    <item>
+      <title>A Summer of Climate Disasters</title>
+      <link>https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/climate-change-heat-waves-us-europe.html" rel="standout"></atom:link>
+      <description>Climate change has made extreme weather increasingly normal.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 10:41:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/29/climate/07-the-morning-floods/merlin_212101257_0c04101e-4382-40c0-8697-9e95c7027569-moth.jpg" width="151"></media:content>
+      <media:credit>Bilawal Arbab/EPA, via Shutterstock</media:credit>
+      <media:description>Flooding in northwestern Pakistan.</media:description>
+    </item>
+    <item>
+      <title>China’s Youth Try on the Communist Cadre Look</title>
+      <link>https://www.nytimes.com/2022/09/07/world/asia/china-communist-cadre-fashion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/asia/china-communist-cadre-fashion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/asia/china-communist-cadre-fashion.html" rel="standout"></atom:link>
+      <description>Why are some Chinese youth dressing like middle-aged civil servants? It might be ironic, or a longing for stability in uncertain times.</description>
+      <dc:creator>Joy Dong</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 09:00:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coats and Jackets</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/18/world/00cadre-style1a/00cadre-style1a-moth.jpg" width="151"></media:content>
+      <media:credit>Li Xueren/Xinhua, via Associated Press</media:credit>
+      <media:description>President Xi Jinping in his trademark blue jacket with oversize trousers during a July visit to Urumqi, China. The understated look has become surprisingly popular with some younger Chinese.</media:description>
+    </item>
+    <item>
+      <title>Desert Winemaking ‘Sounds Absurd,’ but Israeli Vineyards in Negev Show the Way</title>
+      <link>https://www.nytimes.com/2022/09/07/world/middleeast/israel-negev-desert-wine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/world/middleeast/israel-negev-desert-wine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/world/middleeast/israel-negev-desert-wine.html" rel="standout"></atom:link>
+      <description>As vintners around the world battle extreme heat and climate change, the pioneers producing wine in Israel’s arid south are testing ideas that might soon find global application.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Negev Desert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/01/world/01Isreal-Wine-01/01Isreal-Wine-01-moth.jpg" width="151"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Picking grenache grapes at sunrise in the Negev Desert this summer.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/07/briefing/nuclear-ukraine-liz-truss.html" rel="standout"></atom:link>
+      <description>A report on the Zaporizhzhia nuclear complex.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 04:45:23 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/07ambriefing-europe-nl-promo-sept/07themorning-ukraine-ledeall--moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Kelly/Reuters</media:credit>
+      <media:description>IAEA Director General Rafael Mariano Grossi addresses a meeting by the United Nations Security Council on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing: South Korea Skirts a Typhoon</title>
+      <link>https://www.nytimes.com/2022/09/06/briefing/typhoon-south-korea-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/typhoon-south-korea-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/typhoon-south-korea-asia.html" rel="standout"></atom:link>
+      <description>Plus Russia and North Korea grow closer, and Apple prepares to introduce its newest iPhone.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 20:55:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/world/090722ambriefing-asia-promo/090722ambriefing-asia-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Flooded homes in Seondu village in Gyeongju city, South Korea, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Liz Truss Takes Over as Prime Minister, Promising Britons They Can ‘Ride Out the Storm’</title>
+      <link>https://www.nytimes.com/2022/09/06/world/liz-truss-uk-prime-minister-cabinet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/liz-truss-uk-prime-minister-cabinet.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/liz-truss-uk-prime-minister-cabinet.html" rel="standout"></atom:link>
+      <description>Liz Truss takes over as prime minister at a time of deepening economic crisis. Her first cabinet appointments reward loyalists who supported her bid for office.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 20:49:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-truss-1/06uk-truss-1-moth.jpg" width="151"></media:content>
+      <media:credit>Carl Court/Getty Images</media:credit>
+      <media:description>Britain’s new prime minister, Liz Truss, with her husband, Hugh O’Leary, after giving her first speech, at Downing Street on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Who Will Liz Truss Appoint to Her Cabinet?</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/liz-truss-cabinet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/liz-truss-cabinet.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/liz-truss-cabinet.html" rel="standout"></atom:link>
+      <description>The announcements, expected later on Tuesday, are likely to reward loyalists and overlook defeated rivals.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 14:07:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-cabinet/06uk-blog-cabinet-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prime Minister Liz Truss is expected to choose Kwasi Kwarteng for chancellor of the Exchequer. Rishi Sunak, who quit the post in July, lost the battle for prime minister to Ms. Truss.</media:description>
+    </item>
+    <item>
+      <title>It’s A Challenging Time To Be @Liztruss on Twitter</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/liz-truss-twitter-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/liz-truss-twitter-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/liz-truss-twitter-prime-minister.html" rel="standout"></atom:link>
+      <description>The woman who has owned the account since 2009 is having fun replying to well wishers and world leaders who tag her, thinking she is Britain’s new prime minister.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 14:56:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+    </item>
+    <item>
+      <title>South Korea Is Spared as Typhoon Hinnamnor Makes Swift Exit</title>
+      <link>https://www.nytimes.com/2022/09/06/world/asia/korea-typhoon-hinnamnor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/asia/korea-typhoon-hinnamnor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/asia/korea-typhoon-hinnamnor.html" rel="standout"></atom:link>
+      <description>The storm brought heavy rain and blackouts near the southern coast, but its fast pace kept the country from experiencing the severe damage caused by floods in August.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 11:20:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jeju Island (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06skorea-typhoon1/06skorea-typhoon1-moth.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Firefighters surveying the water level at a flooded underground parking lot in Pohang where seven people went missing after Typhoon Hinnamnor hit.</media:description>
+    </item>
+    <item>
+      <title>Bomb Attack in Burkina Faso Kills Dozens of Civilians</title>
+      <link>https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/africa/attack-burkina-faso.html" rel="standout"></atom:link>
+      <description>At least 35 people were killed and dozens of others wounded when a roadside blast struck a convoy. The country has been devastated by growing violence driven by extremist groups.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 11:02:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Qaeda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norwegian Refugee Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burkina Faso</category>
+    </item>
+    <item>
+      <title>A Good Issue for Democrats</title>
+      <link>https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/covid-poll-democrats-republicans-midterms.html" rel="standout"></atom:link>
+      <description>Despite the large partisan gaps on many aspects of Covid, Americans give Democrats higher marks for pandemic management than Republicans.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 11:20:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+    </item>
+    <item>
+      <title>Larry the Cat Will Stay at No. 10 Downing Street</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/larry-cat-10-downing-street.html" rel="standout"></atom:link>
+      <description>The chief mouser to the Cabinet Office will remain in 10 Downing Street even after Britain welcomes Liz Truss as prime minister.</description>
+      <dc:creator>Mark Landler and Euan Ward</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 10:29:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="">Larry the Cat</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-larry-landler/06uk-blog-larry-landler-moth.jpg" width="151"></media:content>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <media:description>Larry the Cat outside of Downing Street, after Boris Johnson departed on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>How One Couple Uprooted Their Life to Open an Inn in the Catskills</title>
+      <link>https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/style/catskill-mountains-phoenicia-lodge.html" rel="standout"></atom:link>
+      <description>In early 2020, Maureen McNamara and her wife, Jennifer Stark, traded in their popular restaurant in Michigan for an inn nestled in the Catskill Mountains of New York. The inn opened just days before the pandemic was declared.</description>
+      <dc:creator>Alix Strauss</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 09:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catskill Mountains</category>
+      <category domain="">nevertoolate2021</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/multimedia/06nevertoolate-inkeepers-2/06nevertoolate-inkeepers-2-moth.jpg" width="151"></media:content>
+      <media:credit>Jasmine Clarke for The New York Times</media:credit>
+      <media:description>Jennifer Stark, left, and Maureen McNamara took a leap of faith and opened the Phoenicia Lodge in the Catskill Mountains of New York in early 2020.</media:description>
+    </item>
+    <item>
+      <title>Scenes From the Aftermath of Typhoon Hinnamnor</title>
+      <link>https://www.nytimes.com/2022/09/06/world/asia/scenes-aftermath-typhoon-hinnamnor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/asia/scenes-aftermath-typhoon-hinnamnor.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/asia/scenes-aftermath-typhoon-hinnamnor.html" rel="standout"></atom:link>
+      <description>The storm swept past South Korea’s southeastern corner, causing at least three deaths, sparking a fire at a steel plant and leaving tens of thousands without power.</description>
+      <dc:creator>Victoria Kim and Chang W. Lee</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 13:33:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Busan (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/05/world/06skorea-typhoon-photovideo-promo/05typhoon-hinnamnor-lede-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Flooding in Gyeongju, South Korea, on Tuesday in the wake of Typhoon Hinnamnor.</media:description>
+    </item>
+    <item>
+      <title>Battling Violence and Censors, Women in China Become ‘Invisible and Absent’</title>
+      <link>https://www.nytimes.com/2022/09/06/business/china-women-metoo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/business/china-women-metoo.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/business/china-women-metoo.html" rel="standout"></atom:link>
+      <description>The Chinese Communist Party has long promoted gender equality as a core tenet, but as cases of gender abuse make headlines, Beijing has tried to squelch dissent and control the narrative.</description>
+      <dc:creator>Alexandra Stevenson and Zixu Wang</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 12:26:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhou Xiaoxuan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Jun</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/07/business/06JPchina-metoo-print/06china-metoo-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Noel Celis/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Zhou Xiaoxuan in August lost her appeal against a famous TV anchor she had accused of sexual assault.</media:description>
+    </item>
+    <item>
+      <title>It Was War. Then, a Rancher’s Truce With Some Pesky Beavers Paid Off.</title>
+      <link>https://www.nytimes.com/2022/09/06/climate/climate-change-beavers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/climate/climate-change-beavers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/climate/climate-change-beavers.html" rel="standout"></atom:link>
+      <description>The ‘highly skilled environmental engineers’ can help to store precious water and rejuvenate land ravaged by climate change. Just don’t dynamite their homes.</description>
+      <dc:creator>Catrin Einhorn and Niki Chan Wylie</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 07:00:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beavers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wetlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+    </item>
+    <item>
+      <title>Biden Puts Defense of Democracy at Center of Agenda, at Home and Abroad</title>
+      <link>https://www.nytimes.com/2022/09/06/us/politics/biden-democracy-threat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/us/politics/biden-democracy-threat.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/us/politics/biden-democracy-threat.html" rel="standout"></atom:link>
+      <description>President Biden’s foreign policy priority overlaps with a main domestic drive — both made more urgent by the persistent power of China, Russia and Donald J. Trump.</description>
+      <dc:creator>Edward Wong</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 11:52:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/us/politics/05dc-diplo-democracy-1/merlin_212325576_b5adcc2c-ddf8-4b49-81f2-324e75c9b807-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Biden warned about the threat to democracy in the United States last week during a speech in Philadelphia.</media:description>
+    </item>
+    <item>
+      <title>Why Liz Truss is Meeting Queen Elizabeth at Balmoral </title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/liz-truss-queen-elizabeth-balmoral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/liz-truss-queen-elizabeth-balmoral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/liz-truss-queen-elizabeth-balmoral.html" rel="standout"></atom:link>
+      <description>The meeting, usually performed at Buckingham Palace, was moved as the 96-year-old monarch faces health challenges.</description>
+      <dc:creator>Emma Bubola</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 09:58:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05uk-briefing-balmoral-1/05uk-briefing-balmoral-1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Andrew Milligan/Reuters </media:credit>
+      <media:description>Balmoral Castle was built for Queen Victoria in the 1850s, and has remained a summer retreat for royals ever since.</media:description>
+    </item>
+    <item>
+      <title>In Farewell Speech, Boris Johnson Pledges to Support Liz Truss</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/boris-johnson-farewell-speech.html" rel="standout"></atom:link>
+      <description>The outgoing prime minister defended his three-year tenure but appealed to his party to unite around his successor.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 13:04:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06uk-blog-morning-lede-boris/06uk-blog-morning-lede-boris-moth.jpg" width="151"></media:content>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <media:description>Boris Johnson speaking outside Downing Street in London on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2022/09/06/briefing/trump-special-master-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/briefing/trump-special-master-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/briefing/trump-special-master-review.html" rel="standout"></atom:link>
+      <description>A special master will review Mar-a-Lago files.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 04:24:58 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/us/politics/06ambriefing-europe-nl-promo/06ambriefing-europe-nl-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Beier for The New York Times</media:credit>
+      <media:description>A federal judge said that a special master could evaluate the documents seized from former President Donald J. Trump’s estate.</media:description>
+    </item>
+    <item>
+      <title>In Moscow, the Fighting Is a World Away</title>
+      <link>https://www.nytimes.com/2022/09/06/world/europe/moscow-war-ukraine-mood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/06/world/europe/moscow-war-ukraine-mood.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/06/world/europe/moscow-war-ukraine-mood.html" rel="standout"></atom:link>
+      <description>A detachment from the battle in Ukraine is exactly what President Vladimir V. Putin of Russia is counting on as he carries out a domestic strategy of shielding his people from hardships.</description>
+      <dc:creator>Valerie Hopkins and Nanna Heitmann</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 19:21:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/06/world/06moscow-mood-promo/06moscow-mood-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Saskatchewan Stabbings Suspect Found Dead, Canada’s Police Say </title>
+      <link>https://www.nytimes.com/2022/09/05/world/americas/canada-stabbings-saskatchewan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/americas/canada-stabbings-saskatchewan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/americas/canada-stabbings-saskatchewan.html" rel="standout"></atom:link>
+      <description>The body of a man being sought by the authorities was found with wounds that were not believed to be self-inflicted. The killing of 10 people stunned the country.</description>
+      <dc:creator>Ian Austen, Amber Bracken and Dan Bilefsky</dc:creator>
+      <pubDate>Wed, 07 Sep 2022 02:20:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Damien (September 4, 2022 Murder)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanderson, Myles (September 4, 2022 Murder)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-ledeall-1/05canada-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Two officers investigating a home on Monday in Weldon, Saskatchewan, where an older man who was believed to be a victim of the mass killing lived. </media:description>
+    </item>
+    <item>
+      <title>Ukraine Nuclear Plant Disconnected From Grid After Shelling</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/ukraine-nuclear-plant.html" rel="standout"></atom:link>
+      <description>A fire caused by shelling forced the staff of Europe’s largest nuclear plant to disconnect from the nation’s power grid, showing that risks remained at the plant despite the presence of U.N. experts.</description>
+      <dc:creator>Marc Santora, Ivan Nechepurenko and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 01:23:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05ukraine-ledeall-1/00ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>A motorcade transporting the International Atomic Energy Agency expert mission arriving at the Zaporizhzhia power plant last week.</media:description>
+    </item>
+    <item>
+      <title>In Somalia, ‘Famine Is at the Door,’ U.N. Warns</title>
+      <link>https://www.nytimes.com/2022/09/05/world/africa/somalia-famine-un.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/africa/somalia-famine-un.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/africa/somalia-famine-un.html" rel="standout"></atom:link>
+      <description>A U.N. official stopped short of officially declaring a famine in the country. But some aid workers said that the threshold had already been reached.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 21:32:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffiths, Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05somalia-1/05somalia-1-moth.jpg" width="151"></media:content>
+      <media:credit>Malin Fezehai for The New York Times</media:credit>
+      <media:description>A settlement for displaced people in Doolow, in Somalia’s southern Gedo region, in May. A severe drought has left half the country’s population in need of food assistance. </media:description>
+    </item>
+    <item>
+      <title>Liz Truss to Replace Boris Johnson at a Time of Crisis for Britain</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/liz-truss-uk-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/liz-truss-uk-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/liz-truss-uk-prime-minister.html" rel="standout"></atom:link>
+      <description>Ms. Truss, who prevailed over Rishi Sunak, will be greeted by an array of vexing problems, including double-digit inflation, a looming recession, labor unrest and soaring household energy bills.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 23:13:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Truss, Elizabeth (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05uk-politics-ledeall-1sub/05uk-politics-ledeall-1sub-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>Liz Truss at the Conservative Party headquarters in London on Monday after it was announced that she had prevailed in the contest to be Britain&#39;s next prime minister.</media:description>
+    </item>
+    <item>
+      <title>The police have been criticized for their handling of crimes against Indigenous people.</title>
+      <link>https://www.nytimes.com/2022/09/05/world/americas/the-police-have-been-criticized-for-their-handling-of-crimes-against-indigenous-people.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/americas/the-police-have-been-criticized-for-their-handling-of-crimes-against-indigenous-people.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/americas/the-police-have-been-criticized-for-their-handling-of-crimes-against-indigenous-people.html" rel="standout"></atom:link>
+      <description>After the Sunday stabbings, police treatment of Indigenous communities is under scrutiny.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 03:02:46 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-attack-police-new/05canada-attack-police-new-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Supporters of Colten Boushie’s family outside the courthouse during the trial of Gerald Stanley in Battleford, Saskatchewan, in 2018.</media:description>
+    </item>
+    <item>
+      <title>Russia Sentences Journalist Ivan Safronov to 22 Years in Prison On Treason Charges</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/russia-journalist-safronov-treason.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/russia-journalist-safronov-treason.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/russia-journalist-safronov-treason.html" rel="standout"></atom:link>
+      <description>The prosecution of Ivan Safronov, a former defense reporter, sent chills through the Russian journalism community.</description>
+      <dc:creator>Ivan Nechepurenko and Alina Lobzina</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 14:10:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Safronov, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/multimedia/05ukraine-briefing-safronov-1/05ukraine-briefing-safronov-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ivan Safronov denied accusations that he had disclosed state secrets and refused to enter a plea deal.</media:description>
+    </item>
+    <item>
+      <title>Breaking Taboo, Germany Extends Life of 2 Nuclear Reactors</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/germany-extend-life-nuclear-reactors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/germany-extend-life-nuclear-reactors.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/germany-extend-life-nuclear-reactors.html" rel="standout"></atom:link>
+      <description>The step is intended to cushion a growing energy crisis in Europe but could upend the country’s plans to become the first industrial power to shutter its program.</description>
+      <dc:creator>Erika Solomon and Melissa Eddy</dc:creator>
+      <pubDate>Tue, 06 Sep 2022 02:19:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05germany-nuclear-1/05germany-nuclear-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alexandra Beier/Getty Images</media:credit>
+      <media:description>The Isar 2 nuclear power plant in Essenbach, Germany.</media:description>
+    </item>
+    <item>
+      <title>50 Years After Attack at Munich Olympics, a Formal German Apology</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/germany-israel-apology-munich-games.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/germany-israel-apology-munich-games.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/germany-israel-apology-munich-games.html" rel="standout"></atom:link>
+      <description>Palestinian militants killed 11 Israeli athletes at the Olympic Games in 1972. Decades later Germany asked the victims’ families for forgiveness for not keeping the delegation safe.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 18:19:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1972)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Black September Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spitzer, Ankie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Munich (Germany)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05germany-olympics-1/05germany-olympics-1-moth.jpg" width="151"></media:content>
+      <media:credit>Ronald Wittek/EPA, via Shutterstock</media:credit>
+      <media:description>Pictures of the victims of the massacre at the 1972 Olympics in Munich at a ceremony on Monday to commemorate the 50th anniversary of the attack, which left 11 Israeli athletes and a German policeman dead. </media:description>
+    </item>
+    <item>
+      <title>Horror grips a bucolic farming region after the killing spree.</title>
+      <link>https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/americas/sakatchewan-weldon-cree.html" rel="standout"></atom:link>
+      <description>Police searches and the roar of helicopters disrupt the routine in a rural stretch of Saskatchewan.</description>
+      <dc:creator>Dan Bilefsky and Vjosa Isai</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 22:13:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05canada-attack-Saskachewanexplainer1/05canada-attack-Saskachewanexplainer1-moth.jpg" width="151"></media:content>
+      <media:credit>Heywood Yu/The Canadian Press, via Associated Press</media:credit>
+      <media:description>An investigator in protective equipment worked at a crime scene in Weldon, Saskatchewan, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Of Barbecues and Men: A Summer Storm Brews Over Virility in France</title>
+      <link>https://www.nytimes.com/2022/09/05/world/europe/france-men-barbecues.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/europe/france-men-barbecues.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/europe/france-men-barbecues.html" rel="standout"></atom:link>
+      <description>A Green politician told men to get over meat and masculinity for the sake of the planet, setting off a sizzling argument.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 16:22:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Barbecue</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05france-barbeque-1/05france-barbeque-1-moth.jpg" width="151"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>Sandrine Rousseau, a member of parliament from the Greens, has thrust barbecue to the center of French debate.</media:description>
+    </item>
+    <item>
+      <title>Israel Says Shireen Abu Akleh Most Likely Shot by Israeli Soldier</title>
+      <link>https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/05/world/middleeast/shireen-abu-akleh-killed.html" rel="standout"></atom:link>
+      <description>The Israeli Army has concluded that Shireen Abu Akleh, a Palestinian-American broadcaster, was probably killed by one of its own soldiers — but stopped short of accepting definitive blame.</description>
+      <dc:creator>Hiba Yazbek and Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 05 Sep 2022 14:30:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abu Akleh, Shireen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/05/world/05Israel/05Israel-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
+      <media:description>The site where Shireen Abu Akleh, a Palestinian-American journalist, was shot and killed in the West Bank town of Jenin.</media:description>
+    </item>
+  </channel>
+</rss>

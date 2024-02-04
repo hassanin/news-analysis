@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2016  The New York Times Company</copyright>
+    <lastBuildDate>Sun, 17 Apr 2016 22:32:36 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Earthquake in Ecuador Kills More Than 230, President Says</title>
+      <link>http://www.nytimes.com/2016/04/18/world/americas/ecuador-earthquake-deaths.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/americas/ecuador-earthquake-deaths.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/americas/ecuador-earthquake-deaths.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18ECUADOR4-web/18ECUADOR4-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Residents outside a house destroyed by an earthquake in Pedernales, Ecuador, on Sunday.</media:description>
+      <media:credit>Dolores Ochoa/Associated Press</media:credit>
+      <description>At least 233 people were killed and hundreds more injured, President Rafael Correa said, in an earthquake that struck the Ecuador coast on Saturday evening.</description>
+      <dc:creator>MAGGY AYALA and NICHOLAS CASEY</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 15:35:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+    </item>
+    <item>
+      <title>Brazil Transfixed as Votes Are Cast on Impeaching Dilma Rousseff</title>
+      <link>http://www.nytimes.com/2016/04/18/world/americas/brazil-dilma-rousseff-impeachment-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/americas/brazil-dilma-rousseff-impeachment-vote.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/americas/brazil-dilma-rousseff-impeachment-vote.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18BRAZIL2-web/18BRAZIL2-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Supporters of Ms. Rousseff on Sunday at Copacabana Beach in Rio de Janeiro.</media:description>
+      <media:credit>Christophe Simon/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A vote in the lower house of Congress on whether to advance impeachment proceedings could determine the fate of President Dilma Rousseff.</description>
+      <dc:creator>ANDREW JACOBS</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 20:18:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rousseff, Dilma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Petroleo Brasileiro SA Petrobras</category>
+    </item>
+    <item>
+      <title>Israel Will Never Give Golan Heights to Syria, Netanyahu Vows</title>
+      <link>http://www.nytimes.com/2016/04/18/world/middleeast/israel-will-never-give-golan-heights-to-syria-netanyahu-vows.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/middleeast/israel-will-never-give-golan-heights-to-syria-netanyahu-vows.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/middleeast/israel-will-never-give-golan-heights-to-syria-netanyahu-vows.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18GOLAN1-web/18GOLAN1-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel, center, with Israeli ministers before a cabinet meeting in the Golan Heights on Sunday.</media:description>
+      <media:credit>Pool photo by Sebastian Scheiner</media:credit>
+      <description>During a cabinet meeting held in the Israeli-controlled portion of the territory, Prime Minister Benjamin Netanyahu called on the world to recognize Israel&#x2019;s sovereignty there.</description>
+      <dc:creator>ISABEL KERSHNER</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 16:30:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golan Heights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>U.S. Plans to Step Up Military Campaign Against ISIS</title>
+      <link>http://www.nytimes.com/2016/04/17/world/middleeast/us-plans-to-step-upmilitary-campaign-against-isis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/middleeast/us-plans-to-step-upmilitary-campaign-against-isis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/middleeast/us-plans-to-step-upmilitary-campaign-against-isis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17military-web1/17military-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People fled their homes during fighting between Iraqi security forces and the Islamic State in Hit, a city in the Anbar Province, on Wednesday.</media:description>
+      <media:credit>Khalid Mohammed/Associated Press</media:credit>
+      <description>The administration is considering expanding its involvement in Iraq and Syria, and may announce its new plans in the next several days.</description>
+      <dc:creator>MICHAEL S. SCHMIDT and ERIC SCHMITT</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 23:18:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Ashton B</category>
+    </item>
+    <item>
+      <title>Race for Latest Class of Nuclear Arms Threatens to Revive Cold War</title>
+      <link>http://www.nytimes.com/2016/04/17/science/atom-bomb-nuclear-weapons-hgv-arms-race-russia-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/science/atom-bomb-nuclear-weapons-hgv-arms-race-russia-china.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/science/atom-bomb-nuclear-weapons-hgv-arms-race-russia-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/12/science/00armsrace-web3-final/00armsrace-web3-1460144727134-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Russian intercontinental ballistic missile that can carry four miniaturized nuclear warheads was paraded through Red Square in Moscow last May.</media:description>
+      <media:credit>Kirill Kudryavsev/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Buildups by the United States, Russia and China unsettle the balance of destructive force that has kept the nuclear peace for more than a half-century.</description>
+      <dc:creator>WILLIAM J. BROAD and DAVID E. SANGER</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 13:38:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>Pope Francis Takes 12 Refugees Back to Vatican After Trip to Greece</title>
+      <link>http://www.nytimes.com/2016/04/17/world/europe/pope-francis-visits-lesbos-heart-of-europes-refugee-crisis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/europe/pope-francis-visits-lesbos-heart-of-europes-refugee-crisis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/europe/pope-francis-visits-lesbos-heart-of-europes-refugee-crisis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17pope-web2/17pope-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pope Francis arriving Saturday at the Moria detention center on the Greek island of Lesbos, where refugees are held as they await rulings on their asylum applications.</media:description>
+      <media:credit>Aris Messinis/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The pontiff visited Lesbos, the heart of Europe&#x2019;s migrant crisis, asking for deeper sympathy at a moment when attitudes are hardening.</description>
+      <dc:creator>JIM YARDLEY</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 15:32:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lesbos (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>After Long Silence, Indonesia Allows Talk of Anti-Communist Atrocities</title>
+      <link>http://www.nytimes.com/2016/04/18/world/asia/after-long-silence-indonesia-allows-talk-of-anti-communist-atrocities.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/asia/after-long-silence-indonesia-allows-talk-of-anti-communist-atrocities.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/asia/after-long-silence-indonesia-allows-talk-of-anti-communist-atrocities.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18indonesia/18indonesia-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Putu Oka Sukanta, at his home in Jakarta, spent a decade imprisoned without trial.</media:description>
+      <media:credit>Rony Zakaria for The New York Times</media:credit>
+      <description>The government has for the first time endorsed a public discussion of the purges that killed at least 500,000 in the 1960s.</description>
+      <dc:creator>JOE COCHRANE</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 22:23:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suharto</category>
+    </item>
+    <item>
+      <title>New Sense of Fragility in Japanese Town Struck Twice by Quakes</title>
+      <link>http://www.nytimes.com/2016/04/18/world/asia/japan-earthquake.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/asia/japan-earthquake.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/asia/japan-earthquake.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18JAPAN2-web/18JAPAN2-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Damaged houses in Mashiki, Japan, on Sunday. The mostly wooden homes in the town crumbled in two earthquakes that struck Thursday and Saturday.</media:description>
+      <media:credit>Ko Sasaki for The New York Times</media:credit>
+      <description>People in Mashiki had known a network of fault lines ran under their town. But no major quake had struck in anyone&#x2019;s lifetime, until two did last week.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 21:42:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japan Earthquake and Tsunami (2011)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+    </item>
+    <item>
+      <title>Families of Americans Held by Allies Say U.S. Is Keeping Its Gloves On</title>
+      <link>http://www.nytimes.com/2016/04/17/world/middleeast/families-of-americans-held-by-allies-say-us-is-keeping-its-gloves-on.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/middleeast/families-of-americans-held-by-allies-say-us-is-keeping-its-gloves-on.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/middleeast/families-of-americans-held-by-allies-say-us-is-keeping-its-gloves-on.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/15/world/15EGYPT-web2/15EGYPT-web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The White House was successful in pressuring the Egyptian government to release Mohamed Soltan, an American citizen who carried out a 16-month hunger strike.</media:description>
+      <media:credit>Zach Gibson/The New York Times</media:credit>
+      <description>Relatives have complained of a lack of high-level attention from American officials &#x2014; stemming, they fear, from reluctance to confront Egypt and the United Arab Emirates.</description>
+      <dc:creator>KAREEM FAHIM</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 16:46:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eldarat, Kamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eldarat, Mohamed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hijazi, Aya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morsi, Mohamed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+    </item>
+    <item>
+      <title>Labor Protesters to Resume Guggenheim Demonstrations</title>
+      <link>http://www.nytimes.com/2016/04/18/arts/design/labor-protesters-to-resume-guggenheim-demonstrations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/arts/design/labor-protesters-to-resume-guggenheim-demonstrations.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/arts/design/labor-protesters-to-resume-guggenheim-demonstrations.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/arts/18artsbeat-guggenheim/18artsbeat-guggenheim-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters at Guggenheim in May 2015.</media:description>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <description>The museum had broken off talks with a group that advocates for workers in Abu Dhabi, United Arab Emirates.</description>
+      <dc:creator>COLIN MOYNIHAN</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 19:16:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Guggenheim, Solomon R, Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+    </item>
+    <item>
+      <title>Major Oil Exporters Fail to Agree on Production Freeze</title>
+      <link>http://www.nytimes.com/2016/04/18/business/energy-environment/major-oil-exporters-fail-to-agree-on-production-freeze.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/business/energy-environment/major-oil-exporters-fail-to-agree-on-production-freeze.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/business/energy-environment/major-oil-exporters-fail-to-agree-on-production-freeze.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/business/18oilsummit-1/18oilsummit-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Qatar&#x2019;s energy minister, Mohammed bin Saleh al-Sada, told a news conference that an agreement was not reached.</media:description>
+      <media:credit>Ibraheem Al Omari/Reuters</media:credit>
+      <description>A freeze would have involved little sacrifice on the part of oil producers, but they remained unable to reach an accord.</description>
+      <dc:creator>STANLEY REED and ANDREW E. KRAMER</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 21:24:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+    </item>
+    <item>
+      <title>Do Earthquakes in Japan and Ecuador Signal an Epidemic? Scientists Say No</title>
+      <link>http://www.nytimes.com/2016/04/18/world/americas/earthquake-epidemic-scientists-say-no.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/americas/earthquake-epidemic-scientists-say-no.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/americas/earthquake-epidemic-scientists-say-no.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/18/world/18QUAKEQNA/18QUAKEQNA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A road in Mashiki, Japan, was damaged by the recent earthquakes.</media:description>
+      <media:credit>Ko Sasaki for The New York Times</media:credit>
+      <description>Although two powerful quakes struck on opposite sides of the planet over the weekend, there is no connection between them.</description>
+      <dc:creator>HENRY FOUNTAIN</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 17:14:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+    </item>
+    <item>
+      <title>Ecuador Earthquake Kills at Least 77</title>
+      <link>http://www.nytimes.com/2016/04/17/world/americas/ecuador-earthquake.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/americas/ecuador-earthquake.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/americas/ecuador-earthquake.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17ecuador02/17ecuador02-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People rested in a park in Guayaquil, Ecuador, on Sunday after a powerful earthquake.</media:description>
+      <media:credit>Marcos Pin Mendez/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The capital city of Quito, more than 100 miles from the quake&#x2019;s epicenter, felt tremors for nearly 40 seconds, sending residents fleeing into the streets.</description>
+      <dc:creator>MAGGY AYALA and CHRISTOPHER MELE</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 07:59:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+    </item>
+    <item>
+      <title>Head of British Spying Agency Apologizes for Its Treatment of Gays</title>
+      <link>http://www.nytimes.com/2016/04/17/world/europe/head-of-british-spying-agency-apologizes-for-its-treatment-of-gays.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/europe/head-of-british-spying-agency-apologizes-for-its-treatment-of-gays.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/europe/head-of-british-spying-agency-apologizes-for-its-treatment-of-gays.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17britain-web1/17britain-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Robert Hannigan, left, the director of the Government Communications Headquarters. He told a gathering organized by the human rights group Stonewall that the agency needed &#x201C;people who dare to think differently.&#x201D;</media:description>
+      <media:credit>Ben Birchall/Getty Images</media:credit>
+      <description>The director of the Government Communications Headquarters said a ban on gays like Alan Turing had caused long-lasting psychological damage to many and also hurt the agency.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 01:36:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Government Communications Headquarters (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turing, Alan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hannigan, Robert P</category>
+    </item>
+    <item>
+      <title>Russian Enclave Seen as a Fault Line of East-West Tensions</title>
+      <link>http://www.nytimes.com/2016/04/17/world/europe/russias-separate-piece-sets-off-alarms-about-a-cold-war-revival.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/europe/russias-separate-piece-sets-off-alarms-about-a-cold-war-revival.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/europe/russias-separate-piece-sets-off-alarms-about-a-cold-war-revival.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/13/world/Kaliningrad-web1/Kaliningrad-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Fishermen casting from a breakwater in February as a ship from the Baltic Fleet sailed from the port of Baltiysk in Russia&#x2019;s westernmost province.</media:description>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <description>Kaliningrad, a part of Russia on the Baltic Sea, has become heavily armed amid tensions with the West.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 00:09:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaliningrad (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Ra&#xFA;l Castro Urges Cubans to Remain Alert to U.S. Efforts to Alter Communist System</title>
+      <link>http://www.nytimes.com/2016/04/17/world/americas/raul-castro-urges-cubans-to-remain-alert-to-us-efforts-to-alter-communist-system.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/americas/raul-castro-urges-cubans-to-remain-alert-to-us-efforts-to-alter-communist-system.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/americas/raul-castro-urges-cubans-to-remain-alert-to-us-efforts-to-alter-communist-system.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17CUBA/17CUBA-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Ra&#xFA;l Castro of Cuba speaking at the Cuban Communist Party&#x2019;s three-day congress on Saturday.</media:description>
+      <media:credit>Ismael Francisco/Cuban Communist Party</media:credit>
+      <description>President Castro told a Communist Party Congress that the United States was using a &#x201C;different method&#x201D; to undermine the system.</description>
+      <dc:creator>VICTORIA BURNETT</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 00:02:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Raul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+    </item>
+    <item>
+      <title>German Comic Who Lampooned Erdogan to Extend Break From TV Show</title>
+      <link>http://www.nytimes.com/2016/04/17/world/europe/german-comic-who-lampooned-erdogan-to-extend-break-from-tv-show.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/europe/german-comic-who-lampooned-erdogan-to-extend-break-from-tv-show.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/europe/german-comic-who-lampooned-erdogan-to-extend-break-from-tv-show.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17germany1/17germany1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jan B&#xF6;hmermann, right, with the singer Olli Schulz.</media:description>
+      <media:credit>Henning Kaiser/DPA, via Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The move by Jan B&#xF6;hmermann seemed intended to tamp down a debate that erupted two weeks ago after he broadcast a lewd poem about the Turkish president.</description>
+      <dc:creator>ALISON SMALE</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 19:56:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bohmermann, Jan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Middle East and Africa Migrant Crisis</category>
+    </item>
+    <item>
+      <title>Bangladeshi Editor, 81, Is Accused in Plot to Kill Leader&#x2019;s Son</title>
+      <link>http://www.nytimes.com/2016/04/17/world/asia/bangladeshi-editor-81-is-accused-in-plotto-kill-leaders-son.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/asia/bangladeshi-editor-81-is-accused-in-plotto-kill-leaders-son.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/asia/bangladeshi-editor-81-is-accused-in-plotto-kill-leaders-son.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17bangladesh-web1/17bangladesh-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bangladeshi security officers escort Shafik Rehman, 81, at a court after his arrest on Saturday in Dhaka.</media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The arrest of the editor, Shafik Rehman, is the latest in a string of criminal proceedings against journalists in Bangladesh.</description>
+      <dc:creator>MAHER SATTAR and NIDA NAJAR</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 19:16:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rehman, Shafik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Treason and Sedition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+    </item>
+    <item>
+      <title>More Than 40 in Japan Are Confirmed Dead in Earthquakes</title>
+      <link>http://www.nytimes.com/2016/04/17/world/asia/more-than-40-in-japan-are-confirmed-dead-in-earthquakes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/asia/more-than-40-in-japan-are-confirmed-dead-in-earthquakes.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/asia/more-than-40-in-japan-are-confirmed-dead-in-earthquakes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17quake-web1/17quake-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A main street was covered with the debris of a newly collapsed house after a second earthquake hit southwestern Japan, in Mashiki, Kumamoto Prefecture, on Saturday.</media:description>
+      <media:credit>Kimimasa Mayama/European Pressphoto Agency</media:credit>
+      <description>Aftershocks were continuing on the island of Kyushu, and a warning that strong quakes were possible for several more days was issued.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Sun, 17 Apr 2016 02:22:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyushu (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mashiki (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>Khilad Journal: Farmers in Arid India Share Camps With Their Cattle</title>
+      <link>http://www.nytimes.com/2016/04/18/world/asia/farmers-in-arid-india-share-camps-with-their-cattle.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/18/world/asia/farmers-in-arid-india-share-camps-with-their-cattle.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/18/world/asia/farmers-in-arid-india-share-camps-with-their-cattle.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/16/world/16cattlefarm1/16cattlefarm1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A cattle camp in Latur, India, where farmers are able to get food and water for their cattle.</media:description>
+      <media:credit>Anshuman Poyrekar/Hindustan Times, via Getty Images</media:credit>
+      <description>In a nation where cows are both sacred and essential, camps have been set up to preserve them in a drought. But instead of dropping them off, the owners are staying.</description>
+      <dc:creator>NIDA NAJAR</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 17:39:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Livestock</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>Dilma Rousseff&#x2019;s Former Supporters in Brazil Express Disillusionment</title>
+      <link>http://www.nytimes.com/2016/04/17/world/americas/dilma-rousseffs-former-supporters-in-brazil-express-disillusionment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/americas/dilma-rousseffs-former-supporters-in-brazil-express-disillusionment.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/americas/dilma-rousseffs-former-supporters-in-brazil-express-disillusionment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17brazil1/17brazil1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Dilma Rousseff of Brazil.</media:description>
+      <media:credit>Ueslei Marcelino/Reuters</media:credit>
+      <description>As the president faces a possible impeachment, working-class people who brought her party to power say they feel abandoned and want a change.</description>
+      <dc:creator>ANDREW JACOBS</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 17:12:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rousseff, Dilma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Workers' Party (Brazil)</category>
+    </item>
+    <item>
+      <title>Iraq in Political Limbo After Stalled Reform Attempts</title>
+      <link>http://www.nytimes.com/aponline/2016/04/16/world/middleeast/ap-ml-iraq.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/aponline/2016/04/16/world/middleeast/ap-ml-iraq.html</guid>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17iraq-web1/17iraq-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Iraqi Parliament speaker Salim al-Jabouri, center, during a news conference in Baghdad on Wednesday. Lawmakers did not reach a quorum for a vote to oust him on Saturday.</media:description>
+      <media:credit>Karim Kadim/Associated Press</media:credit>
+      <description>Failed attempts to oust the speaker of parliament and a fresh ultimatum from an influential Shiite cleric have left Iraq in a state of political limbo. Backroom negotiations continued late into the night Saturday between Iraq's powerful political blocs after lawmakers attempting to oust speaker Selim al-Jabouri failed to maintain quorum.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 18:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bernie Sanders Meets With Pope Francis</title>
+      <link>http://www.nytimes.com/2016/04/17/us/politics/bernie-sanders-pope-francis-vatican.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/us/politics/bernie-sanders-pope-francis-vatican.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/us/politics/bernie-sanders-pope-francis-vatican.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17popesanders-web1/17popesanders-web1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Senator Bernie Sanders leaving the Vatican on Saturday. He was at the Vatican for a conference on social and economic issues.</media:description>
+      <media:credit>Alessandra Tarantino/Associated Press</media:credit>
+      <description>The brief meeting took place on Saturday morning at the Vatican before the pope left for Greece, Mr. Sanders said.</description>
+      <dc:creator>JASON HOROWITZ and YAMICHE ALCINDOR</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 23:00:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+    </item>
+    <item>
+      <title>Phil Sayer, Voice Behind &#x2018;Please Mind the Gap&#x2019; on London Underground, Dies at 62</title>
+      <link>http://www.nytimes.com/2016/04/16/world/europe/phil-sayer-voice-behind-please-mind-the-gap-on-london-underground-dies-at-62.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/16/world/europe/phil-sayer-voice-behind-please-mind-the-gap-on-london-underground-dies-at-62.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/16/world/europe/phil-sayer-voice-behind-please-mind-the-gap-on-london-underground-dies-at-62.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/16/world/18SayerObit/18SayerObit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Phil Sayer in 2014. His was not the only voice cautioning passengers to &#x201C;mind the gap,&#x201D; but it is arguably the most familiar one.</media:description>
+      <media:credit>Rex Features, via Associated Press</media:credit>
+      <description>Mr. Sayer, an English voice actor, first recorded messages for the London Underground in 2005. &#x201C;Mind the gap&#x201D; has been in use since 1969.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Fri, 15 Apr 2016 20:40:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">London Underground</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sayer, Phil (1953-2016)</category>
+    </item>
+    <item>
+      <title>Gunmen Kill Scores of Civilians in Western Ethiopia, Official Says</title>
+      <link>http://www.nytimes.com/2016/04/17/world/africa/gunmen-kill-scores-of-civilians-in-western-ethiopia-official-says.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/world/africa/gunmen-kill-scores-of-civilians-in-western-ethiopia-official-says.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/world/africa/gunmen-kill-scores-of-civilians-in-western-ethiopia-official-says.html?partner=rss&amp;emc=rss"/>
+      <description>The attackers came from South Sudan and killed 140 civilians, including women and children, Ethiopia&#x2019;s communications minister said.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 19:29:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ethiopia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+    </item>
+    <item>
+      <title>9 Guant&#xE1;namo Prisoners From Yemen Are Sent to Saudi Arabia</title>
+      <link>http://www.nytimes.com/2016/04/17/us/politics/9-guantanamo-prisoners-from-yemen-are-sent-to-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/us/politics/9-guantanamo-prisoners-from-yemen-are-sent-to-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/us/politics/9-guantanamo-prisoners-from-yemen-are-sent-to-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/world/17gitmo-web1/17gitmo-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The United States&#x2019; outpost at Guant&#xE1;namo Bay, Cuba, where 80 detainees remain in the wartime prison.</media:description>
+      <media:credit>Lucas Jackson/Reuters</media:credit>
+      <description>The transfer of the Yemenis, who have been difficult to resettle, completed a long-sought diplomatic deal ahead of President Obama&#x2019;s planned visit to the Saudi capital.</description>
+      <dc:creator>CHARLIE SAVAGE</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 19:04:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+    </item>
+    <item>
+      <title>Opinion: Syria&#x2019;s Future: A Black Hole of Instability</title>
+      <link>http://www.nytimes.com/2016/04/17/opinion/sunday/syrias-future-a-black-hole-of-instability.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/17/opinion/sunday/syrias-future-a-black-hole-of-instability.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/17/opinion/sunday/syrias-future-a-black-hole-of-instability.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/04/17/opinion/sunday/17cambanis/17cambanis-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kobani, Syria. Wednesday, October 28, 2015</media:description>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <description>Peace talks have restarted, but Bashar al-Assad and the rebels are fighting over a state that is beyond salvaging.</description>
+      <dc:creator>THANASSIS CAMBANIS</dc:creator>
+      <pubDate>Sat, 16 Apr 2016 18:30:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>Contributing Op-Ed Writer: The End of Catholic Guilt</title>
+      <link>http://www.nytimes.com/2016/04/15/opinion/the-end-of-catholic-guilt.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/04/15/opinion/the-end-of-catholic-guilt.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/04/15/opinion/the-end-of-catholic-guilt.html?partner=rss&amp;emc=rss"/>
+      <description>Pope Francis is merely acknowledging the obvious. As before, he&#x2019;s using words to change hearts.</description>
+      <dc:creator>TIMOTHY EGAN</dc:creator>
+      <pubDate>Fri, 15 Apr 2016 07:21:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+    </item>
+    <item>
+      <title>Victims of the Brussels Attacks</title>
+      <link>http://www.nytimes.com/spotlight/brussels-attacks-victims?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/spotlight/brussels-attacks-victims</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/spotlight/brussels-attacks-victims?partner=rss&amp;emc=rss"/>
+      <description>Thirty-five victims from at least eight countries were killed in the attacks. Here are profiles of some of the victims, updated as more names are confirmed.</description>
+      <dc:creator/>
+      <pubDate>Mon, 28 Mar 2016 16:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>How ISIS Built the Machinery of Terror Under Europe&#x2019;s Gaze</title>
+      <link>http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/03/29/world/europe/isis-attacks-paris-brussels.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/03/26/world/xxisisplotheader/xxisisplotheader-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Paris attacks left 130 dead in November, but a branch within the Islamic State was obsessed with striking Europe at least two years before then.</media:description>
+      <media:credit>Philippe Wojazer/Reuters</media:credit>
+      <description>Two years before the Paris and Brussels assaults, a special branch of the group was churning out smaller attacks that the authorities repeatedly discounted as isolated or random acts.</description>
+      <dc:creator>RUKMINI CALLIMACHI</dc:creator>
+      <pubDate>Tue, 05 Apr 2016 01:06:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brussels Attacks (March 2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paris Attacks (November 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abaaoud, Abdelhamid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hame, Reda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">State of Terror (Series)</category>
+    </item>
+  </channel>
+</rss>

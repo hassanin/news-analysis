@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 11 Sep 2022 13:28:53 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 13:16:47 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Live Updates: Ukraine Claims More Ground in Blitz in Northeast</title>
+      <link>https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/11/world/ukraine-russia-war" rel="standout"></atom:link>
+      <description>The Ukrainian military was poised to advance on more towns held by Russians after days of fighting that have reshaped the war.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 12:56:31 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-blog-header1am/11ukraine-blog-header1am-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Soldiers walking by destroyed armored vehicles in Balakliya, in the Kharkiv region of Ukraine on Saturday, as Russian forces retreated.</media:description>
+    </item>
+    <item>
+      <title>Updates: Queen’s Coffin Leaves Balmoral, Beginning Procession to Edinburgh</title>
+      <link>https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/09/11/world/queen-elizabeth-king-charles" rel="standout"></atom:link>
+      <description>The royal family will gather for ceremonies in Scotland before the coffin is flown to London on Tuesday.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 13:16:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11queen-blog-carousel-5/merlin_212825178_78fc4111-4db3-40bd-a34b-9878ce2404dd-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Pakistan Is Devastated by Floods, Faces Looming Food Crisis</title>
+      <link>https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/pakistan-floods-food-crisis.html" rel="standout"></atom:link>
+      <description>The flooding has crippled Pakistan’s agricultural sector, battering the country as it reels from an economic crisis and double-digit inflation that has sent the price of basics soaring.</description>
+      <dc:creator>Christina Goldbaum and Zia ur-Rehman</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 08:43:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monsoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iqbal, Ahsan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11pakistan-1/11pakistan-1-moth.jpg" width="151"></media:content>
+      <media:credit>Fareed Khan/Associated Press</media:credit>
+      <media:description>Navigating floodwaters in the Dadu district of Sindh Province, of Pakistan, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Just Bread and Noodles: China’s Covid Lockdown Distress Hits Xinjiang</title>
+      <link>https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/asia/xinjiang-china-covid-lockdown.html" rel="standout"></atom:link>
+      <description>With lack of food, medicine and other crucial supplies, residents of Yining are chafing under a monthlong pandemic shutdown.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 04:56:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11xinjiang-covid1/11xinjiang-covid1-moth.jpg" width="151"></media:content>
+      <media:credit>China News Service, via Reuters</media:credit>
+      <media:description>Residents at a fruit stall last week in Urumqi, the capital of the Xinjiang region of China, in a photo provided by China News Service. People in Yining have complained they can’t get produce amid a long lockdown there.</media:description>
+    </item>
+    <item>
+      <title>Queen’s Death Leaves UK Grappling With Its Sense of National Identity</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-uk-identity.html" rel="standout"></atom:link>
+      <description>A figure who embodied Britain, Elizabeth cast long shadow. She leaves behind a country unsettled by domestic crises and anxiety over its place in the world.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 01:46:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10UKQueenTrauma01/10UKQueenTrauma01-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Laying flowers outside Windsor Castle on Friday in tribute to Queen Elizabeth II.</media:description>
+    </item>
+    <item>
+      <title>Gun Violence Epidemic Looms Over Swedish Election</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/sweden-election.html" rel="standout"></atom:link>
+      <description>The far right has made strides by tying the longstanding issue of crime to immigration, while Sweden’s center-left party is blaming failed integration, resulting in an exceptionally tight race.</description>
+      <dc:creator>Isabella Kwai and Amela Mahovic</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 06:21:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sweden Democrats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Swedish Social Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andersson, Magdalena (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockholm (Sweden)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11sweden-guns1/11sweden-guns1-moth.jpg" width="151"></media:content>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <media:description>Susanna Yakes showing a stuffed animal that belonged to her daughter Adriana, who was 12 when she was shot and killed in Stockholm in 2020.</media:description>
+    </item>
+    <item>
+      <title>With Tears and Steel, Kenya’s ‘Hustler’ President Vanquishes His Foes</title>
+      <link>https://www.nytimes.com/2022/09/10/world/africa/kenya-president-william-ruto.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/africa/kenya-president-william-ruto.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/africa/kenya-president-william-ruto.html" rel="standout"></atom:link>
+      <description>William Ruto built a career on beating the odds. In his greatest triumph, he is expected to be inaugurated as Kenya’s fifth president on Tuesday.</description>
+      <dc:creator>Declan Walsh</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 18:22:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruto, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Kenya</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10kenya-ruto-1/10kenya-ruto-1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Irungu/EPA, via Shutterstock</media:credit>
+      <media:description>President-elect William Ruto addressed supporters Monday after the Supreme Court upheld his victory in the Aug. 9 election, at his official residence in Karen, Nairobi. </media:description>
+    </item>
+    <item>
+      <title>For Ukraine, the Fight Is Often a Game of Bridges</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/ukraine-kherson-pontoon-bridges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/ukraine-kherson-pontoon-bridges.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/ukraine-kherson-pontoon-bridges.html" rel="standout"></atom:link>
+      <description>The southern counteroffensive has been a painstaking battle of river crossings, with pontoon bridges as prime targets for both sides. But so far, it is Ukraine that has advanced.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 17:26:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-south/10ukraine-south-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Ukrainian soldiers in a trench on the Kherson front in southern Ukraine this month.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Sentences 5 Over ‘Seditious’ Children’s Books</title>
+      <link>https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/hong-kong-childrens-books-free-speech.html" rel="standout"></atom:link>
+      <description>Tales about a sheep village resisting a wolf pack prompted the charges against leaders of a speech therapists’ union, extending a government crackdown on dissent.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 09:53:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10hk-sedition-promo/10hk-sedition-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <media:description>Copies of the children’s books published by five speech therapists are displayed during a police press conference in Hong Kong last year.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth II: The One Constant in an Inconstant World</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-britain-monarchy.html" rel="standout"></atom:link>
+      <description>From fading empire to the Cold War to 1970s turmoil to Brexit to Covid, “she was always there.” What will Britain, and the world, do without her?</description>
+      <dc:creator>Sarah Lyall</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 14:06:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/10/21/world/09queen-appreciation/09queen-appreciation-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Queen Elizabeth II and Prince Philip amid memorial bouquets at Buckingham Palace in 1997, the year Princess Diana died.</media:description>
+    </item>
+    <item>
+      <title>In His First Speech, King Charles III Pledges Service to Britain </title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>On a day of mourning in Britain after the death of Queen Elizabeth, Charles’s ascent to the throne was a symbol of the continuity of the monarchy.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 07:28:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09Queen-Ledeall-Top/09Queen-Ledeall-Top-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>King Charles III outside Buckingham Palace on Friday.</media:description>
+    </item>
+    <item>
+      <title>Camilla Becomes Queen Consort. Here’s What the Title Means.</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/camilla-queen-consort.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/camilla-queen-consort.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/camilla-queen-consort.html" rel="standout"></atom:link>
+      <description>Upon Queen Elizabeth’s death, there was no question that as her son became King Charles III, Camilla would become queen consort. Elizabeth put the issue of Camilla’s role to rest earlier this year.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 20:17:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowles, Camilla Parker</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camilla, Duchess of Cornwall</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-camilla-promo/09queen-camilla-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Hulton-Deutsch Collection/Corbis, via Getty Images</media:credit>
+      <media:description>Prince Charles, left, chats with Camilla Parker Bowles at a polo match, circa 1972.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth II Dies at 96; Was Britain’s Longest-Reigning Monarch</title>
+      <link>https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/08/world/europe/queen-elizabeth-dead.html" rel="standout"></atom:link>
+      <description>She ruled for seven decades, unshakably committed to the rituals of her role amid epic social and economic change and family scandal.</description>
+      <dc:creator>Alan Cowell</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 14:59:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2013/10/19/obituaries/00elizabeth-1/queen-elizabeth-adv-obit-slide-9TEG-moth.jpg" width="151"></media:content>
+      <media:credit>Eddie Mulholland/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Queen Elizabeth II in 2012.</media:description>
+    </item>
+    <item>
+      <title>Ukraine’s Advance in Northeast Renews Pressure on Germany to Help </title>
+      <link>https://www.nytimes.com/2022/09/11/world/europe/germany-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/germany-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/germany-weapons.html" rel="standout"></atom:link>
+      <description>Many weapons Germany promised Kyiv have yet to arrive. Chancellor Olaf Scholz’s government has not fully explained the delays.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 11:29:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scholz, Olaf (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/02/world/11ukraine-briefing-germany/02germany-scholz3-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Morris MacMatzen</media:credit>
+      <media:description>Chancellor Olaf Scholz of Germany inspecting an antiaircraft gun last month at a military base in Holstein, Germany. Germany has promised to deliver 30 of the units to Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Britain’s Mourning Rituals</title>
+      <link>https://www.nytimes.com/2022/09/11/briefing/britain-mourning-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/briefing/britain-mourning-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/briefing/britain-mourning-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>Britons are surrounded by visible symbols of Queen Elizabeth II’s death but relatively reserved in their grief.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 11:22:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/multimedia/11-THE-MORNING-NL-queen/11-THE-MORNING-NL-queen-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Prince William and his wife, Kate, with Prince Harry and Meghan yesterday.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Begins Shutdown of Zaporizhzhia Nuclear Power Plant</title>
+      <link>https://www.nytimes.com/2022/09/11/world/europe/zaporizhzhia-nuclear-plant-shutdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/europe/zaporizhzhia-nuclear-plant-shutdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/europe/zaporizhzhia-nuclear-plant-shutdown.html" rel="standout"></atom:link>
+      <description>External power has been restored to the plant, allowing engineers to move its reactors into a safer state, Ukraine’s nuclear regulator said.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 09:22:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-zaporizhzhia/11ukraine-briefing-zaporizhzhia-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+      <media:description>The Zaporizhzhia nuclear power plant during the visit of the International Atomic Energy Agency expert mission this month.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s coffin is moved from Balmoral Castle, beginning its procession.</title>
+      <link>https://www.nytimes.com/2022/09/11/world/queen-elizabeths-coffin-is-moved-from-balmoral-castle-beginning-its-procession.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/queen-elizabeths-coffin-is-moved-from-balmoral-castle-beginning-its-procession.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/queen-elizabeths-coffin-is-moved-from-balmoral-castle-beginning-its-procession.html" rel="standout"></atom:link>
+      <description>The queen’s coffin was en route to Edinburgh, with crowds lining the streets during a six-hour journey.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 11:33:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11uk-briefing-scotland-1/11uk-briefing-scotland-1-moth.jpg" width="151"></media:content>
+      <media:credit>Phil Noble/Reuters</media:credit>
+      <media:description>The hearse carrying the coffin of Queen Elizabeth II departs Balmoral Castle on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Russia says that a senior Chinese official expressed support for the invasion of Ukraine.</title>
+      <link>https://www.nytimes.com/2022/09/11/world/russia-says-that-a-senior-chinese-official-expressed-support-for-the-invasion-of-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/11/world/russia-says-that-a-senior-chinese-official-expressed-support-for-the-invasion-of-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/11/world/russia-says-that-a-senior-chinese-official-expressed-support-for-the-invasion-of-ukraine.html" rel="standout"></atom:link>
+      <description>The comments are the clearest sign of support from China, which has preferred to stay on the sidelines and maintain ties with both Russia and Europe, without alienating either.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 06:40:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Zhanshu (1950- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/11/world/11ukraine-briefing-china/11ukraine-briefing-china-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Bobylev/Tass Host Photo Agency, via Reuters</media:credit>
+      <media:description>Li Zhanshu, the third-ranking member of the Communist Party of China, met last week with President Vladimir V. Putin in Vladivostok, Russia.</media:description>
+    </item>
+    <item>
+      <title>Chinese Drones: The Latest Irritant Buzzing Taiwan’s Defenses</title>
+      <link>https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/asia/china-taiwan-drones.html" rel="standout"></atom:link>
+      <description>Drones are increasingly testing Taiwan’s capacity to respond to China&#39;s growing military pressure. Soldiers shot one down recently and are ramping up defenses.</description>
+      <dc:creator>Jane Perlez and Amy Chang Chien</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 07:48:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xiamen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/00China-taiwan-drones-01/00China-taiwan-drones-01-moth.jpg" width="151"></media:content>
+      <media:credit>Wu Hong/EPA, via Shutterstock</media:credit>
+      <media:description>A drone being paraded through Tiananmen Square in Beijing in 2019.</media:description>
+    </item>
+    <item>
+      <title>Ukrainian Offensive Seen as Reshaping the War’s Contours</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/ukraine-offensive-izium-donbas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/ukraine-offensive-izium-donbas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/ukraine-offensive-izium-donbas.html" rel="standout"></atom:link>
+      <description>The fall of the strategically important city of Izium, in Ukraine’s east, is the most devastating blow to Russia since its humiliating retreat from Kyiv.</description>
+      <dc:creator>Thomas Gibbons-Neff and Marc Santora</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 04:18:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10Ukraine-Ledeall01b/10Ukraine-Ledeall01b-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A Ukrainian fighter atop a tank in Kharkiv, in northeastern Ukraine, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Prince Harry and Meghan Join William and Kate Outside Windsor Castle</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/william-harry-kate-meghan-windsor-castle.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/william-harry-kate-meghan-windsor-castle.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/william-harry-kate-meghan-windsor-castle.html" rel="standout"></atom:link>
+      <description>Prince William, Princess Catherine, Prince Harry and Meghan all visited crowds gathered to remember the queen.</description>
+      <dc:creator>Traci Carl</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 07:12:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Duchess of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King Charles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Windsor (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/multimedia/10queen-blog-14/10queen-blog-14-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Prince William, Princess Catherine, Prince Harry and Meghan, Duchess of Sussex, on Saturday at Windsor Castle outside London.</media:description>
+    </item>
+    <item>
+      <title>As Russians Retreat, Putin Is Criticized by Hawks Who Trumpeted His War</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/russia-ukraine-retreat-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/russia-ukraine-retreat-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/russia-ukraine-retreat-putin.html" rel="standout"></atom:link>
+      <description>Russian bloggers reporting from the front line provide a uniquely less-censored view of the war. But as Russia’s military flails, these once vocal supporters are exposing its flaws, lies and all.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 04:19:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-russia1/10ukraine-russia1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A destroyed Russian military vehicle in Balakliya, in the eastern Kharkiv region, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>King Charles III Is Formally Proclaimed to His New Role</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-accession.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-accession.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-accession.html" rel="standout"></atom:link>
+      <description>Charles will spend much of the first 10 days of his reign leading his country in mourning the queen, whose state funeral will be held on Sept. 19 in Westminster Abbey.</description>
+      <dc:creator>Megan Specia and Mark Landler</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 18:56:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10royals-accession1/10royals-accession1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Daniel Leal</media:credit>
+      <media:description>In a ceremony filled with pomp and process at St. James’s Palace, a royal residence near Buckingham Palace, King Charles III was officially proclaimed on Saturday.</media:description>
+    </item>
+    <item>
+      <title>How Ukraine Gained Momentum Against Russia and Took City of Izium</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/ukraine-izium-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/ukraine-izium-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/ukraine-izium-russia.html" rel="standout"></atom:link>
+      <description>For months, Russia used the city of Izium as a way station to resupply and reinforce its troops in their campaign to seize the eastern Donbas region. With a northern offensive, Ukraine has retaken the city.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 00:45:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10ukraine-offensive-explainer1/10ukraine-offensive-explainer1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A destroyed tank in Balakliya, in the Kharkiv region, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s Funeral Will Be on Sept. 19 at Westminster Abbey</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-elizabeth-funeral-westminster-abbey.html" rel="standout"></atom:link>
+      <description>On Sunday, Elizabeth’s coffin will be carried from Balmoral Castle, in the Scottish Highlands, on a roundabout six-hour journey to Edinburgh, via Aberdeen.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 21:53:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palace of Westminster (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+    </item>
+    <item>
+      <title>Thousands of Sunflowers: Mourners Pay Tribute to Queen Elizabeth at Windsor Castle</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/queen-sunflowers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/queen-sunflowers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/queen-sunflowers.html" rel="standout"></atom:link>
+      <description>“She was a ray of sunshine to so many people,” said Natalie Prince, a Windsor florist who said she had sold 8,000 sunflowers on Saturday.</description>
+      <dc:creator>Jenny Gross and Mary Turner</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 14:22:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Florists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Street Vendors (Non-Food)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-elizabeth-flowers-2/merlin_212799111_c1e65a26-ce23-4fda-b935-9b5dc3e6d9d3-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>The Darling Buds of Windsor was selling thousands of sunflowers to people mourning the queen.</media:description>
+    </item>
+    <item>
+      <title>‘Glorious’ Hero or ‘Deplorable’ Traitor? Pétain’s Legacy Haunts French Island</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/france-petain-grave-legacy.html" rel="standout"></atom:link>
+      <description>Philippe Pétain, who led France to victory in World War I and then collaborated with the Nazis, is buried on a small island, where his grave is the site of bitter debates over his legacy.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sun, 11 Sep 2022 05:21:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petain, Philippe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War I (1914-18)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zemmour, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10france-petain-dispatch-promo/10france-petain-dispatch-7-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>TV’s Prequel-Mania</title>
+      <link>https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/briefing/tv-prequels.html" rel="standout"></atom:link>
+      <description>This fall, if you feel like you’ve seen that new series somewhere before, you’re probably right.</description>
+      <dc:creator>James Poniewozik</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 10:32:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television Sets and Media Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings: The Rings of Power (TV Program)</category>
+    </item>
+    <item>
+      <title>Read King Charles III’s Declaration to the Accession Council</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/king-charles-accession-council-transcript.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/king-charles-accession-council-transcript.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/king-charles-accession-council-transcript.html" rel="standout"></atom:link>
+      <description>In the address, the king mourned the death of his mother, Queen Elizabeth II, and said, “I am deeply aware of this great inheritance and of the duties and heavy responsibilities of sovereignty which have now passed to me.”</description>
+      <pubDate>Sat, 10 Sep 2022 13:49:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/10/world/10queen-elizabeth-declaration-transcript-1/10queen-elizabeth-declaration-transcript-1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Jonathan Brady</media:credit>
+      <media:description>King Charles III speaking on Saturday during a meeting of the Accession Council at St. James’s Palace in London.</media:description>
+    </item>
+    <item>
+      <title>After Saskatchewan Murders, First Nation Searches for a Way Forward</title>
+      <link>https://www.nytimes.com/2022/09/10/world/canada/saskatchewan-stabbings-james-smith.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/canada/saskatchewan-stabbings-james-smith.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/canada/saskatchewan-stabbings-james-smith.html" rel="standout"></atom:link>
+      <description>The mass murder in the James Smith Cree Nation is not the first killing that many members of the community link to crystal meth.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 14:23:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saskatchewan, Canada, Stabbings (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09CANADA-LETTER-BURNS2/merlin_212515203_35b1ec85-4fa9-4747-8dad-d0aa78b45be9-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Darryl Burns and others in his family spoke up about problems in their First Nations community.</media:description>
+    </item>
+    <item>
+      <title>In an ancient ceremony with a modern twist, King Charles III is formally proclaimed to his new role.</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/king-charles-iii-is-formally-proclaimed-to-his-new-role.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 12:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>These maps show how Ukraine is rapidly advancing around Izium.</title>
+      <link>https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/10/world/europe/maps-ukraine-rapidly-advances-around-a-key-northeastern-city.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Marco Hernandez, Josh Holder and Marc Santora</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 16:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the U.S. Is Being Ominously Compared to Hungary and Turkey</title>
+      <link>https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/us/politics/united-states-democracy.html" rel="standout"></atom:link>
+      <description>A conversation with Max Fisher, who covers the decline of democracy around the world.</description>
+      <dc:creator>Blake Hounshell and Max Fisher</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 23:41:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fisher, Max (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/11/multimedia/00pol-american-dream-outlaw/00pol-american-dream-outlaw-moth.jpg" width="151"></media:content>
+      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+      <media:description>Donald Trump, like other leaders around the world who have attacked democratic institutions, has appealed to supporters by promising to defeat internal threats to the country.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Attacks Russia in the Kharkiv Region, Swiftly Making Gains</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/ukraine-russia-kharkiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/ukraine-russia-kharkiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/ukraine-russia-kharkiv.html" rel="standout"></atom:link>
+      <description>Sweeping south from positions in the Kharkiv region in Ukraine’s northeast, Ukrainian forces have made their largest gains since routing Russia from Kyiv in April.</description>
+      <dc:creator>Marc Santora, Ivan Nechepurenko and Marco Hernandez</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 00:50:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09ukraine-ledeall-1/09ukraine-ledeall-1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ukrainian fighters in Kharkiv on Friday. President Volodymyr Zelensky said his military had captured large chunks of occupied territory in the north.</media:description>
+    </item>
+    <item>
+      <title>King Charles Names William and Catherine Prince and Princess of Wales</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/william-kate-royal-family.html" rel="standout"></atom:link>
+      <description>In a palace statement, they indicated they would honor William’s late mother while still forging their own path.</description>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 07:20:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Duchess of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Duke of Cambridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diana, Princess of Wales</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/lens/09queen-elizabeth-william-and-kate1/09queen-elizabeth-william-and-kate1-moth.jpg" width="151"></media:content>
+      <media:credit>Ashley Crowden/Press Association, via Associated Press</media:credit>
+      <media:description>Now Prince and Princess of Wales, Catherine and William said they “are focused on deepening the trust and respect of the people of Wales over time.”</media:description>
+    </item>
+    <item>
+      <title>Russia Holds First Elections Since Ukraine Invasion</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/russia-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/russia-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/russia-elections.html" rel="standout"></atom:link>
+      <description>Voters are choosing local and regional governments, but the ranks of opposition candidates have been severely depleted by jail and exile.</description>
+      <dc:creator>Valerie Hopkins, Anton Troianovski and Alina Lobzina</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 07:20:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09Russia-election-2/09Russia-election-2-moth.jpg" width="151"></media:content>
+      <media:credit>Maxim Shipenkov/EPA, via Shutterstock</media:credit>
+      <media:description>Ballot boxes at a polling station in Moscow, on Friday.</media:description>
+    </item>
+    <item>
+      <title>King Charles to Replace Queen Elizabeth on Bank Notes and Coins</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-bank-notes-coins-currency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-bank-notes-coins-currency.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-bank-notes-coins-currency.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II faced right on British coins. Her son and successor might face the other way.</description>
+      <dc:creator>Isabella Simonetti</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 13:08:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Mint Ltd, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">British Pound (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/business/09queen-currency-1/09queen-currency-1-moth.jpg" width="151"></media:content>
+      <media:credit>Matt Cardy/Getty Images</media:credit>
+      <media:description>Since the 17th century, British monarchs have faced the opposite direction of their predecessors on coins.</media:description>
+    </item>
+    <item>
+      <title>King Charles III’s Speech: Full Transcript </title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-transcript.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-transcript.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-speech-transcript.html" rel="standout"></atom:link>
+      <description>King Charles III honored his mother in his first speech to the nation as sovereign.</description>
+      <pubDate>Fri, 09 Sep 2022 18:52:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09Queen-Ledeall-Top/09Queen-Ledeall-Top-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>King Charles III outside Buckingham Palace on Friday.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth, and the Power and Limitations of Inspiring Women</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-women.html" rel="standout"></atom:link>
+      <description>Changing minds can be powerful, but history shows that changing societies takes more.</description>
+      <dc:creator>Amanda Taub</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 17:46:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Everard, Sarah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thatcher, Margaret H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Victoria, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09InterpreterNL01/09InterpreterNL01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Piccadilly Circus in central London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Balmoral, a Cherished Royal Getaway in Scotland, Becomes a Place of Pilgrimage</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-balmoral.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-balmoral.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-balmoral.html" rel="standout"></atom:link>
+      <description>‘If she had to go, this was the place,’ one visitor said. ‘She loved it.’</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 19:00:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="">Balmoral Castle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/10/01/world/01UKQUEENBALMORAL01/01UKQUEENBALMORAL01-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>Paying respect on Friday outside the gate of Balmoral Castle in Scotland after the death of Queen Elizabeth.</media:description>
+    </item>
+    <item>
+      <title>In London, Mourning, Remembrance and Tributes. And Some Shrugs.</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/london-mourning-queen.html" rel="standout"></atom:link>
+      <description>Though mourning and grief were visible in Britain’s capital on Friday, some young Britons were more muted in their reaction to an institution that many called increasingly irrelevant.</description>
+      <dc:creator>Emma Bubola, Isabella Kwai and Saskia Solomon</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 17:39:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09QueenScene01/09QueenScene01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>A portrait of Queen Elizabeth is displayed at Victoria Station in London.</media:description>
+    </item>
+    <item>
+      <title>King Charles III Will Be Announced  in His New Role on Saturday</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-privy-council.html" rel="standout"></atom:link>
+      <description>The ceremony was televised for the first time.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 09:28:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>What Will Happen to Queen Elizabeth’s Corgis?</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-corgis.html" rel="standout"></atom:link>
+      <description>Wherever the dogs end up, they may need to become accustomed to a home that is less luxurious than a royal castle.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 06:54:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-corgis/09queen-elizabeth-corgis-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Queen Elizabeth with four of her corgis in London in 1969.</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s Death Renews British Empire Debate in Africa</title>
+      <link>https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/africa/queen-africa-british-empire.html" rel="standout"></atom:link>
+      <description>While some in Africa paid tribute to the deceased monarch, others stressed Britain’s violent colonial history on the continent.</description>
+      <dc:creator>Abdi Latif Dahir, Lynsey Chutel and Elian Peltier</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 20:23:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/lens/09queen-elizabeth-Africa2/09queen-elizabeth-Africa2-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Mau Mau fighters detained in 1952 in Kenya, a British colony at the time. An anticolonial rebellion was suppressed shortly after Queen Elizabeth II ascended to the British throne.</media:description>
+    </item>
+    <item>
+      <title>Harry Leaves Balmoral Castle, With Uncertain Plans Ahead</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/prince-harry-meghan-queen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/prince-harry-meghan-queen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/prince-harry-meghan-queen.html" rel="standout"></atom:link>
+      <description>The Duke of Sussex was among the members of the royal family who traveled to the estate in Scotland where Queen Elizabeth II died.</description>
+      <dc:creator>Daniel Victor</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 12:57:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-harry-meghan/merlin_212725971_501b8946-f7c0-494d-b317-7155006ad675-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Chown/Press Association, via Associated Press</media:credit>
+      <media:description>Prince Harry on Friday before boarding a flight to London from Aberdeen Airport in Scotland.</media:description>
+    </item>
+    <item>
+      <title>Artists discuss how they turned the queen into an icon.</title>
+      <link>https://www.nytimes.com/2022/09/09/arts/design/queen-elizabeth-portraits-art.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/arts/design/queen-elizabeth-portraits-art.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/arts/design/queen-elizabeth-portraits-art.html" rel="standout"></atom:link>
+      <description>Queen Elizabeth II of Britain was one of the world’s most photographed and painted people. Three artists explain how they made portraits of the monarch that stood out from the crowd.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 12:39:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Putin Critic Aleksei Navalny Says Russia Revoked His Attorney-Client Privilege</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/russia-opposition-navalny-attorney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/russia-opposition-navalny-attorney.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/russia-opposition-navalny-attorney.html" rel="standout"></atom:link>
+      <description>Mr. Navalny said on Twitter that the prison administration had accused him of committing unspecified crimes by communicating with “accomplices through lawyers.”</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 12:21:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navalny, Aleksei A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09ukraine-briefing-navalny-1/09ukraine-briefing-navalny-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>Alexei A. Navalny appeared in court via video in May. He said he had been informed that all incoming and outgoing communication with his lawyers would be subjected to “a three-day check.”</media:description>
+    </item>
+    <item>
+      <title>Queen Elizabeth’s Death Draws A More Muted Response in India </title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-india-empire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-india-empire.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/queen-elizabeth-death-india-empire.html" rel="standout"></atom:link>
+      <description>India declared a day of mourning, but the British colonial era evokes uncomfortable memories.</description>
+      <dc:creator>Suhasini Raj</dc:creator>
+      <pubDate>Sat, 10 Sep 2022 04:57:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amritsar (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-India-reaction/09queen-elizabeth-India-reaction-moth.jpg" width="151"></media:content>
+      <media:credit>Arun Sankar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Reading news of Queen Elizabeth’s death in the city of Chennai in Tamil Nadu, India.</media:description>
+    </item>
+    <item>
+      <title>2 Years After Deadly Fistfights, India and China Pull Back From Border</title>
+      <link>https://www.nytimes.com/2022/09/09/world/asia/india-china-border.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/asia/india-china-border.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/asia/india-china-border.html" rel="standout"></atom:link>
+      <description>The two sides, after 16 rounds of talks, made an announcement a week before their leaders will meet in Uzbekistan.</description>
+      <dc:creator>Sameer Yasir</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 12:29:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09india-china-01/09india-china-01-moth.jpg" width="151"></media:content>
+      <media:credit>Yawar Nazir/Getty Images</media:credit>
+      <media:description>An Indian Army convoy on a highway bordering China in 2020.</media:description>
+    </item>
+    <item>
+      <title>Thousands of Angry Indonesians Gather to Protest Rising Fuel Prices</title>
+      <link>https://www.nytimes.com/2022/09/09/world/asia/indonesia-fuel-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/asia/indonesia-fuel-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/asia/indonesia-fuel-protests.html" rel="standout"></atom:link>
+      <description>Labor activists, workers and students are demanding a reversal of an economic policy that the government says is necessary but remains deeply unpopular.</description>
+      <dc:creator>Dera Menra Sijabat, Sui-Lee Wee and Muktita Suhartono</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 12:14:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jakarta (Indonesia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joko Widodo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09indonesia-protests-01/09indonesia-protests-01-moth.jpg" width="151"></media:content>
+      <media:credit>Achmad Ibrahim/Associated Press</media:credit>
+      <media:description>Student activists in Jakarta, Indonesia’s capital, during a rally against higher fuel prices on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Volker Türk, an Austrian Diplomat, Takes U.N. Human Rights Post</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/un-human-rights-chief.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/un-human-rights-chief.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/un-human-rights-chief.html" rel="standout"></atom:link>
+      <description>One of Volker Türk’s toughest challenges will be determining what to do about a highly critical report on China that his predecessor, Michelle Bachelet, released just before departing.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 15:05:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turk, Volker</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/us/09un-rights/09un-rights-moth.jpg" width="151"></media:content>
+      <media:credit>Charles Dharapak/Associated Press</media:credit>
+      <media:description>Volker Türk, 57, is not widely known outside the United Nations, but he was seen as the front-runner in a field of 13 candidates interviewed for the role.</media:description>
+    </item>
+    <item>
+      <title>Mourning Queen Elizabeth: Buckingham Palace Shares Tribute Details</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/uk-mourning-queen-elizabeth.html" rel="standout"></atom:link>
+      <description>The palace released the protocol for floral tributes, the closing of royal residences and a period of mourning to mark the death of Queen Elizabeth II.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 11:34:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-schedule-new/09queen-elizabeth-schedule-new-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Flowers for the queen outside of Buckingham Palace on Thursday night.</media:description>
+    </item>
+    <item>
+      <title>For Australians, Too, It’s the End of an Era</title>
+      <link>https://www.nytimes.com/2022/09/09/world/australia/for-australians-too-its-the-end-of-an-era.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/australia/for-australians-too-its-the-end-of-an-era.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/australia/for-australians-too-its-the-end-of-an-era.html" rel="standout"></atom:link>
+      <description>“I don’t think we’ll ever have the security again that we had with her,” said one Australian about the death of Queen Elizabeth II.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 10:53:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/multimedia/09ausletter273/09ausletter273-moth.jpg" width="151"></media:content>
+      <media:credit>Tracey Nearmy/Getty Images</media:credit>
+      <media:description>Laying flowers for Queen Elizabeth in Canberra on Friday.</media:description>
+    </item>
+    <item>
+      <title>Premier League Soccer Games Postponed Out of Respect for the Queen </title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/sports-soccer-canceled-queen-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/sports-soccer-canceled-queen-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/sports-soccer-canceled-queen-death.html" rel="standout"></atom:link>
+      <description>The league was one of many sports organizations in Britain to alter its schedule after the death of Queen Elizabeth II. Others will play on this weekend.</description>
+      <dc:creator>Rory Smith and Tariq Panja</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 15:38:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Horseracing Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">English Premier League</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09queen-elizabeth-soccer/09queen-elizabeth-soccer-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Powell/EPA, via Shutterstock</media:credit>
+      <media:description>Players for Manchester United observed a moment of silence in honor of Queen Elizabeth II before their match on Thursday night.</media:description>
+    </item>
+    <item>
+      <title>Filthy Plane Videos Ignite Debate About Airline Cleanliness</title>
+      <link>https://www.nytimes.com/2022/09/09/travel/dirty-planes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/travel/dirty-planes.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/travel/dirty-planes.html" rel="standout"></atom:link>
+      <description>Recent social media posts suggest that the days of clean flights may be going the way of masks. And they’ve ignited a debate about who bears responsibility.</description>
+      <dc:creator>Heather Murphy</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+    </item>
+    <item>
+      <title>Kim Jong-un Says North Korea Will ‘Never Give Up’ Its Nuclear Weapons</title>
+      <link>https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/asia/north-korea-kim-weapons-law.html" rel="standout"></atom:link>
+      <description>The law authorizes a nuclear strike if an enemy tries to remove Kim Jong-un from power, the North’s state media reported.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 07:09:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Korean Central News Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/09/09/world/09nkorea-01/09nkorea-01-moth.jpg" width="151"></media:content>
+      <media:credit>Korean Central News Agency, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kim Jong-un, North Korea’s leader, said Thursday that there would “no longer be any bargaining over our nuclear power,” according to state media, which released this photo. </media:description>
+    </item>
+    <item>
+      <title>Charles addresses Britain on his first full day as monarch.</title>
+      <link>https://www.nytimes.com/2022/09/09/world/europe/king-charles-iii-will-address-the-nation-in-his-first-full-day-as-monarch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/09/09/world/europe/king-charles-iii-will-address-the-nation-in-his-first-full-day-as-monarch.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/09/09/world/europe/king-charles-iii-will-address-the-nation-in-his-first-full-day-as-monarch.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Megan Specia and Mark Landler</dc:creator>
+      <pubDate>Fri, 09 Sep 2022 19:02:20 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

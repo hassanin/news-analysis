@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Tue, 07 Feb 2017 11:02:40 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Israel Passes Provocative Law to Retroactively Legalize Settlements</title>
+      <link>http://www.nytimes.com/2017/02/06/world/middleeast/israel-settlement-law-palestinians-west-bank.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/middleeast/israel-settlement-law-palestinians-west-bank.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/middleeast/israel-settlement-law-palestinians-west-bank.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07israel1/07israel1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Israeli settlement of Almon in the occupied West Bank. Polls show that most Israelis still support a two-state solution, but their leaders and the reality on the ground are heading in the opposite direction.</media:description>
+      <media:credit>Ahmad Gharabli/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Though the law, which would approve Jewish settlements on privately owned Palestinian land, is most likely to be struck down in court, its passage was a sign of right-wing assertiveness.</description>
+      <dc:creator>IAN FISHER</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 22:42:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+    </item>
+    <item>
+      <title>Amnesty Report Accuses Syria of Executing Thousands Since War Began</title>
+      <link>http://www.nytimes.com/2017/02/06/world/middleeast/syria-prison-amnesty-international.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/middleeast/syria-prison-amnesty-international.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/middleeast/syria-prison-amnesty-international.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07prisoners/07prisoners-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Bashar al-Assad of Syria in Damascus last month. He has denied accusations of abuses in Syrian prisons.</media:description>
+      <media:credit>Syrian Arab News Agency, via Associated Press</media:credit>
+      <description>While dismal prison conditions in Syria have long been known, the report describes a campaign of deliberate extermination.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 00:15:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+    </item>
+    <item>
+      <title>ISIS Redoubt in Northern Syria Is Said to Be Nearly Encircled</title>
+      <link>http://www.nytimes.com/2017/02/06/world/middleeast/syria-isis-al-bab.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/middleeast/syria-isis-al-bab.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/middleeast/syria-isis-al-bab.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07syria1/07syria1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Syrian Army fighters northeast of Al Bab on Saturday.</media:description>
+      <media:credit>Nazeer Al-Khatib/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The city of Al Bab, occupied by the Islamic State, is being squeezed from all sides by Turkish-backed rebels and Russian-backed government forces.</description>
+      <dc:creator>RICK GLADSTONE and MAHER SAMAAN</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 21:49:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>Global Health: Turning the Tide Against Cholera</title>
+      <link>http://www.nytimes.com/2017/02/06/health/cholera-vaccine-bangladesh.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/health/cholera-vaccine-bangladesh.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/health/cholera-vaccine-bangladesh.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/01/health/cholera-images-ss-slide-U3G4/cholera-images-ss-slide-U3G4-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A young cholera patient at at the International Center for Diarrheal Disease Research in Dhaka, Bangladesh.</media:description>
+      <media:credit>Ismail Ferdous for The New York Times</media:credit>
+      <description>Two centuries ago, a global pandemic rose from the swamps of Bangladesh. Now researchers there may have found the tools to stop it.</description>
+      <dc:creator>DONALD G. McNEIL Jr.</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 20:25:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Center for Diarrheal Disease Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dang Duc Trach</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clemens, John D.</category>
+    </item>
+    <item>
+      <title>Hong Kong Journal: Using Stealth, and Drones, to Document a Fading Hong Kong</title>
+      <link>http://www.nytimes.com/2017/02/07/world/asia/hong-kong-historical-preservation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/07/world/asia/hong-kong-historical-preservation.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/07/world/asia/hong-kong-historical-preservation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/19/world/19CHINAHONG-1/19CHINAHONG-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A member of HK Urbex who goes by the alias T.O.a.D. looking down at the State Theater, built in 1952, in the North Point section of Hong Kong. The group is building a video archive of the city&#x2019;s colonial-era architecture.</media:description>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <description>&#x201C;It&#x2019;s about forcing us to confront the aesthetic of loss,&#x201D; a professor says of a film oeuvre that captures colonial-era buildings before they are razed.</description>
+      <dc:creator>MIKE IVES</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 10:07:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">HK Urbex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Steve Bannon Carries Battles to Another Influential Hub: The Vatican</title>
+      <link>http://www.nytimes.com/2017/02/07/world/europe/vatican-steve-bannon-pope-francis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/07/world/europe/vatican-steve-bannon-pope-francis.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/07/world/europe/vatican-steve-bannon-pope-francis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/06bannonpope1/06bannonpope1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Pope Francis leading a prayer at the Vatican in late January. The pope&#x2019;s agenda has made him a figure of unmatched global popularity, especially among liberals.</media:description>
+      <media:credit>L'Osservatore Romano, via Reuters</media:credit>
+      <description>Mr. Bannon, a Catholic, has cultivated strategic alliances with those in Rome who share his view that the pope is a dangerously misguided pontiff.</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 08:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cardinals (Roman Catholic Prelates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+    </item>
+    <item>
+      <title>Will Trump Address U.K. Parliament? Not if Commons Speaker Can Help It</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/britain-uk-speaker-john-bercow.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/britain-uk-speaker-john-bercow.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/britain-uk-speaker-john-bercow.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07britain1/07britain1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump is expected to travel to London this year to meet Queen Elizabeth II.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>John Bercow, the speaker of the House of Commons, cited his &#x201C;opposition to racism and sexism&#x201D; among the reasons he opposes letting President Trump address lawmakers.</description>
+      <dc:creator>STEPHEN CASTLE</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 01:11:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bercow, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Putin Critic, Who Said He Was Poisoned in 2015, Falls Into Coma</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/russia-vladimir-kara-murza-putin.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/russia-vladimir-kara-murza-putin.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/russia-vladimir-kara-murza-putin.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07Poison/07Poison-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Vladimir Kara-Murza has fallen into a life-threatening coma caused by an unknown poison, his wife said on Monday.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>The political activist Vladimir Kara-Murza, 35, has said that the Kremlin has a policy of assassinating political enemies.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 00:50:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kara-Murza, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+    </item>
+    <item>
+      <title>Fueled by Bribes, Somalia&#x2019;s Election Seen as Milestone of Corruption</title>
+      <link>http://www.nytimes.com/2017/02/07/world/africa/somalia-election-corruption.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/07/world/africa/somalia-election-corruption.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/07/world/africa/somalia-election-corruption.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/africa/07Somalia-ss-slide-HX9Q/07Somalia-ss-slide-HX9Q-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Some neighborhoods in Mogadishu, Somalia, bear the scars of decades of war.</media:description>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <description>An estimated $20 million or more has feverishly changed hands during parliamentary elections that will culminate in the selection of the president.</description>
+      <dc:creator>JEFFREY GETTLEMAN</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 05:00:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shabab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mogadishu (Somalia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Memo from Tunisia: Tunis Greets an Ottoman-Era History Long Banished by Its Dictators</title>
+      <link>http://www.nytimes.com/2017/02/06/world/africa/tunis-greets-an-ottoman-era-history-long-banished-by-its-dictators.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/africa/tunis-greets-an-ottoman-era-history-long-banished-by-its-dictators.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/africa/tunis-greets-an-ottoman-era-history-long-banished-by-its-dictators.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07TUNIS1/07TUNIS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A new exhibit at the Ksar es-Said palace explores Tunisia&#x2019;s 19th-century history.</media:description>
+      <media:credit>Tara Todras-Whitehill for The New York Times</media:credit>
+      <description>After decades of dictatorship and colonial rule, Tunisians are now confronting and glimpsing parts of their past that have long been suppressed.</description>
+      <dc:creator>CARLOTTA GALL and LILIA BLAISE</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 14:30:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben Ali, Zine El-Abidine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Essebsi, Beji Caid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tunis (Tunisia)</category>
+    </item>
+    <item>
+      <title>Task Force Urges Better U.S. Engagement With China</title>
+      <link>http://www.nytimes.com/2017/02/06/world/asia/china-us-relations.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/asia/china-us-relations.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/asia/china-us-relations.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07china-web1/07china-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Delivery workers in Beijing last month. The Trump administration has vowed to impose high tariffs on Chinese goods.</media:description>
+      <media:credit>Fred Dufour/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A bipartisan task force of China specialists is warning of a trade war or even an armed skirmish unless the United States can find a more effective way to engage China.</description>
+      <dc:creator>DAVID BARBOZA</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 02:00:16 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Asia Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Trans-Pacific Partnership</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">University of California, San Diego</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+    </item>
+    <item>
+      <title>Fran&#xE7;ois Fillon Blames &#x2018;Media Lynching&#x2019; for His Campaign Crisis</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/franois-fillon-france-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/franois-fillon-france-election.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/franois-fillon-france-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07fillon1/07fillon1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Fran&#xE7;ois Fillon, right, at his combative news conference in Paris on Monday.</media:description>
+      <media:credit>Pool photo by Philippe Wojazer</media:credit>
+      <description>Mr. Fillon, the center-right candidate in France&#x2019;s presidential race, called a news conference to defend paying his wife hundreds of thousands of euros.</description>
+      <dc:creator>ADAM NOSSITER</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 20:21:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nepotism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fillon, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>Teenager Pleads Guilty in Stabbing Death of American Tourist in London</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/zakaria-bulhan-london-stabbing-american-tourist.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/zakaria-bulhan-london-stabbing-american-tourist.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/zakaria-bulhan-london-stabbing-american-tourist.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07london1/07london1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers at work in Russell Square in Central London after a fatal knife attack last August.</media:description>
+      <media:credit>Yui Mok/Press Association, via Associated Press</media:credit>
+      <description>The August attack in Russell Square also left five other people injured, and the teenager, Zakaria Bulhan, was found to have paranoid schizophrenia.</description>
+      <dc:creator>SEWELL CHAN</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 18:49:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horton, Darlene (1952-2016)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+    </item>
+    <item>
+      <title>Mothers and Daughters Divided by Refugee Ban Encounter the Guilt of Good Fortune</title>
+      <link>http://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/FAMILIES/FAMILIES-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sana Mustafa, 25, who arrived in the United States from Syria in 2013, at her home in Red Hook, N.Y. Her her mother and younger sister remain in Turkey in a refugee camp.</media:description>
+      <media:credit>Nathaniel Brooks for The New York Times</media:credit>
+      <description>President Trump&#x2019;s executive order has abruptly frozen refugee resettlement and dashed many families&#x2019; hopes for reunification. Those who have made it to the United States are grappling with a gnawing sense of guilt.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 17:59:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaziantep (Turkey)</category>
+    </item>
+    <item>
+      <title>Hearing &#x2018;America First,&#x2019; European Nations Jockey to Be Second</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/europe-trump-parody-videos.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/europe-trump-parody-videos.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/europe-trump-parody-videos.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/04/us/XP-europevideos/04XP-TRUMP-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump speaking in the Oval Office.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>It&#x2019;s a tight race for runner-up when America is first, and the contenders are going all out to prove their superiority to Donald Trump with video pitches.</description>
+      <dc:creator>RACHEL DONADIO and LIAM STACK</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 17:17:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lithuania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luxembourg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+    </item>
+    <item>
+      <title>Artur Mas, Catalonia Ex-Leader, Stands Trial as Thousands Protest</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/artur-mas-catalonia-independence-trial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/artur-mas-catalonia-independence-trial.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/artur-mas-catalonia-independence-trial.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07Catalan1/07Catalan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Artur Mas, center, the former leader of Catalonia, after a court hearing in Barcelona, Spain, on Monday.</media:description>
+      <media:credit>Alex Caparros/Getty Images</media:credit>
+      <description>Mr. Mas faces charges of disobedience and breach of trust for organizing a vote on independence from Spain in 2014.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 16:38:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mas, Artur (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rajoy, Mariano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+    </item>
+    <item>
+      <title>An Uncertain Wait Ends for U.S.-Bound Refugees Stuck in Jordan</title>
+      <link>http://www.nytimes.com/2017/02/06/world/middleeast/refugees-united-states-ban.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/middleeast/refugees-united-states-ban.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/middleeast/refugees-united-states-ban.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07jordan1/07jordan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Syrian refugees in Amman, Jordan, last week.</media:description>
+      <media:credit>Khalil Mazraawi/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Syrian and Iraqi refugees who had been stuck at the Amman airport were finally allowed to travel to new lives in America.</description>
+      <dc:creator>RANA F. SWEIS and DAN BILEFSKY</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 16:32:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amman (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+    </item>
+    <item>
+      <title>Kremlin Asks Fox News to Apologize to Putin After O&#x2019;Reilly Calls Him &#x2018;a Killer&#x2019;</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/oreilly-putin-trump-killer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/oreilly-putin-trump-killer.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/oreilly-putin-trump-killer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07Russia-fox/07Russia-fox-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bill O&#x2019;Reilly in 2015, hosting &#x201C;The O&#x2019;Reilly Factor&#x201D; on Fox.</media:description>
+      <media:credit>Rob Kim/Getty Images</media:credit>
+      <description>The Fox News host made the comment during an interview with President Trump, who replied, &#x201C;You think our country&#x2019;s so innocent?&#x201D;</description>
+      <dc:creator>KIMIKO de FREYTAS-TAMURA</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 15:43:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Apologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O'Reilly, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Queen Elizabeth II&#x2019;s Sapphire Jubilee Takes On Low-Key Tone</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/queen-elizabeth-uk-sapphire-jubilee.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/queen-elizabeth-uk-sapphire-jubilee.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/queen-elizabeth-uk-sapphire-jubilee.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07Jubilee1/07Jubilee1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A portrait of Queen Elizabeth II taken in 2014 by David Bailey.</media:description>
+      <media:credit>David Bailey, via Buckingham Palace</media:credit>
+      <description>The monarch, 90, planned to celebrate the day privately, with a quiet reflective commemoration at her estate in Sandringham, in eastern England.</description>
+      <dc:creator>CEYLAN YEGINSU</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 15:06:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>How a Refugee&#x2019;s Selfie With Merkel Led to a Facebook Lawsuit</title>
+      <link>http://www.nytimes.com/2017/02/06/business/syria-refugee-anas-modamani-germany-facebook.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/business/syria-refugee-anas-modamani-germany-facebook.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/business/syria-refugee-anas-modamani-germany-facebook.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/06fbgermany/06fbgermany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anas Modamani, now 19, fled Syria for Germany in 2015 and took a selfie with Chancellor Angela Merkel outside a refugee camp in Berlin.</media:description>
+      <media:credit>Fabrizio Bensch/Reuters</media:credit>
+      <description>A Syrian refugee&#x2019;s 2015 picture with Germany&#x2019;s chancellor came to symbolize her decision to welcome migrants. But it has been used to falsely link him to terrorism.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 19:07:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modamani, Anas</category>
+    </item>
+    <item>
+      <title>The Interpreter: For Germany, Trump Poses a Problem With No Clear Solution</title>
+      <link>http://www.nytimes.com/2017/02/06/world/europe/germany-prepares-for-turbulence-in-the-trump-era.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/europe/germany-prepares-for-turbulence-in-the-trump-era.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/europe/germany-prepares-for-turbulence-in-the-trump-era.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07int-germany/07int-germany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters during a demonstration against President Trump&#x2019;s travel ban, in front of the Brandenburg Gate in Berlin on Saturday.</media:description>
+      <media:credit>Clemens Bilan/European Pressphoto Agency</media:credit>
+      <description>There is a growing tension between the role Germany feels comfortable with, and the one it feels it must play on the world stage.</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 10:00:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Eurozone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+    </item>
+    <item>
+      <title>Kerry and Albright Ask Courts to Keep Blocking Trump&#x2019;s Travel Ban</title>
+      <link>http://www.nytimes.com/2017/02/06/us/politics/trump-travel-ban-john-kerry.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/us/politics/trump-travel-ban-john-kerry.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/us/politics/trump-travel-ban-john-kerry.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07democrats-web1/07democrats-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>John Kerry, who served as secretary of state, in Washington last month. Mr. Kerry and other prominent Democrats wrote a letter saying that President Trump&#x2019;s order &#x201C;ultimately undermines the national security of the United States, rather than making us safer.&#x201D;</media:description>
+      <media:credit>Zach Gibson/European Pressphoto Agency</media:credit>
+      <description>Prominent Democrats, including John Kerry and Madeleine K. Albright, wrote a letter to an appeals court saying that the immigration order endangers troops and undermines security.</description>
+      <dc:creator>GERRY MULLANY</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 08:19:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Albright, Madeleine K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerry, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Left-Behind Explosives Taking Deadlier Toll on Afghan Children, U.N. Says</title>
+      <link>http://www.nytimes.com/2017/02/06/world/asia/afghanistan-war-civilian-casualties-un-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/world/asia/afghanistan-war-civilian-casualties-un-report.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/06/world/asia/afghanistan-war-civilian-casualties-un-report.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/world/07afghan-web1/07afghan-web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A child injured in a suicide bombing last year in Kabul, Afghanistan. On Monday, the United Nations mission in Afghanistan reported that 2016 had been another year of record civilian casualties in the country.</media:description>
+      <media:credit>Adam Ferguson for The New York Times</media:credit>
+      <description>A 65 percent rise in child casualties caused by explosives last year was just one part of a United Nations report on a record year in civilian casualties in Afghanistan.</description>
+      <dc:creator>MUJIB MASHAL</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 07:27:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Afghanistan War (2001-14)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+    </item>
+    <item>
+      <title>&#x2018;I Didn&#x2019;t Want to Lose My Identity&#x2019;: 16,000 Readers Reflect on Their Surnames</title>
+      <link>http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/17/world/surnames/surnames-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katherine Yuk from Toronto was one of more than 16,000 readers who responded when The New York Times asked women around the world why they kept or changed their surnames when they married.</media:description>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <description>The Times asked women around the world why they had kept or changed their surnames when they married. For many, the decision carried significant weight.</description>
+      <dc:creator>HANNA INGBER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 11:00:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-comments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+    </item>
+    <item>
+      <title>15 of the Best Journals by Our Reporters Around the World</title>
+      <link>http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/01/18/world/asia/19India-slideshow-slide-FU7J/19India-slideshow-slide-FU7J-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man folding blankets that are rented out to the homeless in Delhi.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The conversational and visual on-the-ground reports offered a glimpse of captivating people and places, from a &#x201C;sleep mafia&#x201D; in Delhi to a monastery seeking salvation in beer.</description>
+      <dc:creator>Compiled by BARBARA TIERNEY</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 14:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Op-Ed Columnist: The Queen for a Free Trade Deal</title>
+      <link>http://www.nytimes.com/2017/02/07/opinion/the-queen-for-a-free-trade-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/07/opinion/the-queen-for-a-free-trade-deal.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/07/opinion/the-queen-for-a-free-trade-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/08/world/08cohen-inyt-1/08cohen-inyt-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A neighborhood in Sunderland, England, where Brexit was heavily favored.</media:description>
+      <media:credit>Adam Ferguson for The New York Times</media:credit>
+      <description>Theresa May&#x2019;s Brexit-buffeted Britain offers a bridge to Trump, but Europe mulls a rampart.</description>
+      <dc:creator>ROGER COHEN</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 10:18:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Labor Leaders&#x2019; Cheap Deal With Trump</title>
+      <link>http://www.nytimes.com/2017/02/07/opinion/labor-leaders-cheap-deal-with-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/07/opinion/labor-leaders-cheap-deal-with-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/07/opinion/labor-leaders-cheap-deal-with-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/07/opinion/07klein/07klein-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Simone Noronha</media:credit>
+      <description>The building trades unions have chosen solidarity with the president over solidarity with the working class.</description>
+      <dc:creator>NAOMI KLEIN</dc:creator>
+      <pubDate>Tue, 07 Feb 2017 08:21:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: Isolating China Doesn&#x2019;t Work</title>
+      <link>http://www.nytimes.com/2017/02/06/opinion/isolating-china-doesnt-work.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/06/opinion/isolating-china-doesnt-work.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/02/06/opinion/06pomfret-inyt/06pomfret-inyt-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Jeffrey Henson Scales, photographs by Peter Adams/Getty Images, and Damon Winter/The New York Times</media:credit>
+      <description>Trump could push Beijing into a defensive crouch.</description>
+      <dc:creator>JOHN POMFRET</dc:creator>
+      <pubDate>Mon, 06 Feb 2017 14:45:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 19 Apr 2022 16:55:07 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Apr 2022 16:47:08 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Ukraine Live Updates: Russia Declares New Phase of War as Forces Clash in East</title>
+      <link>https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news" rel="standout"></atom:link>
+      <description>Ukraine said it was resisting Russia’s initial thrusts in a sprawling offensive that could reshape the conflict. The Pentagon estimated that Moscow has added thousands of troops in Ukraine in recent days.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:40:37 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/multimedia/19ukraine-blog-header-promo-11am/19ukraine-blog-header-promo-1045am-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A strike in a residential neighborhood of Kharkiv on Tuesday killed at least three people.</media:description>
+    </item>
+    <item>
+      <title>South Africa Live Updates: President Declares a State of Disaster After Flooding</title>
+      <link>https://www.nytimes.com/live/2022/04/19/world/south-africa-floods</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/04/19/world/south-africa-floods</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods" rel="standout"></atom:link>
+      <description>Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 443, with roughly four dozen people unaccounted for.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:47:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/world/19safrica-floods-briefing-SF-promo/19safrica-floods-briefing-SF-promo-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>Standing near a bridge north of Durban, South Africa, that was destroyed in recent flooding.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Thrust in Eastern Ukraine Combines Firepower and New Caution</title>
+      <link>https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html" rel="standout"></atom:link>
+      <description>The military campaign that Moscow said it had now begun appears much more methodical than those it pursued in the war’s first days</description>
+      <dc:creator>Thomas Gibbons-Neff and Michael Schwirtz</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:40:35 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/19ukraine-blog-east/merlin_205632996_a9f98330-0dc2-4079-9a74-702702d3d9c9-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>An artillery strike on Monday killed at least one person and wounded another in a residential area in Kharkiv, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</title>
+      <link>https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html" rel="standout"></atom:link>
+      <description>The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says.</description>
+      <dc:creator>Richard C. Paddock</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 07:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assistance Assn for Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/14/world/14myanmar-doctors-01/14myanmar-doctors-01-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>Patients with gunshot wounds in an emergency ward last March in Yangon, Myanmar. The staff had shut down the hospital as part of mass protests against the military coup weeks earlier, but were secretly treating injured protestors.</media:description>
+    </item>
+    <item>
+      <title>How Memes Are Driving Ukraine’s Fundraising Efforts</title>
+      <link>https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html" rel="standout"></atom:link>
+      <description>A campaign using internet memes and merchandise has rallied international public support for Ukraine in its war with Russia.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:15:15 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17ukraine-merch1/17ukraine-merch1-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>T-shirts and stickers featuring the Virgin Mary holding an antitank missile are being sold to help fund Ukrainian aid organizations.</media:description>
+    </item>
+    <item>
+      <title>Afghanistan School Explosions: At Least 6 Dead in Kabul</title>
+      <link>https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html" rel="standout"></atom:link>
+      <description>More than a dozen people were also wounded, one as young as 7. The attacks again challenged the Taliban’s promise of security, and stoked deep-seated fears in the Shiite community.</description>
+      <dc:creator>Christina Goldbaum and Yaqoob Akbary</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:28:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State Khorasan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/world/19Afghan-attack03/19Afghan-attack03-moth.jpg" width="151"></media:content>
+      <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
+      <media:description>Taliban fighters stand guard at the site of an explosion in front of a school in Kabul, Afghanistan, on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Drawn and Caricatured: French Cartoonists on the Campaign Trail</title>
+      <link>https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html" rel="standout"></atom:link>
+      <description>Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end.</description>
+      <dc:creator>Saskia Solomon</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 15:51:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cartoons and Cartoonists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zemmour, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pecresse, Valerie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hidalgo, Anne (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>New Rocket Fire From Gaza Follows Rising Tensions in Israel</title>
+      <link>https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html" rel="standout"></atom:link>
+      <description>The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 21:07:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temple Mount (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18israel/merlin_187639074_801192a4-a70c-43d3-bdb7-58fb0a5ae8c3-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times </media:credit>
+      <media:description>Israel’s Iron Dome anti-missile system launching to intercept rockets fired from the Gaza Strip during the war last year.</media:description>
+    </item>
+    <item>
+      <title>Ukraine War Divides Orthodox Faithful</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html" rel="standout"></atom:link>
+      <description>Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression.</description>
+      <dc:creator>Neil MacFarquhar and Sophia Kishkovsky</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 00:12:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Orthodox Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eastern Orthodox Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirill I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bartholomew I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orthodox Church in America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/00russia-church-new-top/00russia-church-new-top-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>A worshiper lighting a candle on Sunday at the Church of the Elevation of the Cross in Udine, Italy. The church has severed all ties with the Moscow Patriarchate over its support for the war in Ukraine.</media:description>
+    </item>
+    <item>
+      <title>To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html" rel="standout"></atom:link>
+      <description>The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk.</description>
+      <dc:creator>Thomas Gibbons-Neff and John Ismay</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 15:50:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cluster Munitions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-cluter-01/18ukraine-cluter-01-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>The remains of a destroyed Russian armored vehicle in a neighborhood damaged during the war in Husarivka, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>French Candidates’ Economic Programs Hold Key to the Election</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html" rel="standout"></atom:link>
+      <description>Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters.</description>
+      <dc:creator>Liz Alderman</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 18:31:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/00france-econ-01/00france-econ-01-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description> President Emmanuel Macron on the campaign trail last week in Le Havre, France.</media:description>
+    </item>
+    <item>
+      <title>A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</title>
+      <link>https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html" rel="standout"></atom:link>
+      <description>Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause.</description>
+      <dc:creator>Stephanie Nolen and Finbarr O’Reilly</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 12:43:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s Covid Shutdowns Go Far Beyond Shanghai</title>
+      <link>https://www.nytimes.com/2022/04/19/world/china-lockdowns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/china-lockdowns.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html" rel="standout"></atom:link>
+      <description>Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 09:30:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/18/world/18virus-briefing-china-virus/18virus-briefing-china-virus-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Plavevski/EPA, via Shutterstock</media:credit>
+      <media:description>Testing for the virus in Shanghai on Tuesday. The city of Wuhu in Anhui Province is entering a similar lockdown after reporting two Covid cases.</media:description>
+    </item>
+    <item>
+      <title>A ‘Wild West’ of Marijuana Shops Grows in Toronto</title>
+      <link>https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html" rel="standout"></atom:link>
+      <description>Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood.</description>
+      <dc:creator>Catherine Porter and Ian Willms</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 11:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+    </item>
+    <item>
+      <title>Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</title>
+      <link>https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html" rel="standout"></atom:link>
+      <description>Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 15:32:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Battaglia, Letizia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palermo (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/obituaries/00Battaglia-image2/merlin_120722483_47ca25eb-d189-4635-b276-238016ae15e7-moth.jpg" width="151"></media:content>
+      <media:credit>Gianni Cipriano for The New York Times</media:credit>
+      <media:description>Ms. Battaglia at her home in 2017. “I never thought of myself as an artist,” she said, “and I am still astonished to enter into a museum and see my work.” </media:description>
+    </item>
+    <item>
+      <title>Biden Restores Climate to Environmental Law, Reversing Trump</title>
+      <link>https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html" rel="standout"></atom:link>
+      <description>A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input.</description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 16:15:03 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/multimedia/19cli-nepa/19cli-nepa-moth.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>The Biden administration plans to resurrect requirements of the 50-year-old National Environmental Policy Act that had been removed by President Donald J. Trump.</media:description>
+    </item>
+    <item>
+      <title>World Economic Outlook Dims as War and Pandemic Cast a Pall</title>
+      <link>https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html" rel="standout"></atom:link>
+      <description>The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently.</description>
+      <dc:creator>Ana Swanson and Alan Rappeport</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 14:33:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/business/19dc-globalecon01/19dc-globalecon01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Ukrainian refugees waited to sign up for temporary residence permits in Brussels. The war in Ukraine is among the overlapping crises dimming expectations for the global economy this year.</media:description>
+    </item>
+    <item>
+      <title>‘Big Screaming Headlines’</title>
+      <link>https://www.nytimes.com/2022/04/19/briefing/covid-cases-up-hospitalizations-omicron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/briefing/covid-cases-up-hospitalizations-omicron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/briefing/covid-cases-up-hospitalizations-omicron.html" rel="standout"></atom:link>
+      <description>Coronavirus cases have risen in major cities. Hospitalizations have not.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 10:44:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/multimedia/19-the-morning-lede1-promo/19-the-morning-lede1-moth.jpg" width="151"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>A Covid-19 testing site in Brooklyn yesterday.</media:description>
+    </item>
+    <item>
+      <title>A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</title>
+      <link>https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html" rel="standout"></atom:link>
+      <description>Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 15:56:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Security Administration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/world/19virus-briefing-masks-reaction-flights-sub/19virus-briefing-masks-reaction-flights-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Brittany Murray/MediaNews Group/Long Beach Press-Telegram, via Getty Images</media:credit>
+      <media:description>Travelers at Los Angeles International Airport on Monday. The T.S.A. announced that it would stop enforcing its mask mandate after a federal judge in Florida struck down the requirement.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2022/04/19/briefing/ukraine-attack-renewable-energy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/briefing/ukraine-attack-renewable-energy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/briefing/ukraine-attack-renewable-energy.html" rel="standout"></atom:link>
+      <description>A Russian offensive in eastern Ukraine.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 04:34:36 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/world/041922ambriefing-europe-promo2/19ambriefing-europe-ukraine2-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Onlookers at the scene of a missile strike that hit a tire fitting plant in Lviv, Ukraine, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Which U.S. Airlines Dropped Their Mask Mandate</title>
+      <link>https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html" rel="standout"></atom:link>
+      <description>After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 14:36:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alaska Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Frontier Airlines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southwest Airlines Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spirit Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-masks-ruling-02/18virus-briefing-masks-ruling-02-moth.jpg" width="151"></media:content>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <media:description>Most large U.S. airlines, including American, JetBlue and United, said passengers and crew would no longer be required to wear masks on domestic flights.</media:description>
+    </item>
+    <item>
+      <title>U.N. Official Said He Tested Positive for Covid After In-Person Meeting</title>
+      <link>https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html" rel="standout"></atom:link>
+      <description>One meeting had included the U.N.’s secretary general, but everyone in the room was wearing masks, a spokesman said.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 14:12:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-Griffiths/18virus-briefing-Griffiths-moth.jpg" width="151"></media:content>
+      <media:credit>Eduardo Munoz/Reuters</media:credit>
+      <media:description>Martin Griffiths briefs reporters on the humanitarian situation in Ukraine at United Nations headquarters in New York on Monday. He tested positive for the coronavirus later in the day.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Says Russia Begins Assault in the East After Raining Missiles Nationwide</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html" rel="standout"></atom:link>
+      <description>The president of Ukraine and a top national security aide said the Russian offensive, anticipated for weeks, had finally begun after a Russian missile barrage that included the first deadly strike on the western city of Lviv.</description>
+      <dc:creator>Jane Arraf, Ivan Nechepurenko and Mark Landler</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 01:29:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lviv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-ledeall1/18ukraine-blog-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Firefighters struggle to extinguish a blaze from a missile strike Monday on a tire-fitting plant in Lviv in western Ukraine. At least seven people were killed in missile strikes on the city. </media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Russia Launches Assault in Eastern Ukraine</title>
+      <link>https://www.nytimes.com/2022/04/18/briefing/russia-offensive-china-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/briefing/russia-offensive-china-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/briefing/russia-offensive-china-economy.html" rel="standout"></atom:link>
+      <description>Plus China’s lockdowns slow its economy and France’s candidates vie for undecided voters.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 21:04:25 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/19/multimedia/19ambriefing-asia-nl-PROMO/19ambriefing-asia-nl-UKR-moth.jpg" width="151"></media:content>
+      <media:credit>David Guttenfelder for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html" rel="standout"></atom:link>
+      <description>Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 07:26:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-prisoner-exchange/merlin_205519938_c367806d-d229-4334-a43e-96190a51f852-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>Oksana Marchenko calling last week for Ukraine to release her husband, Viktor Medvedchuk, a wealthy Ukrainian with close ties to President Vladimir V. Putin of Russia.</media:description>
+    </item>
+    <item>
+      <title>Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</title>
+      <link>https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html" rel="standout"></atom:link>
+      <description>Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Tue, 19 Apr 2022 07:25:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mariupol (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Militia (Donetsk People&#39;s Republic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18vid-Mariupol-Steelworks/18vid-Mariupol-Steelworks-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Alexander Ermochenko/Reuters</media:credit>
+    </item>
+    <item>
+      <title>A Second Global Covid-19 Summit Led By the White House Is Set for May</title>
+      <link>https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html" rel="standout"></atom:link>
+      <description>Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S.</description>
+      <dc:creator>Noah Weiland and Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 19:33:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/multimedia/18virus-briefing-covid-summit/18virus-briefing-covid-summit-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>A participant in a Covid-19 vaccine trial in Soweto, South Africa, last year.</media:description>
+    </item>
+    <item>
+      <title>Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html" rel="standout"></atom:link>
+      <description>While Vladimir Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst was yet to come.</description>
+      <dc:creator>Anton Troianovski and Patricia Cohen</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 22:29:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-russia-economy/merlin_205486908_51a9dab4-cd7c-4145-a1de-f3e2cf6c3a8e-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>Contrary to President Vladimir V. Putin’s optimism, two senior Russian officials cautioned on Monday that the real economic pain was yet to come.</media:description>
+    </item>
+    <item>
+      <title>Rare Russian Strike Hits Lviv, A City Relatively Untouched By Violence</title>
+      <link>https://www.nytimes.com/2022/04/18/world/lviv-russia-strike-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/lviv-russia-strike-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/lviv-russia-strike-ukraine.html" rel="standout"></atom:link>
+      <description>Hundreds of thousands of displaced people from other parts of Ukraine have fled to, or through, Lviv to escape the fighting. Then it landed on their doorstep.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 15:07:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lviv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-lviv-scene-sub/merlin_205630233_38e21d8e-488c-4a9d-9aa2-f7bc69a2bae8-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Smoke rises from the site of a missile strike in Lviv on Monday.</media:description>
+    </item>
+    <item>
+      <title>Russian attack on Lviv shakes sense of security in a relatively safe city.</title>
+      <link>https://www.nytimes.com/2022/04/18/world/europe/russias-attack-on-lviv-shakes-the-citys-sense-of-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/world/europe/russias-attack-on-lviv-shakes-the-citys-sense-of-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/world/europe/russias-attack-on-lviv-shakes-the-citys-sense-of-security.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 20:22:48 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18ukraine-blog-lviv-scene/18ukraine-blog-lviv-scene-moth.jpg" width="151"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>Shoppers at a bazaar in Lviv earlier this month. Strikes on the city on Monday upended a sense of security compared to other areas of Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Calls for Covid funding are renewed as doses near expiration.</title>
+      <link>https://www.nytimes.com/2022/04/18/us/politics/covid-vaccine-doses-funding-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/us/politics/covid-vaccine-doses-funding-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/us/politics/covid-vaccine-doses-funding-congress.html" rel="standout"></atom:link>
+      <description>A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 21:30:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/18virus-briefing-morning-lead/18virus-briefing-morning-lead-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>Alorovictor Bernard, 24, receiving the Johnson &amp; Johnson vaccine from Eva Nasser, 38, at the Gurey Primary Health Care Center in Juba, South Sudan, in October. South Sudan has administered thousands of shots donated from the United States.</media:description>
+    </item>
+    <item>
+      <title>The ‘Messy Middle’</title>
+      <link>https://www.nytimes.com/2022/04/18/briefing/russian-invasion-response-world-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/briefing/russian-invasion-response-world-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/briefing/russian-invasion-response-world-sanctions.html" rel="standout"></atom:link>
+      <description>The West is arming Ukraine and punishing Russia. Today we look at the countries that aren’t.</description>
+      <dc:creator>Ian Prasad Philbrick</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 10:24:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/multimedia/18themorning-promo/18themorning-lede-zelensky-moth.jpg" width="151"></media:content>
+      <media:credit>Timothy A. Clary/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Volodymyr Zelensky addresses the United Nations Security Council this month.</media:description>
+    </item>
+    <item>
+      <title>A Portrait of South Georgia: Abundance, Exploitation, Recovery</title>
+      <link>https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html" rel="standout"></atom:link>
+      <description>A series of ecological initiatives, including the eradication of several invasive species, has dramatically revived the life and landscape of this remote sub-Antarctic island.</description>
+      <dc:creator>Eric Guth and Jennifer Kingsley</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 09:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Die-Offs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seals (Animals) and Sealing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reindeer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Penguins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Georgia Island</category>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2022/04/18/briefing/mariupol-asylum-seekers-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/18/briefing/mariupol-asylum-seekers-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/18/briefing/mariupol-asylum-seekers-israel.html" rel="standout"></atom:link>
+      <description>A showdown in Mariupol.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 04:25:43 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/18/world/041822ambriefing-europe-promo/18ambriefing-europe-ukraine1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A rocket barrage slammed into central Kharkiv Sunday afternoon, lighting apartment buildings and a market on fire.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing: Russia Demands Surrender in Mariupol</title>
+      <link>https://www.nytimes.com/2022/04/17/briefing/russia-mariupol-india-who.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/briefing/russia-mariupol-india-who.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/briefing/russia-mariupol-india-who.html" rel="standout"></atom:link>
+      <description>Plus India and the W.H.O. clash over the accounting of Covid’s death toll.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 20:30:07 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/multimedia/18ambriefing-asia-nl-PROMO/17ukrainefader-05-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A rocket barrage slammed into central Kharkiv Sunday afternoon, lighting apartment buildings and a market on fire.</media:description>
+    </item>
+    <item>
+      <title>Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</title>
+      <link>https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html" rel="standout"></atom:link>
+      <description>The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries.</description>
+      <dc:creator>Safiullah Padshah, Christina Goldbaum and Ihsanullah Tipu Mehsud</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 20:09:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Waziristan (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehrik-e-Taliban</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17AFGHANISTAN-AIRSTRIKE1/17AFGHANISTAN-AIRSTRIKE1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protest against Pakistani airstrikes in Khost, Afghanistan, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Americans Over 60 Should Get Second Booster, Official Says</title>
+      <link>https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html" rel="standout"></atom:link>
+      <description>Citing data from Israel, the Biden administration’s Covid response coordinator said a second booster offered significant protection to older people.</description>
+      <dc:creator>William Lamb</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 21:49:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jha, Ashish (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/multimedia/17xp-vaccine/17xp-vaccine-moth.jpg" width="151"></media:content>
+      <media:credit>Emily Elconin for The New York Times</media:credit>
+      <media:description>Dr. Ashish K. Jha, the nation’s Covid-19 response coordinator, said data showed “substantial reduction” in illness among people over 60 who received a second booster shot.</media:description>
+    </item>
+    <item>
+      <title>Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html" rel="standout"></atom:link>
+      <description>Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 18:30:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Religion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17france-islam1/17france-islam1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Cole/Associated Press</media:credit>
+      <media:description>Marine Le Pen campaigning Friday in Pertuis, France, where she was confronted about her plan to bar head scarves in public.</media:description>
+    </item>
+    <item>
+      <title>Atrocities in Ukraine War Have Deep Roots in Russian Military</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/ukraine-war-russia-atrocities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/ukraine-war-russia-atrocities.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-war-russia-atrocities.html" rel="standout"></atom:link>
+      <description>Like the shelling of cities, the seemingly pointless, close-up killing of individuals recalls wars in Chechnya. Do they reflect intent, or only indifference, propaganda and a military culture of violence?</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 17:25:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chechnya (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/13/world/17russia-brutality-05/17russia-brutality-05-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>Tetiana Petrovna reacted in horror in a garden where Roman Havryliuk, his brother Serhiy Dukhli and an unidentified victim were found on April 4 in Bucha, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html" rel="standout"></atom:link>
+      <description>In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 18:24:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17pope-01/17pope-01-moth.jpg" width="151"></media:content>
+      <media:credit>Remo Casilli/Reuters</media:credit>
+      <media:description>Pope Francis greeting the faithful as he rode in his Popemobile through St. Peter&#39;s Square on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Days After the Sinking of the Russian Warship, Moskva, Questions Linger</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html" rel="standout"></atom:link>
+      <description>A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost.</description>
+      <dc:creator>Neil MacFarquhar</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 10:25:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/15/world/17ukraine-blog-moskva-crew2/15ukraine-blog-flagship-missile-topart-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Maxar Technologies, via Associated Press</media:credit>
+      <media:description>A satellite image released by Maxar Technologies showed the warship Moskva docked at a port in Sevastopol, Crimea, last week.</media:description>
+    </item>
+    <item>
+      <title>Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html" rel="standout"></atom:link>
+      <description>Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 17:47:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirill I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epiphanius I, Metropolitan of Kiev</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lviv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17ukraine-blog-lviv-easter-sub/17ukraine-blog-lviv-easter-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Communion at St. Anthony Church in Lviv, Ukraine, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</title>
+      <link>https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html" rel="standout"></atom:link>
+      <description>Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 16:58:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/13/world/00Yemen-Houthis-forces/00Yemen-Houthis-forces-moth.jpg" width="151"></media:content>
+      <media:credit>Yahya Arhab/EPA, via Shutterstock</media:credit>
+      <media:description>Security forces for the Houthi rebels in March in Sana, Yemen.</media:description>
+    </item>
+    <item>
+      <title>Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html" rel="standout"></atom:link>
+      <description>Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 14:56:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17ukraine-blog-pope/17ukraine-blog-pope-moth.jpg" width="151"></media:content>
+      <media:credit>Remo Casilli/Reuters</media:credit>
+      <media:description>Pope Francis at the Vatican on Sunday.</media:description>
+    </item>
+    <item>
+      <title>A Violent Crisis</title>
+      <link>https://www.nytimes.com/2022/04/17/briefing/violent-crime-ukraine-war-week-ahead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/briefing/violent-crime-ukraine-war-week-ahead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/briefing/violent-crime-ukraine-war-week-ahead.html" rel="standout"></atom:link>
+      <description>The Brooklyn shooting and other headline-making violence are part of a broader trend.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 18:54:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/multimedia/17THE-AM-Sun-promo/17THE-AM-Sun-lede-01-moth.jpg" width="151"></media:content>
+      <media:credit>Brittainy Newman for The New York Times</media:credit>
+      <media:description>A police officer watches as people enter the 42nd Street Grand Central subway station in New York, after a mass shooting on a Brooklyn subway last week.</media:description>
+    </item>
+    <item>
+      <title>‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html" rel="standout"></atom:link>
+      <description>In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them.</description>
+      <dc:creator>Thomas Gibbons-Neff, Natalia Yermak and Tyler Hicks</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 07:56:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Husarivka (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17ukraine-village-atrocities-promo/17ukraine-village-atrocities1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A cellar in Husarivka, Ukraine. At least three skulls were recovered there earlier this month.</media:description>
+    </item>
+    <item>
+      <title>Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</title>
+      <link>https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html" rel="standout"></atom:link>
+      <description>In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 16:49:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ramadan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passover</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temple Mount (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17holidays-dispatch01/merlin_205534404_9a67ccf0-e23b-4bec-bf68-99e29bb57767-moth.jpg" width="151"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>A view of the Old City of Jerusalem on Thursday, the eve of the first convergence of the three holidays since 1991.</media:description>
+    </item>
+    <item>
+      <title>The World’s Broken Promise of Asylum</title>
+      <link>https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html" rel="standout"></atom:link>
+      <description>Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics.</description>
+      <dc:creator>Max Fisher</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 17:05:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/16/world/16int-asylum-new-top/16int-asylum-new-top-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Britain’s Border Force taking refugees to Dover, England, last year after picking them up in the English Channel.</media:description>
+    </item>
+    <item>
+      <title>Fighting for Her Life, Far From Ukraine</title>
+      <link>https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html" rel="standout"></atom:link>
+      <description>A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia.</description>
+      <dc:creator>Isadora Kosofsky and Miriam Jordan</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 19:31:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St Jude Children&#39;s Research Hospital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Memphis (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/14/us/UKRAINE-STJUDE-3/UKRAINE-STJUDE-3-moth.jpg" width="151"></media:content>
+      <media:credit>Isadora Kosofsky for The New York Times</media:credit>
+      <media:description>Bogdan Kretsul, 8, and Khrystyna playing at Target House, a residential building where the families of children receiving treatment live. </media:description>
+    </item>
+    <item>
+      <title>Israeli Police Stop Muslim Worshipers From Entering Holy Site</title>
+      <link>https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html" rel="standout"></atom:link>
+      <description>An Islamist party said it was freezing its involvement in the coalition government after the Israeli police blocked Muslim access to the Aqsa Mosque compound to prevent clashes.</description>
+      <dc:creator>Patrick Kingsley and Raja Abdulrahim</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 19:56:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Aqsa Mosque (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temple Mount (Jerusalem)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/world/17israel1/merlin_205595091_5f3a06bd-fee2-476e-a82f-c26859a94f31-moth.jpg" width="151"></media:content>
+      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli security forces patrolling on Sunday near the Aqsa Mosque compound, known to Jews as the Temple Mount.</media:description>
+    </item>
+    <item>
+      <title>North Korea Launches 2 Short-Range Missiles</title>
+      <link>https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html" rel="standout"></atom:link>
+      <description>The missile test, the North’s 12th of the year, took place as South Korea and the United States were preparing to begin joint military exercises.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Sun, 17 Apr 2022 01:54:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/17/multimedia/17nkorea-02/17nkorea-02-moth.jpg" width="151"></media:content>
+      <media:credit>Lee Jin-Man/Associated Press</media:credit>
+      <media:description>News coverage of North Korea’s missile test on a screen in a Seoul train station on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</title>
+      <link>https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html" rel="standout"></atom:link>
+      <description>France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Mon, 18 Apr 2022 18:36:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marseille (France)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/16/world/16macron-rally01/16macron-rally01-moth.jpg" width="151"></media:content>
+      <media:credit>Laurent Cipriani/Associated Press</media:credit>
+      <media:description>President Emmanuel Macron of France speaking at a campaign rally in Marseille on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Israel Steps Up Raids in Palestinian Territories in Response to Attacks</title>
+      <link>https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html" rel="standout"></atom:link>
+      <description>At least 14 Palestinians have been killed in a widespread Israeli military operation in the West Bank, launched in response to a string of attacks in Israel that killed 14 people.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sat, 16 Apr 2022 18:52:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/16/world/16Israel-Palestinians01/16Israel-Palestinians01-moth.jpg" width="151"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
+      <media:description>Khuloud Zakarneh, the mother of 16-year-old Mohammad Zakarneh, who she says was shot and killed by Israeli forces, comforts her daughter Sedra in their home in the West Bank city of Jenin.</media:description>
+    </item>
+    <item>
+      <title>Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</title>
+      <link>https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html" rel="standout"></atom:link>
+      <description>The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship.</description>
+      <dc:creator>Andrew E. Kramer, Marc Santora and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Sat, 16 Apr 2022 21:04:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/16/world/16ukraine-ledeall-top/16ukraine-ledeall-top-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A shopping center in central Kharkiv was struck by what appeared to be guided missiles on Saturday. Russian forces continue to strike cities across Ukraine.</media:description>
+    </item>
+  </channel>
+</rss>

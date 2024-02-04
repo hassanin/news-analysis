@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Mon, 23 Jan 2017 02:22:40 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>75 Arrested in European Crackdown on Art Trafficking</title>
+      <link>http://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/europe/75-arrested-in-european-crackdown-on-art-trafficking.html?partner=rss&amp;emc=rss"/>
+      <description>The European police recovered about 3,500 stolen archaeological artifacts and other artworks, Spain&#x2019;s Interior Ministry said.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 22:51:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+    </item>
+    <item>
+      <title>Lanzarote Journal: Undersea Museum Keeps Fish Feeding and Its Social Commentary Biting</title>
+      <link>http://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/europe/undersea-museum-keeps-fish-feeding-and-its-social-commentary-biting.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/19/world/19Lanzarote1/19Lanzarote1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jason deCaires Taylor, a British sculptor, outside his studio in Lanzarote, Spain.</media:description>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <description>An installation of 300 statues off a Spanish island forms an artificial reef and addresses issues like Europe&#x2019;s migration crisis, and the destruction of ocean reefs.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 18:54:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Jason deCaires</category>
+    </item>
+    <item>
+      <title>Theresa May Is Grilled Over U.K. Missile Test Failure</title>
+      <link>http://www.nytimes.com/2017/01/22/world/europe/uk-theresa-may-trident-missile.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/europe/uk-theresa-may-trident-missile.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/europe/uk-theresa-may-trident-missile.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/23BRITAIN/23BRITAIN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Theresa May spoke about Britain&#x2019;s nuclear weapons program on the BBC. She would not say whether she knew about the reported failure of an unarmed missile during a test.</media:description>
+      <media:credit>Reuters</media:credit>
+      <description>The prime minister refused to comment about the 2016 missile test or about reports that its failure had been covered up by her predecessor.</description>
+      <dc:creator>STEVEN ERLANGER</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 16:16:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Tests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sunday Times (British Newspaper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Trident Missile</category>
+    </item>
+    <item>
+      <title>Cubans Newly Blocked at U.S. Border Place Hopes in Trump</title>
+      <link>http://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/americas/cubans-us-border-policy-wet-foot-dry-foot-obama-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/23CUBANS1/23CUBANS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A pastor last week led Cubans in prayer in Nuevo Laredo, Mexico, near the United States border. The Obama administration&#x2019;s decision to end a policy granting special immigration privileges to Cubans has left many in limbo.</media:description>
+      <media:credit>Ilana Panich-Linsman for The New York Times</media:credit>
+      <description>The Obama administration ended special immigration privileges for Cubans after normalizing relations with Cuba. Now migrants arrive into a desperate limbo after an arduous journey.</description>
+      <dc:creator>FRANCES ROBLES</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 19:26:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laredo (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+    </item>
+    <item>
+      <title>Leaders Abroad, Joyful or Wary, Face Uncertainty of Trump Era</title>
+      <link>http://www.nytimes.com/2017/01/21/world/donald-trump-reaction-france-germany-japan-brazil.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/donald-trump-reaction-france-germany-japan-brazil.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/donald-trump-reaction-france-germany-japan-brazil.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/22trumpworld_web1/22trumpworld_web1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters set fire to an American flag with a picture of President Trump&#x2019;s face outside the United States Embassy in Manila on Friday.</media:description>
+      <media:credit>Romeo Ranoco/Reuters</media:credit>
+      <description>Germany&#x2019;s vice chancellor said the inaugural speech reflected a &#x201C;drastic radicalization&#x201D; of U.S. politics. But some world leaders embraced the new reality.</description>
+      <dc:creator>AZAM AHMED, STEVEN ERLANGER and GERRY MULLANY</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 19:28:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inaugurations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+    </item>
+    <item>
+      <title>&#x2018;Gambia Is Back Again,&#x2019; but Its New Leader Is Still in Senegal</title>
+      <link>http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow-yahya-jammeh.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/23GAMBIA1/23GAMBIA1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A ferry carrying people who fled Gambia arrived back in the country after the former president, Yahya Jammeh, relinquished power on Saturday.</media:description>
+      <media:credit>Andrew Renneisen/Getty Images</media:credit>
+      <description>President Adama Barrow has been in the neighboring nation for a week. The incumbent he defeated, Yahya Jammeh, had refused to step down until Saturday.</description>
+      <dc:creator>DIONNE SEARCEY and JAIME YAYA BARRY</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 22:16:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrow, Adama (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jammeh, Yahya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Banjul (Gambia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Senegal</category>
+    </item>
+    <item>
+      <title>7 Questions for Gambia&#x2019;s New President, Adama Barrow</title>
+      <link>http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/africa/gambia-president-adama-barrow.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/23BARROW/23BARROW-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Adama Barrow of Gambia during an interview in Dakar, Senegal, on Sunday.</media:description>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <description>Mr. Barrow was sworn in from Senegal when his predecessor refused to cede power. Now, preparing to take over, he discussed his vision for the nation.</description>
+      <dc:creator>DIONNE SEARCEY</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 17:38:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrow, Adama (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jammeh, Yahya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>A Colonial-Era Wound Opens in Namibia</title>
+      <link>http://www.nytimes.com/2017/01/21/world/africa/namibia-germany-colonial.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/africa/namibia-germany-colonial.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/africa/namibia-germany-colonial.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/NAMIBIA1/NAMIBIA1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters splashed paint on a statue in Swakopmund, Namibia, that commemorates German soldiers who helped crush a rebellion by the Herero and Nama ethnic groups.</media:description>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <description>More than a century after the genocide of two African ethnic groups, a city that retains strong German ties is divided over the fate of a war memorial.</description>
+      <dc:creator>NORIMITSU ONISHI</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 00:34:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Namibia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nama (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Herero (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Monuments and Memorials (Structures)</category>
+    </item>
+    <item>
+      <title>To Secular Bangladeshis, Textbook Changes Are a Harbinger</title>
+      <link>http://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/asia/bangladesh-textbooks-radical-islam.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/20/world/20Bangladesh/20Bangladesh-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Students at a madrasa, or Islamic school, last year in Dhaka, Bangladesh. Changes were recently made to textbooks after requests from conservative Islamic religious scholars.</media:description>
+      <media:credit>A.M. Ahad/Associated Press</media:credit>
+      <description>Revisions sought by Islamic scholars were barely noticeable to the public, but intellectuals see them as government accommodation of a larger shift toward radical Islam.</description>
+      <dc:creator>ELLEN BARRY and JULFIKAR ALI MANIK</dc:creator>
+      <pubDate>Mon, 23 Jan 2017 02:05:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Textbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hefazat-e-Islam</category>
+    </item>
+    <item>
+      <title>Train Derails in Southern India, Killing Dozens</title>
+      <link>http://www.nytimes.com/2017/01/22/world/asia/india-train-hirakhand-express.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/asia/india-train-hirakhand-express.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/asia/india-train-hirakhand-express.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/23INDIA2/23INDIA2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Bodies were lined up along the road at the site of the derailment.</media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Rescue workers struggled into the morning to pull the injured and dead from the train in the latest disaster for India&#x2019;s overburdened railway.</description>
+      <dc:creator>HARI KUMAR and GEETA ANAND</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 14:27:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Indian Railways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andhra Pradesh (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bhubaneswar (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+    </item>
+    <item>
+      <title>Pakistani Taliban Claim Deadly Market Bombing</title>
+      <link>http://www.nytimes.com/2017/01/21/world/asia/pakistani-taliban-claim-deadly-market-bombing-in-parachinar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/asia/pakistani-taliban-claim-deadly-market-bombing-in-parachinar.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/asia/pakistani-taliban-claim-deadly-market-bombing-in-parachinar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/middleeast/22pakistan/22pakistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Pakistani Taliban claimed responsibility for the blast Saturday in Parachinar, capital of the Kurram tribal region.</media:description>
+      <media:credit>Ali Jan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The blast ended a long lull in militant violence in Parachinar, a Shiite town that has been a center of resistance to the Pakistani Taliban.</description>
+      <dc:creator>SALMAN MASOOD and ISMAIL KHAN</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 17:18:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tehrik-e-Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>Trump Presidency Is Already Altering Israeli-Palestinian Politics</title>
+      <link>http://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/middleeast/israel-benjamin-netanyahu-jerusalem-maale-adumim-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/ISRAEL/ISRAEL-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Speculation swirled that the United States Embassy in Tel Aviv might move to Jerusalem.</media:description>
+      <media:credit>Amir Cohen/Reuters</media:credit>
+      <description>The transition, and questions surrounding it, rippled through issues including the location of the American Embassy and whether Palestinians are on the edge of a renewed revolt.</description>
+      <dc:creator>IAN FISHER</dc:creator>
+      <pubDate>Mon, 23 Jan 2017 02:07:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedman, David M (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+    </item>
+    <item>
+      <title>Renewed Fighting and Drone Strikes in Yemen Kill About 75</title>
+      <link>http://www.nytimes.com/2017/01/22/world/middleeast/yemen-houthi-qaeda-mokha.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/middleeast/yemen-houthi-qaeda-mokha.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/middleeast/yemen-houthi-qaeda-mokha.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/YEMEN/YEMEN-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An airstrike by the Saudi-led coalition hit an army base in Sana, Yemen, on Sunday.</media:description>
+      <media:credit>Hani Mohammed/Associated Press</media:credit>
+      <description>Airstrikes by the Saudi-led coalition killed more than 50 Houthi rebels, and two suspected U.S. drone attacks killed 10 militants with Al Qaeda.</description>
+      <dc:creator>SHUAIB ALMOSAWA and ROD NORDLAND</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 22:32:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hadi, Abdu Rabbu Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+    </item>
+    <item>
+      <title>What in the World: For a Modest Price, the Streets of Paris Can Be Yours</title>
+      <link>http://www.nytimes.com/2017/01/20/world/what-in-the-world/for-a-modest-price-the-streets-of-paris-can-be-yours.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/20/world/what-in-the-world/for-a-modest-price-the-streets-of-paris-can-be-yours.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/20/world/what-in-the-world/for-a-modest-price-the-streets-of-paris-can-be-yours.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/11/world/wit-paris-cobblestones/wit-paris-cobblestones-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Some Paris streets still have visible cobblestone paving, but on many the stones have been buried under asphalt and are often torn up during construction. Rather than dump them, the city has started to salvage and sell the stones.</media:description>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <description>Cobblestones have lined Paris&#x2019;s streets since the 12th century. When the city began selling used ones, an entrepreneur saw a chance to make unique souvenirs.</description>
+      <dc:creator>BENO&#xCE;T MORENNE</dc:creator>
+      <pubDate>Fri, 20 Jan 2017 10:00:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorabilia and Souvenirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>Oil Producers Claim Progress in Curbing the World&#x2019;s Daily Supply</title>
+      <link>http://www.nytimes.com/2017/01/22/business/oil-producers-claim-progress-in-curbing-the-worlds-daily-supply.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/business/oil-producers-claim-progress-in-curbing-the-worlds-daily-supply.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/business/oil-producers-claim-progress-in-curbing-the-worlds-daily-supply.html?partner=rss&amp;emc=rss"/>
+      <description>A group of OPEC and non-OPEC oil producers have joined forces to reduce the daily amount of oil on sale by 1.8 million barrels in the first six months of this year.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Mon, 23 Jan 2017 00:27:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Organization of the Petroleum Exporting Countries</category>
+    </item>
+    <item>
+      <title>For France&#x2019;s Left, a Time of Crisis</title>
+      <link>http://www.nytimes.com/2017/01/22/world/europe/france-left-socialist-primary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/22/world/europe/france-left-socialist-primary.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/22/world/europe/france-left-socialist-primary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/23/world/23LEFT1/23LEFT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Manuel Valls, the former Socialist prime minister, at a debate at a union center in Puteaux, France, this month. France&#x2019;s presidential election is being watched as a barometer of European disaffection.</media:description>
+      <media:credit>Eric Piermont/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The governing Socialists are deeply unpopular and given little chance in the coming presidential election, as European voters abandon the left.</description>
+      <dc:creator>ALISSA J. RUBIN</dc:creator>
+      <pubDate>Sun, 22 Jan 2017 09:47:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Socialist Party (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>Marine Le Pen Extols Far Right During Speech in Germany</title>
+      <link>http://www.nytimes.com/2017/01/21/world/europe/marine-le-pen-extols-far-right-during-speech-in-germany.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/europe/marine-le-pen-extols-far-right-during-speech-in-germany.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/europe/marine-le-pen-extols-far-right-during-speech-in-germany.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/22GERMANY/22GERMANY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In Koblenz, Germany, on Saturday, Marine Le Pen, leader of the National Front in France, said that the far right would awake in Europe this year.</media:description>
+      <media:credit>Michael Probst/Associated Press</media:credit>
+      <description>The triumph of anti-Europeans in Britain and Donald J. Trump in the United States has galvanized the Continent&#x2019;s far-right parties, who are wooing disillusioned voters.</description>
+      <dc:creator>ALISON SMALE</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 20:16:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hocke, Bjorn (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petry, Frauke (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+    </item>
+    <item>
+      <title>Avalanche Death Toll in Italy Reaches 5 as Search of Hotel Rubble Continues</title>
+      <link>http://www.nytimes.com/2017/01/21/world/europe/italy-avalanche-rescue-hotel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/europe/italy-avalanche-rescue-hotel.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/europe/italy-avalanche-rescue-hotel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/22ITALY/22ITALY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rescuers at the avalanche-hit Hotel Rigopiano, near the village of Farindola, Italy.</media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Rescue workers on Saturday pulled three more bodies from the rubble and snow that covered a hotel in the Apennine Mountains when it was hit by an avalanche caused by an earthquake on Wednesday.</description>
+      <dc:creator>GAIA PIANIGIANI</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 17:20:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avalanches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Hotel Rigopiano (Farindola, Italy, Hotel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+    </item>
+    <item>
+      <title>Historian&#x2019;s Latest Book on Mao Turns Acclaim in China to Censure</title>
+      <link>http://www.nytimes.com/2017/01/21/world/asia/china-historian-yang-jisheng-book-mao.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/asia/china-historian-yang-jisheng-book-mao.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/asia/china-historian-yang-jisheng-book-mao.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/20/world/20CHINABOOK-1/20CHINABOOK-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Chinese author Yang Jisheng in 2013. Mr. Yang, a noted chronicler of the Mao era, has published &#x201C;The World Turned Upside Down,&#x201D; a history of the Cultural Revolution.</media:description>
+      <media:credit>Sim Chi Yin for The New York Times</media:credit>
+      <description>Yang Jisheng&#x2019;s effort to &#x201C;recover the history&#x201D; of the Cultural Revolution has become part of the struggle over China&#x2019;s Communist past, which has widened under President Xi Jinping.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 17:12:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang Jisheng</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Defeated Gambian Leader Ends Standoff and Boards a Flight Into Exile</title>
+      <link>http://www.nytimes.com/2017/01/21/world/africa/gambia-president-yahya-jammeh-adama-barrow.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/africa/gambia-president-yahya-jammeh-adama-barrow.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/africa/gambia-president-yahya-jammeh-adama-barrow.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/GAMBIA1/GAMBIA1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A ferry bringing back people who fled Gambia because of its political crisis arrived at the port in Banjul on Saturday.</media:description>
+      <media:credit>Jerome Delay/Associated Press</media:credit>
+      <description>Yahya Jammeh, who was defeated in an election last month, announced that he would step down, sending a wave of relief through the nation.</description>
+      <dc:creator>JAIME YAYA BARRY and DIONNE SEARCEY</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 22:53:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jammeh, Yahya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrow, Adama (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+    </item>
+    <item>
+      <title>Trump Inspires Cheers, and Alarm, Around the World</title>
+      <link>http://www.nytimes.com/2017/01/21/world/europe/trump-presidency-reaction-international-brand.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/europe/trump-presidency-reaction-international-brand.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/europe/trump-presidency-reaction-international-brand.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/world/TRUMPLOVE1/TRUMPLOVE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The newly formed European Trump Society in Sofia, Bulgaria, watched live coverage of President Trump&#x2019;s inauguration on Friday.</media:description>
+      <media:credit>Boryana Dimitrova Katsarova for The New York Times</media:credit>
+      <description>The president&#x2019;s inauguration was a cause of worry for many around the world, but some greeted it with wine and celebration.</description>
+      <dc:creator>RICK LYMAN</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 16:38:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Budapest (Hungary)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+    </item>
+    <item>
+      <title>A Third of Afghans Will Need Aid This Year, U.N. Says</title>
+      <link>http://www.nytimes.com/2017/01/21/world/asia/afghanistan-united-nations-humanitarian-aid.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/world/asia/afghanistan-united-nations-humanitarian-aid.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/world/asia/afghanistan-united-nations-humanitarian-aid.html?partner=rss&amp;emc=rss"/>
+      <description>The world body launched an appeal Saturday for more than half a billion dollars to help civilians feeling the brunt of an intensifying war.</description>
+      <dc:creator>MUJIB MASHAL and ZAHRA NADER</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 16:35:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+    </item>
+    <item>
+      <title>The Neediest Cases: After Escape From Syria, Another Dangerous Foe: Diabetes</title>
+      <link>http://www.nytimes.com/2017/01/21/nyregion/neediest-cases-fund-jordan-diabetes.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/21/nyregion/neediest-cases-fund-jordan-diabetes.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/21/nyregion/neediest-cases-fund-jordan-diabetes.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/nyregion/22NEEDIEST-jordan/22NEEDIEST-jordan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nisreen al-Najjar&#x2019;s son Hisham, center, at home in Jordan. Hisham has Type 1 diabetes.</media:description>
+      <media:credit>Nadia Bseiso for The New York Times</media:credit>
+      <description>A Neediest Cases beneficiary agency tries to help bridge a health care gap for a young refugee in Jordan, far from home.</description>
+      <dc:creator>RANA F. SWEIS</dc:creator>
+      <pubDate>Sat, 21 Jan 2017 16:00:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Rescue Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Times Neediest Cases Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Homs (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mafraq (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+    </item>
+    <item>
+      <title>15 of the Best Journals by Our Reporters Around the World</title>
+      <link>http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/30/world/15-of-the-best-journals-by-our-reporters-around-the-world.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/01/18/world/asia/19India-slideshow-slide-FU7J/19India-slideshow-slide-FU7J-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man folding blankets that are rented out to the homeless in Delhi.</media:description>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <description>The conversational and visual on-the-ground reports offered a glimpse of captivating people and places, from a &#x201C;sleep mafia&#x201D; in Delhi to a monastery seeking salvation in beer.</description>
+      <dc:creator>Compiled by BARBARA TIERNEY</dc:creator>
+      <pubDate>Fri, 30 Dec 2016 14:00:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>&#x2018;I Didn&#x2019;t Want to Lose My Identity&#x2019;: 16,000 Readers Reflect on Their Surnames</title>
+      <link>http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2016/12/24/world/identity-surnames-women.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2016/12/17/world/surnames/surnames-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Katherine Yuk from Toronto was one of more than 16,000 readers who responded when The New York Times asked women around the world why they kept or changed their surnames when they married.</media:description>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <description>The Times asked women around the world why they had kept or changed their surnames when they married. For many, the decision carried significant weight.</description>
+      <dc:creator>HANNA INGBER</dc:creator>
+      <pubDate>Sat, 24 Dec 2016 11:00:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-comments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+    </item>
+    <item>
+      <title>Opinion: How Not to Be Afraid</title>
+      <link>http://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/20/opinion/sunday/how-not-to-be-afraid.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/opinion/22stone/22stone-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Vivienne Flesher</media:credit>
+      <description>I had an apocalyptic evangelical upbringing, a father who told me too much about the Holocaust, and a grandfather who was a neo-Nazi and Jew &#x2014; and I was terrified.</description>
+      <dc:creator>RACHEL MARIE STONE</dc:creator>
+      <pubDate>Fri, 20 Jan 2017 08:21:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+    </item>
+    <item>
+      <title>Opinion: I Went to Aleppo to Study. I Left in a Convoy of Refugees.</title>
+      <link>http://www.nytimes.com/2017/01/20/opinion/sunday/i-went-to-aleppo-to-study-i-left-in-a-convoy-of-refugees.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/20/opinion/sunday/i-went-to-aleppo-to-study-i-left-in-a-convoy-of-refugees.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/01/20/opinion/sunday/i-went-to-aleppo-to-study-i-left-in-a-convoy-of-refugees.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/01/22/opinion/sunday/22shamy1/22shamy1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>A man carrying the body of his child, who was killed in an airstrike on eastern Aleppo, in 2016.</media:description>
+      <media:credit>Ameer Alhalbi/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In the last weeks of the siege, we were desperate for the world to hear and help us.</description>
+      <dc:creator>LINA SHAMY</dc:creator>
+      <pubDate>Fri, 20 Jan 2017 14:23:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aleppo (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colleges and Universities</category>
+    </item>
+    <item>
+      <title>Op-Ed Contributor: South Sudan Cannot Be Allowed to Collapse</title>
+      <link>http://www.nytimes.com/2017/01/20/opinion/south-sudan-cannot-be-allowed-to-collapse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/01/20/opinion/south-sudan-cannot-be-allowed-to-collapse.html</guid>
+      <media:content url="https://static01.nyt.com/images/2017/01/21/opinion/21natsios-inyt/21natsios-inyt-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Peacekeeping troops patrol at night in the town of Abyei, disputed territory between Sudan and South Sudan, in December.<br/><br/></media:description>
+      <media:credit>Albert Gonzalez Farran/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Current leaders on all sides must be given a graceful exit and guarantees they won&#x2019;t face criminal prosecution.</description>
+      <dc:creator>ANDREW S. NATSIOS</dc:creator>
+      <pubDate>Fri, 20 Jan 2017 11:48:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+    </item>
+  </channel>
+</rss>

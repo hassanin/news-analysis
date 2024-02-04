@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 22:32:53 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jun 2022 22:11:10 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Ukraine Live Updates: As Russia Forges Ahead, Europe Recalculates</title>
+      <link>https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news</guid>
+      <atom:link href="https://www.nytimes.com/live/2022/06/13/world/russia-ukraine-war-news" rel="standout"></atom:link>
+      <description>Ukraine said its troops have lost more ground in the east, and is turning up the pressure on the West to do more to help.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 22:02:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/13ukraine-briefing-promo-1am/13ukraine-briefing-promo-1am-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>As China Rattles Sabers, Taiwan Asks: Are We Ready for War?</title>
+      <link>https://www.nytimes.com/2022/06/13/world/asia/china-taiwan-ukraine-military.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/asia/china-taiwan-ukraine-military.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/asia/china-taiwan-ukraine-military.html" rel="standout"></atom:link>
+      <description>Ukraine’s stubborn resistance to invasion, and the help that has poured in as a result, has both inspired Taiwan and made it rethink its own military strategy.</description>
+      <dc:creator>Amy Qin, Amy Chang Chien and Lam Yik Fei</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 15:35:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+    </item>
+    <item>
+      <title>The Corpse of a Russian Soldier, and the Cold but Human Urge to Look</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/ukraine-war-casualties-looking.html" rel="standout"></atom:link>
+      <description>Why does war’s wreckage — the downed helicopters, the destroyed tanks and the dead — draw crowds? A former Marine ponders the question as he stands before the badly burned body of a Russian fighter.</description>
+      <dc:creator>Thomas Gibbons-Neff</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 09:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Husarivka (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/05/world/00ukraine-corpse-1/00ukraine-corpse-1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>The remains of a destroyed Russian armored vehicle still containing the burned body of a Russian soldier in a neighborhood damaged during the war in Husarivka, Ukraine, in April.</media:description>
+    </item>
+    <item>
+      <title>Authorities Find Belongings of Missing Journalist and Expert in Amazon</title>
+      <link>https://www.nytimes.com/2022/06/13/world/americas/dom-phillips-bruno-pereira-missing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/americas/dom-phillips-bruno-pereira-missing.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/americas/dom-phillips-bruno-pereira-missing.html" rel="standout"></atom:link>
+      <description>Search crews found clothes and other belongings of the two men who went missing in the Amazon last week. Authorities are also testing blood from a suspect’s boat and human remains found elsewhere.</description>
+      <dc:creator>Jack Nicas and André Spigariol</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 17:03:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pereira, Bruno Araujo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phillips, Dom (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/13brazil-missing-HFO/13brazil-missing-HFO-moth.jpg" width="151"></media:content>
+      <media:credit>Bruno Kelly/Reuters</media:credit>
+      <media:description>Police officers and rescue team members during the search operation for the British journalist Dom Phillips and indigenous expert Bruno Pereira, in Atalaia do Norte, Amazonas state, Brazil, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Iran Suspects Israel Poisoned Two  Scientists to Death</title>
+      <link>https://www.nytimes.com/2022/06/13/world/middleeast/israel-poison-iranian-scientists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/middleeast/israel-poison-iranian-scientists.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-poison-iranian-scientists.html" rel="standout"></atom:link>
+      <description>If Iran’s suspicions about the deaths are confirmed, these would be the latest killings in a shadow war that is reaching new intensity as Iran moves closer to nuclear weapons capability.</description>
+      <dc:creator>Farnaz Fassihi and Ronen Bergman</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 18:34:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khodayee, Sayad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Natanz (Iran)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12-IRAN-ISRAEL-01-PRINT/00iran-israel-01-moth.jpg" width="151"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Mourners at the Tehran funeral in May for Sayad Khodayee, a colonel in Iran’s powerful Revolutionary Guards Corps who was targeted by Israel and killed in a drive-by shooting in Tehran.</media:description>
+    </item>
+    <item>
+      <title>Five Years On, Five Lives Shattered by the Grenfell Tower Fire</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/grenfell-towers-fire-london.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/grenfell-towers-fire-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/grenfell-towers-fire-london.html" rel="standout"></atom:link>
+      <description>After 72 people died in the blaze in 2017, there were vows of reform and accountability. But for those whose lives were upended by the disaster, there have been few answers.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 18:19:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grenfell Tower (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grenfell Tower Fire (June, 2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/13uk-grenfell-01/13uk-grenfell-01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Grenfell Tower has been clad in plastic sheeting since the fire five years ago.</media:description>
+    </item>
+    <item>
+      <title>Britain Plans to Fly Refugees to Rwanda on Tuesday</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/britain-refugees-rwanda.html" rel="standout"></atom:link>
+      <description>A court refused two appeals Monday, clearing the way for Britain to begin implementing the controversial plan to process and resettle people who crossed the English Channel to get to England.</description>
+      <dc:creator>Cora Engelbrecht and Abdi Latif Dahir</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 19:07:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Priti (1972- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/multimedia/13uk-rwanda/13uk-rwanda-moth.jpg" width="151"></media:content>
+      <media:credit>Niklas Halle&#39;N/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Demonstrators gathered outside Brook House Immigration Removal Center on Saturday, protesting a plan to deport asylum seekers to Rwanda.</media:description>
+    </item>
+    <item>
+      <title>French Elections: Pro-Macron Forces Expected to Prevail After First Round</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/france-elections-macron.html" rel="standout"></atom:link>
+      <description>The French president’s party and its centrist allies were neck and neck with a left-wing alliance in France’s first round of parliamentary elections.</description>
+      <dc:creator>Roger Cohen and Aurelien Breeden</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 18:36:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NUPES (Nouvelle Union Populaire Ecologique et Sociale)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borne, Elisabeth</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12france-election1/12france-election1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Cole/Associated Press</media:credit>
+      <media:description>Voting in Marseille, in southern France, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Britain Moves Ahead With Plans to Scrap Trade Rules on Northern Ireland</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/britain-northern-ireland-trade-brexit-eu.html" rel="standout"></atom:link>
+      <description>The action by the government of Prime Minister Boris Johnson to scuttle the post-Brexit trade arrangement risks a clash with the European Union and upsetting the United States.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 18:19:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/multimedia/13uk-protocol/13uk-protocol-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Agence France-Presse, via Pool/Afp Via Getty Images</media:credit>
+      <media:description>Prime Minister Boris Johnson faces a tricky path pushing the legislation through Parliament. Rebels from his party are threatening to oppose the bill, saying it violates international law. </media:description>
+    </item>
+    <item>
+      <title>Efforts to Form a New Government in Iraq Descend Into Chaos</title>
+      <link>https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/middleeast/iraq-government-sadr.html" rel="standout"></atom:link>
+      <description>The powerful Shiite cleric Muqtada al-Sadr, who controls the largest bloc in Parliament, has directed dozens of lawmakers loyal to him to resign.</description>
+      <dc:creator>Jane Arraf</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 14:54:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sadr, Moktada Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/13iraq-politics1/13iraq-politics1-moth.jpg" width="151"></media:content>
+      <media:credit>Ahmad Al-Rubaye/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Supporters of Muqtada al-Sadr in Baghdad last month. In abandoning negotiations, Mr. Sadr said that he was sacrificing his bloc’s election gains so that a government could be formed.</media:description>
+    </item>
+    <item>
+      <title>U.N. Human Rights Chief Decides Not to Seek a Second Term</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/un-human-rights-chief-china.html" rel="standout"></atom:link>
+      <description>The announcement by Michelle Bachelet, the U.N. high commissioner for human rights, came a month after she was criticized by rights groups for traveling to China.</description>
+      <dc:creator>Nick Cumming-Bruce</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 11:57:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Human Rights Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Geneva (Switzerland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bachelet, Michelle</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/multimedia/13un-rights/13un-rights-moth.jpg" width="151"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Michelle Bachelet, the United Nations high commissioner for human rights, said Monday she would not seek a second term.</media:description>
+    </item>
+    <item>
+      <title>India’s Economy Is Growing Quickly. Why Can’t It Produce Enough Jobs?</title>
+      <link>https://www.nytimes.com/2022/06/13/business/economy/india-economy-jobs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/business/economy/india-economy-jobs.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/business/economy/india-economy-jobs.html" rel="standout"></atom:link>
+      <description>The disconnect is a result of India’s uneven growth, powered and enjoyed by the country’s upper strata.</description>
+      <dc:creator>Emily Schmall and Sameer Yasir</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 07:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/09/world/00india-economy1/merlin_206168292_0896c7e3-c499-4c13-8264-e857b2a15dcd-moth.jpg" width="151"></media:content>
+      <media:credit>Ritesh Shukla/Getty Images</media:credit>
+      <media:description>Many Indians work in the informal economy.</media:description>
+    </item>
+    <item>
+      <title>Poland Shows the Risks for Women When Abortion Is Banned</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/poland-abortion-ban.html" rel="standout"></atom:link>
+      <description>Poland’s abortion ban has had many unintended consequences. One is that doctors are sometimes afraid to remove fetuses or administer cancer treatment to save women’s lives.</description>
+      <dc:creator>Katrin Bennhold and Monika Pronczuk</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 14:25:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovakia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/19/world/00poland-abortion01/merlin_206748306_dcd00835-17a8-4943-96d6-254c8cc10960-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Liminowicz for The New York Times</media:credit>
+      <media:description>Barbara Skrobol visiting the grave of her sister-in-law Izabela Sajbor and her unborn child at a cemetery in Cwiklice, Poland.</media:description>
+    </item>
+    <item>
+      <title>How Bolsonaro Is Using the Military to Challenge Brazil’s Election</title>
+      <link>https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/americas/brazil-election-bolsonaro-military.html" rel="standout"></atom:link>
+      <description>Despite little evidence of past fraud, President Jair Bolsonaro has long raised doubts about Brazil’s electoral process. Now the military is expressing similar concerns.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 20:31:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/26/world/00brazil-vote1/00brazil-vote1-moth.jpg" width="151"></media:content>
+      <media:credit>Andre Borges/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Jair Bolsonaro of Brazil attending a military ceremony in April in honor of military pilots.</media:description>
+    </item>
+    <item>
+      <title>Your Tuesday Briefing: Europe Recalculates on Ukraine</title>
+      <link>https://www.nytimes.com/2022/06/13/briefing/ukraine-trump-korea-truckers-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/briefing/ukraine-trump-korea-truckers-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/briefing/ukraine-trump-korea-truckers-asia.html" rel="standout"></atom:link>
+      <description>Plus the Jan. 6 hearings continue and truckers in South Korea strike.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 20:53:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barr, William P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Documenta GmbH</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ruangrupa (Art Collective)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/14/multimedia/14ambriefing-asia-promo/14ambriefing-asia-ukraine-moth.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>A member of the Ukrainian regional police force standing next to a destroyed bridge that connected the cities of Lysychansk and Sievierodonetsk last week.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu vs. Olmert: A Lurid Libel Case Grips Israel</title>
+      <link>https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/middleeast/israel-netanyahu-olmert-libel-trial.html" rel="standout"></atom:link>
+      <description>A sensational legal drama between the two ex-prime ministers, centered on a claim of mental illness, comes as Israel’s year-old government teeters and one of the former leaders eyes a comeback.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 22:11:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Sara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olmert, Ehud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/israel-trial-03/israel-trial-03-moth.jpg" width="151"></media:content>
+      <media:credit>Abir Sultan/Epa-Efe/Rex/Shutterstock/Abir Sultan/Epa-Efe/Rex/Shutterstock</media:credit>
+      <media:description>Benjamin Netanyahu and his wife Sara in 2017, when he was still Israel’s prime minister. </media:description>
+    </item>
+    <item>
+      <title>Bakery in Kyiv Honors Boris Johnson With a Croissant</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/boris-johnson-croissant-ukraine.html" rel="standout"></atom:link>
+      <description>A croissant is the latest homage in Ukraine to the British prime minister, who has also had a road named after him in a town near Odesa.</description>
+      <dc:creator>Dan Bilefsky</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 20:29:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Croissants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/world/13ukraine-briefing-BorisJohnsonCroissant01/13ukraine-briefing-BorisJohnsonCroissant01-moth.jpg" width="151"></media:content>
+      <media:credit>Andy Rain/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Boris Johnson of Britain at 10 Downing Street on Monday.</media:description>
+    </item>
+    <item>
+      <title>The Health Effects of Extreme Heat</title>
+      <link>https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/climate/extreme-heat-wave-health.html" rel="standout"></atom:link>
+      <description>Researchers are drilling down into the ways life on a hotter planet will tax our bodies, and looking for protections that, unlike air-conditioning, don’t make the problem worse.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 18:58:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anatomy and Physiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Sydney</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/climate/13cli-heathealth1/13cli-heathealth1-moth.jpg" width="151"></media:content>
+      <media:credit>Brandon Bell/Getty Images</media:credit>
+      <media:description>Trying to stay cool during a heat wave in Houston this month.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Oil Revenue Soars Despite Sanctions, Study Finds</title>
+      <link>https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/climate/russia-oil-gas-record-revenue.html" rel="standout"></atom:link>
+      <description>Rising oil prices more than offset a decline in export volumes during the first 100 days of the assault on Ukraine.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 15:34:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gazprom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/14/climate/13CLI-RUSSIAOIL-print/13CLI-RUSSIAOIL-moth.jpg" width="151"></media:content>
+      <media:credit>Anatoly Maltsev/EPA, via Shutterstock</media:credit>
+      <media:description>The Lakhta Center, headquarters of Russian energy company Gazprom, in St. Petersburg.</media:description>
+    </item>
+    <item>
+      <title>Russian Control of Luhansk and Donbas Could Hinge on Sievierodonetsk</title>
+      <link>https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/world/europe/russia-ukraine-war-sievierodonetsk.html" rel="standout"></atom:link>
+      <description>Russian-backed forces already control an estimated 80 to 90 percent of the Donbas, which is a prize for President Vladimir V. Putin.</description>
+      <dc:creator>Cassandra Vinograd</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 14:32:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sievierodonetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lysychansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/09/world/12ukraine-blog-luhansk/12ukraine-blog-luhansk-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ivor Prickett for The New York Times</media:credit>
+      <media:description>Smoke filled the sky on June 8 over the the city of Sievierodonetsk, as intense street fighting took place between Ukrainian and Russian forces.</media:description>
+    </item>
+    <item>
+      <title>The Politics of Abortion</title>
+      <link>https://www.nytimes.com/2022/06/13/briefing/the-politics-of-abortion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/briefing/the-politics-of-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/briefing/the-politics-of-abortion.html" rel="standout"></atom:link>
+      <description>Polls show that support for abortion rights is rising. Will that help Democrats this fall?</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 10:12:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roe v Wade (Supreme Court Decision)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/us/061322-the-morning-promo/13-the-morning-abortion1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>Demonstrators for abortion rights last month.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2022/06/13/briefing/gun-control-bipartisan-abortion-poland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/13/briefing/gun-control-bipartisan-abortion-poland.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/13/briefing/gun-control-bipartisan-abortion-poland.html" rel="standout"></atom:link>
+      <description>Gun control in the U.S.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 05:01:55 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/multimedia/13am-brf-Euro-promo/13am-brf-Euro-lede-01-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Joe Biden meets with Senator Chris Murphy of Connecticut, the lead Democratic negotiator on gun reform legislation, a week ago at the White House.</media:description>
+    </item>
+    <item>
+      <title>Tough Questions for West as Ukraine Cities Teeter</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/ukraine-russia-war-eu.html" rel="standout"></atom:link>
+      <description>Sievierodonetsk is nearly encircled. Lysychansk may be next. The momentum of the war has shifted, and Ukraine’s allies may soon start rethinking their goals.</description>
+      <dc:creator>Thomas Gibbons-Neff and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 22:30:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sievierodonetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lysychansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12ukraine-blog-ledeall1/12ukraine-blog-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Families in the eastern city of Lysychansk, Ukraine, waiting to be evacuated amid Russian bombing Sunday.</media:description>
+    </item>
+    <item>
+      <title>Sweden and U.S. Hold Military Drill on Gotland Island</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/us-sweden-military-drill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/us-sweden-military-drill.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/us-sweden-military-drill.html" rel="standout"></atom:link>
+      <description>The drill took place on Gotland, a Swedish island in the Baltic Sea that was demilitarized after the fall of the Soviet Union, but now again seems a critical military site.</description>
+      <dc:creator>Alex Traub</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 23:20:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gotland Island (Sweden)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/multimedia/12ukraine-blog-NATO-Sweden-03/12ukraine-blog-NATO-Sweden-03-moth.jpg" width="151"></media:content>
+      <media:credit>James Brooks/Associated Press</media:credit>
+      <media:description>U.S. troops in Gotland, Sweden, last week.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing: Russia Encircles Sievierdonetsk</title>
+      <link>https://www.nytimes.com/2022/06/12/briefing/russia-sievierodonetsk-china-asia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/briefing/russia-sievierodonetsk-china-asia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/briefing/russia-sievierodonetsk-china-asia.html" rel="standout"></atom:link>
+      <description>The last Ukrainian-held city in Luhansk is teetering on the brink.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 20:40:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luhansk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sievierodonetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uttar Pradesh State (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/multimedia/13ambriefing-asia-promo/13ambriefing-asia-ukraine-moth-v2.jpg" width="151"></media:content>
+      <media:credit> Tyler Hicks/The New York Times</media:credit>
+      <media:description>Ukrainian soldiers are struggling to hold off Russian forces in eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Alexander Nikitin, Who Coached a Chess Champion, Dies at 87</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/alexander-nikitin-dead.html" rel="standout"></atom:link>
+      <description>Garry Kasparov was just 10 when Mr. Nikitin took him on as a student. By age 17, with Mr. Nikitin as his coach, he was a grandmaster.</description>
+      <dc:creator>Dylan Loeb McClain</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 21:39:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kasparov, Garry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chess</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Chess Federation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nikitin, Alexander (1935-2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/13/obituaries/10nikitin-01/10nikitin-01-moth.jpg" width="151"></media:content>
+      <media:credit>via Nikitin family</media:credit>
+      <media:description>Garry Kasparov, left, and Alexander Nikitin in 1978, five years after Mr. Nikitin became Mr. Kasparov’s principal coach.</media:description>
+    </item>
+    <item>
+      <title>The Scene at the Border</title>
+      <link>https://www.nytimes.com/2022/06/12/briefing/us-mexico-border-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/briefing/us-mexico-border-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/briefing/us-mexico-border-immigration.html" rel="standout"></atom:link>
+      <description>We break down why border crossings are so high and who’s trying to come to the U.S.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 11:20:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/multimedia/12THE-AM-Sun-lede-web/12THE-AM-Sun-lede-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <media:description>Adults and children at Senda de Vida, a sprawling migrant shelter in Reynosa, Mexico, on the banks of the Rio Grande.</media:description>
+    </item>
+    <item>
+      <title>A Restored Painting Recalls the Colosseum’s Christian Past</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/colosseum-painting-christianity.html" rel="standout"></atom:link>
+      <description>The restoration of a wall painting depicting an idealized Jerusalem is a reminder that the Roman monument, known best for gladiatorial combat, was a sacred Christian space for centuries.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colosseum (Rome)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jerusalem (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/12italy-colosseum-01-moth.jpg" width="151"></media:content>
+      <media:credit>Francesco Lastrucci for The New York Times</media:credit>
+      <media:description>Rome’s Colosseum is best known as a site of ancient gladiator spectacles, but later in its history, it was a Christian holy site. </media:description>
+    </item>
+    <item>
+      <title>Coming From Separate Worlds in Taiwan, They Collided at California Church</title>
+      <link>https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/asia/taiwanese-church-shooting-pastor-gunman.html" rel="standout"></atom:link>
+      <description>The 68-year-old suspect in a May mass shooting harbored resentment dating back to his formative years in Taiwan.</description>
+      <dc:creator>Amy Qin, Jill Cowan, Shawn Hubler and Amy Chang Chien</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 03:04:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taiwanese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laguna Woods, Calif, Shooting (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chou, David (Laguna Woods, Calif, Shooting)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laguna Woods (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/09/us/00taiwan-diaspora-1/merlin_206938680_2dea3cb8-b4f4-448c-8672-a20c8c97ebce-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>Geneva Presbyterian Church in Laguna Woods, Calif., where members of the Irvine Taiwanese Presbyterian Church were meeting when the shooting occurred. </media:description>
+    </item>
+    <item>
+      <title>What to Know About France’s Parliamentary Elections</title>
+      <link>https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/europe/france-parliamentary-elections.html" rel="standout"></atom:link>
+      <description>President Emmanuel Macron is looking to secure a strong majority to help him pass bills during his second term, but a reinvigorated alliance of left-wing parties hopes to thwart him.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">La Republique en Marche</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/11/world/12france-election-explainer-sub-5/11france-left-sub-11-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Campaign posters displayed on Tuesday in Allex, a village in southeastern France.</media:description>
+    </item>
+    <item>
+      <title>China Won’t Hesitate to Fight for Taiwan, Defense Minister Warns</title>
+      <link>https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/12/world/asia/china-taiwan-us.html" rel="standout"></atom:link>
+      <description>The general said China wouldn’t “flinch from the cost” of defending its claims to the island. He spoke at a Singapore forum where he met with the U.S. defense secretary.</description>
+      <dc:creator>Chris Buckley and Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 01:58:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/us/12China-US-Defense/12China-US-Defense-moth.jpg" width="151"></media:content>
+      <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>China will “resolutely smash any schemes for Taiwan independence,” its defense minister, Gen. Wei Fenghe, said at a conference in Singapore on Sunday. </media:description>
+    </item>
+    <item>
+      <title>Momentum in Ukraine Is Shifting in Russia’s Favor</title>
+      <link>https://www.nytimes.com/2022/06/11/world/europe/russia-momentum-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/europe/russia-momentum-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/europe/russia-momentum-ukraine.html" rel="standout"></atom:link>
+      <description>With the Ukrainians running short of guns and ammunition, and pressures growing on Western governments, Moscow’s fortunes may be rising.</description>
+      <dc:creator>Marc Santora and Roger Cohen</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 21:51:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/11/world/11ukraine-ledeall1/11ukraine-ledeall1-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Relatives, neighbors and friends paying respect to a fallen Ukrainian soldier on Saturday in Bucha, Ukraine. At least 100 Ukrainian soldiers are dying every day under intense Russian artillery fire.</media:description>
+    </item>
+    <item>
+      <title>Protests Over Prophet Muhammad Comments Turn Deadly in India</title>
+      <link>https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/asia/prophet-muhammad-protests-india.html" rel="standout"></atom:link>
+      <description>Two young protesters were killed in eastern India on Friday amid demonstrations by Muslims across South Asia.</description>
+      <dc:creator>Emily Schmall and Suhasini Raj</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 19:19:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uttar Pradesh State (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jharkhand (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Asia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/11/world/11india-protests-top-sub-09/11india-protests-top-sub-09-moth.jpg" width="151"></media:content>
+      <media:credit>Ritesh Shukla/Reuters</media:credit>
+      <media:description>Muslim protestors threw stones at the police on Friday in Prayagraj, India. Demonstrations across the country were set off by remarks that some Muslims found offensive.</media:description>
+    </item>
+    <item>
+      <title>A Caravan of Migrants Set Off Toward U.S. During Americas Summit</title>
+      <link>https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/americas/mexico-migrant-caravan-photos.html" rel="standout"></atom:link>
+      <description>Some 6,000 migrants, many of them from Venezuela, set off from southern Mexico last week as leaders from across the Americas met in Los Angeles to discuss issues including migration.</description>
+      <dc:creator>Oscar Lopez and Alejandro Cegarra</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 16:20:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/08/world/00mexico-migrants-videocover/00mexico-migrants-videocover-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>Traffic-Clogged North England Bitter Over Stalled Rail Plan</title>
+      <link>https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/europe/uk-high-speed-rail-hs2.html" rel="standout"></atom:link>
+      <description>Transport problems are just one symptom of the economic neglect that has long hobbled the region, where growth, employment and health care mostly lag far behind the south.</description>
+      <dc:creator>Aina J. Khan</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 01:51:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bradford (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">High Speed 2 Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/27/world/00uk-north-promo/00uk-north-02-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Newly United, French Left Hopes to Counter President in Upcoming Vote</title>
+      <link>https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/europe/france-parliamentary-elections.html" rel="standout"></atom:link>
+      <description>Left-wing parties have joined forces ahead of France’s two-stage parliamentary elections, hoping to revive their fortunes and put a brake on President Emmanuel Macron’s agenda.</description>
+      <dc:creator>Constant Méheut</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 17:21:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Socialist Party (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">La Republique en Marche</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pochon, Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Drome (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NUPES (Nouvelle Union Populaire Ecologique et Sociale)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/11/world/11france-left-01/11france-left-01-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Mantovani for The New York Times</media:credit>
+      <media:description>Candidates meeting with farmers in the Drôme, a French region where leftist politicians believe they can win legislative seats in a push to stymie President Emmanuel Macron’s agenda.</media:description>
+    </item>
+    <item>
+      <title>Rumbling Through Modern Jordan, a Railway From the Past</title>
+      <link>https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/middleeast/amman-jordan-hejaz-railway.html" rel="standout"></atom:link>
+      <description>Once an ambitious project to unite the Middle East, the antique Hejaz Railway is a relic of that bygone dream before wars, borders and more advanced modes of transport rendered its services obsolete.</description>
+      <dc:creator>Ben Hubbard, Asmaa al-Omar and Laura Boushnak</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 17:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amman (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Medina (Saudi Arabia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ottoman Empire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
+    </item>
+    <item>
+      <title>The Phone Booth of the Mind</title>
+      <link>https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/briefing/phone-booths-communications-containers.html" rel="standout"></atom:link>
+      <description>Phone booths may be obsolete, but they still offer a good model for keeping our phones from taking over our lives.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 11:16:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+    </item>
+    <item>
+      <title>‘A Mass Invasion of Privacy’ but No Penalties for Tim Hortons</title>
+      <link>https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/canada/tim-hortons-privacy-data.html" rel="standout"></atom:link>
+      <description>A scathing report by four privacy commissioners found that the coffee and doughnut chain collected data on customers’ daily lives.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 10:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tim Hortons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tim Hortons Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/11/world/11canadaletter-tims1/11canadaletter-tims1-moth.jpg" width="151"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>“What happened in Tim Hortons is also happening elsewhere,” Daniel Therrien, the federal privacy commissioner, said.</media:description>
+    </item>
+    <item>
+      <title>‘We Buried Him and Kept Walking’: Children Die as Somalis Flee Hunger</title>
+      <link>https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/africa/somalia-drought-hunger.html" rel="standout"></atom:link>
+      <description>The worst drought in four decades and a sharp rise in food prices caused by the war in Ukraine have left almost half of Somalia’s people facing acute food shortages.</description>
+      <dc:creator>Abdi Latif Dahir and Malin Fezehai</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 17:30:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malnutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/09/world/00somalia-hunger-promo/00somalia-hunger-swap-moth.jpg" width="151"></media:content>
+      <media:credit>Malin Fezehai for The New York Times</media:credit>
+      <media:description>Maryam Feisal, a severely malnourished child who also contracted measles, with her mother, Mulki Abdulkadir, at the pediatric stabilization center at the Benadir Hospital in Mogadishu, last month.</media:description>
+    </item>
+    <item>
+      <title>Recording India’s Linguistic Riches as Leaders Push Hindi as Nation’s Tongue</title>
+      <link>https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/asia/india-languages-ganesh-devy.html" rel="standout"></atom:link>
+      <description>Ganesh Devy has spent decades documenting India’s hundreds of distinct languages. Up next: a 12,000-year history of India he hopes will help counter the government’s Hindu-first campaign.</description>
+      <dc:creator>Sameer Yasir</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 18:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Devy, Ganesh Narayan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hindi Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/06/world/00india-devy-profile-01/00india-devy-profile-01-moth.jpg" width="151"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Ganesh Narayan Devy has spearheaded an enormous scholarly effort to chronicle India’s rich linguistic diversity.</media:description>
+    </item>
+    <item>
+      <title>Biden Races to Expand Coalition Against Russia but Meets Resistance</title>
+      <link>https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/us/politics/russia-biden-sanctions.html" rel="standout"></atom:link>
+      <description>Many Asian, African and Latin American nations are maintaining ties with Russia as the United States tries to isolate President Vladimir V. Putin and end the war in Ukraine.</description>
+      <dc:creator>Lara Jakes and Edward Wong</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 20:24:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/us/politics/00dc-ukraine-strategy-1/00dc-ukraine-strategy-1-moth.jpg" width="151"></media:content>
+      <media:credit>Samuel Corum for The New York Times</media:credit>
+      <media:description>President Biden and President Jair Bolsonaro of Brazil met on Thursday in Los Angeles. Brazil has continued to import fertilizer from Russia and Belarus, an ally of Moscow.</media:description>
+    </item>
+    <item>
+      <title>Here are the latest developments in the war in Ukraine.</title>
+      <link>https://www.nytimes.com/2022/06/11/world/europe/here-are-the-latest-developments-in-the-war-in-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/11/world/europe/here-are-the-latest-developments-in-the-war-in-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/11/world/europe/here-are-the-latest-developments-in-the-war-in-ukraine.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Anton Troianovski, Ivan Nechepurenko and Emma Bubola</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 07:47:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reforms Are Imposed on U.N. Agency That Made Questionable Investments</title>
+      <link>https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/americas/un-investment-scandal.html" rel="standout"></atom:link>
+      <description>After a New York Times report revealed unusual investments putting tens of millions of dollars at risk, the board of the U.N.’s Office for Project Services demanded major changes.</description>
+      <dc:creator>Farnaz Fassihi and David Fahrenthold</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 03:02:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Faremo, Grete</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/multimedia/10Nations-01/10Nations-01-moth.jpg" width="151"></media:content>
+      <media:credit>Eugene Gologursky/Getty Images</media:credit>
+      <media:description>Grete Faremo, left, and Vitaly Vanshelboim, center, at a 2016 event with Dominica’s ambassador to the United Nations. Ms. Faremo resigned in May as the top official at the U.N.’s Office for Project Services; Mr. Vanshelboim, who was her deputy, is on administrative leave.</media:description>
+    </item>
+    <item>
+      <title>Jeanine Añez, Former Bolivian President, Sentenced to 10 Years in Prison</title>
+      <link>https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/americas/bolivia-jeanine-anez-prison.html" rel="standout"></atom:link>
+      <description>The trial of Jeanine Añez, who took power after Evo Morales was ousted, has led to concerns about politicians’ use of the justice system to target opponents.</description>
+      <dc:creator>Megan Janetsky and María Silvia Trigo</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 02:29:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anez Chavez, Jeanine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arce, Luis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morales, Evo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/08/world/08bolivia/08bolivia-moth.jpg" width="151"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Jeanine Añez, center, assumed the presidency of Bolivia in 2019 after the ouster of Evo Morales.</media:description>
+    </item>
+    <item>
+      <title>Russia Opens Rebranded McDonald’s Restaurants, Without the Golden Arches</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/russia-economy-mcdonalds.html" rel="standout"></atom:link>
+      <description>The reopening of the fast-food stores under Russian ownership (and with a new logo) illustrates the economy’s surprising resilience in the face of intense sanctions, though tough times lie ahead.</description>
+      <dc:creator>Anton Troianovski and Ivan Nechepurenko</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 20:49:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ruble (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Bank of Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Govor, Alexander</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12ukraine-blog-restaurant01/12ukraine-blog-restaurant01-moth.jpg" width="151"></media:content>
+      <media:credit>Dmitry Serebryakov/Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Shortage of Artillery Ammunition Saps Ukrainian Frontline Morale</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-ammo-shortage-artillery.html" rel="standout"></atom:link>
+      <description>Shells for Soviet-era weapons are running short, and powerful Western weapons are not arriving fast enough to make up the difference, giving Russia a big advantage in artillery.</description>
+      <dc:creator>Thomas Gibbons-Neff, Andrew E. Kramer and Natalia Yermak</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 09:38:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10ukraine-blog-ammunition-1/10ukraine-blog-ammunition-1-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>A Ukrainian tank firing at Russian positions on Friday in the Donetsk region of eastern Ukraine. Ammunition shortages are forcing troops to substitute tanks for howitzers.</media:description>
+    </item>
+    <item>
+      <title>U.K. Officials Won’t Investigate Political Donation Flagged for Russian Origins</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/uk-boris-johnson-donors-russia.html" rel="standout"></atom:link>
+      <description>A bank alert had said a $630,225 Conservative Party donation originated in a Russian account. The authorities say there’s no evidence that a crime was committed.</description>
+      <dc:creator>Jane Bradley</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 23:32:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheleg, Ehud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kopytov, Sergei</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10uk-donor/10uk-donor-moth.jpg" width="151"></media:content>
+      <media:credit>Phil Noble/Reuters</media:credit>
+      <media:description>Prime Minister Boris Johnson speaking at the Conservative Party’s spring conference in March in Blackpool, Britain.</media:description>
+    </item>
+    <item>
+      <title>Single Cigarettes in Canada Will Be Inscribed With Warning</title>
+      <link>https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/canada/single-cigarettes-warning.html" rel="standout"></atom:link>
+      <description>Cigarette boxes and packaging in Canada are also expected to see an expanded list of health effects related to smoking.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sun, 12 Jun 2022 18:07:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10canada-1/10canada-1-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Tang/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Dr. Carolyn Bennett, Canada’s minister of mental health and addictions, and Dr. Hassan Mir, a cardiologist at the University of Ottawa Heart Institute, explaining expanded cigarette warnings during a news conference in Ottawa on Friday.</media:description>
+    </item>
+    <item>
+      <title>Biden and Latin American Leaders Announce Migration Deal</title>
+      <link>https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/us/politics/biden-latin-america-migration-deal.html" rel="standout"></atom:link>
+      <description>President Biden is trying to confront repeated surges of migrants at the U.S. border by casting the issue as a problem for the entire region, not just the United States.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 17:05:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summit of the Americas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/us/politics/10dc-biden-migration/merlin_207987984_609bfbbc-66be-4e46-a449-19010f21290d-moth.jpg" width="151"></media:content>
+      <media:credit>Kirsten Luce for The New York Times</media:credit>
+      <media:description>Migrants last month in Reynosa, Mexico. The Biden administration committed to taking 20,000 refugees from Latin America during the next two years, a threefold increase.</media:description>
+    </item>
+    <item>
+      <title>C.D.C. Dismisses Airborne Transmission of Monkeypox. Some Experts Disagree.</title>
+      <link>https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/health/monkeypox-airborne.html" rel="standout"></atom:link>
+      <description>The virus “is not known to linger in the air,” agency officials said. But the research is far from definitive.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 19:51:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeypox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/science/10monkeypox/10monkeypox-moth.jpg" width="151"></media:content>
+      <media:credit>Freya Kaulbars/Rki Robert Koch Institute, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Most experts agree that the monkeypox virus does not spread far through the air. But some scientists believe airborne transmission can occur.</media:description>
+    </item>
+    <item>
+      <title>For South Africa’s Leader, Being a Burglary Victim Spells Trouble</title>
+      <link>https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/africa/ramaphosa-farm-burglary-farmgate.html" rel="standout"></atom:link>
+      <description>After a fortune in cash was stolen from President Cyril Ramaphosa’s farmhouse, he kept it secret. Now that word is out, critics ask what he was hiding.</description>
+      <dc:creator>John Eligon</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 18:19:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaphosa, Cyril</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuma, Jacob G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fraser, Arthur</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10safrica-farmgate-1/10safrica-farmgate-1-moth.jpg" width="151"></media:content>
+      <media:credit>Rodger Bosch/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Cyril Ramaphosa of South Africa was questioned about the burglary during a rare news conference on Friday.</media:description>
+    </item>
+    <item>
+      <title>Behind Enemy Lines, Scouts Help Ukrainians Execute Deadly Strikes</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war.html" rel="standout"></atom:link>
+      <description>A nascent insurgency made up of civilians or former soldiers provided information that aided Ukraine’s attack on two Russian bases, according to a senior Ukrainian military official.</description>
+      <dc:creator>Michael Schwirtz and Marc Santora</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 21:18:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10ukraine-partisan-attack-1/10ukraine-partisan-attack-1-moth.jpg" width="151"></media:content>
+      <media:credit>Sergei Ilnitsky/EPA, via Shutterstock</media:credit>
+      <media:description>This image was taken during a media tour organized by the Russian Army, and shows Russian servicemen standing guard near the Kakhovka Hydroelectric Power Plant on the Dnieper River in Kakhovka, near Kherson, last month.</media:description>
+    </item>
+    <item>
+      <title>Royal Shipwreck From 1682 Is Found Off the Coast of England</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/gloucester-shipwreck.html" rel="standout"></atom:link>
+      <description>The Gloucester, which was carrying a future king of England when it ran aground, was found 15 years ago. Its discovery was revealed this week.</description>
+      <dc:creator>Christine Hauser and Derrick Bryson Taylor</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 16:37:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James II, King of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norfolk (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/12/world/12-XP-SHIPWRECK-01-PRINT/10xp-shipwreck1-moth.jpg" width="151"></media:content>
+      <media:credit>Norfolk Historic Shipwrecks, via Associated Press</media:credit>
+      <media:description>The brothers Julian and Lincoln Barnwell measuring a cannon, part of the shipwreck of the Gloucester, in 2007.</media:description>
+    </item>
+    <item>
+      <title>U.S. Warns China on Taiwan as Defense Officials Meet to Cool Tensions</title>
+      <link>https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/asia/china-us-defense.html" rel="standout"></atom:link>
+      <description>Defense Secretary Lloyd J. Austin III accused Beijing of “provocative” activity near the disputed island after meeting with his Chinese counterpart.</description>
+      <dc:creator>Chris Buckley and Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 06:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10china-us-defense1/10china-us-defense1-moth.jpg" width="151"></media:content>
+      <media:credit>Caroline Chia/Reuters</media:credit>
+      <media:description>Gen. Wei Fenghe, center, China’s defense minister, in Singapore on Friday before his meeting with Defense Secretary Lloyd J. Austin III.</media:description>
+    </item>
+    <item>
+      <title>Pope Francis Postpones Trip to Africa, Citing Knee Problems</title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/pope-postpone-trip-africa.html" rel="standout"></atom:link>
+      <description>The postponement of the trip to the Democratic Republic of Congo and South Sudan comes as speculation swirls that the pontiff may be thinking of stepping down.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 17:44:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vatican City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/world/10pope-01/merlin_208348761_b82cbae4-2b56-44a8-9256-8811fc753014-moth.jpg" width="151"></media:content>
+      <media:credit>Gregorio Borgia/Associated Press</media:credit>
+      <media:description>Pope Francis greeting the faithful after a prayer for peace in May in Rome.</media:description>
+    </item>
+    <item>
+      <title>Why the Jan. 6 Hearings Matter</title>
+      <link>https://www.nytimes.com/2022/06/10/briefing/riots-capitol-hearing-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/briefing/riots-capitol-hearing-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/briefing/riots-capitol-hearing-trump.html" rel="standout"></atom:link>
+      <description>Even if the Jan. 6 attack will not become a unifying moment for the country.</description>
+      <dc:creator>David Leonhardt and Ian Prasad Philbrick</dc:creator>
+      <pubDate>Fri, 10 Jun 2022 10:33:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Return to Office</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/multimedia/10THE-AM-Fri-Jan6-promo/10THE-AM-Fri-Jan6-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>The House Select Committee on January 6th showed a video of former Attorney General William Barr during earlier testimony at its first public hearing on their investigation into the attack on the Capitol.</media:description>
+    </item>
+    <item>
+      <title>Miami-Dade, San Juan and Honolulu Have Become Covid Hot Spots</title>
+      <link>https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/us/covid-cases-miami-san-juan-honolulu.html" rel="standout"></atom:link>
+      <description>“Covid-19 hasn’t disappeared as much as our patience for precautions has,” said one public health expert.</description>
+      <dc:creator>Johnny Diaz and Christine Chung</dc:creator>
+      <pubDate>Mon, 13 Jun 2022 17:36:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honolulu (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami-Dade County (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Juan (Puerto Rico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/08/multimedia/08virus-briefing-miami-honolulu/08virus-briefing-miami-honolulu-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodríguez for The New York Times</media:credit>
+      <media:description>San Sebastian Street in San Juan, P.R., in May.</media:description>
+    </item>
+    <item>
+      <title>Trapped by Russian Forces, Ukrainians Waited a Month in a Basement </title>
+      <link>https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/europe/ukraine-russia-war-crimes-prison.html" rel="standout"></atom:link>
+      <description>More than 300 Ukrainians, 77 of them children, were imprisoned in a dank and airless school basement for nearly a month. Ten of them died.</description>
+      <dc:creator>Valerie Hopkins and Nicole Tung</dc:creator>
+      <pubDate>Sat, 11 Jun 2022 03:01:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yahidne (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/09/world/00ukraine-basement-top/00ukraine-basement-top-moth.jpg" width="151"></media:content>
+      <media:description>Trenches dug by Russian soldiers outside the school they used as a base, while holding more than 300 civilians prisoner in its basement throughout most of March.</media:description>
+    </item>
+    <item>
+      <title>When Cockatoos Become Cocka-Too Much</title>
+      <link>https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/06/10/world/australia/cockatoos-corellas-australia.html" rel="standout"></atom:link>
+      <description>The native Australian birds are charismatic and deeply destructive.</description>
+      <pubDate>Sat, 11 Jun 2022 07:27:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parrots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poisoning and Poisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/06/10/multimedia/10ausletter260-nl/10ausletter260-nl-moth.jpg" width="151"></media:content>
+      <media:credit>Isabella Moore for The New York Times</media:credit>
+      <media:description>A cockatoo in a eucalyptus tree at the Royal Botanic Garden in Sydney, Australia, in March.</media:description>
+    </item>
+  </channel>
+</rss>

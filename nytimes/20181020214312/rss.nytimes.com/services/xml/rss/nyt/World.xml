@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2018  The New York Times Company</copyright>
+    <lastBuildDate>Sat, 20 Oct 2018 21:40:36 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Saudi Explanation of Jamal Khashoggi&#x2019;s Killing Fails to Squelch Skepticism</title>
+      <link>https://www.nytimes.com/2018/10/20/world/middleeast/jamal-khashoggi-killing-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/middleeast/jamal-khashoggi-killing-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/middleeast/jamal-khashoggi-killing-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21saudi1/merlin_145401333_32c5819e-0a90-4230-99eb-6a09da1ce052-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Saudi consul&#x2019;s residence in Istanbul. Saudi Arabia acknowledged Saturday that the journalist Jamal Khashoggi was killed inside its consulate.</media:description>
+      <media:credit>Ozan Kose/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>As doubts swirled about the Saudi account that the dissident journalist was strangled during a fight, an explanation emerged about the presence of a doctor of forensic medicine at the killing.</description>
+      <dc:creator>DAVID D. KIRKPATRICK and BEN HUBBARD</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 21:30:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assiri, Ahmed al-</category>
+    </item>
+    <item>
+      <title>Mexico&#x2019;s President-elect Rethinks His Campaign Promises</title>
+      <link>https://www.nytimes.com/2018/10/20/world/americas/mexico-lopez-obrador-campaign-promises.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/americas/mexico-lopez-obrador-campaign-promises.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/americas/mexico-lopez-obrador-campaign-promises.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/09/28/world/28mexico4/merlin_143842623_f2558e0b-a7b3-4dcc-bc36-2bc5c764ff52-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mexican President-elect Andr&#xE9;s Manuel L&#xF3;pez Obrador greets supporters in Tepic, Mexico, last month.</media:description>
+      <media:credit>Eduardo Verdugo/Associated Press</media:credit>
+      <description>Faced with the reality of a limited budget and soaring crime, Andr&#xE9;s Manuel L&#xF3;pez Obrador is scaling back campaign commitments &#x2014; even before taking office.</description>
+      <dc:creator>ELISABETH MALKIN and PAULINA VILLEGAS</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 15:52:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pena Nieto, Enrique</category>
+    </item>
+    <item>
+      <title>Wentworth Defeat Pushes Australia&#x2019;s Prime Minister Into Minority Government</title>
+      <link>https://www.nytimes.com/2018/10/20/world/australia/election-wentworth-kerryn-phelps.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/australia/election-wentworth-kerryn-phelps.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/australia/election-wentworth-kerryn-phelps.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/12/07/world/20oz-australia-independent/20oz-australia-independent-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dr. Kerryn Phelps, campaigning for legalizing same-sex marriage, in Canberra, last year.</media:description>
+      <media:credit>Sean Davey/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Voters in a Sydney district chose an independent candidate over contenders from the major parties for the seat former Prime Minister Malcolm Turnbull had held.</description>
+      <dc:creator>JAMIE TARABAY</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 10:18:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Green Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Labor Party (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Liberal Party (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Howard, John Winston</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turnbull, Malcolm (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morrison, Scott (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerryn Phelps</category>
+    </item>
+    <item>
+      <title>Afghanistan Votes for Parliament Under Shadow of Taliban Violence</title>
+      <link>https://www.nytimes.com/2018/10/20/world/asia/afghanistan-election-vote.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/asia/afghanistan-election-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/20/world/asia/afghanistan-election-vote.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21afghan-election1/21afghan-election1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Men waited to cast votes on Saturday in Mazar-i-Sharif, Afghanistan, in parliamentary elections that have been delayed for three years.</media:description>
+      <media:credit>Farshad Usyan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The parliamentary vote was delayed for three years by political and security troubles. Both continued on Saturday, with logistical problems and many Taliban attacks.</description>
+      <dc:creator>MUJIB MASHAL, FAHIM ABED and FATIMA FAIZI</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 21:12:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+    </item>
+    <item>
+      <title>One Killing, Two Accounts: What We Know About Jamal Khashoggi&#x2019;s Death</title>
+      <link>https://www.nytimes.com/2018/10/20/world/middleeast/khashoggi-turkey-saudi-narratives.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/middleeast/khashoggi-turkey-saudi-narratives.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/20/world/middleeast/khashoggi-turkey-saudi-narratives.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21saudi-QandA1/merlin_145524723_ebc58aa1-2e8c-4df9-84a6-ac29e3507e40-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Saudi Arabia&#x2019;s consulate in Istanbul.</media:description>
+      <media:credit>Lefteris Pitarakis/Associated Press</media:credit>
+      <description>After denying they knew anything about the fate of Mr. Khashoggi, Saudi officials have finally tried to explain what happened. Does their story add up?</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 20:47:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>Greece Dispatch: Mount Athos, a Male-Only Holy Retreat, Is Ruffled by Tourists and Russia</title>
+      <link>https://www.nytimes.com/2018/10/20/world/europe/mount-athos-greece-russia-eastern-orthodox-church.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/europe/mount-athos-greece-russia-eastern-orthodox-church.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/europe/mount-athos-greece-russia-eastern-orthodox-church.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21athos-dispatch1/00athos-dispatch1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>
+        <p>Father Jerome in Xenophontos Monastery.</p>
+      </media:description>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <description>The monks on an isolated peninsula in Greece have followed the same way of life for more than 1,000 years, but an Athens vs. Moscow diplomatic spat and a tourism onslaught are unsettling its habits.</description>
+      <dc:creator>NEIL MacFARQUHAR</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 07:00:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monasteries and Monks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Orthodox Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Eastern Orthodox Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Athos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Byzantine Civilization</category>
+    </item>
+    <item>
+      <title>Misery &#x2018;Every Day, Every Hour&#x2019; in Syrian Camp. And Now, It&#x2019;s Grown Critical.</title>
+      <link>https://www.nytimes.com/2018/10/20/world/middleeast/syria-displaced-camp-rukban.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/middleeast/syria-displaced-camp-rukban.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/middleeast/syria-displaced-camp-rukban.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21syria-camp/21syria-camp-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Rukban camp sprang up between Jordan and Syria.</media:description>
+      <media:credit>Raad Adayleh/Associated Press</media:credit>
+      <description>The humanitarian situation for some 50,000 Syrians at a camp for the displaced near the Jordanian border has deteriorated, and aid agencies warn it has reached a critical level.</description>
+      <dc:creator>HWAIDA SAAD and MEGAN SPECIA</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 17:51:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deserts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Arab Red Crescent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+    </item>
+    <item>
+      <title>Fact Check: Did Democrats, or George Soros, Fund Migrant Caravan? Despite Republican Claims, No </title>
+      <link>https://www.nytimes.com/2018/10/20/world/americas/migrant-caravan-video-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/americas/migrant-caravan-video-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/20/world/americas/migrant-caravan-video-trump.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21caravan-factcheck/21caravan-factcheck-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Migrants from a caravan heading north toward the United States waited on a bridge connecting Guatemala and Mexico on Friday.</media:description>
+      <media:credit>Oliver De Ros/Associated Press</media:credit>
+      <description>President Trump, echoing the claims of a Republican lawmaker, said that &#x201C;a lot of money&#x201D; was given to migrants traveling toward the United States. There is no evidence of that.</description>
+      <dc:creator>LINDA QIU</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 17:07:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Sweden Indicts Woman Who Tried to Block Afghan Man&#x2019;s Deportation on Flight</title>
+      <link>https://www.nytimes.com/2018/10/20/world/europe/sweden-elin-ersson-deportation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/europe/sweden-elin-ersson-deportation.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/20/world/europe/sweden-elin-ersson-deportation.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>Prosecutors said Elin Ersson had violated the Swedish aviation act by remaining standing on takeoff. But she vowed to continue her campaign.</description>
+      <dc:creator>CHRISTINA ANDERSON</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 15:18:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elin Ersson</category>
+    </item>
+    <item>
+      <title>&#x2018;People&#x2019;s Vote&#x2019; March on Brexit Draws Thousands to Streets of London</title>
+      <link>https://www.nytimes.com/2018/10/20/world/europe/uk-brexit-peoples-vote-march-london.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/europe/uk-brexit-peoples-vote-march-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/20/world/europe/uk-brexit-peoples-vote-march-london.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21britain-march2/21britain-march2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Demonstrators gathered in London on Saturday to call for a new referendum on whether Britain should leave the European Union.</media:description>
+      <media:credit>Simon Dawson/Reuters</media:credit>
+      <description>Demonstrators are demanding a new referendum on Britain&#x2019;s exit from the European Union, though Prime Minister Theresa May has rejected the idea.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 20:44:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+    </item>
+    <item>
+      <title>Ceremony for Stalin Victims Is Blocked in Moscow, Group Says</title>
+      <link>https://www.nytimes.com/2018/10/20/world/europe/moscow-stalin-victims.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/europe/moscow-stalin-victims.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/europe/moscow-stalin-victims.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21stalin/21stalin-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People laying flowers in Lubyanka Square in Moscow in 2009 in a tribute to victims of Soviet repression.</media:description>
+      <media:credit>Mikhail Metzel/Associated Press</media:credit>
+      <description>The rights organization that organizes the event said that city officials had revoked permission, citing &#x201C;repair and construction work&#x201D; at the site.</description>
+      <dc:creator>SOPHIA KISHKOVSKY</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 17:47:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stalin, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Memorial</category>
+    </item>
+    <item>
+      <title>In Some Australian Schools, Teachers Can Be Fired for Being Gay</title>
+      <link>https://www.nytimes.com/2018/10/18/world/australia/gay-schools-teachers-religion.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/world/australia/gay-schools-teachers-religion.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/18/world/australia/gay-schools-teachers-religion.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21oz-teachers-1sub/19oz-teachers-1sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Hugo Walker at his home in Canberra, Australia. He resigned from his teaching position at a private school in Canberra in 2013 after he came out.</media:description>
+      <media:credit>Sean Davey for The New York Times</media:credit>
+      <description>Australian politicians are doubling down on a law that allows religious schools, which receive government funding, to discriminate against gay teachers and students.</description>
+      <dc:creator>LIVIA ALBECK-RIPKA</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 02:50:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of Religion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Transgender and Transsexuals</category>
+    </item>
+    <item>
+      <title>Africa&#x2019;s Youngest Billionaire Is Freed After Abduction in Tanzania</title>
+      <link>https://www.nytimes.com/2018/10/20/world/africa/tanzania-billionaire-freed-mohammed-dewji.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/world/africa/tanzania-billionaire-freed-mohammed-dewji.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/world/africa/tanzania-billionaire-freed-mohammed-dewji.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/tanzania-img/tanzania-img-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mohammed Dewji in 2015.</media:description>
+      <media:credit>Khalfan Said Hassan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Mohammed Dewji, 43, chief executive of METL Group, was snatched a week ago outside a luxury hotel in Tanzania. His company said Saturday that he was safe.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 09:50:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dar es Salaam (Tanzania)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed Dewji</category>
+    </item>
+    <item>
+      <title>Newsbook: Saudi Journalist Jamal Khashoggi Was Killed While in Exile. These Books Explain the Country He Left.</title>
+      <link>https://www.nytimes.com/2018/10/20/books/saudi-arabia-journalist-jamal-khashoggi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/20/books/saudi-arabia-journalist-jamal-khashoggi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/20/books/saudi-arabia-journalist-jamal-khashoggi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/books/19newsbook-saudi1/19newsbook-saudi1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit/>
+      <description>Books on Saudi Arabian history and politics shed light on the Saud family&#x2019;s reign.</description>
+      <dc:creator>CONCEPCI&#xD3;N DE LE&#xD3;N</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 15:57:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Kingdom: Arabia and the House of Sa'ud (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacey, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Kings and Presidents: Saudi Arabia and the United States Since FDR (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riedel, Bruce O</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Salman's Legacy: The Dilemmas of a New Era in Saudi Arabia (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rasheed, Madawi Al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salman, King of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saud, Abdul Aziz Ibn</category>
+    </item>
+    <item>
+      <title>The End of a Once Mighty, Still Deadly Industry: the Canada Letter</title>
+      <link>https://www.nytimes.com/2018/10/19/world/canada/asbestos-the-canada-letter.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/canada/asbestos-the-canada-letter.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/canada/asbestos-the-canada-letter.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/canada/20caandaletter-mine/20caandaletter-mine-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Jeffrey Mine in Asbestos, Quebec, in 2011. It closed permanently the following year.</media:description>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <description>Until recently, Canada fought efforts to ban asbestos. This week it joined much of the world in doing so. But the deadly legacy remains.</description>
+      <dc:creator>IAN AUSTEN</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 01:22:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asbestos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+    </item>
+    <item>
+      <title>Uproar Over Dissident Rattles Saudi Royal Family</title>
+      <link>https://www.nytimes.com/2018/10/19/world/middleeast/saudi-arabia-jamal-khashoggi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/middleeast/saudi-arabia-jamal-khashoggi.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/middleeast/saudi-arabia-jamal-khashoggi.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20saudi-royals-print-sub/20saudi-royals3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Saudi crown prince, Mohammed bin Salman, left, with Prince Mohammed bin Nayef, center, and King Salman. The royal family consists of thousands of descendants of the king who founded the country.</media:description>
+      <media:credit>Bandar Algaloud/Saudi Royal Council, via Getty Images</media:credit>
+      <description>Members of the House of Saud are increasingly alarmed by the kingdom&#x2019;s crown prince but can do little about it.</description>
+      <dc:creator>BEN HUBBARD and DAVID D. KIRKPATRICK</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 16:29:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salman, King of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>Facebook Ads From Unknown Backer Take Aim at Brexit Plan</title>
+      <link>https://www.nytimes.com/2018/10/19/technology/facebook-brexit-ads.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/technology/facebook-brexit-ads.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/technology/facebook-brexit-ads.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/business/20ukfacebook/11FACEBOOK-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The London offices of Facebook, which announced new disclosure policies for political ads in Britain this week.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>The anonymous group&#x2019;s campaign highlights Facebook&#x2019;s continuing trouble with political advertising.</description>
+      <dc:creator>ADAM SATARIANO</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 08:40:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clegg, Nick</category>
+    </item>
+    <item>
+      <title>Evelyn Anthony, Writer of Spy Thrillers, Dies at 92</title>
+      <link>https://www.nytimes.com/2018/10/19/obituaries/evelyn-anthony-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/obituaries/evelyn-anthony-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/obituaries/evelyn-anthony-dead.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/obituaries/20ANTHONY1/merlin_145481313_d892198e-2d0d-4292-830b-2a2fcb27ad7e-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>
+        <p>Evelyn Anthony in 1968 with her daughter, Susan, and their dog. She wrote suspenseful stories of Cold War espionage, a field dominated by men.</p>
+      </media:description>
+      <media:credit>Evening Standard/Hulton Archive, via Getty Images</media:credit>
+      <description>Ms. Anthony was one of the few women to explore the espionage genre. &#x201C;I am basically an entertainer, and I&#x2019;m very proud of it,&#x201D; she said.</description>
+      <dc:creator>RICHARD SANDOMIR</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 13:59:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony, Evelyn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tamarind Seed (Book)</category>
+    </item>
+    <item>
+      <title>Khashoggi, Female Candidates, Mega Millions: Your Friday Evening Briefing</title>
+      <link>https://www.nytimes.com/2018/10/19/briefing/khashoggi-female-candidates-mega-millions.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/briefing/khashoggi-female-candidates-mega-millions.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/briefing/khashoggi-female-candidates-mega-millions.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/briefing/19evening-briefing-slide-H5NE/19evening-briefing-slide-H5NE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Hasan Jamali/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>JEAN RUTTER and HIROKO MASUIKE</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 01:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>As Trump Assails Caravan, a Clash Between Migrants and Mexico Police</title>
+      <link>https://www.nytimes.com/2018/10/19/world/americas/caravan-mexico-guatemala.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/americas/caravan-mexico-guatemala.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/americas/caravan-mexico-guatemala.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20caravan1/20caravan1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In anticipation of the caravan&#x2019;s arrival at the southern border, the Mexican government deployed hundreds of National Police personnel.</media:description>
+      <media:credit>Esteban Biba/European Pressphoto Agency</media:credit>
+      <description>A tense hour-long standoff near the Guatemala-Mexico border left at least six Mexico police officers wounded.</description>
+      <dc:creator>MAYA AVERBUCH and KIRK SEMPLE</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 22:56:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+    </item>
+    <item>
+      <title>Saudi Arabia Says Jamal Khashoggi Was Killed in Consulate Fight</title>
+      <link>https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-dead-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-dead-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-dead-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/briefing/19evening-briefing-slide-H5NE/19evening-briefing-slide-H5NE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Hasan Jamali/Associated Press</media:credit>
+      <description>The kingdom&#x2019;s public prosecutor said Mr. Khashoggi died after an argument and fistfight inside the Saudi Consulate in Istanbul.</description>
+      <dc:creator>BEN HUBBARD</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 15:12:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Macedonia Moves Ahead With Name Change, Helping Its NATO Bid</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/macedona-greece-name.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/macedona-greece-name.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/macedona-greece-name.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20macedonia-print/xxmacedonia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A billboard promoting the name-change referendum in the Macedonian capital, Skopje, this month.</media:description>
+      <media:credit>Robert Atanasovski/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In a tenuous victory for Prime Minister Zoran Zaev and his Western allies, Parliament voted to proceed with renaming the country the Republic of North Macedonia.</description>
+      <dc:creator>MARC SANTORA and ALEKSANDAR DIMISHKOVSKI</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 21:56:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Greek Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsipras, Alexis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Savvidis, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Macedonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Skopje (Macedonia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thessaloniki (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yugoslavia</category>
+    </item>
+    <item>
+      <title>Julian Assange Says He&#x2019;s Suing Ecuador for &#x2018;Violating His Fundamental Rights&#x2019;</title>
+      <link>https://www.nytimes.com/2018/10/19/world/americas/julian-assange-ecuador-lawsuit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/americas/julian-assange-ecuador-lawsuit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/americas/julian-assange-ecuador-lawsuit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20xp-assange/merlin_145530084_734744d2-6898-4215-a2eb-ee6bf9d2b3a1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Julian Assange on the balcony of Ecuador&#x2019;s embassy in London last year. He has lived at the embassy since 2012, when he sought asylum to avoid extradition to Sweden.</media:description>
+      <media:credit>Justin Tallis/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The WikiLeaks founder claimed that his longtime hosts at the country&#x2019;s embassy in London are limiting his contact with the outside world and censoring his speech.</description>
+      <dc:creator>KAREN ZRAICK</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 22:38:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assange, Julian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WikiLeaks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Dozens Watching Fireworks in India Are Mowed Down by Speeding Train</title>
+      <link>https://www.nytimes.com/2018/10/19/world/asia/india-fireworks-train.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/asia/india-fireworks-train.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/asia/india-fireworks-train.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20india-train-1/20india-train-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>At least 50 people were killed when a train ran into a crowd in Amritsar, India.</media:description>
+      <media:credit>Raminder Pal Singh/European Pressphoto Agency</media:credit>
+      <description>A Hindu religious holiday signifying the victory of good over evil ends in tragedy, as people sitting on railway tracks are killed by a speeding train.</description>
+      <dc:creator>SUHASINI RAJ</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 20:34:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hinduism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amritsar (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Dussehra (Hindu Holiday)</category>
+    </item>
+    <item>
+      <title>Jamal Khashoggi Is Dead. Here&#x2019;s What We Know.</title>
+      <link>https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-case-facts.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-case-facts.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/middleeast/jamal-khashoggi-case-facts.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20khashoggi-explainer-1/20khashoggi-explainer-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jamal Khashoggi, a dissident Saudi writer and Virginia resident, vanished after visiting the Saudi consulate in Istanbul more than two weeks ago.</media:description>
+      <media:credit>Chris Mcgrath/Getty Images</media:credit>
+      <description>The ghastly saga has strained relations between Turkey and Saudi Arabia, and put the United States at the center of a dispute with a key Arab ally.</description>
+      <dc:creator>MEGAN SPECIA</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 01:32:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salman, King of Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>U.S. and South Korea Suspend Military Drills</title>
+      <link>https://www.nytimes.com/2018/10/19/world/asia/us-south-korea-military-exercise.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/asia/us-south-korea-military-exercise.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/asia/us-south-korea-military-exercise.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20exercise1/20exercise1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Defense Secretary Jim Mattis and his South Korean counterpart, Jeong Kyeong-doo, made the decision to delay the exercises, called Vigilant Ace, during a meeting in Singapore.</media:description>
+      <media:credit>Don Wong/Associated Press</media:credit>
+      <description>The decision was made as part of an effort to give the continuing nuclear negotiations with North Korea an opportunity to work, Pentagon officials said on Friday.</description>
+      <dc:creator>HELENE COOPER</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 19:42:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Three Internet Trolls Convicted of Systematic Defamation Against Journalist in Finland</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/finland-internet-trolls-defamation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/finland-internet-trolls-defamation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/finland-internet-trolls-defamation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20finland1/20finland1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jessika Aro, a Finnish journalist, filed a complaint with the police in Helsinki in early 2016 over what she said was a campaign of online persecution.</media:description>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <description>Jessika Aro, a Finnish journalist investigating Russian disinformation campaigns, had been called a spy, a drug dealer and unhinged.</description>
+      <dc:creator>ANDREW HIGGINS</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 22:28:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aro, Jessika</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Internet Research Agency (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+    </item>
+    <item>
+      <title>Turks Search Far-Flung Sites and Question Workers in Case of Missing Journalist</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/turkey-jamal-khashoggi-investigation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/turkey-jamal-khashoggi-investigation.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/turkey-jamal-khashoggi-investigation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20turkey-saudi2/20turkey-saudi2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An aerial view of Belgrad Forest in Istanbul, one of three sites investigators are said to be looking for evidence in the case of Jamal Khashoggi. He was last seen entering the Saudi Consulate on Oct. 2 and is thought to have been assassinated by Saudi agents.</media:description>
+      <media:credit>DHA, via Associated Press</media:credit>
+      <description>Turkish officials have claimed that Saudi Arabia orchestrated the assassination in Istanbul of Jamal Khashoggi, a Saudi journalist, but have not found his remains.</description>
+      <dc:creator>CARLOTTA GALL</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 19:24:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+    </item>
+    <item>
+      <title>20 Men Convicted of Abusing Young Girls in U.K.</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/grooming-gang-sexual-abuse-uk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/grooming-gang-sexual-abuse-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/europe/grooming-gang-sexual-abuse-uk.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <description>The men were found guilty in a series of trials this year of more than 120 sex crimes against 15 girls in northern England between 2004 and 2011.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 16:50:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Huddersfield (England)</category>
+    </item>
+    <item>
+      <title>Poland Ordered to Reverse Purge of Supreme Court</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/poland-supreme-court-purge.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/poland-supreme-court-purge.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/poland-supreme-court-purge.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20poland-court/20poland-court-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A protest against changes to the Polish judiciary outside the Supreme Court in Warsaw last week.</media:description>
+      <media:credit>Jakub Kaminski/EPA, via Shutterstock</media:credit>
+      <description>Europe&#x2019;s highest court told Poland to reinstate more than two dozen judges ousted by the ruling party, escalating a clash between Warsaw and the European Union.</description>
+      <dc:creator>MARC SANTORA and JOANNA BERENDT</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 20:09:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duda, Andrzej (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gersdorf, Malgorzata</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morawiecki, Mateusz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
+    </item>
+    <item>
+      <title>In Khashoggi Disappearance, Turkey&#x2019;s Slow Drip of Leaks Puts Pressure on Saudis</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/turkey-khashoggi-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/turkey-khashoggi-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/turkey-khashoggi-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/world/19turkey-media1/19turkey-media1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>
+        <p>Journalists gathered outside the Saudi Arabian consulate in Istanbul on Monday as investigators arrived to look into the disappearance of the journalist Jamal Khashoggi.</p>
+      </media:description>
+      <media:credit>Chris Mcgrath/Getty Images</media:credit>
+      <description>The calculated media strategy has proved remarkably effective for President Erdogan, ensuring that the case remains front page news around the world.</description>
+      <dc:creator>CARLOTTA GALL</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 19:05:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+    </item>
+    <item>
+      <title>The Saturday Profile: One of Italy&#x2019;s Last &#x2018;Story Singers&#x2019; Is Briefly Left Speechless</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/franco-trincale-cantastorie-italy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/franco-trincale-cantastorie-italy.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/europe/franco-trincale-cantastorie-italy.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20trincale-print/20trincale1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Franco Trincale, 83, in Militello, in southeastern Sicily, for the opening of an exhibit dedicated to his long career as one of the island&#x2019;s last old-school &#x201C;cantastorie,&#x201D; or &#x201C;story singers.&#x201D;</media:description>
+      <media:credit>Nadia Shira Cohen for The New York Times</media:credit>
+      <description>For more than 60 years, Franco Trincale has sung about worker exploitation, social injustice and more, breaking beyond the Sicilian roots of the cantastorie.</description>
+      <dc:creator>ELISABETTA POVOLEDO</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 16:33:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trincale, Franco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Militello (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milan (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">cantastorie</category>
+    </item>
+    <item>
+      <title>Brexit Will Compromise U.K. Security, Ex-Spy Chief Says</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/uk-brexit-john-sawers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/uk-brexit-john-sawers.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/europe/uk-brexit-john-sawers.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20uk-security/20uk-security-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>&#x201C;I don&#x2019;t believe Russia would have used a nerve agent on the streets of an American or German city,&#x201D; said John Sawers, who led MI6 from 2009 to 2014.</media:description>
+      <media:credit>Oli Scarff/Getty Images</media:credit>
+      <description>John Sawers, who led MI6 from 2009 to 2014, called on voters to reverse the &#x201C;strategic mistake&#x201D; in a second referendum, and warned that Russia now views Britain &#x201C;with contempt.&#x201D;</description>
+      <dc:creator>ELLEN BARRY</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 16:57:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sawers, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">British Secret Intelligence Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">May, Theresa M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Skripal, Sergei V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+    </item>
+    <item>
+      <title>Norway Apologizes, 70 Years Later, to Women Who Had Relationships With WWII Germans</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/norway-lebensborn-german-girls.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/norway-lebensborn-german-girls.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/europe/norway-lebensborn-german-girls.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/21/world/21norway-explainer/20norway-explainer-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Erna Solberg said of the treatment of the women, &#x201C;Norwegian authorities violated the fundamental principle that no citizen can be punished without trial or sentenced without law.&#x201D;</media:description>
+      <media:credit>John Macdougall/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The women, and their offspring, were punished and mistreated after Norway was liberated following World War II, and some were forced into exile.</description>
+      <dc:creator>ILIANA MAGRA</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 14:27:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">German Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Himmler, Heinrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solberg, Erna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oslo (Norway)</category>
+    </item>
+    <item>
+      <title>Poland Elections a Test for Governing Party&#x2019;s Populist Message</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/poland-election-law-and-justice.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/poland-election-law-and-justice.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/europe/poland-election-law-and-justice.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20poland-elections1/20poland-elections1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The two major candidates for Warsaw mayor, Rafal Trzaskowski, left, and Patryk Jaki. For the Law and Justice party, there would be no greater victory than winning the mayorship, and there are few candidates who represent the party&#x2019;s style more than Mr. Jaki.</media:description>
+      <media:credit>Jaap Arriens/NurPhoto, via Getty Images</media:credit>
+      <description>The Law and Justice party swept to power by attracting rural voters with grievance and nostalgia. It hopes to extend its appeal to urban areas in Sunday&#x2019;s vote.</description>
+      <dc:creator>JOANNA BERENDT and MARC SANTORA</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 16:55:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Civic Platform (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Law and Justice (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaczynski, Jaroslaw</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warsaw (Poland)</category>
+    </item>
+    <item>
+      <title>Afghanistan Delays Election in Province as Key Security Leader Is Buried</title>
+      <link>https://www.nytimes.com/2018/10/19/world/asia/afghanistan-kandahar-attack.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/asia/afghanistan-kandahar-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/asia/afghanistan-kandahar-attack.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20afghanistan-print/20afghanistan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gen. Abdul Raziq, the police chief who was buried in Kandahar on Friday, loomed large in Afghanistan&#x2019;s national psyche and was revered by the security forces.</media:description>
+      <media:credit>Ismail Sameem/Reuters</media:credit>
+      <description>Voting in the national parliamentary elections will be postponed for a week in Kandahar Province, where the police chief, Gen. Abdul Raziq, was gunned down on Thursday.</description>
+      <dc:creator>TAIMOOR SHAH and MUJIB MASHAL</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 01:27:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kandahar (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raziq, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Austin Scott (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+    </item>
+    <item>
+      <title>At War: Afghan War Casualty Report: Oct. 12-18</title>
+      <link>https://www.nytimes.com/2018/10/19/magazine/afghan-war-casualty-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/magazine/afghan-war-casualty-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/magazine/afghan-war-casualty-report.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/magazine/19atwar-casualtyreport_1/merlin_145470654_24354244-edfe-49ee-9978-7712e3f194ee-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>People gather for the funeral of a prominent Afghan politician who was killed in a bomb attack in Helmand.</media:description>
+      <media:credit>Jawad Jalali/European Pressphoto Agency</media:credit>
+      <description>140 security force members were killed during the past week as fighting spread to 14 provinces.</description>
+      <dc:creator>FAHIM ABED</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 12:37:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Improvised Explosive Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raziq, Abdul</category>
+    </item>
+    <item>
+      <title>Sagrada Familia, a Barcelona Masterpiece, and Scofflaw?</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/barcelona-sagrada-familia-building-permit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/barcelona-sagrada-familia-building-permit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/barcelona-sagrada-familia-building-permit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20spain-print/merlin_131437401_a5012549-6fc5-44be-b9db-c2ef15b68d43-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Construction of the Sagrada Familia started in 1882, but it was only about a quarter completed when its architect, Antoni Gaud&#xED;, died in 1926.</media:description>
+      <media:credit>Daniel Rodrigues for The New York Times</media:credit>
+      <description>The basilica will pay $41 million to settle a dispute over taxes, infrastructure and a building permit the city says the church should have gotten a century ago.</description>
+      <dc:creator>RAPHAEL MINDER</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 12:36:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gaudi, Antoni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colau, Ada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Barcelona (Spain)</category>
+    </item>
+    <item>
+      <title>Japan Caved to Trump on Trade Talks. Now the Real Haggling Begins.</title>
+      <link>https://www.nytimes.com/2018/10/19/world/asia/trump-japan-trade.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/asia/trump-japan-trade.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/asia/trump-japan-trade.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20japan-1-print/00japan-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Shinzo Abe of Japan acquiesced to President Trump in New York last month, agreeing to bilateral trade talks with the United States instead of discussions involving multiple countries.</media:description>
+      <media:credit>Tom Brenner for The New York Times</media:credit>
+      <description>Tokyo could offer minor concessions to give Washington a face-saving deal, but already the U.S. is signaling a tough stance on autos and agriculture.</description>
+      <dc:creator>MOTOKO RICH</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 04:10:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hagerty, William F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Anjem Choudary, Radical Islamist Preacher, Is Freed in Britain, but Under Strict Controls</title>
+      <link>https://www.nytimes.com/2018/10/19/world/europe/uk-radical-preacher-anjem-choudary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/europe/uk-radical-preacher-anjem-choudary.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/europe/uk-radical-preacher-anjem-choudary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/20/world/20choudary/20choudary-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Anjem Choudary leaving the London Central Mosque after speaking at a rally in 2015.</media:description>
+      <media:credit>Suzanne Plunkett/Reuters</media:credit>
+      <description>Mr. Choudary, convicted of inciting support for ISIS, was freed on Friday under rules that will bar him from leaving London, using the internet without permission and attending certain mosques.</description>
+      <dc:creator>CEYLAN YEGINSU</dc:creator>
+      <pubDate>Sat, 20 Oct 2018 09:19:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choudary, Anjem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Australia Dispatch: Preserving a Culture by Protecting the Environment</title>
+      <link>https://www.nytimes.com/2018/10/19/world/australia/indigenous-australia-dhimurru-rangers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/australia/indigenous-australia-dhimurru-rangers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/19/world/australia/indigenous-australia-dhimurru-rangers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/03/world/00rangers-dispatch-1/00rangers-dispatch-1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gatha Pura Mununggurr, 28, a member of the Dhimurru Rangers, hunting for dinner after a day of cleaning a beach of debris.</media:description>
+      <media:credit>David Maurice Smith for The New York Times</media:credit>
+      <description>The Dhimurru Rangers are one of more than 100 Indigenous groups spread across Australia who are removing thousands of pounds of plastic garbage from the beaches.</description>
+      <dc:creator>Photographs and Text by DAVID MAURICE SMITH</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 07:00:06 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous Australians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Territory (Australia)</category>
+    </item>
+    <item>
+      <title>Mike Pompeo Warns Panama Against Doing Business With China</title>
+      <link>https://www.nytimes.com/2018/10/19/world/americas/mike-pompeo-panama-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/19/world/americas/mike-pompeo-panama-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/19/world/americas/mike-pompeo-panama-china.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/11/10/world/10pompeo-1/10pompeo-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State Mike Pompeo, left, with Panama&#x2019;s president and vice president, Juan Carlos Varela and Isabel Saint Malo, in Panama City on Thursday. Mr. Pompeo warned against &#x201C;predatory economic activity&#x201D; by China.</media:description>
+      <media:credit>Pool photo by Brendan Smialowski</media:credit>
+      <description>China is the second-biggest user of the Panama Canal, and Washington worries about Panama becoming a beachhead for Chinese influence.</description>
+      <dc:creator>EDWARD WONG</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 06:10:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Canals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Varela, Juan Carlos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
+    </item>
+    <item>
+      <title>Nikki Haley Pokes Fun at Trump, and Herself, at Al Smith Dinner</title>
+      <link>https://www.nytimes.com/2018/10/18/world/americas/nikki-haley-al-smith-speech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/world/americas/nikki-haley-al-smith-speech.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/18/world/americas/nikki-haley-al-smith-speech.html?partner=rss&amp;emc=rss"/>
+      <description>The United Nations ambassador, who has announced she will resign at year&#x2019;s end, tried her hand at humor as guest speaker.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 04:30:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Smith, Alfred E, Memorial Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Nikki R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Nations</category>
+    </item>
+    <item>
+      <title>Voices From the Caravan: Why These Honduran Migrants Are Heading North</title>
+      <link>https://www.nytimes.com/2018/10/18/world/americas/honduras-migrant-caravan-voices.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/world/americas/honduras-migrant-caravan-voices.html</guid>
+      <atom:link href="https://www.nytimes.com/2018/10/18/world/americas/honduras-migrant-caravan-voices.html?partner=rss&amp;emc=rss" rel="standout"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/world/19caravan-voices-1/19caravan-voices-1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Honduran migrants stop to rest in Guatemala City.</media:description>
+      <media:credit>Daniele Volpe for The New York Times</media:credit>
+      <description>Thousands of Honduran migrants are making their way toward the U.S. border. We asked several why they had chosen to make the journey north and what they had left behind.</description>
+      <dc:creator>DANIELE VOLPE and KIRK SEMPLE</dc:creator>
+      <pubDate>Fri, 19 Oct 2018 08:52:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala City (Guatemala)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Khashoggi, Afghanistan, Abuse: Your Thursday Evening Briefing</title>
+      <link>https://www.nytimes.com/2018/10/18/briefing/khashoggi-afghanistan-abuse.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/briefing/khashoggi-afghanistan-abuse.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/18/briefing/khashoggi-afghanistan-abuse.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/18/briefing/18evening-briefing-slide-J6WQ/18evening-briefing-slide-J6WQ-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Sabah, via Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>JEAN RUTTER and HIROKO MASUIKE</dc:creator>
+      <pubDate>Thu, 18 Oct 2018 23:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Is the Migrant Caravan and Why Does Trump Care?</title>
+      <link>https://www.nytimes.com/2018/10/18/world/americas/trump-migrant-caravan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2018/10/18/world/americas/trump-migrant-caravan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2018/10/18/world/americas/trump-migrant-caravan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2018/10/19/world/19caravanexplainer-2-print/19caravanexplainer1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The migrant caravan was formed late last week in San Pedro Sula, a city in northern Honduras known for high levels of violence.</media:description>
+      <media:credit>Daniele Volpe for The New York Times</media:credit>
+      <description>As many as 4,000 people are walking together north from Central America, fleeing violence or poverty. The president wants them to stop.</description>
+      <dc:creator>KIRK SEMPLE</dc:creator>
+      <pubDate>Thu, 18 Oct 2018 22:15:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>The Saudi General Taking the Fall in the Khashoggi Case</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000006168332/assiri-khashoggi-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/middleeast/100000006168332/assiri-khashoggi-saudi-arabia.html</guid>
+      <description>A Saudi official has said Maj. Gen. Ahmed al-Assiri, a high-ranking adviser to the crown prince, organized the operation that killed the journalist Jamal Khashoggi.</description>
+      <dc:creator/>
+      <pubDate>Thu, 18 Oct 2018 21:17:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_per">Assiri, Ahmed al-</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Espionage and Intelligence Services</category>
+    </item>
+  </channel>
+</rss>

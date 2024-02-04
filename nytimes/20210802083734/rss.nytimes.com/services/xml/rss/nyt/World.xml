@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 02 Aug 2021 08:32:55 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 08:05:29 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>What Went Wrong With Covax, the Vast Global Vaccine Program</title>
+      <link>https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html" rel="standout"></atom:link>
+      <description>After months of struggle, the U.N.-backed Covax alliance will soon have many more doses, promising relief for vaccine shortages in poorer countries. But it faces a deepening crisis: difficulties getting shots into arms as the Delta variant spreads.</description>
+      <dc:creator>Benjamin Mueller and Rebecca Robbins</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 07:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Covax</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/world/29covax1/29covax1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Guerchom Ndebo/Getty Images</media:credit>
+      <media:description>Carrying a box of vaccines this spring in Goma, in the Democratic Republic of Congo. The country received 1.7 million AstraZeneca doses through Covax in March, but distribution is another challenge.</media:description>
+    </item>
+    <item>
+      <title>Olympic Sprinter From Belarus Seeks Refuge in Japan, Fearing Jail at Home</title>
+      <link>https://www.nytimes.com/2021/08/01/world/europe/olympic-sprinter-belarus-japan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/europe/olympic-sprinter-belarus-japan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/europe/olympic-sprinter-belarus-japan.html" rel="standout"></atom:link>
+      <description>Belarus tried to force the sprinter, Kristina Timanovskaya, to return home after she criticized her coaches for registering her for the wrong event.</description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 07:27:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Protasevich, Roman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tikhanovskaya, Svetlana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/world/01belarus-olympics1/01belarus-olympics1-moth.jpg" width="151"></media:content>
+      <media:credit>Issei Kato/Reuters</media:credit>
+      <media:description>Kristina Timanovskaya with Japanese police officers at Haneda Airport in Tokyo on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Top Myanmar General Says Military Rule Will Continue Into 2023</title>
+      <link>https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html" rel="standout"></atom:link>
+      <description>Six months after seizing power, the junta’s leader on Sunday extended a state of emergency for two more years. Protesters said they would persevere.</description>
+      <dc:creator>Hannah Beech</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 08:51:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Min Aung Hlaing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National League for Democracy (Myanmar)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/world/01myanmar1/01myanmar1-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A rally on Thursday in Yangon, Myanmar, against military rule. People across the country have been gathering for brief protests, then dispersing before the security forces can crack down.</media:description>
+    </item>
+    <item>
+      <title>Riots Shatter Veneer of Coexistence in Israel’s Mixed Towns</title>
+      <link>https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html" rel="standout"></atom:link>
+      <description>Israel’s Jewish and Palestinian communities looked past each other until violence and bloodshed forced a reckoning.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 22:40:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabic Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Technion-Israel Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Acre (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haifa (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lod (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/world/20Israel-coexistance1/20Israel-coexistance1-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>Seventy-three years after Israel’s birth in the 1948 Independence War, in which hundreds of thousands of Arabs fled or were driven out at gunpoint, Jews and Arabs in Israel live side by side but largely blind to each others’ lives.</media:description>
+    </item>
+    <item>
+      <title>Police in China Detain Canadian Pop Star Kris Wu on Suspicion of Rape</title>
+      <link>https://www.nytimes.com/2021/07/31/world/asia/kris-wu-detain-china-suspicion-rape.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/asia/kris-wu-detain-china-suspicion-rape.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/asia/kris-wu-detain-china-suspicion-rape.html" rel="standout"></atom:link>
+      <description>Kris Wu, a 30-year-old celebrity, is the most prominent figure in China to be held over #MeToo allegations.</description>
+      <dc:creator>Amy Qin and Elsie Chen</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 16:42:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wu, Kris (1990- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31china-metoo/31china-metoo-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Katsarov/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Kris Wu performing at a music awards show in Toronto in 2018.</media:description>
+    </item>
+    <item>
+      <title>As Fears Grip Afghanistan, Hundreds of Thousands Flee</title>
+      <link>https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html" rel="standout"></atom:link>
+      <description>With the Taliban sweeping across much of the country, at least 30,000 Afghans are leaving each week. Many more have been displaced within Afghanistan’s borders.</description>
+      <dc:creator>Christina Goldbaum and Fatima Faizi</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 17:57:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31afghanistan-exodus4/31afghanistan-exodus4-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>With the security situation in Afghanistan rapidly deteriorating, hundreds of people wait in long lines at the passport department in Kabul each morning.</media:description>
+    </item>
+    <item>
+      <title>Body of Reuters Photographer Was Mutilated in Taliban Custody, Officials Say</title>
+      <link>https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html" rel="standout"></atom:link>
+      <description>The body of Danish Siddiqui, a Pulitzer Prize winner killed in Afghanistan, was unrecognizable when it was brought to a Kandahar hospital, one official said.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 08:14:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Siddiqui, Danish (1980-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kandahar (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thomson Reuters Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31afghanistan-journalist1/31afghanistan-journalist1-moth.jpg" width="151"></media:content>
+      <media:credit>Altaf Qadri/Associated Press</media:credit>
+      <media:description>A tribute to Danish Siddiqui in New Delhi on July 17, the day after his death.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Targets Student Unions to Tame Universities</title>
+      <link>https://www.nytimes.com/2021/07/31/world/asia/hong-kong-students.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/asia/hong-kong-students.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/asia/hong-kong-students.html" rel="standout"></atom:link>
+      <description>The authorities are clamping down on universities, which they consider hotbeds for unrest. The groups say they are fighting for survival.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 02:13:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/00hongkong-students1/00hongkong-students1-moth.jpg" width="151"></media:content>
+      <media:credit>Isaac Lawrence/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police carrying material out of the student union office at the University of Hong Kong on July 16. </media:description>
+    </item>
+    <item>
+      <title>With Undersea Robots, an Air Force Navigator Lost Since 1967 Is Found</title>
+      <link>https://www.nytimes.com/2021/08/01/world/asia/pentagon-robots-vietnam-war-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/asia/pentagon-robots-vietnam-war-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/asia/pentagon-robots-vietnam-war-dead.html" rel="standout"></atom:link>
+      <description>A recovery mission off Vietnam’s coast showed how advances in technology have given new reach to the Pentagon’s search for American war dead.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 03:57:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing in Action</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense POW/MIA Accounting Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Project Recover</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force Academy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/world/01vietnam-plane1/01vietnam-plane-moth.jpg" width="151"></media:content>
+      <media:credit>Scripps Institution of Oceanography</media:credit>
+      <media:description>Preparing to launch one of three robotic vehicles to survey the seafloor off Vietnam in February 2020. The search led to the recovery of an Air Force navigator’s remains.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Arrests Anthony Wong Yiu-ming for Singing at Election Rally</title>
+      <link>https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html" rel="standout"></atom:link>
+      <description>Anticorruption officials arrested Anthony Wong Yiu-ming, a Cantopop singer, who has publicly supported the Chinese territory’s pro-democracy opposition.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 08:05:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Anthony (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/02/world/02hongkong1/02hongkong1-moth.jpg" width="151"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>Anthony Wong Yiu-ming, shown here in 2019, is one of the few celebrities who have spoken out against the Hong Kong government and its backers in Beijing.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/08/01/briefing/covid-protests-olympics-iran-nuclear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/briefing/covid-protests-olympics-iran-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/briefing/covid-protests-olympics-iran-nuclear.html" rel="standout"></atom:link>
+      <description>French protests over Covid passes.</description>
+      <dc:creator>Whet Moser</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 03:50:20 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/02/us/02ambriefing-europe-nl-promo/merlin_192219594_76aab552-1a15-4a9b-9a93-f05b9a580fbb-moth.jpg" width="151"></media:content>
+      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
+      <media:description>A protester holds a poster reading &#39;Freedom&#39; during a demonstration against the COVID-19 health pass which grants vaccinated individuals greater ease of access to venues in Paris on Saturday.</media:description>
+    </item>
+    <item>
+      <title>What is An Olympic Gold Medal Actually Worth?</title>
+      <link>https://www.nytimes.com/article/olympic-gold-medals-worth-value-price.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/olympic-gold-medals-worth-value-price.html</guid>
+      <atom:link href="https://www.nytimes.com/article/olympic-gold-medals-worth-value-price.html" rel="standout"></atom:link>
+      <description>Some former Olympians have resorted to selling their medals because of financial hardships or to raise money for charity.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 07:28:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorabilia and Souvenirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">RR Auction</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SCP Auctions Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Russell, William Felton (1934- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copper, Brass and Bronze</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Silver</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/multimedia/00xp-medals1/merlin_191966178_33d9199b-d986-4387-894e-39a6d197bde4-moth.jpg" width="151"></media:content>
+      <media:credit>Lindsey Wasson/Reuters</media:credit>
+      <media:description>Sunisa Lee of the U.S. holds her gold medal. Even though the sentimental value may be priceless to the athletes who wear them, Olympic medals are finding their way to pawn shops from the podium.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html" rel="standout"></atom:link>
+      <description>Afghans are fleeing the Taliban advance.</description>
+      <dc:creator>Melina Delkic</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 20:34:53 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/02ambriefing-aus-nl-PROMO/02ambriefing-aus-nl-AFGHAN-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>With the security situation in Afghanistan rapidly deteriorating, hundreds of people wait in long lines at the passport department in Kabul each morning.</media:description>
+    </item>
+    <item>
+      <title>Delta Variant, R.S.V. Infections Rising Among Children</title>
+      <link>https://www.nytimes.com/2021/08/01/world/delta-variant-kids-infections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/delta-variant-kids-infections.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/delta-variant-kids-infections.html" rel="standout"></atom:link>
+      <description>An outbreak of respiratory syncytial virus, combined with growing Covid-19 pediatric cases, is straining hospital resources in some U.S. cities.</description>
+      <dc:creator>Jesus Jiménez</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 07:29:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baton Rouge (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/arts/01virus-briefing-rsv-cases-1/01virus-briefing-rsv-cases-1-moth.jpg" width="151"></media:content>
+      <media:credit>Jose A. Alvarado Jr. for The New York Times</media:credit>
+      <media:description>A student in New York last month. Rising cases of Covid-19 and respiratory syncytial virus are straining pediatric resources in parts of the United States.</media:description>
+    </item>
+    <item>
+      <title>N.I.H. Director: Proof of Vaccination Is Step in &#39;Right Direction&#39;</title>
+      <link>https://www.nytimes.com/2021/08/01/world/nih-director-proof-of-vaccination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/nih-director-proof-of-vaccination.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/nih-director-proof-of-vaccination.html" rel="standout"></atom:link>
+      <description>Businesses and government agencies are pushing employees to get vaccinated amid a surge in new coronavirus infections across the country.</description>
+      <dc:creator>Jesus Jiménez</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 05:07:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/arts/01virus-briefing-sunday-shows-3/01virus-briefing-sunday-shows-3-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Stefani Reynolds</media:credit>
+      <media:description>Dr. Francis Collins, director of the National Institutes of Health, in May. </media:description>
+    </item>
+    <item>
+      <title>Russia Scoffs at Tokyo Olympics Ban: ‘Let Them Listen to Classical Music’</title>
+      <link>https://www.nytimes.com/2021/08/01/world/europe/russia-ban-olympics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/europe/russia-ban-olympics.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/europe/russia-ban-olympics.html" rel="standout"></atom:link>
+      <description>Sports fans and officials in the country have no trouble seeing through the thin fiction of a doping-related ban on their national symbols at the Tokyo Olympics.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 07:27:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2014)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/world/01russia-olympics1/01russia-olympics1-moth.jpg" width="151"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>Outside the Luzhniki Stadium in Moscow on Saturday. With humor and pride, Russians are gloating over their athletes’ many medals this summer despite a prohibition on their nation’s symbols at the Tokyo Games.</media:description>
+    </item>
+    <item>
+      <title>‘X’ Marks the Spot: Officials Map a Route Out of the Pandemic</title>
+      <link>https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html" rel="standout"></atom:link>
+      <description>Governments and organizations around the world are using geospatial data and digital mapping tools to guide their vaccination campaigns.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 05:20:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Systems Research Institute (Esri)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenStreetMap</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Suffolk County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/science/01virus-mapping1/01virus-mapping1-moth.jpg" width="151"></media:content>
+      <media:credit>Kenny Holston for The New York Times</media:credit>
+      <media:description>Dr. Harsha Rajashekharaiah, a senior project coordinator for Suffolk County’s Covid-19 response. “One of the common questions I used to get was, ‘Where is it bad?’” he said.</media:description>
+    </item>
+    <item>
+      <title>Tunisia’s President Holds Forth on Freedoms After Seizing Power</title>
+      <link>https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html" rel="standout"></atom:link>
+      <description>“‘Why do you think that, at 67, I would start a career as a dictator?’” President Kais Saied said in a meeting with The New York Times, quoting Charles de Gaulle. He vowed to preserve hard-fought rights.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 15:14:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and North Africa Unrest (2010- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ennahda Party (Tunisia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tunis (Tunisia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tunisia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saied, Kais (1958- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31tunisia-01/31tunisia-01-moth.jpg" width="151"></media:content>
+      <media:credit>Slim Abid/Associated Press</media:credit>
+      <media:description>President Kais Saied of Tunisia, center, leading a security meeting with members of the army and police forces last week in Tunis.</media:description>
+    </item>
+    <item>
+      <title>Even the Pope Has Prayed to Venezuela’s Beloved ‘Doctor of the Poor’</title>
+      <link>https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html" rel="standout"></atom:link>
+      <description>In a deeply polarized country, suffering an extreme health crisis, one of the few uniting beliefs is the admiration across the political spectrum for a doctor recently beatified by the Vatican.</description>
+      <dc:creator>Meridith Kohut and Isayen Herrera</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 07:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Jose Gregorio (1864-1919)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beatifications and Canonizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/world/00venezuela-saint-dispatch-top/00venezuela-saint-dispatch-top-moth.jpg" width="151"></media:content>
+      <media:description>Devotees carrying an image of Dr. José Gregorio Hernández during a procession through the streets of Isnotú, the small town in Venezuela where he was born in 1864.</media:description>
+    </item>
+    <item>
+      <title>Texas Governor Bars Mask and Vaccination Mandates</title>
+      <link>https://www.nytimes.com/2021/07/31/world/greg-abbott-mask-vaccine-mandate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/greg-abbott-mask-vaccine-mandate.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/greg-abbott-mask-vaccine-mandate.html" rel="standout"></atom:link>
+      <description>The state’s daily average of cases has risen more than 200 percent over the past 14 days and hospitalizations are surging, but an executive order ensures that masking and vaccinations remain voluntary.</description>
+      <dc:creator>Dave Montgomery</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 13:38:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/multimedia/31virus-briefing-texas-01/31virus-briefing-texas-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ilana Panich-Linsman for The New York Times</media:credit>
+      <media:description>A restaurant in Austin, Texas, in April.</media:description>
+    </item>
+    <item>
+      <title>In Vaccine Holdout States, a New Urgency to Administer Shots</title>
+      <link>https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html" rel="standout"></atom:link>
+      <description>Data from the C.D.C. shows that many people in states like Louisiana, Mississippi and Missouri are now receiving their first doses. On Friday, more than 850,000 total shots were recorded in the U.S.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Mon, 02 Aug 2021 02:45:39 +0000</pubDate>
+      <category domain="">Delta variant</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/multimedia/31-virus-briefing-vaccineation-rise/31-virus-briefing-vaccineation-rise-moth.jpg" width="151"></media:content>
+      <media:credit>Rogelio V. Solis/Associated Press</media:credit>
+      <media:description>Ayana Campbell, 14, received a Covid shot at Jackson State University in Mississippi on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Thousands Protest in France Against Health Pass for 3rd Weekend</title>
+      <link>https://www.nytimes.com/2021/07/31/world/europe/france-covid-pass-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/europe/france-covid-pass-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/europe/france-covid-pass-protest.html" rel="standout"></atom:link>
+      <description>The government’s health pass law was passed by Parliament and is expected to get a final greenlight from a top constitutional council next week.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 16:00:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agence France-Presse</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31virus-briefing-paris-protest/31virus-briefing-paris-protest-moth.jpg" width="151"></media:content>
+      <media:credit>Alain Jocard/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Demonstrators in Paris protested France’s health pass and other coronavirus protocols on Saturday. Similar protests took place in other cities, including Marseille, Rennes and Strasbourg.</media:description>
+    </item>
+    <item>
+      <title>Biden Promised to Restore the Iran Nuclear Deal. Now It Risks Derailment.</title>
+      <link>https://www.nytimes.com/2021/07/31/us/politics/biden-iran-nuclear-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/us/politics/biden-iran-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/us/politics/biden-iran-nuclear-deal.html" rel="standout"></atom:link>
+      <description>Both sides have much to lose if a delicate negotiation over limiting Iran’s activities in return for a lifting of sanctions falls short.</description>
+      <dc:creator>David E. Sanger, Lara Jakes and Farnaz Fassihi</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 20:10:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/us/politics/00dc-nukes1/00dc-nukes1-moth.jpg" width="151"></media:content>
+      <media:credit>Sarahbeth Maney/The New York Times</media:credit>
+      <media:description>The Biden administration’s approach to a nuclear deal has become complicated with the election of a new conservative leader in Iran.</media:description>
+    </item>
+    <item>
+      <title>Stranded Killer Whale Survives With Help of Good Samaritans</title>
+      <link>https://www.nytimes.com/2021/07/31/us/alaska-stranded-orca-whale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/us/alaska-stranded-orca-whale.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/us/alaska-stranded-orca-whale.html" rel="standout"></atom:link>
+      <description>Rescuers and wildlife officials kept it cool and wet while waiting for a rising tide. The orca returned to sea about six hours after it was spotted on the rugged shores of an Alaskan island.</description>
+      <dc:creator>Alyssa Lukpat and Jacey Fortin</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 17:03:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prince of Wales Island (Alaska)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/multimedia/30xp-Orca/30xp-Orca-moth.jpg" width="151"></media:content>
+      <media:credit>Captain Chance Strickland and Crew of M/V Steadfast, via NOAA Fisheries.</media:credit>
+      <media:description>An orca stranded on the rocky shore near Prince of Wales Island in Alaska. The tide eventually came in and it swam away.</media:description>
+    </item>
+    <item>
+      <title>Key Afghan City in Danger of Falling to the Taliban</title>
+      <link>https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html" rel="standout"></atom:link>
+      <description>Government reinforcements arrived Saturday in Lashkar Gah, the capital of Helmand Province, but people were fleeing their homes and a hospital in the city had been bombed.</description>
+      <dc:creator>Thomas Gibbons-Neff and Taimoor Shah</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 04:44:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan National Security Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Helmand Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Herat (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/world/31afghanistan-helmand-01/31afghanistan-helmand-01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Lashkar Gah, Afghanistan, the capital of Helmand Province, in May.</media:description>
+    </item>
+    <item>
+      <title>U.S. Shifts Tactics Against Virus in Days With Mask Guidance</title>
+      <link>https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html" rel="standout"></atom:link>
+      <description>Delta-driven surges are prompting new measures from the federal government, states and cities, companies and the military, as well as defiant rejections.</description>
+      <dc:creator>Lauren McCarthy</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 04:30:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/31/lens/31virus-briefing-delta-fallout/31virus-briefing-delta-fallout-moth.jpg" width="151"></media:content>
+      <media:credit>Scott Olson/Getty Images</media:credit>
+      <media:description>A commuter wearing a face mask arriving in downtown Chicago on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>The Long Kiss Goodbye: Will Covid End the French Bise Forever?</title>
+      <link>https://www.nytimes.com/2021/07/31/world/europe/covid-france-bise.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/europe/covid-france-bise.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/europe/covid-france-bise.html" rel="standout"></atom:link>
+      <description>Social distancing made the cheek kiss a much rarer greeting, and polling suggests it may stay that way. Some say good riddance, but others miss the warmth of times past.</description>
+      <dc:creator>Gaëlle Fournier</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 17:21:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greeting Gestures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kissing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/world/29France-BISE-01/29France-BISE-01-moth.jpg" width="151"></media:content>
+      <media:credit>Carl Court/Agence France-Presse — Getty Images</media:credit>
+      <media:description>In 2010, Prime Minister David Cameron of Britain and his wife, Samantha Cameron, greeted President Nicolas Sarkozy of France and his wife, Carla Bruni-Sarkozy, with a bise in London.</media:description>
+    </item>
+    <item>
+      <title>Mourning Families Seek Solace From the ‘Grief Purgatory’ of Covid-19</title>
+      <link>https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html" rel="standout"></atom:link>
+      <description>The pandemic has left hundreds of thousands of Americans alone in bereavement, unable to plan proper funerals for their loved ones. Now, they’re planning larger celebrations of life.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 13:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/multimedia/00XP-virus-funerals1-print/00XP-virus-01-moth.jpg" width="151"></media:content>
+      <media:credit>Joseph Rushmore for The New York Times</media:credit>
+      <media:description>Jessica Zimmerman-Selvidge holding a drawing of her father, Ralph Zimmerman, who died at the height of the pandemic.</media:description>
+    </item>
+    <item>
+      <title>The Blue Jays Finally Return to Canada</title>
+      <link>https://www.nytimes.com/2021/07/31/sports/baseball/toronto-blue-jays-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/sports/baseball/toronto-blue-jays-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/sports/baseball/toronto-blue-jays-canada.html" rel="standout"></atom:link>
+      <description>With a pandemic-forced sojourn to Buffalo and Florida now complete, Toronto’s exciting young team got a chance to experience its actual home crowd.</description>
+      <dc:creator>Alex Wong</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 10:51:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toronto Blue Jays</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Vladimir Jr (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Springer, George (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bichette, Bo (1998- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Mark (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/01/sports/31mlb-bluejays-1/31mlb-bluejays-1-moth.jpg" width="151"></media:content>
+      <media:credit>Vaughn Ridley/Getty Images</media:credit>
+      <media:description>A crowd of 13,446 attended the Toronto Blue Jays&amp;rsquo; win over the Kansas City Royals on Friday. It was the first regular season game in Toronto since 2019.</media:description>
+    </item>
+    <item>
+      <title>In South Africa, Poachers Now Traffic in Tiny Succulent Plants</title>
+      <link>https://www.nytimes.com/2021/07/31/world/africa/south-africa-poachers-tiny-succulent-plants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/31/world/africa/south-africa-poachers-tiny-succulent-plants.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/31/world/africa/south-africa-poachers-tiny-succulent-plants.html" rel="standout"></atom:link>
+      <description>Police search the desert trying to track down the poachers selling Conophytums to collectors worldwide, threatening to wipe out rare plants in the wild.</description>
+      <dc:creator>Tommy Trenchard</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 13:36:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Trade and Poaching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Convention on International Trade in Endangered Species</category>
+    </item>
+    <item>
+      <title>Three Olympic Refugee Team Members Will Call Canada Home</title>
+      <link>https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html" rel="standout"></atom:link>
+      <description>The athletes will join another 150 refugee students selected who were accepted to one of 80 participating institutions this fall.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 22:15:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Olympic Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bandura, Albert (1925-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30CANADA-LETTER-LOKORO/30CANADA-LETTER-LOKORO-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>Paulo Amotun Lokoro, right, and Yiech Pur Biel, both middle-distance runners from South Sudan, in Rio de Janeiro in 2016. </media:description>
+    </item>
+    <item>
+      <title>Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President</title>
+      <link>https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html" rel="standout"></atom:link>
+      <description>Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 00:40:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mujahedeen Khalq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+    </item>
+    <item>
+      <title>Deaths From Covid in Africa Are Rising as Cases Surge Worldwide</title>
+      <link>https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html" rel="standout"></atom:link>
+      <description>“We can prevent this disease, we can test for it, and we can treat it,” said Dr. Tedros Adhanom Ghebreyesus, director general of the World Health Organization.</description>
+      <dc:creator>Daniel E. Slotnik</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 04:41:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tedros Adhanom Ghebreyesus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/30virus-briefing-who-africa-moth.jpg" width="151"></media:content>
+      <media:credit>Leo Correa/Associated Press</media:credit>
+      <media:description>People waiting to receive coronavirus vaccines at Léopold Sédar Senghor stadium in Dakar, Senegal, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Delta Variant and Travel Restrictions in Europe: What to Know</title>
+      <link>https://www.nytimes.com/2021/07/30/travel/europe-delta-covid-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/travel/europe-delta-covid-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/travel/europe-delta-covid-restrictions.html" rel="standout"></atom:link>
+      <description>Curfews, vaccine requirements, conflicting advice. As variants like Delta spread, rules and restrictions are popping up across the continent and staying informed can feel like a job.</description>
+      <dc:creator>Ceylan Yeginsu</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 20:56:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Curfews</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/travel/30europe-confusion1/30europe-confusion1-moth.jpg" width="151"></media:content>
+      <media:credit>Stefanie Loos/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>At Berlin Brandenburg Airport, passengers stand next to signs for a Covid-19 testing center. </media:description>
+    </item>
+    <item>
+      <title>Here’s who is hospitalized for Covid in New York City.</title>
+      <link>https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Sharon Otterman</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 17:11:29 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/lens/30virus-briefing-nyhospitalizations1/30virus-briefing-nyhospitalizations1-moth.jpg" width="151"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>Two sisters from the Order of the Missionaries of Charity walking in Brooklyn, N.Y., where cases are rising. </media:description>
+    </item>
+    <item>
+      <title>Vaccinated People May Spread the Virus, Though Rarely, C.D.C. Reports</title>
+      <link>https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html" rel="standout"></atom:link>
+      <description>The agency cited an outbreak in Provincetown, Mass., in which most of the infected were immunized. An internal C.D.C. document paints an even more harrowing picture.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 16:23:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Provincetown (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/science/30virus-delta2/30virus-delta2-moth.jpg" width="151"></media:content>
+      <media:credit>Mario Tama/Getty Images</media:credit>
+      <media:description>A dose of the Pfizer-BioNTech vaccine being administered at a three-day clinic in Wilmington, Calif., on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Spanish Court Targets Chilean Bank Tied to Pinochet</title>
+      <link>https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html" rel="standout"></atom:link>
+      <description>Spurred by victims of Gen. Augusto Pinochet’s regime, the court  has reopened an investigation into whether Banco de Chile helped the former Chilean dictator launder money.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 16:29:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Banco de Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Court (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/06/22/world/22pinochet-01/22pinochet-01-moth.jpg" width="151"></media:content>
+      <media:credit>Cris Bouroncle/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Gen. Augusto Pinochet in Santiago, Chile, in 1997. He died in 2006.</media:description>
+    </item>
+    <item>
+      <title>Greece Accuses Aid Groups of Helping Smugglers of Migrants</title>
+      <link>https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html" rel="standout"></atom:link>
+      <description>Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.</description>
+      <dc:creator>Niki Kitsantonis</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 18:23:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aegean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-moth.jpg" width="151"></media:content>
+      <media:credit>Mauricio Lima for The New York Times</media:credit>
+      <media:description>Discarded life vests, inner tubes and rubber rafts, used by refugees to cross into Greece from Turkey, on the Greek island of Lesbos in 2015.</media:description>
+    </item>
+    <item>
+      <title>U.S. restaurants scramble to reimpose rules.</title>
+      <link>https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Christina Morales</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 15:46:57 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/29virus-briefing-restaurants-rules1-moth.jpg" width="151"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Yu Wu serving dim sum at Pacific Palace restaurant on Eighth Avenue, a commercial strip in Sunset Park, Brooklyn, N.Y., in March.</media:description>
+    </item>
+    <item>
+      <title>Wildfires in Turkey Rage on, Firefighters Struggle to Contain the Blaze</title>
+      <link>https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html" rel="standout"></atom:link>
+      <description>The Turkish authorities said they were investigating the causes of fires that killed at least six people and threatened popular tourist destinations.</description>
+      <dc:creator>Elian Peltier and Asmaa al-Omar</dc:creator>
+      <pubDate>Sun, 01 Aug 2021 01:19:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/30turkey-fires-03-moth.jpg" width="151"></media:content>
+      <media:credit>Kaan Soyturk/Reuters</media:credit>
+      <media:description>A firefighter extinguishing a forest fire near the town of Manavgat, Turkey, where the fires first broke out this week.</media:description>
+    </item>
+    <item>
+      <title>Israeli Officials Say Iran Is Behind Deadly Attack on Oil Tanker</title>
+      <link>https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html" rel="standout"></atom:link>
+      <description>Drones carried out the attack on a tanker managed by an Israeli-led firm, killing two people, officials said — apparently the latest in a series of maritime clashes between Iran and Israel.</description>
+      <dc:creator>Patrick Kingsley and Ronen Bergman</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 19:31:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Piracy at Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30Israel-ship/30Israel-ship-moth.jpg" width="151"></media:content>
+      <media:credit>Johan Victor/Johan Victor, via Associated Press</media:credit>
+      <media:description>The tanker Mercer Street in 2016 off the coast of South Africa. It was attacked Thursday night near Oman.</media:description>
+    </item>
+    <item>
+      <title>Remains of Esther Dingley, Missing British Hiker, Are Found</title>
+      <link>https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html" rel="standout"></atom:link>
+      <description>For months, the authorities and Ms. Dingley’s partner combed the Pyrenees mountains. A DNA test confirmed the identity of remains found near her last known location, a group aiding the search said.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 13:02:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dingley, Esther</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pyrenees Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/us/30xp-hiker/30xp-hiker-moth.jpg" width="151"></media:content>
+      <media:credit>LBT Global/Family</media:credit>
+      <media:description>Remains of the British hiker Esther Dingley, who went missing in the Pyrenees in November 2020, were found, according to a group aiding the search.</media:description>
+    </item>
+    <item>
+      <title>Los Angeles Schools Will Test All Students and Staff for Covid</title>
+      <link>https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html" rel="standout"></atom:link>
+      <description>The shift by the second-largest U.S. district comes weeks before in-person classes are scheduled to resume.</description>
+      <dc:creator>Lauren McCarthy</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 21:18:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-la-school-testing1/29virus-briefing-la-school-testing1-moth.jpg" width="151"></media:content>
+      <media:credit>Jae C. Hong/Associated Press</media:credit>
+      <media:description>Kindergarten students in Los Angeles on the day in-person learning resumed in April.</media:description>
+    </item>
+    <item>
+      <title>More Covid Mysteries</title>
+      <link>https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html" rel="standout"></atom:link>
+      <description>There’s much to learn about how the virus spreads.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 15:56:13 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/lens/30ambriefing-promo/30ambriefing-london-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Pedestrians in central London this week.</media:description>
+    </item>
+    <item>
+      <title>How Europe, after a fumbling start, overtook the U.S. in vaccinations.</title>
+      <link>https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Elian Peltier and Josh Holder</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 09:59:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-moth.png" width="151"></media:content>
+    </item>
+    <item>
+      <title>The Delta variant is a ‘serious threat’ as contagious as chickenpox, the C.D.C. finds.</title>
+      <link>https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html" rel="standout"></atom:link>
+      <description>An internal agency document paints a grim picture of the fast-spreading coronavirus variant, saying it appears to cause serious illness and health officials must “acknowledge the war has changed.”</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 09:58:47 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/08/29/world/29virus-briefing-virus-delta/29virus-briefing-virus-delta-moth.jpg" width="151"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>In Miami Beach, Fla., on Wednesday. The C.D.C.’s new masking guidelines, introduced on Tuesday, were based on information presented in a document about the Delta variant.</media:description>
+    </item>
+    <item>
+      <title>Wooden Buildings Reach for the Sky</title>
+      <link>https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html" rel="standout"></atom:link>
+      <description>Ambitious high-rise projects in Sweden are a showcase for a reviving forest industry.</description>
+      <dc:creator>Gabriel Leigh</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 11:57:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stockholm (Sweden)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wood and Wood Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+    </item>
+    <item>
+      <title>Martine Moïse, Haitian President’s Widow, Recounts Assassination</title>
+      <link>https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html" rel="standout"></atom:link>
+      <description>Struck by gunfire, Martine Moïse lay bleeding as the assassins who killed her husband ransacked her room. Now, she says, the F.B.I. must find the mastermind behind the attack.</description>
+      <dc:creator>Frances Robles</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 13:04:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Martine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port-au-Prince (Haiti)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30Haiti-1/30Haiti-1-moth.jpg" width="151"></media:content>
+      <media:credit>Maria Alejandra Cardona for The New York Times</media:credit>
+      <media:description>Martine Moïse, first lady of Haiti, in Florida on Thursday. Her husband’s assassins also shot her in the arm.</media:description>
+    </item>
+    <item>
+      <title>Nanjing Delta Outbreak Tests China&#39;s Tough Approach to Covid</title>
+      <link>https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html" rel="standout"></atom:link>
+      <description>Cases have spread from the city of Nanjing to several provinces and the capital, Beijing, in the past three weeks.</description>
+      <dc:creator>Paul Mozur</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 09:21:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nanjing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-china/30virus-briefing-china-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Waiting for Covid-19 testing in Nanjing this month. About 200 cases have been reported in an outbreak centered on the city as of Friday.</media:description>
+    </item>
+    <item>
+      <title>The Indigenous Archaeologist Looking for Residential School Graves in Canada</title>
+      <link>https://www.nytimes.com/2021/07/30/world/canada/indigenous-archaeologist-graves-school-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/canada/indigenous-archaeologist-graves-school-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/canada/indigenous-archaeologist-graves-school-children.html" rel="standout"></atom:link>
+      <description>Kisha Supernant has brought radar technology to the search for burial sites in Canada while she works to reshape her profession’s relationship with Indigenous communities.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 30 Jul 2021 09:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/26/world/00canada-supernant2/00canada-supernant2-moth.jpg" width="151"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <media:description>Professor Supernant’s beaded pin was created by a Métis artist.</media:description>
+    </item>
+    <item>
+      <title>Afghan Visa Applicants Arrive in U.S. After Years of Waiting</title>
+      <link>https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html" rel="standout"></atom:link>
+      <description>The first group of Afghan interpreters and others who helped Americans during the war will stay on an Army base in Virginia until they are resettled.</description>
+      <dc:creator>Eric Schmitt and Jennifer Steinhauer</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 03:02:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Translation and Interpreters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="">Special Immigrant Visa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/us/politics/30dc-afghan-visas/30dc-afghan-visas-moth.jpg" width="151"></media:content>
+      <media:credit>Mariam Zuhaib/Associated Press</media:credit>
+      <media:description>Afghan interpreters who worked with the U.S. military protesting visa delays in front of the American Embassy in Kabul last month.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong Protester Is Sentenced to 9 Years in First Security Law Case</title>
+      <link>https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html" rel="standout"></atom:link>
+      <description>Tong Ying-kit, 24, who drove a motorcycle into police officers while carrying a protest flag, was convicted of terrorism and inciting secession.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Sat, 31 Jul 2021 00:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/07/30/world/30hongkong-trial1/30hongkong-trial1-moth.jpg" width="151"></media:content>
+      <media:credit>Miguel Candela/EPA, via Shutterstock</media:credit>
+      <media:description>A van took Tong Ying-kit to a Hong Kong courthouse on Friday for his sentencing.</media:description>
+    </item>
+  </channel>
+</rss>

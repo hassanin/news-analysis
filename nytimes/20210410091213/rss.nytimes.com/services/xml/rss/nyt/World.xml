@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2021 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 10 Apr 2021 09:09:41 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Apr 2021 09:09:41 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>Prince Philip, Husband of Queen Elizabeth II, Is Dead at 99</title>
+      <link>https://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/obituaries/prince-philip-dead.html" rel="standout"></atom:link>
+      <description>The Duke of Edinburgh, who married the future queen in 1947, brought the monarchy into the 20th century, but his occasional tactless comments hurt his image.</description>
+      <dc:creator>Marilyn Berger</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 21:15:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2016/08/03/world/philip-obituary-1966/philip-obituary-3-moth.jpg" width="151"></media:content>
+      <media:credit>Campress, via Associated Press</media:credit>
+      <media:description>Philip in 1966. He was often seen in public dressed in full military regalia, an emblem of his high-ranking titles in the armed forces.</media:description>
+    </item>
+    <item>
+      <title>Volcano Erupts on Island of St. Vincent and the Grenadines </title>
+      <link>https://www.nytimes.com/2021/04/09/world/americas/volcano-St-Vincent-eruption-caribbean.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/americas/volcano-St-Vincent-eruption-caribbean.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/americas/volcano-St-Vincent-eruption-caribbean.html" rel="standout"></atom:link>
+      <description>La Soufrière, on the main island of St. Vincent and the Grenadines, last erupted in 1979. It sent two explosive plumes of ash and smoke on Friday, and 20,000 people fled.</description>
+      <dc:creator>Ernesto Cooke and Oscar Lopez</dc:creator>
+      <pubDate>Sat, 10 Apr 2021 08:28:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Vincent and the Grenadines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09VOLCANO-TOP-SUB/09VOLCANO-TOP-SUB-moth.jpg" width="151"></media:content>
+      <media:credit>Robertson S. Henry/Reuters</media:credit>
+      <media:description>Smoke and ash billow from La Soufriere on St. Vincent on Friday.</media:description>
+    </item>
+    <item>
+      <title>India Covid-19 Crisis Deepened by Missteps and Complacency</title>
+      <link>https://www.nytimes.com/2021/04/09/world/asia/india-covid-vaccine-variant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/asia/india-covid-vaccine-variant.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/asia/india-covid-vaccine-variant.html" rel="standout"></atom:link>
+      <description>The new wave will hurt global efforts and vaccine supplies, experts say. Researchers are scrambling to assess whether new coronavirus variants are playing a role in India.</description>
+      <dc:creator>Mujib Mashal and Hari Kumar</dc:creator>
+      <pubDate>Sat, 10 Apr 2021 08:20:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maharashtra (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09virus-india-02sub/09virus-india-02sub-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Arun Sankar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Amit Shah at an election rally on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Vaccine Passports Could Unlock World Travel and Cries of Discrimination</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/vaccine-passports-virus-issues-legal-ethical.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/vaccine-passports-virus-issues-legal-ethical.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/vaccine-passports-virus-issues-legal-ethical.html" rel="standout"></atom:link>
+      <description>Vaccine rollouts in some countries have a long-locked-down world dreaming of travels abroad again. But they have also set off a fraught debate about the fairness of a two-tier system for haves and have-nots.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 17:23:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination Proof and Immunization Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aruba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09virus-vaccine-passports-01/09virus-vaccine-passports-01-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>Israelis showing their “Green Pass” before entering a concert in Tel Aviv last month.</media:description>
+    </item>
+    <item>
+      <title>For Prince Philip, Royal Family Plans Pandemic-Muted Honors</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/prince-philips-funeral-tributes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/prince-philips-funeral-tributes.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/prince-philips-funeral-tributes.html" rel="standout"></atom:link>
+      <description>Philip, the Duke of Edinburgh, will not lie in state for public viewing and the funeral will not be open to the public, in a nod to a ban on mass gatherings and the prince’s own wishes.</description>
+      <dc:creator>Richard Pérez-Peña and Marc Santora</dc:creator>
+      <pubDate>Sat, 10 Apr 2021 01:28:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">College of Arms (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09PHILIP-REAX1/09PHILIP-REAX1-moth.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>A crowd gathered outside Buckingham Palace in London on Friday.</media:description>
+    </item>
+    <item>
+      <title>Russian Troop Movements and Talk of Intervention Cause Jitters in Ukraine</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/russia-ukraine-war-troops-intervention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/russia-ukraine-war-troops-intervention.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/russia-ukraine-war-troops-intervention.html" rel="standout"></atom:link>
+      <description>Russia has amassed more troops on the Ukrainian border than at any time since 2014. Western governments are asking: Why now?</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 19:59:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiselyov, Dmitry K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09ukraine/merlin_186123081_d1444e8f-00fc-4a7a-9684-79aa3cad0cc3-moth.jpg" width="151"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ukrainian soldiers in a trench on the front lines facing Russian-backed separatists near the town of Zolote this month.</media:description>
+    </item>
+    <item>
+      <title>Vaccine Passports: What Are They, and Who Might Need One?</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/virus-vaccine-passport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/virus-vaccine-passport.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/virus-vaccine-passport.html" rel="standout"></atom:link>
+      <description>The concept of documenting vaccinations is being taken to new levels of sophistication, and experts predict that electronic verification will soon become commonplace.</description>
+      <dc:creator>Richard Pérez-Peña</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 17:20:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination Proof and Immunization Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Air Transport Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09virus-vaccine-passport-explainer-04/merlin_185973186_61e0ffa9-a2a9-4299-935f-0fc413a3ae63-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>An Israeli woman showing her Green Pass before entering a show at an opera house in Tel Aviv.</media:description>
+    </item>
+    <item>
+      <title>In Haifa, Israel, Wild Boars Encroach on Human Turf</title>
+      <link>https://www.nytimes.com/2021/04/09/world/middleeast/haifa-israel-wild-boars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/middleeast/haifa-israel-wild-boars.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/middleeast/haifa-israel-wild-boars.html" rel="standout"></atom:link>
+      <description>Groups of boars have become an unavoidable presence in Haifa. Some human residents are charmed, but others are annoyed or frightened and now carry sticks on walks.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 08:59:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haifa (Israel)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/06/multimedia/00boars-dispatch1/00boars-dispatch1-moth.jpg" width="151"></media:content>
+      <media:credit>Dan Balilty for The New York Times</media:credit>
+      <media:description>A boar crossing in Haifa, which stopped shooting the animals in 2019.</media:description>
+    </item>
+    <item>
+      <title>Chinese Reality Shows Censor Western Clothing Brands</title>
+      <link>https://www.nytimes.com/2021/04/09/world/asia/china-blur-brands-xinjiang-cotton.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/asia/china-blur-brands-xinjiang-cotton.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/asia/china-blur-brands-xinjiang-cotton.html" rel="standout"></atom:link>
+      <description>Online platforms that stream dance, singing and comedy shows are pixelating performers’ T-shirts and sneakers amid a nationalistic fervor.</description>
+      <dc:creator>Tiffany May</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 14:41:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sneakers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cotton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Better Cotton Initiative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iQiyi.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+    </item>
+    <item>
+      <title>For a U.K. Satirist and His Online Fans, Comedy Is Catharsis</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/munya-chawawa-british-comic-profile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/munya-chawawa-british-comic-profile.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/munya-chawawa-british-comic-profile.html" rel="standout"></atom:link>
+      <description>Lockdown has helped establish Munya Chawawa as a sardonic voice for young people who don’t often recognize themselves in the comedians they see on TV.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 15:02:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09comic-chawawa-profile-01/09comic-chawawa-profile-01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Munya Chawawa, whose sendups of race and class issues have won him an online following, at his home in South London.</media:description>
+    </item>
+    <item>
+      <title>Are Your Illegal Drugs Pure? New Zealand Will Check Them for You.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/asia/new-zealand-drugs-checks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/asia/new-zealand-drugs-checks.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/asia/new-zealand-drugs-checks.html" rel="standout"></atom:link>
+      <description>A law will allow controlled substances to be tested without penalty to ensure their authenticity. The goals are to reduce health risks and, perhaps, change users’ behavior.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 11:04:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09nz-drugs-1/09nz-drugs-1-moth.jpg" width="151"></media:content>
+      <media:credit>U.S. Customs/Newsmakers, via Getty Images</media:credit>
+      <media:description>New Zealand has enacted the Drug Checking Act after a one-year pilot program found that contaminants were common in illegal drugs. </media:description>
+    </item>
+    <item>
+      <title>Northern Ireland Sees Spasm of Violence as Old Tensions Resurface</title>
+      <link>https://www.nytimes.com/2021/04/08/world/europe/northern-ireland-violence-brexit-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/europe/northern-ireland-violence-brexit-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/europe/northern-ireland-violence-brexit-covid.html" rel="standout"></atom:link>
+      <description>Brexit and Covid have brought longtime grievances to the surface and protests to the streets.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 10:11:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belfast (Northern Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irish Republican Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinn Fein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08NIRELAND1/08NIRELAND1-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Cairnduff/Reuters</media:credit>
+      <media:description>A bus was hijacked and set on fire on Wednesday in Belfast, Northern Ireland.</media:description>
+    </item>
+    <item>
+      <title>Royal Rivalry Bares Social Tensions Behind Jordan’s Stable Veneer</title>
+      <link>https://www.nytimes.com/2021/04/10/world/middleeast/jordan-king-crown-prince.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/10/world/middleeast/jordan-king-crown-prince.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/10/world/middleeast/jordan-king-crown-prince.html" rel="standout"></atom:link>
+      <description>The standoff between King Abdullah II and his half brother, Prince Hamzah, wasn’t just palace intrigue. It hinted at Saudi meddling and highlighted wider tensions within Jordan’s complex society.</description>
+      <dc:creator>Patrick Kingsley, Rana F. Sweis and Eric Schmitt</dc:creator>
+      <pubDate>Sat, 10 Apr 2021 09:05:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amman (Jordan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamzah bin Hussein, Prince of Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09JORDAN1/09JORDAN1-moth.jpg" width="151"></media:content>
+      <media:credit>Mohammad Ali/EPA, via Shutterstock</media:credit>
+      <media:description>A poster of King Abdullah II of Jordan on a street in Amman on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Turkey Fights for Return of a Work It Says Was Looted</title>
+      <link>https://www.nytimes.com/2021/04/09/arts/design/turkey-christies-idol-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/arts/design/turkey-christies-idol-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/arts/design/turkey-christies-idol-lawsuit.html" rel="standout"></atom:link>
+      <description>A bench trial in Federal District Court in Manhattan concerns an ancient idol held by Christie’s.</description>
+      <dc:creator>Colin Moynihan</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 22:12:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/arts/09turkey-2/09turkey-2-moth.jpg" width="151"></media:content>
+      <media:description>An image of what is known as “The Guennol Stargazer,” from a legal document in the lawsuit against Christie’s.</media:description>
+    </item>
+    <item>
+      <title>A Bleak Forecast for Canada’s 600,000 Energy Industry Workers</title>
+      <link>https://www.nytimes.com/2021/04/09/world/canada/canada-letter-energy-workers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/canada/canada-letter-energy-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/canada/canada-letter-energy-workers.html" rel="standout"></atom:link>
+      <description>A report forecasts that up to three quarters of their jobs may vanish in a low carbon future and suggests a better approach to retraining.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 23:23:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09CANADA-LETTER1/09CANADA-LETTER1-moth.jpg" width="151"></media:content>
+      <media:credit>Alec Jacobson for The New York Times</media:credit>
+      <media:description>A crew closing a well in Alliance, Alberta.</media:description>
+    </item>
+    <item>
+      <title>Pfizer Requests Authorization to Use Vaccine in Young Teens</title>
+      <link>https://www.nytimes.com/2021/04/09/world/pfizer-covid-vaccine-young-teens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/pfizer-covid-vaccine-young-teens.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/pfizer-covid-vaccine-young-teens.html" rel="standout"></atom:link>
+      <description>If the emergency use authorization is broadened, young adolescents could start getting vaccinated before going back to school in the fall.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 21:11:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/us/09virus-briefing-pfizer-expand/09virus-briefing-pfizer-expand-moth.jpg" width="151"></media:content>
+      <media:credit>Shannon Stapleton/Reuters</media:credit>
+      <media:description>A teenager receives a dose of the Pfizer-BioNTech vaccine in New York on Tuesday. The companies asked to expand their vaccine’s emergency use authorization to include adolescents ages 12 to 15.</media:description>
+    </item>
+    <item>
+      <title>Blood Clots Linked to AZ Vaccine Stem From Rare Antibody Reaction</title>
+      <link>https://www.nytimes.com/2021/04/09/health/vaccine-blood-clots-astra-zeneca.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/health/vaccine-blood-clots-astra-zeneca.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/health/vaccine-blood-clots-astra-zeneca.html" rel="standout"></atom:link>
+      <description>New studies from Germany and Norway examined cases involving mostly younger people who developed serious and sometimes fatal blood disorders.</description>
+      <dc:creator>Denise Grady</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 21:07:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AstraZeneca PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Medicines Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Journal of Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/science/09VIRUS-VACCINE-BLOODCLOTS1/09VIRUS-VACCINE-BLOODCLOTS1-moth.jpg" width="151"></media:content>
+      <media:credit>Vadim Ghirda/Associated Press</media:credit>
+      <media:description>A dose of the AstraZeneca vaccine being administered in Bucharest, Romania, in February. The vaccine has been a mainstay of inoculation programs in more than 100 countries.</media:description>
+    </item>
+    <item>
+      <title>Netflix&#39;s ‘The Crown’ Changed Prince Philip’s Image</title>
+      <link>https://www.nytimes.com/2021/04/09/arts/television/prince-philip-the-crown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/arts/television/prince-philip-the-crown.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/arts/television/prince-philip-the-crown.html" rel="standout"></atom:link>
+      <description>The Netflix show exposed a new generation to the prince’s life and helped reshape those already familiar with his legacy.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 21:37:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menzies, Tobias</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Matt (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pryce, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Crown (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Michigan’s governor, confronting a surge in virus cases, calls on Biden for more vaccines.</title>
+      <link>https://www.nytimes.com/2021/04/09/us/michigan-covid-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/us/michigan-covid-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/us/michigan-covid-vaccine.html" rel="standout"></atom:link>
+      <description>Gov. Gretchen Whitmer, a Democrat, said she had pushed the president unsuccessfully to send more vaccines to her state, where hospitals are filling.</description>
+      <dc:creator>Mitch Smith and Julie Bosman</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 23:12:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitmer, Gretchen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/us/09virus-briefing-michigan/08virus-briefing-promo2-moth.jpg" width="151"></media:content>
+      <media:credit>Jake May/The Flint Journal, via Associated Press</media:credit>
+      <media:description>A person received a dose of the coronavirus vaccine last month at Bishop Airport in Flint, Mich.</media:description>
+    </item>
+    <item>
+      <title>Prince Philip’s Life in Pictures</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/prince-philips-life-in-pictures.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/prince-philips-life-in-pictures.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/prince-philips-life-in-pictures.html" rel="standout"></atom:link>
+      <description>Philip’s life spanned almost a century of upheaval  for Britain: He had lived with a granddaughter of Queen Victoria, and he died nearly 100 years old in an era of smartphones and the internet.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 22:57:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, Prince of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Iran Nuclear Talks Start on Positive Note in Vienna</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/iran-nuclear-agreement-vienna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/iran-nuclear-agreement-vienna.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/iran-nuclear-agreement-vienna.html" rel="standout"></atom:link>
+      <description>Working groups on sanctions and uranium enrichment are making progress, diplomats said. The indirect negotiations between Tehran and Washington are set to resume next week.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Sat, 10 Apr 2021 08:22:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09iran-nuke/merlin_186040725_81919867-20f2-4ae0-ab51-45918c4ae99d-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Klamar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Grand Hotel in Vienna this week, where diplomats from the European Union, China, Russia and Iran held talks on the Iran nuclear deal.</media:description>
+    </item>
+    <item>
+      <title>To Speed Vaccination, Some Call for Delaying Second Shots</title>
+      <link>https://www.nytimes.com/2021/04/09/health/covid-vaccine-second-dose-delay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/health/covid-vaccine-second-dose-delay.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/health/covid-vaccine-second-dose-delay.html" rel="standout"></atom:link>
+      <description>Stretching the time between the first and second doses would greatly accelerate the rate at which people get at least partial protection. But some experts fear it could also lead to new variants.</description>
+      <dc:creator>Carl Zimmer</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 22:16:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/science/09VIRUS-ONEDOSE2/merlin_185800311_76ae5758-9a47-4ed4-81d6-85850922efe9-moth.jpg" width="151"></media:content>
+      <media:credit>Oli Scarff/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A mass Pfizer-BioNTech vaccination clinic set up at the Derby Arena in England last month.</media:description>
+    </item>
+    <item>
+      <title>Prince Philip, Style Icon</title>
+      <link>https://www.nytimes.com/2021/04/09/fashion/prince-philip-style.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/fashion/prince-philip-style.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/fashion/prince-philip-style.html" rel="standout"></atom:link>
+      <description>How do you convey royalty without overshadowing the most royal?</description>
+      <dc:creator>Guy Trebay</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 15:26:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philip, Duke of Edinburgh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/fashion/09PHILIP-Style-03/09PHILIP-Style-03-moth.jpg" width="151"></media:content>
+      <media:credit>Reginald Davis/Shutterstock</media:credit>
+      <media:description>Prince Philip holds a beer while umpiring a polo match at Ham Common, Richmond.</media:description>
+    </item>
+    <item>
+      <title>Prince Philip will lie in rest at Windsor Castle before a funeral in St. George’s Chapel.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/prince-philip-will-lie-in-rest-at-windsor-castle-before-a-funeral-in-st-georges-chapel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/prince-philip-will-lie-in-rest-at-windsor-castle-before-a-funeral-in-st-georges-chapel.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/prince-philip-will-lie-in-rest-at-windsor-castle-before-a-funeral-in-st-georges-chapel.html" rel="standout"></atom:link>
+      <description>On the day he died, the death toll from Covid-19 in Britain was over 150,000. Officials said the public would be discouraged from participating in funeral services.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 18:45:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09virus-briefing-philip-pandemic-sub/merlin_186165549_7d36528f-dba7-48be-8383-448b37cee8af-moth.jpg" width="151"></media:content>
+      <media:credit>Niklas Halle&#39;N/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An electronic billboard in Piccadilly Circus in London displayed a tribute to Prince Philip on Friday.</media:description>
+    </item>
+    <item>
+      <title>Boris Johnson Reacts to Prince Philip&#39;s Death</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/prince-philip-boris-johnson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/prince-philip-boris-johnson.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/prince-philip-boris-johnson.html" rel="standout"></atom:link>
+      <description>The prime minister was among several leaders around Britain to offer condolences after the death of Prince Philip.</description>
+      <dc:creator>Stephen Castle and Derrick Bryson Taylor</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 19:45:23 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09prince-philip-briefing-boris-reaction/09prince-philip-briefing-boris-reaction-moth.jpg" width="151"></media:content>
+      <media:credit>Leon Neal/Getty Images</media:credit>
+      <media:description>Prime Minister Boris Johnson in London.</media:description>
+    </item>
+    <item>
+      <title>Prince Philip died at 99 at his home in Windsor Castle.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/prince-philip-died-at-99-at-his-home-in-windsor-castle.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/prince-philip-died-at-99-at-his-home-in-windsor-castle.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/prince-philip-died-at-99-at-his-home-in-windsor-castle.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Marilyn Berger</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 14:25:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09prince-philip-lede/09prince-philip-lede-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Alastair Grant</media:credit>
+      <media:description>Prince Philip in St. George’s Chapel in Windsor Castle near London in 2018.</media:description>
+    </item>
+    <item>
+      <title>German lawmakers move to strengthen the government’s powers in the pandemic.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/europe/german-governments-powers-pandemic-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/europe/german-governments-powers-pandemic-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/europe/german-governments-powers-pandemic-covid.html" rel="standout"></atom:link>
+      <description>A plan to bolster Germany’s pandemic law will make it easier for the government to enforce restrictions to stop the spread of the coronavirus.</description>
+      <dc:creator>Melissa Eddy</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 11:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rottgen, Norbert</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09-virus-germany-01/09-virus-germany-01-moth.jpg" width="151"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
+      <media:description>In Berlin last month.</media:description>
+    </item>
+    <item>
+      <title>The New Taiwan Tensions</title>
+      <link>https://www.nytimes.com/2021/04/09/briefing/taiwan-china-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/briefing/taiwan-china-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/briefing/taiwan-china-biden.html" rel="standout"></atom:link>
+      <description>China is getting more aggressive. Would the U.S. go to war to protect the island?</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 13:46:04 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/lens/09ambriefing-promo/09ambriefing-taiwan-moth.jpg" width="151"></media:content>
+      <media:credit>An Rong Xu/Getty Images</media:credit>
+      <media:description>Figures of nationalist soldiers are part of a display on Lieyu Island. The Chinese city of Xiamen lies across the water.</media:description>
+    </item>
+    <item>
+      <title>The U.S.S. Johnston Sank in 1944. A Crew Just Visited Its Wreckage.</title>
+      <link>https://www.nytimes.com/2021/04/09/us/uss-johnston-navy-philippines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/us/uss-johnston-navy-philippines.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/us/uss-johnston-navy-philippines.html" rel="standout"></atom:link>
+      <description>The shipwreck, 21,000 feet underwater, was discovered in 2019. A team of explorers has now confirmed that it was the Navy destroyer that played a key role in helping General MacArthur retake the Philippines.</description>
+      <dc:creator>Azi Paybarah</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 22:13:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Submarines and Submersibles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Naval History and Heritage Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippine Sea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/05/us/05xp-deep-dive-02/05xp-deep-dive-02-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Caladan Oceanic</media:credit>
+      <media:description>A shipwreck near the Philippines was confirmed last month as the U.S.S. Johnston, which Japanese forces sank in 1944.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong residents stranded in Britain meet frustration as they try to return.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/hong-kong-residents-stranded-in-britain-meet-frustration-as-they-try-to-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/hong-kong-residents-stranded-in-britain-meet-frustration-as-they-try-to-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/hong-kong-residents-stranded-in-britain-meet-frustration-as-they-try-to-return.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 10:49:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09virus-briefing-hk-1/merlin_178782090_8d019090-b3f4-4430-b29d-3a9cdf99d06a-moth.jpg" width="151"></media:content>
+      <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A man waiting for the results of a mandatory Covid-19 test given to all new arrivals at Hong Kong International Airport in October.</media:description>
+    </item>
+    <item>
+      <title>The struggle against vaccine hesitancy comes to Mississippi.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/the-struggle-against-vaccine-hesitancy-comes-to-mississippi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/the-struggle-against-vaccine-hesitancy-comes-to-mississippi.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/the-struggle-against-vaccine-hesitancy-comes-to-mississippi.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Andrew Jacobs</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 09:03:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/us/09virus-brief-mississippi/09virus-brief-mississippi-moth.jpg" width="151"></media:content>
+      <media:credit>Rory Doyle for The New York Times</media:credit>
+      <media:description>Volunteers assisting people who received the Moderna vaccine at a drive-through site on the campus of Delta State University in Cleveland, Miss., in March.</media:description>
+    </item>
+    <item>
+      <title>As a virus variant sweeps Europe, a look at lessons for the rest of the world.</title>
+      <link>https://www.nytimes.com/2021/04/09/world/as-a-virus-variant-sweeps-europe-a-look-at-lessons-for-the-rest-of-the-world.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/as-a-virus-variant-sweeps-europe-a-look-at-lessons-for-the-rest-of-the-world.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/as-a-virus-variant-sweeps-europe-a-look-at-lessons-for-the-rest-of-the-world.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Josh Holder, Allison McCann and Benjamin Mueller</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 16:56:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+    </item>
+    <item>
+      <title>Iran Releases South Korean Oil Tanker</title>
+      <link>https://www.nytimes.com/2021/04/09/world/middleeast/iran-south-korea-ship-released.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/middleeast/iran-south-korea-ship-released.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/middleeast/iran-south-korea-ship-released.html" rel="standout"></atom:link>
+      <description>The vessel was seized in January. Iran said the ship had been polluting its waters, but the move was seen as an effort to force South Korea to unlock billions in funds caught up in U.S. sanctions.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 08:32:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09iran-skorea-1/09iran-skorea-1-moth.jpg" width="151"></media:content>
+      <media:credit>South Korea Foreing Ministry, via Associated Press</media:credit>
+      <media:description>A photograph released by the South Korean Foreign Ministry showed the MT Hankuk Chemi leaving the Iranian port city of Bandar Abbas on Friday.</media:description>
+    </item>
+    <item>
+      <title>Does an ‘Asian-Australian’ Accent Exist?</title>
+      <link>https://www.nytimes.com/2021/04/09/world/asia/does-an-asian-australian-accent-exist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/world/asia/does-an-asian-australian-accent-exist.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/world/asia/does-an-asian-australian-accent-exist.html" rel="standout"></atom:link>
+      <description>Is there something a little bit different about the way Asian-Australian native English speakers, like myself, talk?</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 07:15:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/world/09australialetter202-NL-1/09australialetter202-NL-1-moth.jpg" width="151"></media:content>
+      <media:credit>David Maurice Smith for The New York Times</media:credit>
+      <media:description>Sydney suburb of Chatswood in 2018.</media:description>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2021/04/09/briefing/coronavirus-variants-northern-ireland-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/09/briefing/coronavirus-variants-northern-ireland-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/09/briefing/coronavirus-variants-northern-ireland-biden.html" rel="standout"></atom:link>
+      <description>The dangerous rise of coronavirus variants.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 04:40:17 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/us/09am-briefing-europe-lede-image-prom/09am-briefing-europe-virus-moth.jpg" width="151"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Macron Closes ENA, in Bid to Diversify France&#39;s Public Service</title>
+      <link>https://www.nytimes.com/2021/04/08/world/europe/france-macron-ena-closing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/europe/france-macron-ena-closing.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/europe/france-macron-ena-closing.html" rel="standout"></atom:link>
+      <description>The institution had become a symbol of privilege in a society where social mobility has broken down.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 06:02:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chirac, Jacques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hollande, Francois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Gaulle, Charles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yellow Vests Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08FRANCE1/08FRANCE1-moth.jpg" width="151"></media:content>
+      <media:credit>Yoan Valat/EPA, via Shutterstock</media:credit>
+      <media:description>President Emmanuel Macron attended the Ecole Nationale d’Administration, as did predecessors François Hollande and Jacques Chirac.</media:description>
+    </item>
+    <item>
+      <title>Your Friday Briefing</title>
+      <link>https://www.nytimes.com/2021/04/08/briefing/09astrazeneca-biden-gun-control.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/briefing/09astrazeneca-biden-gun-control.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/briefing/09astrazeneca-biden-gun-control.html" rel="standout"></atom:link>
+      <description>More countries halt AstraZeneca vaccine use.</description>
+      <dc:creator>Whet Moser</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 21:01:58 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08ambriefing-australia-NL-promo/08ambriefing-australia-NL-ASTRA-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ezra Acayan/Getty Images</media:credit>
+      <media:description>Administering the AstraZeneca vaccine at a sports arena in San Juan, Philippines, last month.</media:description>
+    </item>
+    <item>
+      <title>Afghan War Casualty Report: April 2021</title>
+      <link>https://www.nytimes.com/2021/04/08/world/asia/afghan-war-casualty-report-april-2021.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/asia/afghan-war-casualty-report-april-2021.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/asia/afghan-war-casualty-report-april-2021.html" rel="standout"></atom:link>
+      <description>At least 72 pro-government forces and 18 civilians were killed in Afghanistan so far this month.</description>
+      <dc:creator>Fahim Abed</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 13:45:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan National Security Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08atwar-casualtyreport/merlin_186069429_99c86cfd-e1b9-43bd-a7fa-25491b6fa362-moth.jpg" width="151"></media:content>
+      <media:credit>Ghulamullah Habibi/EPA, via Shutterstock</media:credit>
+      <media:description>People gather at the scene of an explosion that targeted a police vehicle in Jalalabad in eastern Afghanistan on April 7.</media:description>
+    </item>
+    <item>
+      <title>With U.S. Asylum System Closed to Many, Some Find Sanctuary in Mexico</title>
+      <link>https://www.nytimes.com/2021/04/08/world/americas/mexico-asylum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/americas/mexico-asylum.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/americas/mexico-asylum.html" rel="standout"></atom:link>
+      <description>A record number of people petitioned for asylum in Mexico last month, drawn by family ties and high approval rates — and discouraged by the difficulty of getting into the U.S.</description>
+      <dc:creator>Kirk Semple</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 08:54:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08mexico-asylum1/08mexico-asylum1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>Migrants crossing the Rio Bravo at Ciudad Juarez, Mexico in March, trying to request asylum from U.S. Border Patrol agents.</media:description>
+    </item>
+    <item>
+      <title>In New Holocaust Survivor Testimony, Hate Speech Is a Dangerous Seed</title>
+      <link>https://www.nytimes.com/2021/04/08/world/holocaust-survivor-campaign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/holocaust-survivor-campaign.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/holocaust-survivor-campaign.html" rel="standout"></atom:link>
+      <description>A new campaign called #ItStartedWithWords features short videos from Holocaust survivors on the origins of World War II and offers a timely message amid an outbreak of anti-Asian hate.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 19:50:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conference on Jewish Material Claims Against Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/us/08xp-holocaust/08xp-holocaust-moth.jpg" width="151"></media:content>
+      <media:credit>United States Holocaust Memorial Museum</media:credit>
+      <media:description>Sidney Zoltak, center right, standing at his father’s grave in Milan in the mid-1940s with his mother, Henia, and two friends.</media:description>
+    </item>
+    <item>
+      <title>Archaeologists in Egypt Find Ancient City More Than 3,000 Years Old</title>
+      <link>https://www.nytimes.com/2021/04/08/world/middleeast/egypt-ancient-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/middleeast/egypt-ancient-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/middleeast/egypt-ancient-city.html" rel="standout"></atom:link>
+      <description>The newly discovered city was built more than 3,400 years ago during the opulent reign of Amenhotep III, one of Egypt’s most powerful pharaohs.</description>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 08:56:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luxor (Egypt)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08egypt1/08egypt1-moth.jpg" width="151"></media:content>
+      <media:credit>Zahi Hawass Center for Egyptology, via Reuters</media:credit>
+      <media:description>A new archaeological discovery near Luxor in an undated photo from the the Zahi Hawass Center for Egyptology.</media:description>
+    </item>
+    <item>
+      <title>Slovakia Claims a Bait-and-Switch With the Russian Vaccines it Ordered</title>
+      <link>https://www.nytimes.com/2021/04/08/world/europe/slovakia-coronavirus-russia-vaccine-sputnik.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/europe/slovakia-coronavirus-russia-vaccine-sputnik.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/europe/slovakia-coronavirus-russia-vaccine-sputnik.html" rel="standout"></atom:link>
+      <description>Slovakia says that Sputnik V doses it received did “not have the same characteristics and properties” as a version endorsed by a respected British medical journal.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 19:44:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Direct Investment Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lancet, The (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovakia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08virus-slovakia/08virus-slovakia-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Lazar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The former Slovak prime minister, Igor Matovic, at the airport in Kosice, Slovakia, in March, to welcome the arrival of the Russian-developed Sputnik V vaccine.</media:description>
+    </item>
+    <item>
+      <title>Has the Era of Overzealous Cleaning Finally Come to an End?</title>
+      <link>https://www.nytimes.com/2021/04/08/health/coronavirus-hygiene-cleaning-surfaces.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/health/coronavirus-hygiene-cleaning-surfaces.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/health/coronavirus-hygiene-cleaning-surfaces.html" rel="standout"></atom:link>
+      <description>This week, the C.D.C. acknowledged what scientists have been saying for months: The risk of catching the coronavirus from surfaces is low.</description>
+      <dc:creator>Emily Anthes</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 17:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hygiene and Cleanliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cleansers, Detergents and Soaps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walensky, Rochelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/science/08VIRUS-SURFACES1/08VIRUS-SURFACES1-moth.jpg" width="151"></media:content>
+      <media:credit>Celeste Noche for The New York Times</media:credit>
+      <media:description>A hotel room in Long Beach, Wash., being fogged with sanitizer. “There’s really no evidence that anyone has ever gotten Covid-19 by touching a contaminated surface,” one researcher noted.</media:description>
+    </item>
+    <item>
+      <title>Sharon Matola, Who Opened a Zoo in the Jungle of Belize, Dies at 66</title>
+      <link>https://www.nytimes.com/2021/04/08/world/americas/sharon-matola-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/americas/sharon-matola-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/americas/sharon-matola-dead.html" rel="standout"></atom:link>
+      <description>An Air Force veteran and former lion tamer, she helped her adopted country fall in love with tapirs, macaws and peccaries.</description>
+      <dc:creator>Clay Risen</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 17:30:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Matola, Sharon (1954-2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Belize Zoo and Tropical Education Center (Belize)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belize</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/09/obituaries/06Matola1/merlin_10023624_108cd2c7-ee41-4712-a1d8-33106150bd08-moth.jpg" width="151"></media:content>
+      <media:credit>David Gonzalez/The New York Times</media:credit>
+      <media:description>Sharon Matola in 2001 at her zoo. She became a fixture in Belizean society, and spoke out against development projects she deemed to be a threat to her adopted country&amp;rsquo;s natural endowment.</media:description>
+    </item>
+    <item>
+      <title>Puerto Rico Adults to Be Eligible for Covid Vaccine on Monday</title>
+      <link>https://www.nytimes.com/2021/04/08/us/puerto-rico-covid-vaccine-eligible.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/us/puerto-rico-covid-vaccine-eligible.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/us/puerto-rico-covid-vaccine-eligible.html" rel="standout"></atom:link>
+      <description>Puerto Rico also announced a longer overnight curfew until May 9 as cases rise on the island.</description>
+      <dc:creator>Andrés R. Martínez</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 00:27:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/us/08virus-briefing-puertorico-vaccine/08virus-briefing-puertorico-vaccine-moth.jpg" width="151"></media:content>
+      <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
+      <media:description>Waiting under observation after receiving a Covid-19 vaccine last month in Vieques in Puerto Rico.</media:description>
+    </item>
+    <item>
+      <title>Kati Kariko Helped Shield the World From the Coronavirus</title>
+      <link>https://www.nytimes.com/2021/04/08/health/coronavirus-mrna-kariko.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/health/coronavirus-mrna-kariko.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/health/coronavirus-mrna-kariko.html" rel="standout"></atom:link>
+      <description>Collaborating with devoted colleagues, Dr. Kariko laid the groundwork for the mRNA vaccines turning the tide of the pandemic.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 16:37:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kariko, Katalin (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weissman, Drew (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Langer, David (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/02/science/00virus-kariko-1/00virus-kariko-1-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Yoon</media:credit>
+      <media:description>Katalin Kariko at her home in Jenkintown, Pa., in February. Dr. Kariko’s early research into mRNA eventually led to development of the Moderna and Pfizer-BioNTech vaccines.</media:description>
+    </item>
+    <item>
+      <title>U.S. Intelligence Report Warns of Global Consequences of Social Fragmentation</title>
+      <link>https://www.nytimes.com/2021/04/08/us/politics/intelligence-global-trends-report-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/us/politics/intelligence-global-trends-report-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/us/politics/intelligence-global-trends-report-pandemic.html" rel="standout"></atom:link>
+      <description>The coronavirus pandemic has highlighted weaknesses of the international order, said the report, which is issued every four years.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 14:23:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intelligence Report</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Intelligence Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/us/08dc-intel/08dc-intel-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Favila/Associated Press</media:credit>
+      <media:description>The coronavirus pandemic has shown that the existing world order may be ill-equipped to confront crises, a new intelligence report said.</media:description>
+    </item>
+    <item>
+      <title>Outcry in Pakistan After Imran Khan Links Rape to How Women Dress</title>
+      <link>https://www.nytimes.com/2021/04/08/world/asia/pakistan-rape.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/asia/pakistan-rape.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/asia/pakistan-rape.html" rel="standout"></atom:link>
+      <description>Activists have accused Prime Minister Imran Khan of “baffling ignorance” and victim-blaming after he said rape cases had risen because of “vulgarity.”</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 09:00:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Commission of Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lahore (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08pakistan-rape-promo/08pakistan-rape-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Rahmat Gul/Associated Press</media:credit>
+      <media:description>Prime Minister Imra Khan of Pakistan, last year.</media:description>
+    </item>
+    <item>
+      <title>N.Y.C.’s Mayor Says New Virus Rule Will Reduce Temporary Public School Closures</title>
+      <link>https://www.nytimes.com/2021/04/08/nyregion/new-york-school-closure-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/nyregion/new-york-school-closure-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/nyregion/new-york-school-closure-rules.html" rel="standout"></atom:link>
+      <description>Public schools had previously closed for 10 days if two unlinked cases were detected there, regardless of the source of infection.</description>
+      <dc:creator>Eliza Shapiro</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 13:43:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de Blasio, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/us/08virus-briefing-nycschools/08virus-briefing-nycschools-moth.jpg" width="151"></media:content>
+      <media:credit>Jeenah Moon for The New York Times</media:credit>
+      <media:description>Students outside I.S. 238 last month.</media:description>
+    </item>
+    <item>
+      <title>Corporate Taxes Are Wealth Taxes</title>
+      <link>https://www.nytimes.com/2021/04/08/briefing/biden-corporate-tax-astrazeneca-vaccine-particle-physics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/briefing/biden-corporate-tax-astrazeneca-vaccine-particle-physics.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/briefing/biden-corporate-tax-astrazeneca-vaccine-particle-physics.html" rel="standout"></atom:link>
+      <description>And their decline has led to a steep drop in tax rates for the affluent.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 10:43:11 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/lens/08ambriefing-promo/08ambriefing-fedex-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Eduardo Munoz Alvarez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Frederick Smith, FedEx CEO, on his way to visit President-elect Donald Trump in 2016. FedEx paid no corporate taxes last year.</media:description>
+    </item>
+    <item>
+      <title>South Korean Man Gets 34 Years for Running Sexual Exploitation Chat Room</title>
+      <link>https://www.nytimes.com/2021/04/08/world/asia/korea-sex-crime-chat-rooms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/asia/korea-sex-crime-chat-rooms.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/asia/korea-sex-crime-chat-rooms.html" rel="standout"></atom:link>
+      <description>Moon Hyeong-wook, 25, was accused of luring young women with promises of high-paying jobs and then forcing them into pornography.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 04:54:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cho Joo-bin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08skorea-1/08skorea-1-moth.jpg" width="151"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An office of the Korea Communications Standards Commission, which is responsible for finding and removing sex videos posted online without consent.</media:description>
+    </item>
+    <item>
+      <title>Biden Backs Taiwan, but Some Call for a Clearer Warning to China</title>
+      <link>https://www.nytimes.com/2021/04/08/us/politics/biden-china-taiwan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/us/politics/biden-china-taiwan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/us/politics/biden-china-taiwan.html" rel="standout"></atom:link>
+      <description>As China grows stronger and bolder, some experts want to end Washington’s decades-long policy of “strategic ambiguity.”</description>
+      <dc:creator>Michael Crowley</dc:creator>
+      <pubDate>Fri, 09 Apr 2021 23:35:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/07/us/politics/07dc-biden-taiwan/merlin_178884300_a312c2dd-26a5-4f78-93ba-8af3827e041e-moth.jpg" width="151"></media:content>
+      <media:credit>David Chang/EPA, via Shutterstock</media:credit>
+      <media:description>Pictures of President Tsai Ing-wen of Taiwan and China’s leader, Xi Jinping, last year in Taipei. American officials warn that China is growing more capable of invading the democratic island.</media:description>
+    </item>
+    <item>
+      <title>For 10 Years, Photographer Follows Up on Destroyed Village </title>
+      <link>https://www.nytimes.com/2021/04/08/insider/earthquake-tsunami-kesen-japan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/insider/earthquake-tsunami-kesen-japan.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/insider/earthquake-tsunami-kesen-japan.html" rel="standout"></atom:link>
+      <description>After an earthquake and a tsunami hit Japan in 2011, Hiroko Masuike, a Times photographer, spent a decade documenting the attempts by 15 people to rebuild their community.</description>
+      <dc:creator>Matthew Sedacca</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 07:25:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japan Earthquake and Tsunami (2011)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kesen (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Masuike, Hiroko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/03/world/xxinsider-masuike-kesen3/merlin_184891647_8343666d-d3c6-45d2-9309-b2186dfaf60e-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Relatives of Shuji Morioka, a tsunami victim, at a memorial park in Rikuzentakata on the 10th anniversary of the disaster last month.</media:description>
+    </item>
+    <item>
+      <title>‘No More Parties’: Mexico’s Piñata Makers Badly Bruised by Pandemic</title>
+      <link>https://www.nytimes.com/2021/04/08/world/americas/mexico-pinata-makers-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/americas/mexico-pinata-makers-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/americas/mexico-pinata-makers-pandemic.html" rel="standout"></atom:link>
+      <description>The piñata industry, dependent on social gatherings, has seen sales plummet. Some artisans, in a creative bid to survive, have added coronavirus figures to their lineups of superheros and princesses.</description>
+      <dc:creator>Oscar Lopez</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 23:22:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Handicrafts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="">pinatas</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/05/world/00pinata-dispatch-top/00pinata-dispatch-top-moth.jpg" width="151"></media:content>
+      <media:credit>Luis Antonio Rojas for The New York Times</media:credit>
+      <media:description>A piñata shop in Mexico City. The industry has struggled across Mexico this year.</media:description>
+    </item>
+    <item>
+      <title>Amid Sexual Harassment Scandals, Australia Plots a ‘Road Map for Respect’</title>
+      <link>https://www.nytimes.com/2021/04/08/world/australia/sexual-harassment-scandals-road-map-for-respect.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/australia/sexual-harassment-scandals-road-map-for-respect.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/australia/sexual-harassment-scandals-road-map-for-respect.html" rel="standout"></atom:link>
+      <description>Prime Minister Scott Morrison said he would accept 55 suggestions from the country’s human rights commissioner to tackle a problem that has been festering for years in politics.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 21:01:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morrison, Scott (1968- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/08/world/08oz-respect-1/08oz-respect-1-moth.jpg" width="151"></media:content>
+      <media:credit>Lukas Coch/EPA, via Shutterstock</media:credit>
+      <media:description>Prime Minister Scott Morrison of Australia said his government accepted 55 recommendations that aim to prevent gender-based abuse and increase accountability for misbehavior in the workplace.</media:description>
+    </item>
+    <item>
+      <title>Your Thursday Briefing</title>
+      <link>https://www.nytimes.com/2021/04/08/briefing/astrazeneca-isis-france-metoo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/briefing/astrazeneca-isis-france-metoo.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/briefing/astrazeneca-isis-france-metoo.html" rel="standout"></atom:link>
+      <description>France’s delayed #MeToo.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 04:40:00 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/06/world/08am-briefing-europe-france-metoo-01-copy/XXfrance-metoo-01-moth.jpg" width="151"></media:content>
+      <media:credit>Abdulmonam Eassa/Barcroft Media, via Getty Images</media:credit>
+      <media:description>Protesting the nomination of Gérald Darmanin as interior minister in Paris in July. Mr. Darmanin is under investigation in a rape case that was reopened last year.</media:description>
+    </item>
+    <item>
+      <title>In France’s Delayed #MeToo, Powerful Men Fall, One After Another</title>
+      <link>https://www.nytimes.com/2021/04/08/world/europe/france-metoo-sandra-muller.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2021/04/08/world/europe/france-metoo-sandra-muller.html</guid>
+      <atom:link href="https://www.nytimes.com/2021/04/08/world/europe/france-metoo-sandra-muller.html" rel="standout"></atom:link>
+      <description>Since the start of the year, well-known men from diverse fields have been accused of sexual abuse and placed under investigation.</description>
+      <dc:creator>Norimitsu Onishi</dc:creator>
+      <pubDate>Thu, 08 Apr 2021 22:34:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/04/06/world/XXfrance-metoo-01/XXfrance-metoo-01-moth.jpg" width="151"></media:content>
+      <media:credit>Abdulmonam Eassa/Barcroft Media, via Getty Images</media:credit>
+      <media:description>Protesting the nomination of Gérald Darmanin as interior minister in July. Mr. Darmanin is under investigation in a rape case that was reopened last year.</media:description>
+    </item>
+  </channel>
+</rss>

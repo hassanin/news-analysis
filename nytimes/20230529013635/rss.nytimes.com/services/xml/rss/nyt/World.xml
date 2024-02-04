@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Mon, 29 May 2023 01:35:06 +0000</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 01:26:03 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world</link>
+    </image>
+    <item>
+      <title>A Wagner Fighter’s Escape to Norway Creates a Problem for His Host</title>
+      <link>https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/europe/andrei-medvedev-wagner-russia-norway-ukraine.html" rel="standout"></atom:link>
+      <description>Andrei Medvedev fought with Russia’s Wagner mercenaries in Ukraine, then requested asylum in Norway. The authorities there must now weigh his plea against solidarity with Ukraine.</description>
+      <dc:creator>Anatoly Kurmanaev and Henrik Pryser Libell</dc:creator>
+      <pubDate>Sun, 28 May 2023 21:33:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Desertion (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25russia-defector-01-zpkm/25russia-defector-01-zpkm-moth.jpg" width="151"></media:content>
+      <media:credit>Andrea Gjestvang for The New York Times</media:credit>
+      <media:description>Andrei Medvedev, who fought with Russia’s Wagner mercenary group, is seeking asylum in Norway, while providing information on Wagner’s fight in Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Recep Tayyip Erdogan of Turkey Is Re-elected</title>
+      <link>https://www.nytimes.com/2023/05/28/world/middleeast/edorgan-election-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/middleeast/edorgan-election-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/middleeast/edorgan-election-turkey.html" rel="standout"></atom:link>
+      <description>Recep Tayyip Erdogan has given few indications that he intends to change course at home, where he faces a looming economic crisis, or in foreign policy, where he has vexed Western allies.</description>
+      <dc:creator>Ben Hubbard</dc:creator>
+      <pubDate>Sun, 28 May 2023 23:06:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28erodgan-victory-01sub-kgwz/28erodgan-victory-01sub-kgwz-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Supporters of President Recep Tayyip Erdogan celebrating his victory in Istanbul on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Meet the New Mayor: How a Refugee Won Over a Conservative German Town</title>
+      <link>https://www.nytimes.com/2023/05/28/world/europe/germany-refugee-elected-mayor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/europe/germany-refugee-elected-mayor.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/europe/germany-refugee-elected-mayor.html" rel="standout"></atom:link>
+      <description>The election of Ryyan Alshebl, a young man who fled Syria, offers surprising lessons for a Germany wrestling with its multicultural identity after an influx of refugees in 2015.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Sun, 28 May 2023 18:18:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle East and Africa Migrant Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28germany-mayor-01-gzht/28germany-mayor-01-gzht-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Ingmar Nolting for The New York Times</media:credit>
+      <media:description>Ryyan Alshebl, center, at the May Day festival in Ostelsheim, Germany. A Syrian refugee who arrived in 2015, he is the town’s new mayor.</media:description>
+    </item>
+    <item>
+      <title>Modi Opens India’s New Parliament Building as Opposition Stays Away</title>
+      <link>https://www.nytimes.com/2023/05/28/world/asia/india-parliament.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/asia/india-parliament.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/asia/india-parliament.html" rel="standout"></atom:link>
+      <description>The complex is a testament to the prime minister’s power to get things done, but the ceremony also put the nation’s political divisions on display.</description>
+      <dc:creator>Mujib Mashal and Hari Kumar</dc:creator>
+      <pubDate>Sun, 28 May 2023 13:42:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28india-parliament-01-mvct/28india-parliament-01-mvct-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Prime Minister Narendra Modi of India carrying a scepter during an inauguration for a new Parliament building on Sunday in New Delhi.</media:description>
+    </item>
+    <item>
+      <title>Turkey’s Presidential Runoff Election 2023: What to Know</title>
+      <link>https://www.nytimes.com/article/turkey-election-erdogan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/turkey-election-erdogan.html</guid>
+      <atom:link href="https://www.nytimes.com/article/turkey-election-erdogan.html" rel="standout"></atom:link>
+      <description>President Recep Tayyip Erdogan had an edge on his challenger, Kemal Kilicdaroglu, going into the critical vote on Sunday to shape Turkey’s future.</description>
+      <dc:creator>Cora Engelbrecht, Ben Hubbard and Gulsin Harman</dc:creator>
+      <pubDate>Sun, 28 May 2023 09:40:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Demirtas, Selahattin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ince, Muharrem</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kilicdaroglu, Kemal</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/08/multimedia/10turkey-explainer-promo/00turkey-erdogan-mkwh-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>An election poster of Mr. Erdogan in Kayseri. He has tapped the power of his office to appeal to voters and mitigate the effects of inflation.</media:description>
+    </item>
+    <item>
+      <title>Sudan War Strikes a Blow to the Country’s Emerging Art Scene</title>
+      <link>https://www.nytimes.com/2023/05/28/world/africa/sudan-war-khartoum-artists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/africa/sudan-war-khartoum-artists.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/africa/sudan-war-khartoum-artists.html" rel="standout"></atom:link>
+      <description>Dozens of Sudanese artists and curators have fled their studios and galleries in the capital, jeopardizing thousands of artworks and imperiling an art scene central to the 2019 revolution.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Sun, 28 May 2023 09:01:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Burhan, Abdel Fattah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamdan, Mohamed (Hemeti)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khartoum (Sudan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28sudan-artists-1-mpjf/28sudan-artists-1-mpjf-moth.jpg" width="151"></media:content>
+      <media:credit>Heba Khamis for The New York Times</media:credit>
+      <media:description>Dahlia Abdelilah Baasher, a Sudanese artist, painting at her new home in Cairo. Dozens of artists and gallery owners have fled Sudan and don’t know the fate of their artworks.</media:description>
+    </item>
+    <item>
+      <title>Ukraine Repels Large Russian Drone Attack on Kyiv</title>
+      <link>https://www.nytimes.com/2023/05/27/world/europe/russia-drone-attack-kyiv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/europe/russia-drone-attack-kyiv.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/europe/russia-drone-attack-kyiv.html" rel="standout"></atom:link>
+      <description>More than 40 drones were intercepted over Kyiv, where city officials said at least one person had been killed, probably by falling debris.</description>
+      <dc:creator>Marc Santora and Andrés R. Martínez</dc:creator>
+      <pubDate>Sun, 28 May 2023 22:09:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28ukraine-ledeall-hmvp/28ukraine-ledeall-hmvp-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Damage inside a building struck by debris in Kyiv on Sunday.</media:description>
+    </item>
+    <item>
+      <title>German Plan Would Ease Path to Citizenship, but Not Without a Fight</title>
+      <link>https://www.nytimes.com/2023/05/27/world/europe/german-citizenship-changes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/europe/german-citizenship-changes.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/europe/german-citizenship-changes.html" rel="standout"></atom:link>
+      <description>Months of wrangling over a new law have Germans asking a fundamental question: Are we a country of immigrants?</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Sat, 27 May 2023 15:46:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christian Democratic Union (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christian Social Union (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Free Democratic Party (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/10/multimedia/germany-immigration-01-jqvb/germany-immigration-01-jqvb-moth.jpg" width="151"></media:content>
+      <media:credit>Ingmar Nolting for The New York Times</media:credit>
+      <media:description>Mayor Peter Tschentscher of Hamburg, Germany, presenting a certificate at a citizenship ceremony in February at City Hall.</media:description>
+    </item>
+    <item>
+      <title>Putin’s Ukraine Strategy: Ignore War in Public and Outlast Foes</title>
+      <link>https://www.nytimes.com/2023/05/27/world/europe/russia-putin-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/europe/russia-putin-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/europe/russia-putin-ukraine-war.html" rel="standout"></atom:link>
+      <description>Vladimir V. Putin of Russia looks like a commander in absentia, treating the war in Ukraine as unfortunate but distant. His options have narrowed, but he is still betting on outlasting his foes.</description>
+      <dc:creator>Anton Troianovski and Paul Sonne</dc:creator>
+      <pubDate>Sat, 27 May 2023 10:44:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prigozhin, Yevgeny V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27russia-strategy-top-new-kplh/27russia-strategy-top-new-kplh-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Destroyed Russian military vehicles sitting at a makeshift open-air museum this month in Kharkiv, Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Emilia-Romagna, Italy, May Face More Violent and Frequent Storms</title>
+      <link>https://www.nytimes.com/2023/05/27/world/europe/italy-floods-emilia-romagna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/europe/italy-floods-emilia-romagna.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/europe/italy-floods-emilia-romagna.html" rel="standout"></atom:link>
+      <description>Experts have linked recent deadly rains in the north of the country to climate change, but decades of urbanization and neglect helped lay the groundwork for a calamity.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sat, 27 May 2023 12:12:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Emilia-Romagna (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/24/multimedia/24italy-1-gtvj/24italy-1-gtvj-moth.jpg" width="151"></media:content>
+      <media:credit>Elisabetta Zavoli for The New York Times</media:credit>
+      <media:description>Andrea Ricci, 26, sat exhausted last Saturday on a dinghy that he used to help deliver goods and water to people in the flooded district of Lugo, Italy.</media:description>
+    </item>
+    <item>
+      <title>Some Canadian Indigenous See Hudson’s Bay Building as Hollow Gift</title>
+      <link>https://www.nytimes.com/2023/05/27/world/americas/indigenous-canada-hudson-bay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/americas/indigenous-canada-hudson-bay.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/americas/indigenous-canada-hudson-bay.html" rel="standout"></atom:link>
+      <description>The company chartered centuries ago to found the colony that became part of Canada last year gave a building to the Indigenous that is heavy in symbolism. The move is being criticized by some as hollow.</description>
+      <dc:creator>Norimitsu Onishi and Nasuna Stuart-Ulin</dc:creator>
+      <pubDate>Mon, 29 May 2023 01:23:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hudson&#39;s Bay Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manitoba (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Winnipeg (Manitoba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/24/world/00-canada-store/00-canada-store-moth.jpg" width="151"></media:content>
+      <media:description>The Hudson’s Bay Company’s former flagship store, built in 1926, has long been an iconic fixture of downtown Winnipeg.</media:description>
+    </item>
+    <item>
+      <title>For These Veterans of U.S. Military, ‘Free’ Health Care Is a 5-Hour Flight Away</title>
+      <link>https://www.nytimes.com/2023/05/27/world/asia/micronesia-veterans-health-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/asia/micronesia-veterans-health-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/asia/micronesia-veterans-health-care.html" rel="standout"></atom:link>
+      <description>Citizens of three Pacific Island nations, eligible to serve in the U.S. military, find it hard to make use of the health benefits they have earned.</description>
+      <dc:creator>Pete McKenzie</dc:creator>
+      <pubDate>Sat, 27 May 2023 19:06:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veterans Affairs Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marshall Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Micronesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palau</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/15/multimedia/00micronesia-veterans-mtzp/00micronesia-veterans-mtzp-moth.jpg" width="151"></media:content>
+      <media:credit>Akasha Rabut for The New York Times</media:credit>
+      <media:description>Ovenny Jermeto, a veteran from the Marshall Islands, in the waiting room at the Spark M. Matsunaga Department of Veterans Affairs Medical Center in Honolulu.</media:description>
+    </item>
+    <item>
+      <title>As Covid Infections Rise, China Rejects a Return to Lockdowns</title>
+      <link>https://www.nytimes.com/2023/05/27/world/asia/china-covid-lockdowns-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/asia/china-covid-lockdowns-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/asia/china-covid-lockdowns-economy.html" rel="standout"></atom:link>
+      <description>The authorities say that cases are up, and one doctor estimates that there could soon be 65 million cases a week. But China appears determined to move on.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Sat, 27 May 2023 10:25:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27china-covid-01-glkh/27china-covid-01-glkh-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
+      <media:description>A tourist shopping street in Beijing last month.</media:description>
+    </item>
+    <item>
+      <title>Official in India Drains Part of Reservoir to Retrieve Phone</title>
+      <link>https://www.nytimes.com/2023/05/27/world/asia/indian-official-drains-dam-lost-phone.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/asia/indian-official-drains-dam-lost-phone.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/asia/indian-official-drains-dam-lost-phone.html" rel="standout"></atom:link>
+      <description>Rajesh Vishwas, a food inspector, used a diesel pump to empty part of a reservoir where he had lost his smartphone.</description>
+      <dc:creator>Sameer Yasir and Mike Ives</dc:creator>
+      <pubDate>Sat, 27 May 2023 13:21:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chhattisgarh (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27xp-india-phone-promo-jhzv/27xp-india-phone-promo-jhzv-moth.jpg" width="151"></media:content>
+      <media:credit>Amrit Mandavi/Shutterstock</media:credit>
+      <media:description>A view of the district in Chhattisgarh State, India, where the Paralkot reservoir is.</media:description>
+    </item>
+    <item>
+      <title>Your Monday Briefing: A U.S. debt-limit deal</title>
+      <link>https://www.nytimes.com/2023/05/28/briefing/your-monday-briefing-a-us-debt-limit-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/briefing/your-monday-briefing-a-us-debt-limit-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/briefing/your-monday-briefing-a-us-debt-limit-deal.html" rel="standout"></atom:link>
+      <description>Also, a reader-made playlist.</description>
+      <dc:creator>Justin Porter and Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 28 May 2023 20:50:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Kevin (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kilicdaroglu, Kemal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28ambriefing-asia-nl-promo/28ambriefing-asia-nl-Biden-pgtv-moth.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Joe Biden arrives on the South Lawn of the White House after returning to Washington, D.C., on Sunday.</media:description>
+    </item>
+    <item>
+      <title>At Least 3 Die in Clashes on Iranian-Afghan Border</title>
+      <link>https://www.nytimes.com/2023/05/28/world/asia/afghanistan-iran-border-clashes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/world/asia/afghanistan-iran-border-clashes.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/world/asia/afghanistan-iran-border-clashes.html" rel="standout"></atom:link>
+      <description>The fighting comes amid rising political tension between the two countries over the flow of water from the Helmand River in Afghanistan into eastern Iran.</description>
+      <dc:creator>Christina Goldbaum</dc:creator>
+      <pubDate>Sun, 28 May 2023 17:54:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Helmand River (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raisi, Ebrahim</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/28/multimedia/28afghan-iran-czmk/28afghan-iran-czmk-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>The Helmand River snaking through the province near Nadali, Afghanistan.</media:description>
+    </item>
+    <item>
+      <title>What’s in the Debt Deal</title>
+      <link>https://www.nytimes.com/2023/05/28/briefing/debt-limit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/briefing/debt-limit.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/briefing/debt-limit.html" rel="standout"></atom:link>
+      <description>Leaders from both parties have reached an agreement.</description>
+      <dc:creator>German Lopez</dc:creator>
+      <pubDate>Sun, 28 May 2023 11:41:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27-DC-DEBTLIMIT-DEAL-promo/27-DC-DEBTLIMIT-DEAL-tqch-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>House Speaker Kevin McCarthy said a deal had been reached to raise the debt limit for two years.</media:description>
+    </item>
+    <item>
+      <title>Richard Revesz and His Agency Are Remaking the Pollution Fight</title>
+      <link>https://www.nytimes.com/2023/05/28/climate/ricky-revesz-oira-regulation-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/28/climate/ricky-revesz-oira-regulation-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/28/climate/ricky-revesz-oira-regulation-biden.html" rel="standout"></atom:link>
+      <description>Richard Revesz is changing the way the government calculates the cost and benefits of regulation, with far-reaching implications for climate change.</description>
+      <dc:creator>Coral Davenport</dc:creator>
+      <pubDate>Sun, 28 May 2023 09:00:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Information and Regulatory Affairs (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Revesz, Richard L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/00cli-revesz-1-hvlg/00cli-revesz-1-hvlg-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>Richard Revesz in Washington, D.C.</media:description>
+    </item>
+    <item>
+      <title>Summer’s Unofficial Start</title>
+      <link>https://www.nytimes.com/2023/05/27/briefing/summers-unofficial-start-memorial-day.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/briefing/summers-unofficial-start-memorial-day.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/briefing/summers-unofficial-start-memorial-day.html" rel="standout"></atom:link>
+      <description>It’s Memorial Day Weekend, the start of summer, ready or not.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Sat, 27 May 2023 11:08:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorial Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+    </item>
+    <item>
+      <title>Canada Needs to Hurry on A.I. Oversight, Experts Warn</title>
+      <link>https://www.nytimes.com/2023/05/27/world/canada/chatgpt-canada-ai-oversight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/canada/chatgpt-canada-ai-oversight.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/canada/chatgpt-canada-ai-oversight.html" rel="standout"></atom:link>
+      <description>The measures of an artificial intelligence bill won’t go into effect until 2025. For some, that’s too late.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 27 May 2023 12:50:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27canadaletter-fmzl/27canadaletter-fmzl-moth.jpg" width="151"></media:content>
+      <media:credit>Aaron Vincent Elkaim for The New York Times</media:credit>
+      <media:description>Geoffrey Hinton, a leading expert in artificial intelligence, photographed in 2017 at the University of Toronto.</media:description>
+    </item>
+    <item>
+      <title>Ukraine’s Top Commander Signals Counteroffensive Could Be Imminent</title>
+      <link>https://www.nytimes.com/2023/05/27/world/europe/ukraine-tanks-counteroffensive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/27/world/europe/ukraine-tanks-counteroffensive.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/27/world/europe/ukraine-tanks-counteroffensive.html" rel="standout"></atom:link>
+      <description>A blunt statement, accompanied by a slickly produced video of Ukrainian troops preparing for battle, appeared designed to rally the nation and to spread anxiety among Russian forces.</description>
+      <dc:creator>Marc Santora and Eric Schmitt</dc:creator>
+      <pubDate>Sat, 27 May 2023 13:22:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weapons</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/27ukraine-ledeall-01-hptm/27ukraine-ledeall-01-hptm-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O’Reilly for The New York Times</media:credit>
+      <media:description>A Ukrainian soldier from the 79th Brigade firing toward Russian positions near the town of Marinka in eastern Ukraine last week.</media:description>
+    </item>
+    <item>
+      <title>Russian Missile Strike Hits Ukrainian Hospital</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/russia-ukraine-hospital-missile.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/russia-ukraine-hospital-missile.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/russia-ukraine-hospital-missile.html" rel="standout"></atom:link>
+      <description>A Russian missile killed at least two people and wounded dozens more at a hospital, while apparent Ukrainian strikes hit occupied cities in the south.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Sat, 27 May 2023 06:43:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zaporizhzhia Power Plant (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26ukraine-1-ghpz/26ukraine-1-ghpz-moth.jpg" width="151"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>A Russian missile strike destroyed part of a hospital complex in Dnipro, Ukraine, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Berlin Police Investigate Roger Waters Over Nazi-Style Uniform</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/roger-waters-berlin-nazi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/roger-waters-berlin-nazi.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/roger-waters-berlin-nazi.html" rel="standout"></atom:link>
+      <description>Mr. Waters, a founder of Pink Floyd, who has long been critical of Israel, has worn similar clothing in the past when playing songs from Pink Floyd’s album “The Wall.”</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Fri, 26 May 2023 20:24:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Waters, Roger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frank, Anne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boycott, Divestment and Sanctions (BDS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pink Floyd (Music Group)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26germany-waters-jvhf/26germany-waters-jvhf-moth.jpg" width="151"></media:content>
+      <media:credit>Chad Batka for The New York Times</media:credit>
+      <media:description>Roger Waters performing in 2012 at Yankee Stadium in New York. He wore a similar outfit at concerts in Berlin last week, for which the German authorities are investigating him.</media:description>
+    </item>
+    <item>
+      <title>Evan Gershkovich Appeals Russia’s Extension of His Detention</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/evan-gershkovich-russia-detention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/evan-gershkovich-russia-detention.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/evan-gershkovich-russia-detention.html" rel="standout"></atom:link>
+      <description>Already jailed for two months on charges for which Russia has provided no evidence, Mr. Gershkovich has been ordered to remain in prison for three more.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Fri, 26 May 2023 19:03:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gershkovich, Evan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wall Street Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26ukraine-briefing-evan-gershkovich2-pkvg/26ukraine-briefing-evan-gershkovich2-pkvg-moth.jpg" width="151"></media:content>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <media:description>Evan Gershkovich, 31, appearing in court in April after being arrested in late March and accused of espionage.</media:description>
+    </item>
+    <item>
+      <title>Belgium Sentences Students Over Hazing Death of Sanda Dia</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/belgium-students-hazing-sentencing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/belgium-students-hazing-sentencing.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/belgium-students-hazing-sentencing.html" rel="standout"></atom:link>
+      <description>Sanda Dia, a 20-year-old Black student at the Catholic University of Leuven, died in 2018 after members of an elite fraternity forced him to drink fish oil, swallow goldfish and stand in an ice-filled trench.</description>
+      <dc:creator>Matina Stevis-Gridneff and Koba Ryckewaert</dc:creator>
+      <pubDate>Fri, 26 May 2023 17:58:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Catholic University of Leuven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reuzegom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antwerp (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dia, Sanda (d 2018)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26belgium-hazing-death-01-wvhg/26belgium-hazing-death-01-wvhg-moth.jpg" width="151"></media:content>
+      <media:credit>Sebastien Van Malleghem for The New York Times</media:credit>
+      <media:description>A photograph of Sanda Dia in his brother’s home in Oostakker, Belgium.</media:description>
+    </item>
+    <item>
+      <title>For Ukraine Military, Far-Right Russian Volunteers Make for Worrisome Allies</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/the-leader-of-a-russian-group-involved-in-a-border-incursion-is-described-by-watchdogs-as-a-neo-nazi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/the-leader-of-a-russian-group-involved-in-a-border-incursion-is-described-by-watchdogs-as-a-neo-nazi.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/the-leader-of-a-russian-group-involved-in-a-border-incursion-is-described-by-watchdogs-as-a-neo-nazi.html" rel="standout"></atom:link>
+      <description>Some fighters who led an incursion into Russian territory this week have neo-Nazi ties. “I worry that something like this could backfire on Ukraine because these are not ambiguous people.”</description>
+      <dc:creator>Valerie Hopkins</dc:creator>
+      <pubDate>Fri, 26 May 2023 22:58:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Volunteer Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kapustin, Denis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25ukraine-briefing-FIGHTER-ROOTS-topart-cptj/25ukraine-briefing-FIGHTER-ROOTS-topart-cptj-moth.jpg" width="151"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Denis Kapustin, in black, the leader of an anti-Putin group of ethnic Russians, has been identified as a neo-Nazi by the Anti-Defamation League.</media:description>
+    </item>
+    <item>
+      <title>Russian Public Appears to Be Souring on War Casualties, Analysis Shows</title>
+      <link>https://www.nytimes.com/2023/05/26/us/politics/russia-public-opinion-ukraine-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/us/politics/russia-public-opinion-ukraine-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/us/politics/russia-public-opinion-ukraine-war.html" rel="standout"></atom:link>
+      <description>Support for the war in Ukraine remains high but could potentially turn if concern over the high numbers of casualties persists, according to FilterLabs AI.</description>
+      <dc:creator>Julian E. Barnes</dc:creator>
+      <pubDate>Fri, 26 May 2023 15:09:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FilterLabs AI</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25dc-Russian-Opinion-wgtz/25dc-Russian-Opinion-wgtz-moth.jpg" width="151"></media:content>
+      <media:credit>Lynsey Addario for The New York Times</media:credit>
+      <media:description>An abandoned Russian tank in a forest north of Kharkiv, Ukraine, in January. Russia’s battlefield casualties could threaten support for President Vladimir V. Putin if concern about them turns the public against the war.</media:description>
+    </item>
+    <item>
+      <title>Iran Frees Belgian Aid Worker in Prisoner Swap</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/iran-belgium-prisoner-swap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/iran-belgium-prisoner-swap.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/iran-belgium-prisoner-swap.html" rel="standout"></atom:link>
+      <description>The aid worker, Olivier Vandecasteele, had been sentenced to 40 years in prison for spying. The former diplomat was convicted of plotting a 2018 bomb attack.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Sat, 27 May 2023 03:19:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26iran-belgium-01-tlbp/26iran-belgium-01-tlbp-moth.jpg" width="151"></media:content>
+      <media:credit>Belgian Government, via Associated Press</media:credit>
+      <media:description>In a photo released by the Belgian government, Olivier Vandecasteele stands in a Belgian military plane transporting him back to his country, on Friday.</media:description>
+    </item>
+    <item>
+      <title>The Counteroffensive Is Coming</title>
+      <link>https://www.nytimes.com/2023/05/26/briefing/ukraine-counteroffensive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/briefing/ukraine-counteroffensive.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/briefing/ukraine-counteroffensive.html" rel="standout"></atom:link>
+      <description>We preview what is next in the war in Ukraine.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Fri, 26 May 2023 17:01:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26-THE-MORNING-NL-promo/26-THE-MORNING-NL-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>The 80th Air Assault Brigade of the Ukrainian Armed Forces fired a barrage of 122mm Grad rockets in the direction of Bakhmut during a night operation in the Donetsk region of eastern Ukraine.</media:description>
+    </item>
+    <item>
+      <title>Passenger Arrested on Suspicion of Forcing Open Plane Door Mid-Flight</title>
+      <link>https://www.nytimes.com/2023/05/26/world/asia/plane-door-open-asiana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/asia/plane-door-open-asiana.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/asia/plane-door-open-asiana.html" rel="standout"></atom:link>
+      <description>A man was arrested on suspicion of unlocking an emergency exit on an Asiana Airlines flight in South Korea when it was about 700 feet off the ground.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Fri, 26 May 2023 17:20:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asiana Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Daegu (South Korea)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26skorea-plane-01-qvbg/26skorea-plane-01-qvbg-moth.jpg" width="151"></media:content>
+      <media:credit>Yonhap/EPA, via Shutterstock</media:credit>
+      <media:description>An Asiana Airlines plane sitting on the tarmac after an emergency landing at Daegu International Airport in South Korea on Friday.</media:description>
+    </item>
+    <item>
+      <title>How Turkey’s Erdogan Rose to Power</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/erdogan-career-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/erdogan-career-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/erdogan-career-turkey.html" rel="standout"></atom:link>
+      <description>Turkey’s leader faced a criminal conviction, mass protests and a coup. Instead of hurting or ending his political career, they helped him accumulate ever more control.</description>
+      <dc:creator>Alan Yuhas</dc:creator>
+      <pubDate>Sat, 27 May 2023 08:42:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkey Earthquake (Feb 6, 2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26erdogan-career-qmzl/26erdogan-career-qmzl-moth.jpg" width="151"></media:content>
+      <media:credit>Umit Bektas/Reuters</media:credit>
+      <media:description>President Recep Tayyip Erdogan of Turkey greeting supporters in Ankara, Turkey, this month.</media:description>
+    </item>
+    <item>
+      <title>Colombia’s Peace-Whisperer Makes Plenty of Enemies</title>
+      <link>https://www.nytimes.com/2023/05/26/world/americas/colombia-peace-leyner-palacios.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/americas/colombia-peace-leyner-palacios.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/americas/colombia-peace-leyner-palacios.html" rel="standout"></atom:link>
+      <description>Leyner Palacios’s push for dialogue, forgiveness and reconciliation has made him the face of peace in Colombia — and subjected him to death threats.</description>
+      <dc:creator>Silvana Paternostro</dc:creator>
+      <pubDate>Fri, 26 May 2023 22:03:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palacios, Leyner</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bojaya (Colombia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/24/world/00Colombia-Palacios-Profile/00Colombia-Palacios-Profile-moth.jpg" width="151"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Leyner Palacios served on the Truth Commission, which spent four years examining Colombia’s internecine conflict, fought between 1958 and 2016.</media:description>
+    </item>
+    <item>
+      <title>Ukraine NATO Bid Mirrors West Germany’s During Cold War</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/ukraine-nato-germany.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/ukraine-nato-germany.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/ukraine-nato-germany.html" rel="standout"></atom:link>
+      <description>West Germany joined NATO in 1955, choosing security over immediate territorial integrity. Some suggest the same path could be the best guarantee for Ukraine.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Fri, 26 May 2023 10:14:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/23/multimedia/xxukraine-nato-germany-01-zjbk/xxukraine-nato-germany-01-zjbk-moth.jpg" width="151"></media:content>
+      <media:credit>Anton Brink Hansen/EPA, via Shutterstock</media:credit>
+      <media:description>Ukraine’s president, Volodymyr Zelensky, delivering a video message at a Council of Europe summit in Reykjavik in May.</media:description>
+    </item>
+    <item>
+      <title>Vietnam Activist Jailed for Mocking Official’s Salt Bae Meal</title>
+      <link>https://www.nytimes.com/2023/05/26/world/asia/vietnam-noodle-vendor-jailed-salt-bae.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/asia/vietnam-noodle-vendor-jailed-salt-bae.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/asia/vietnam-noodle-vendor-jailed-salt-bae.html" rel="standout"></atom:link>
+      <description>A powerful Communist official ate a gold-encrusted steak in London. An activist who poked fun at the excess was sentenced to more than five years.</description>
+      <dc:creator>Mike Ives and Chau Doan</dc:creator>
+      <pubDate>Fri, 26 May 2023 09:30:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, To</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gokce, Nusret</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salt Bae (Chef)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danang (Vietnam)</category>
+    </item>
+    <item>
+      <title>Burhan Sönmez on the Tensions Between Politics and Art in Turkey</title>
+      <link>https://www.nytimes.com/2023/05/26/books/burhan-sonmez-turkey-erdogan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/books/burhan-sonmez-turkey-erdogan.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/books/burhan-sonmez-turkey-erdogan.html" rel="standout"></atom:link>
+      <description>Burhan Sönmez, who is president of PEN International, discusses the tension between politics and art and the role of literature in authoritarian societies.</description>
+      <dc:creator>Jason Farago</dc:creator>
+      <pubDate>Sat, 27 May 2023 09:42:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PEN International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sonmez, Burhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/multimedia/24SONMEZ-clph/24SONMEZ-clph-moth.jpg" width="151"></media:content>
+      <media:credit>Hatice Sahin</media:credit>
+      <media:description>Burhan Sönmezm, a writer who is part of Turkey’s ethnic Kurdish minority, sees the upheavals of the Erdogan years as only the latest chapter in an ongoing struggle of Turkish power and Turkish art.</media:description>
+    </item>
+    <item>
+      <title>Turkey’s Erdogan Woos Voters in Re-Election Campaign</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/turkey-erdogan-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/turkey-erdogan-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/turkey-erdogan-election.html" rel="standout"></atom:link>
+      <description>President Recep Tayyip Erdogan has rock star appeal at his election rallies, promising to lead Turkey to claim its rightful place as a global power if he is re-elected in a runoff on Sunday.</description>
+      <dc:creator>Ben Hubbard and Gulsin Harman</dc:creator>
+      <pubDate>Fri, 26 May 2023 09:01:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kilicdaroglu, Kemal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice and Development Party (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26erdogan-2-bqwf/26erdogan-2-bqwf-moth.jpg" width="151"></media:content>
+      <media:credit>Adem Altan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Recep Tayyip Erdogan of Turkey campaigning in the capital Ankara in April.</media:description>
+    </item>
+    <item>
+      <title>Gasoline Prices, a Source of Pain Last Year, Have Come Way Down</title>
+      <link>https://www.nytimes.com/2023/05/26/business/energy-environment/oil-gasoline-prices-summer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/business/energy-environment/oil-gasoline-prices-summer.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/business/energy-environment/oil-gasoline-prices-summer.html" rel="standout"></atom:link>
+      <description>Reasons include a stronger supply of oil and weaker-than-expected demand, energy experts say. Some people are saving hundreds of dollars on fuel.</description>
+      <dc:creator>Clifford Krauss</dc:creator>
+      <pubDate>Fri, 26 May 2023 16:44:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorial Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/multimedia/26oil-qlgz/26oil-qlgz-moth.jpg" width="151"></media:content>
+      <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
+      <media:description>A gas station in Alexandria, Va., this week. Because gas prices are posted on big colorful signs, they can have a powerful psychological impact on consumers.</media:description>
+    </item>
+    <item>
+      <title>Restaurant Chain Franchises Face Scrutiny From the FTC</title>
+      <link>https://www.nytimes.com/2023/05/26/business/burgerim-ftc-franchise.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/business/burgerim-ftc-franchise.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/business/burgerim-ftc-franchise.html" rel="standout"></atom:link>
+      <description>Troubles at the restaurant chain Burgerim highlight concerns about whether franchisees need more protection in their contracts with franchisers.</description>
+      <dc:creator>Michael Corkery</dc:creator>
+      <pubDate>Fri, 26 May 2023 09:36:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Franchises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Franchise Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Small Business Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/21/multimedia/00Making-It-Work-franchises-01-fmcw/00Making-It-Work-franchises-01-fmcw-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Franchises are ubiquitous in the American business landscape but concern is rising about the poor disclosure of business risks. </media:description>
+    </item>
+    <item>
+      <title>‘Different Standards’: The Struggle of Indigenous Journalists in Australia</title>
+      <link>https://www.nytimes.com/2023/05/26/world/australia/different-standards-the-struggle-of-indigenous-journalists-in-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/australia/different-standards-the-struggle-of-indigenous-journalists-in-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/australia/different-standards-the-struggle-of-indigenous-journalists-in-australia.html" rel="standout"></atom:link>
+      <description>The departure of the TV host Stan Grant has set off a conversation about race and racism in the country’s media industry.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Fri, 26 May 2023 08:13:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grant, Stan Jr (1963- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous Australians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/26/world/26ausletter308-NL/26ausletter308-NL-moth.jpg" width="151"></media:content>
+      <media:credit>Jason McCawley/Getty Images</media:credit>
+      <media:description>Stan Grant announced that he would step back from his television hosting duties after receiving “relentless” racial abuse.</media:description>
+    </item>
+    <item>
+      <title>Russia’s Wagner Mercenaries Say They&#39;ll Pull Out of Bakhmut</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/ukraine-war-wagner-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/ukraine-war-wagner-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/ukraine-war-wagner-russia.html" rel="standout"></atom:link>
+      <description>After seizing the city in eastern Ukraine after a long, brutal fight, the Wagner mercenary force is turning it over to the depleted Russian Army to defend.</description>
+      <dc:creator>Ivan Nechepurenko and Marc Santora</dc:creator>
+      <pubDate>Thu, 25 May 2023 22:03:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wagner Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prigozhin, Yevgeny V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25ukraine-ledeall-tmlf/25ukraine-ledeall-tmlf-moth.jpg" width="151"></media:content>
+      <media:credit>Concord Press Service, via Reuters</media:credit>
+      <media:description>An image released by Yevgeny V. Prigozhin’s press service that it says shows him with Wagner fighters in Bakhmut, Ukraine, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Here’s Why So Many People Are Moving to the U.K.</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/uk-record-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/uk-record-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/uk-record-immigration.html" rel="standout"></atom:link>
+      <description>Despite post-Brexit restrictions and government vows to control it, immigration to Britain reached an all-time high in 2022, driven by war, politics and economics.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Thu, 25 May 2023 19:46:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25uk-migration-takeaways-01-thjk/25uk-migration-takeaways-01-thjk-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Ukrainian and British flags hanging outside a bar in Liverpool, England, in May. A large influx of refugees from Ukraine is one factor driving up immigration.</media:description>
+    </item>
+    <item>
+      <title>The Search for Madeleine McCann in Portugal Is Over, Police Say</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/portugal-madeleine-mccann-missing-child.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/portugal-madeleine-mccann-missing-child.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/portugal-madeleine-mccann-missing-child.html" rel="standout"></atom:link>
+      <description>A search of a reservoir in Portugal that came more than 16 years after the British girl went missing resulted in the collection of some material but did not solve the mystery of her disappearance.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 26 May 2023 05:41:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCann, Madeleine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christian B (Madeleine McCann)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algarve (Portugal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-search</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/23/multimedia/hfo-uk-mccann-lgzc/hfo-uk-mccann-lgzc-moth.jpg" width="151"></media:content>
+      <media:credit>David Moir/Reuters</media:credit>
+      <media:description>Madeleine McCann went missing shortly before her fourth birthday.</media:description>
+    </item>
+    <item>
+      <title>Arctic Squirrels Have a Climate Change Problem</title>
+      <link>https://www.nytimes.com/2023/05/25/climate/arctic-squirrels-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/climate/arctic-squirrels-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/climate/arctic-squirrels-climate-change.html" rel="standout"></atom:link>
+      <description>Climate change appears to be disrupting the hibernation of females in the Far North, scientists say, and that could affect mating season.</description>
+      <dc:creator>Mélissa Godin</dc:creator>
+      <pubDate>Thu, 25 May 2023 18:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Squirrels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hibernation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/science/25cli-squirrels-1/25cli-squirrels-1-moth.jpg" width="151"></media:content>
+      <media:credit>Dee Carpenter/Getty Images</media:credit>
+      <media:description>An Arctic ground squirrel on the lookout. Researchers have found that females are emerging from hibernation up to 10 days earlier. </media:description>
+    </item>
+    <item>
+      <title>Rwandan Genocide Fugitive Is Arrested After Being on the Run for 30 Years</title>
+      <link>https://www.nytimes.com/2023/05/25/world/africa/rwanda-genocide-fugitive-kayishema.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/africa/rwanda-genocide-fugitive-kayishema.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/africa/rwanda-genocide-fugitive-kayishema.html" rel="standout"></atom:link>
+      <description>Accused of having a direct hand in the killing of hundreds of Tutsis, Fulgence Kayishema was arrested in South Africa, where he hid as an asylum seeker.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Fri, 26 May 2023 11:59:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kayishema, Fulgence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/06/24/multimedia/24rwanda-top-fjgt/24rwanda-top-fjgt-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <media:description>The Kigali Genocide Memorial in Kigali, Rwanda, in 2019.</media:description>
+    </item>
+    <item>
+      <title>Man Arrested in Downing Street Car Crash in London</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/downing-street-car-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/downing-street-car-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/downing-street-car-crash.html" rel="standout"></atom:link>
+      <description>A man was arrested on “suspicion of criminal damage and dangerous driving,” but the police later said the episode was not being treated as “terror related.”</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Fri, 26 May 2023 03:13:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drunken and Reckless Driving</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="">Downing Street</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25uk-downing-street-lhjp/25uk-downing-street-lhjp-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>Police officers stand guard near where a car crashed into front gates on Downing Street in London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Inside Tina Turner’s Quiet Life in Switzerland</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/tina-turner-switzerland-kusnacht.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/tina-turner-switzerland-kusnacht.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/tina-turner-switzerland-kusnacht.html" rel="standout"></atom:link>
+      <description>The woman from Nutbush, Tenn., renounced her American citizenship in 2013 to live a quiet life in Küsnacht on Lake Zurich.</description>
+      <dc:creator>Christopher F. Schuetze</dc:creator>
+      <pubDate>Thu, 25 May 2023 22:51:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Tina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zurich (Switzerland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kusnacht (Switzerland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Erwin</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25turner-switzerland-01-gfvb/25turner-switzerland-01-gfvb-moth.jpg" width="151"></media:content>
+      <media:credit>Michael Buholzer/EPA, via Shutterstock</media:credit>
+      <media:description>Outside Tina Turner’s house in Switzerland on Wednesday. In Küsnacht, she did her own shopping and stood in line at the post office.</media:description>
+    </item>
+    <item>
+      <title>Four Killed In Shooting and Stabbing Attack in Japan</title>
+      <link>https://www.nytimes.com/2023/05/25/world/asia/japan-shooting-stabbing-nakano.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/asia/japan-shooting-stabbing-nakano.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/asia/japan-shooting-stabbing-nakano.html" rel="standout"></atom:link>
+      <description>The assault on Thursday in the city of Nakano in central Japan took the lives of two women and two police officers. It was a rare episode of violence in a country where gun crime remains low.</description>
+      <dc:creator>Isabella Kwai and Hisako Ueno</dc:creator>
+      <pubDate>Fri, 26 May 2023 05:41:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25japan-shooting-promo-vkjm/25japan-shooting-promo-vkjm-moth.jpg" width="151"></media:content>
+      <media:credit>Kyodo News, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>U.S. Condemns Deal Allowing Russia to Deploy Nuclear Weapons in Belarus</title>
+      <link>https://www.nytimes.com/2023/05/26/world/europe/russia-belarus-nuclear-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/26/world/europe/russia-belarus-nuclear-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/26/world/europe/russia-belarus-nuclear-weapons.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 26 May 2023 06:03:42 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25ukraine-briefing-belarus-nuclear-topart-tbpg/25ukraine-briefing-belarus-nuclear-topart-tbpg-moth.jpg" width="151"></media:content>
+      <media:credit>Russian Defense Ministry</media:credit>
+      <media:description>A photo released by the Russian government shows Russia’s defense minister, Sergei Shoigu, left, with his Belarusian counterpart, Victor Khrenin, in Minsk, Belarus, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Australia Remembers Tina Turner With the Nutbush</title>
+      <link>https://www.nytimes.com/2023/05/25/world/australia/australia-tina-turner-nutbush.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/australia/australia-tina-turner-nutbush.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/australia/australia-tina-turner-nutbush.html" rel="standout"></atom:link>
+      <description>The Nutbush, set to its eponymous song and sometimes considered an unofficial national dance, is popular with all ages and has taken on special significance after the singer’s death.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Thu, 25 May 2023 12:24:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turner, Tina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25oz-turner-bcgv/25oz-turner-bcgv-moth.jpg" width="151"></media:content>
+      <media:credit>Patrick Riviere/Getty Images</media:credit>
+      <media:description>Tina Turner performing in Sydney in 1993. Her ties to Australia extend beyond the Nutbush.</media:description>
+    </item>
+    <item>
+      <title>How Erdogan Reoriented Turkish Culture to Maintain His Power</title>
+      <link>https://www.nytimes.com/2023/05/25/arts/turkey-election-erdogan-culture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/arts/turkey-election-erdogan-culture.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/arts/turkey-election-erdogan-culture.html" rel="standout"></atom:link>
+      <description>Turkey’s president has made a spectacle of the Ottoman past, using monuments and TV shows to rally his voters. His cultural opponents have faced censorship, or jail.</description>
+      <dc:creator>Jason Farago</dc:creator>
+      <pubDate>Fri, 26 May 2023 02:46:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hagia Sophia (Istanbul, Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Istanbul (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ottoman Empire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25turkey-culture1-bvgp/25turkey-culture1-bvgp-moth.jpg" width="151"></media:content>
+      <media:credit>Bradley Secker for The New York Times</media:credit>
+      <media:description>President Recep Tayyip Erdogan of Turkey, who is running for re-election on Sunday, has used culture as a lever of power during his two-decade rule.</media:description>
+    </item>
+    <item>
+      <title>Ron DeSantis and the ‘Scaffle’ Vote</title>
+      <link>https://www.nytimes.com/2023/05/25/briefing/ron-desantis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/briefing/ron-desantis.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/briefing/ron-desantis.html" rel="standout"></atom:link>
+      <description>As DeSantis announces his campaign, we dig into what may be the single most important fact about U.S. politics.</description>
+      <dc:creator>David Leonhardt</dc:creator>
+      <pubDate>Thu, 25 May 2023 14:14:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25-THE-MORNING-NL-Lede-promo/25-THE-MORNING-NL-DeSantis-lwkj-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Chris Delmas/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Photo illustration shows the live Twitter talk with Elon Musk with a background of Ron DeSantis as he announces his 2024 presidential run on his Twitter page, May 24, 2023 in Los Angeles, California.</media:description>
+    </item>
+    <item>
+      <title>Bou Samnang Lost Southeast Asian Games Race, but Won Praise</title>
+      <link>https://www.nytimes.com/2023/05/25/sports/bou-samnang-cambodian-runner-rain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/sports/bou-samnang-cambodian-runner-rain.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/sports/bou-samnang-cambodian-runner-rain.html" rel="standout"></atom:link>
+      <description>Video of the Cambodian runner Bou Samnang’s rain-soaked performance in a 5,000-meter race resonated with fans who applauded her gritty determination.</description>
+      <dc:creator>Sun Narin and Mike Ives</dc:creator>
+      <pubDate>Thu, 25 May 2023 09:30:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Track and Field</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bou Samnang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phnom Penh (Cambodia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/23/multimedia/00xp-cambodia-runner-mwtp/00xp-cambodia-runner-mwtp-moth.jpg" width="151"></media:content>
+      <media:credit>Duc Dong/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>UK Net Migration Record Poses Sharp Dilemma for Sunak</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/uk-migration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/uk-migration.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/uk-migration.html" rel="standout"></atom:link>
+      <description>Net migration to Britain has exceeded 600,000 a year, stirring tensions in a government that promised to stem arrivals.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Thu, 25 May 2023 20:32:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braverman, Suella</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/25/multimedia/25uk-immigration-01-jlvc/25uk-immigration-01-jlvc-moth.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Sutton High Street in southwest London is now home to a number of Hong Kong families.</media:description>
+    </item>
+    <item>
+      <title>What to Know About Russia’s Capture of Bakhmut in Ukraine</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/bakhmut-ukraine-russia-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/bakhmut-ukraine-russia-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/bakhmut-ukraine-russia-war.html" rel="standout"></atom:link>
+      <description>Moscow has declared victory in its long, bloody assault. But a full capture of the ruined city may not help Russian forces advance deeper in the Donbas region.</description>
+      <dc:creator>Cora Engelbrecht</dc:creator>
+      <pubDate>Thu, 25 May 2023 09:16:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/04/26/multimedia/xxukraine-bakhmut-explainer-06-bfqj/xxukraine-bakhmut-explainer-06-bfqj-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+      <media:description>Ukrainian troops firing toward Russian positions near Bakhmut in March.</media:description>
+    </item>
+    <item>
+      <title>How Geena Davis Continues to Tackle Gender Bias in Hollywood </title>
+      <link>https://www.nytimes.com/2023/05/25/business/geena-davis-hollywood-sexism-gender.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/business/geena-davis-hollywood-sexism-gender.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/business/geena-davis-hollywood-sexism-gender.html" rel="standout"></atom:link>
+      <description>When it comes to quantifying bias in popular entertainment, the Academy Award winner’s in a league of her own.</description>
+      <dc:creator>Chris Colin</dc:creator>
+      <pubDate>Sun, 28 May 2023 21:26:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Geena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Davis, Geena, Institute on Gender in Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/02/multimedia/00transforming-hollywood-geena-davis-01-hcmz/00transforming-hollywood-geena-davis-01-hcmz-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Magdalena Wosinska for The New York Times</media:credit>
+      <media:description>Next year will mark two decades since the Academy-Award winning actor created the Geena Davis Institute on Gender in Media.</media:description>
+    </item>
+    <item>
+      <title>Russia is Modifying Soviet-Era Bombs to Use Against Ukraine</title>
+      <link>https://www.nytimes.com/2023/05/25/world/europe/russia-ukraine-soviet-bombs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/world/europe/russia-ukraine-soviet-bombs.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/world/europe/russia-ukraine-soviet-bombs.html" rel="standout"></atom:link>
+      <description>Ukrainian and American officials say Russian warplanes are dropping Soviet-era bombs, some modified to glide long distances, which are almost impossible to shoot down.</description>
+      <dc:creator>Jeffrey Gettleman and Eric Schmitt</dc:creator>
+      <pubDate>Thu, 25 May 2023 09:00:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/12/multimedia/00ukraine-weapons-tlqc/00ukraine-weapons-tlqc-moth.jpg" width="151"></media:content>
+      <media:credit>Andriy Andriyenko/Associated Press</media:credit>
+      <media:description>Emergency workers inspecting a FAB-500 bomb in Preobrazhenka, Ukraine, last month. The Russian military is also modifying bombs similar to these to become glide bombs.</media:description>
+    </item>
+    <item>
+      <title>Airports With the Worst Records for Cancellations and Delays</title>
+      <link>https://www.nytimes.com/2023/05/25/travel/summer-airports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/05/25/travel/summer-airports.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/05/25/travel/summer-airports.html" rel="standout"></atom:link>
+      <description>If you can, avoiding destinations with the worst records for delays and cancellations may be wise. Or at least time your arrival right.</description>
+      <dc:creator>Shannon Sims</dc:creator>
+      <pubDate>Thu, 25 May 2023 09:18:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gatwick Airport (London)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heathrow Airport (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy International Airport (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LaGuardia Airport (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newark Liberty International Airport (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Logan International Airport (Boston, Mass)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/27/travel/25Travel_Guide-03/25Travel_Guide-03-moth.jpg" width="151"></media:content>
+      <media:credit>Yukai Du</media:credit>
+    </item>
+  </channel>
+</rss>

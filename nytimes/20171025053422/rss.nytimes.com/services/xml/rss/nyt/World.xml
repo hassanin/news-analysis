@@ -1,0 +1,835 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World</title>
+    <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/World.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 25 Oct 2017 05:20:08 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; World</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>China Enshrines &#x2018;Xi Jinping Thought,&#x2019; Elevating Leader to Mao-Like Status</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/china-xi-jinping-communist-party.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/china-xi-jinping-communist-party.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/china-xi-jinping-communist-party.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25china-constitution-1/25china-constitution-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping of China, center, speaking on Tuesday during the closing ceremony of the party congress in Beijing.</media:description>
+      <media:credit>Andy Wong/Associated Press</media:credit>
+      <description>The Communist Party has added the president&#x2019;s name and ideas to its constitution, solidifying his position as China&#x2019;s most powerful leader in decades.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:39:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Commission for Discipline Inspection (Communist Party of China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng Xiaoping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hu Jintao</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jiang Zemin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Keqiang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Qishan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Enmity Between Baghdad and Kurds Erupts in Deadly Clashes</title>
+      <link>https://www.nytimes.com/2017/10/24/world/middleeast/iraqi-kurds-clashes-abadi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/middleeast/iraqi-kurds-clashes-abadi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/middleeast/iraqi-kurds-clashes-abadi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25iraq1/25iraq1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kurdish security forces withdrawing from a checkpoint in Altun Kupri, on the outskirts of Erbil, Iraq, the Kurdish regional capital, last week.</media:description>
+      <media:credit>Khalid Mohammed/Associated Press</media:credit>
+      <description>Both sides claim that they were attacked, and the Kurdish regional government says it expects a fresh Iraqi assault.</description>
+      <dc:creator>DAVID ZUCCHINO</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 22:50:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kurds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pesh Merga</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Iraqi Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+    </item>
+    <item>
+      <title>Across Myanmar, Denial of Ethnic Cleansing and Loathing of Rohingya</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/myanmar-rohingya-ethnic-cleansing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/myanmar-rohingya-ethnic-cleansing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/myanmar-rohingya-ethnic-cleansing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25rakhine-1/25rakhine-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Rohingya woman and her child returning to the Basara camp in Sittwe, the provincial capital of Rakhine State in Myanmar.</media:description>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <description>Claims that atrocities were staged, along with stark hate speech against Rohingya Muslims, are blaring out from social media and official statements.</description>
+      <dc:creator>HANNAH BEECH</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 05:06:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rakhine State (Myanmar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">War Crimes, Genocide and Crimes Against Humanity</category>
+    </item>
+    <item>
+      <title>Harvey Weinstein&#x2019;s Italian Friend Is Now in the Eye of a Media Storm</title>
+      <link>https://www.nytimes.com/2017/10/24/world/europe/fabrizio-lombardo-harvey-weinstein-italy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/europe/fabrizio-lombardo-harvey-weinstein-italy.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/europe/fabrizio-lombardo-harvey-weinstein-italy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/europe/25lombardo/23lombardo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harvey Weinstein and Fabrizio Lombardo in 2007 at a screening of the film &#x201C;Michael Clayton&#x201D; at the Venice Film Festival.</media:description>
+      <media:credit>Camilla Morandi/Corbis, via Getty Images</media:credit>
+      <description>Fabrizio Lombardo insisted he was a key employee of the movie producer in Italy. Former colleagues and women who&#x2019;ve accused the mogul of harassment say otherwise.</description>
+      <dc:creator>JASON HOROWITZ</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 17:04:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Weinstein Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fabrizio Lombardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+    </item>
+    <item>
+      <title>This Catalan Town Has Already Broken From Spain, Physically at Least</title>
+      <link>https://www.nytimes.com/2017/10/24/world/europe/catalonia-independence-spain-llivia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/europe/catalonia-independence-spain-llivia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/europe/catalonia-independence-spain-llivia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25llivia1/xxllivia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Catalan flags hanging from the municipal building in Llivia, a Spanish enclave within France that is connected to Spain by a narrow road.</media:description>
+      <media:credit>Samuel Aranda for The New York Times</media:credit>
+      <description>Llivia, a five-square-mile town, is a geographic and historical anomaly that has existed for more than 350 years as a Spanish enclave inside France.</description>
+      <dc:creator>LAURE FOURQUET</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 16:44:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Llivia, Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catalonia (Spain)</category>
+    </item>
+    <item>
+      <title>Only U.S. and Syria Now Oppose Paris Climate Deal, as Nicaragua Joins</title>
+      <link>https://www.nytimes.com/2017/10/24/world/americas/nicaragua-paris-climate-agreement-us.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/americas/nicaragua-paris-climate-agreement-us.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/americas/nicaragua-paris-climate-agreement-us.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25nicaraguaclimate-sub/25nicaraguaclimate-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump announced in June that the United States would withdraw from the Paris climate accord.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>The Central American country that once criticized the pact as not going far enough has hailed it as an important tool to reduce greenhouse gas emissions.</description>
+      <dc:creator>LIAM STACK</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:40:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+    </item>
+    <item>
+      <title>Australian Soldiers &#x2018;Liked&#x2019; Facebook Page That Joked About Rape</title>
+      <link>https://www.nytimes.com/2017/10/24/world/australia/adf-facebook-scandal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/australia/adf-facebook-scandal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/australia/adf-facebook-scandal.html?partner=rss&amp;emc=rss"/>
+      <description>A page that made light of rape and necrophilia was the latest embarrassment for the military, which critics say has a persistent culture of misogyny.</description>
+      <dc:creator>ADAM BAIDAWI</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 11:15:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+    </item>
+    <item>
+      <title>Kenya&#x2019;s Supreme Court to Hear Last-Minute Petition on Election Rerun</title>
+      <link>https://www.nytimes.com/2017/10/24/world/africa/kenya-supreme-court-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/africa/kenya-supreme-court-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/africa/kenya-supreme-court-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25Kenya/24Kenya-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Supporters of the Kenyan opposition leader Raila Odinga fleeing from the police at an attempted protest in the capital, Nairobi, on Tuesday.</media:description>
+      <media:credit>Ben Curtis/Associated Press</media:credit>
+      <description>Judges could postpone the vote scheduled for Thursday after the main opposition candidate withdrew and officials alleged interference.</description>
+      <dc:creator>JINA MOORE</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 16:41:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kenyatta, Uhuru Muigai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odinga, Raila</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+    </item>
+    <item>
+      <title>Tillerson in Kabul? Two Photos Lead to Many Questions</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/afghanistan-kabul-bagram-photographs-tillerson.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/afghanistan-kabul-bagram-photographs-tillerson.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/afghanistan-kabul-bagram-photographs-tillerson.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24afghan-photo1/24afghan-photo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The photo released by the office of Afghanistan&#x2019;s president, where a clock above the television sets was removed.</media:description>
+      <media:credit>Office of the President of Afghanistan</media:credit>
+      <description>A secret meeting between Secretary of State Rex W. Tillerson and the Afghan president was said to take place in Kabul. Photographs told another story.</description>
+      <dc:creator>MUJIB MASHAL</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 13:58:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bagram Air Base (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Photography</category>
+    </item>
+    <item>
+      <title>China&#x2019;s &#x2018;Chairman of Everything&#x2019;: Behind Xi Jinping&#x2019;s Many Titles</title>
+      <link>https://www.nytimes.com/2017/10/25/world/asia/china-xi-jinping-titles-chairman.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/25/world/asia/china-xi-jinping-titles-chairman.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/25/world/asia/china-xi-jinping-titles-chairman.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25xi-titles-1/25xi-titles-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping at a military parade in Inner Mongolia in July. Many of his titles relate to the military and national security.</media:description>
+      <media:credit>Li Tao/Xinhua, via Associated Press</media:credit>
+      <description>Mr. Xi has used a bureaucrat&#x2019;s savvy to cement his control, inventing titles and institutions.</description>
+      <dc:creator>JAVIER C. HERN&#xC1;NDEZ</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 05:01:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>These Seven Men Now Run China</title>
+      <link>https://www.nytimes.com/2017/10/25/world/asia/china-politburo-leaders-xi-jinping.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/25/world/asia/china-politburo-leaders-xi-jinping.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/25/world/asia/china-politburo-leaders-xi-jinping.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24china-leaders-1/24china-leaders-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Xi Jinping of China presided over the opening of the Communist Party Congress last week in Beijing.</media:description>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <description>President Xi Jinping announced the new lineup for China&#x2019;s Politburo Standing Committee, the body that will determine policy for the next five years.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:37:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-multimedia</category>
+    </item>
+    <item>
+      <title>Europe Edition: Xi Jinping, Jeff Flake, Glyphosate: Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2017/10/25/briefing/jeff-flake-xi-jinping-glyphosate.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/25/briefing/jeff-flake-xi-jinping-glyphosate.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/25/briefing/jeff-flake-xi-jinping-glyphosate.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/briefing/25briefing-europe-slide-Z563/25briefing-europe-slide-Z563-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>PATRICK BOEHLER</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 05:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>China Unveils New Leadership, With Xi Jinping More Powerful Than Ever</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/xi-jinping-china.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/xi-jinping-china.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/xi-jinping-china.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/26/world/26china-4/26china-4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>China&#x2019;s new Politburo Standing Committee was introduced at the Great Hall of the People. The members are, from left, Han Zheng, Wang Huning, Li Zhanshu, President Xi Jinping, Premier Li Keqiang, Wang Yang and Zhao Leji.</media:description>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <description>The Communist Party declined to anoint a potential successor, prompting speculation Mr. Xi intends to break with tradition and rule beyond his second term.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:45:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Politburo Standing Committee of the Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Deep Cracks Appear in Venezuela&#x2019;s Weakened Opposition</title>
+      <link>https://www.nytimes.com/2017/10/24/world/americas/venezuela-opposition-capriles-maduro.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/americas/venezuela-opposition-capriles-maduro.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/americas/venezuela-opposition-capriles-maduro.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25venezuela1/25venezuela1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Henrique Capriles at a rally this month. On Tuesday, he called for an overhaul of the opposition alliance.</media:description>
+      <media:credit>Juan Barreto/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>After elections that bolstered President Nicol&#xE1;s Maduro, the opposition leader Henrique Capriles threatened to pull out of the anti-Maduro alliance.</description>
+      <dc:creator>KIRK SEMPLE and ANA VANESSA HERRERO</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 00:11:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Unity (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Socialist Party (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Capriles Radonski, Henrique</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+    </item>
+    <item>
+      <title>Jeff Flake, Puerto Rico, World Series: Your Tuesday Evening Briefing</title>
+      <link>https://www.nytimes.com/2017/10/24/briefing/jeff-flake-puerto-rico-world-series.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/briefing/jeff-flake-puerto-rico-world-series.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/briefing/jeff-flake-puerto-rico-world-series.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/briefing/24eveningss-slide-V398/24eveningss-slide-V398-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>KAREN ZRAICK and SANDRA STEVENSON</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 22:35:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Russian Celebrity Opens Presidential Campaign</title>
+      <link>https://www.nytimes.com/2017/10/24/world/europe/russia-sobchak-president.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/europe/russia-sobchak-president.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/europe/russia-sobchak-president.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25russia1/25russia1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ksenia Sobchak, who plans to run in the coming presidential election, at a news conference in Moscow.</media:description>
+      <media:credit>Maxim Shemetov/Reuters</media:credit>
+      <description>At a packed news conference, Ksenia Sobchak said she spoke of a generation itching to challenge a corrupt political system and ultimately gain power.</description>
+      <dc:creator>IVAN NECHEPURENKO</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:41:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobchak, Kseniya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+    </item>
+    <item>
+      <title>U.K. Parliament Asks: Did Russia Try to Sway Brexit Vote?</title>
+      <link>https://www.nytimes.com/2017/10/24/world/europe/britain-russia-facebook-brexit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/europe/britain-russia-facebook-brexit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/europe/britain-russia-facebook-brexit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25ukfacebook1/25ukfacebook1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Prime Minister Theresa May in Brussels last week to talk about Britain&#x2019;s departure from the European Union.</media:description>
+      <media:credit>Pool photo by Olivier Hoslet</media:credit>
+      <description>Parliament is asking Facebook, Twitter and others about potential efforts by Moscow to influence voters, as it did in the U.S. and France.</description>
+      <dc:creator>DAVID D. KIRKPATRICK</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 23:57:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+    </item>
+    <item>
+      <title>Far-Right Upsets Tradition of Consensus in New German Parliament</title>
+      <link>https://www.nytimes.com/2017/10/24/world/europe/german-parliament-far-right.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/europe/german-parliament-far-right.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/europe/german-parliament-far-right.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25germany2/25germany2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Chancellor Angela Merkel of Germany faced criticism from former coalition partners during the first session of the newly elected Parliament.</media:description>
+      <media:credit>Odd Andersen/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A challenge by the Alternative for Germany party holds up the opening of the session, as the opposition criticizes Chancellor Angela Merkel.</description>
+      <dc:creator>MELISSA EDDY</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 02:06:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schauble, Wolfgang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alternative for Germany</category>
+    </item>
+    <item>
+      <title>Russia Blocks U.N. Move to Renew Syria Chemical Weapons Inquiry</title>
+      <link>https://www.nytimes.com/2017/10/24/world/middleeast/syria-chemical-weapons-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/middleeast/syria-chemical-weapons-russia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/middleeast/syria-chemical-weapons-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25nations1/25nations1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Civil defense members inspecting the damage at a site hit by airstrikes in Khan Sheikhoun, Syria, in April.</media:description>
+      <media:credit>Ammar Abdullah/Reuters</media:credit>
+      <description>The veto of the United States-sponsored measure cast fresh doubt on whether users of chemical weapons in the Syrian conflict will ever be held to account.</description>
+      <dc:creator>RICK GLADSTONE</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:41:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khan Sheikhoun (Syria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Security Council (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haley, Nikki R</category>
+    </item>
+    <item>
+      <title>U.S. Warning to Pakistan: Stop Backing Terrorism</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/tillerson-pakistan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/tillerson-pakistan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/tillerson-pakistan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25tillerson1/25tillerson1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State Rex W. Tillerson, center right, with the Pakistani foreign minister, Khawaja Muhammad Asif, center left, in Islamabad on Tuesday.</media:description>
+      <media:credit>Pool photo by Alex Brandon</media:credit>
+      <description>Secretary of State Rex W. Tillerson, in a meeting with Pakistani leaders, urged them to stop giving money or shelter to terrorist groups.</description>
+      <dc:creator>GARDINER HARRIS</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 18:06:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbasi, Shahid Khaqan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bajwa, Qamar Javed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+    </item>
+    <item>
+      <title>Those Aussies Playing in the Croc Trap? &#x2018;Idiots,&#x2019; Mayor Says</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/australia-crocodile-trap.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/australia-crocodile-trap.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/australia-crocodile-trap.html?partner=rss&amp;emc=rss"/>
+      <description>A picture shows four men splashing around inside a baited crocodile trap. They seem to be smiling. Officials in Queensland were not amused.</description>
+      <dc:creator>LIAM STACK</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 17:43:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crocodiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>How Climate Change Is Playing Havoc With Olive Oil (and Farmers)</title>
+      <link>https://www.nytimes.com/2017/10/24/climate/olive-oil.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/climate/olive-oil.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/climate/olive-oil.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/science/25CLI-OLIVES1/00CLI-OLIVES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harvesters gathering olives at Capezzana, the Contini Bonacossi family estate in Prato, Italy. </media:description>
+      <media:credit>Massimo Berruti for The New York Times</media:credit>
+      <description>Extreme weather is making olive oil production far more erratic just as global demand is growing. A summer heat wave in Europe was the latest calamity.</description>
+      <dc:creator>SOMINI SENGUPTA</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 16:02:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olive Oil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuscany (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Umbria (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Irrigation</category>
+    </item>
+    <item>
+      <title>China Is Said to Free Hong Kong Bookseller, but Family Says He&#x2019;s Missing</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/gui-minhai-hong-kong-bookseller.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/gui-minhai-hong-kong-bookseller.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/gui-minhai-hong-kong-bookseller.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25bookseller-1/25bookseller-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Protesters in Hong Kong last year with pictures of Gui Minhai, third from left, and other missing booksellers. Their disappearances raised questions about the rule of law in the semiautonomous city.</media:description>
+      <media:credit>Anthony Wallace/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Gui Minhai, who published potboilers about China&#x2019;s leaders, disappeared from Thailand two years ago and later emerged in detention in China.</description>
+      <dc:creator>AUSTIN RAMZY</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 13:44:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mighty Current Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gui Minhai</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam Wing-kee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee Bo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+    </item>
+    <item>
+      <title>Hong Kong Protest Leaders Are Freed on Bail to Pursue Appeal</title>
+      <link>https://www.nytimes.com/2017/10/24/world/asia/hong-kong-joshua-wong.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/world/asia/hong-kong-joshua-wong.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/world/asia/hong-kong-joshua-wong.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/25Hongkong3/25Hongkong3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The pro-democracy activists Joshua Wong, left, and Nathan Law leaving the Court of Final Appeal in Hong Kong on Tuesday after being granted bail.</media:description>
+      <media:credit>Isaac Lawrence/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Joshua Wong and Nathan Law, key figures in the democracy movement, are challenging the sentences that led allies to call them political prisoners.</description>
+      <dc:creator>ALAN WONG</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 06:30:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Law Kwun-chung, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong, Joshua (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Occupy Central</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Europe Edition: Donald Trump, Syria, Migrants: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2017/10/24/briefing/donald-trump-syria-migrants.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/briefing/donald-trump-syria-migrants.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/briefing/donald-trump-syria-migrants.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/briefing/24briefing-europe-slide-EVP4/24briefing-europe-slide-EVP4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Mike Stocker/South Florida Sun-Sentinel, via Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>PATRICK BOEHLER</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 10:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Footsteps: Chasing the Spirit of a Fractured Spain Through Garc&#xED;a Lorca</title>
+      <link>https://www.nytimes.com/2017/10/24/travel/andalusia-federico-garcia-lorca-spain.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/24/travel/andalusia-federico-garcia-lorca-spain.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/24/travel/andalusia-federico-garcia-lorca-spain.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/29/travel/29Andalusia4/29Andalusia4-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The famous Paseo de los Tristes.</media:description>
+      <media:credit>Javier Luengo for The New York Times</media:credit>
+      <description>The powerful voice of the Spanish poet and playwright Federico Garc&#xED;a Lorca is still one that binds this nation in the midst of its current struggles.</description>
+      <dc:creator>DOREEN CARVAJAL</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 06:08:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Catalan independence movement</category>
+    </item>
+    <item>
+      <title>China&#x2019;s Entrepreneurs Squirm Under Xi Jinping&#x2019;s Tightening Grip</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/china-xi-business-entrepreneurs.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/china-xi-business-entrepreneurs.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/china-xi-business-entrepreneurs.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24china-biz-1/24china-biz-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Clockwise from top left: Xiao Jianhua and Wu Xiaohui, who have not been seen in months; Ren Zhiqiang, a tycoon who was put on probation as a Communist Party member; and Guo Wengui, a developer seeking political asylum.</media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images; Reuters; Associated Press; James Estrin/The New York Times </media:credit>
+      <description>The Communist Party increasingly asserts its authority over business leaders, weakening their drive to invest and eroding confidence in the country.</description>
+      <dc:creator>SUI-LEE WEE</dc:creator>
+      <pubDate>Wed, 25 Oct 2017 04:40:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Frauds and Swindling</category>
+    </item>
+    <item>
+      <title>U.S. Clears Bill Browder to Enter, Rebuking Russia</title>
+      <link>https://www.nytimes.com/2017/10/23/world/europe/russia-us-magnitsky-browder.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/europe/russia-us-magnitsky-browder.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/europe/russia-us-magnitsky-browder.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/25/world/24browder-1/24browder-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>William F. Browder, a prominent investor who has led an international campaign to punish Russian human rights abusers.</media:description>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <description>Moscow put William F. Browder, a Kremlin critic, on an Interpol list of international fugitives. Hours later, he announced that his visa was restored.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 01:26:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Browder, William F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Magnitsky, Sergei L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+    </item>
+    <item>
+      <title>Brazilian Police Kill a Spanish Tourist in Rio de Janeiro</title>
+      <link>https://www.nytimes.com/2017/10/23/world/americas/brazil-rio-de-janeiro-police-tourist.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/americas/brazil-rio-de-janeiro-police-tourist.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/americas/brazil-rio-de-janeiro-police-tourist.html?partner=rss&amp;emc=rss"/>
+      <description>Police officers shot at the car the tourist was riding in after it failed to stop at a police roadblock, the authorities said.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 00:21:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio de Janeiro (Brazil)</category>
+    </item>
+    <item>
+      <title>Argentina&#x2019;s President Says Election Gains Bolster His Reform Plan</title>
+      <link>https://www.nytimes.com/2017/10/23/world/americas/argentina-mauricio-macri-election.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/americas/argentina-mauricio-macri-election.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/americas/argentina-mauricio-macri-election.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24argentina1/24argentina1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Mauricio Macri of Argentina spoke to journalists after casting his vote in Buenos Aires on Sunday. On Monday, Mr. Macri hailed the election results as a show of support for his agenda.</media:description>
+      <media:credit>Marcos Brindicci/Reuters</media:credit>
+      <description>President Mauricio Macri&#x2019;s strong showing in midterm elections strengthens his hand to press forward with labor, pension and tax changes.</description>
+      <dc:creator>DANIEL POLITI</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 00:06:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macri, Mauricio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+    </item>
+    <item>
+      <title>Rex Tillerson, Megyn Kelly, Saudi Arabia: Your Monday Evening Briefing</title>
+      <link>https://www.nytimes.com/2017/10/23/briefing/rex-tillerson-megyn-kelly-saudi-arabia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/briefing/rex-tillerson-megyn-kelly-saudi-arabia.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/briefing/rex-tillerson-megyn-kelly-saudi-arabia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/23/briefing/23eveningss-slide-MWM5/23eveningss-slide-MWM5-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tom Brenner/The New York Times</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>KAREN ZRAICK and SANDRA STEVENSON</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 22:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. Troops Ambushed in Niger Waited an Hour to Call for Help</title>
+      <link>https://www.nytimes.com/2017/10/23/world/africa/niger-attack-dunford.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/africa/niger-attack-dunford.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/africa/niger-attack-dunford.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/us/24dc-troops/24dc-troops-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gen. Joseph F. Dunford Jr. spoke to reporters on Monday about the deadly ambush in Niger this month that killed four American soldiers and four Nigeriens.</media:description>
+      <media:credit>Manuel Balce Ceneta/Associated Press</media:credit>
+      <description>The Pentagon has not determined why the soldiers waited to seek backup. A top official said they might have thought they could withstand the deadly attack.</description>
+      <dc:creator>THOMAS GIBBONS-NEFF and HELENE COOPER</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 03:25:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunford, Joseph F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, La David T (1992-2017)</category>
+    </item>
+    <item>
+      <title>Scores of Bodies Are Found in Syrian Town After ISIS Retreats</title>
+      <link>https://www.nytimes.com/2017/10/23/world/middleeast/syria-isis-mass-killing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/middleeast/syria-isis-mass-killing.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/middleeast/syria-isis-mass-killing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24syria/24syria-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Syrian soldiers and pro-government fighters in the recently retaken desert town of Qaryatayn, Syria, on Sunday.</media:description>
+      <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>An apparent mass killing is the latest example of the brutal reprisals that have taken place when territory changes hands in Syria&#x2019;s multisided war.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 21:52:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Syrian Observatory for Human Rights</category>
+    </item>
+    <item>
+      <title>Tillerson Visits Iraq to Chilly Reception Over His Remarks on Iran-Backed Militias</title>
+      <link>https://www.nytimes.com/2017/10/23/world/middleeast/tillerson-iraq-iran-afghanistan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/middleeast/tillerson-iraq-iran-afghanistan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/middleeast/tillerson-iraq-iran-afghanistan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24iraq/24iraq-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State Rex W. Tillerson listens as Prime Minister Haider al-Abadi of Iraq, center, speaks during their meeting in Baghdad on Monday.</media:description>
+      <media:credit>Pool photo by Alex Brandon</media:credit>
+      <description>After a quick visit to Afghanistan the secretary of state arrives in Baghdad, seeking to ease tensions with the Kurds and to isolate Iran.</description>
+      <dc:creator>GARDINER HARRIS</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 21:54:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abadi, Haider al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bagram Air Base (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+    </item>
+    <item>
+      <title>U.S. Threatens to Punish Myanmar Over Treatment of Rohingya</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/rohingya-bangladesh-myanmar.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/rohingya-bangladesh-myanmar.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/rohingya-bangladesh-myanmar.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24rohingya1/24rohingya1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Newly arrived Rohingya refugees in Bangladesh at an informal settlement.</media:description>
+      <media:credit>Adam Dean for The New York Times</media:credit>
+      <description>Washington imposes travel restrictions on Myanmar&#x2019;s military leaders and threatens sanctions against those responsible for atrocities in Rakhine State.</description>
+      <dc:creator>PETER BAKER and NICK CUMMING-BRUCE</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 03:48:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rohingya (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rakhine State (Myanmar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Organization for Migration</category>
+    </item>
+    <item>
+      <title>Asia and Australia Edition: Rohingya, Marawi, Xi Jinping: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2017/10/23/briefing/rohingya-marawi-xi-jinping.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/briefing/rohingya-marawi-xi-jinping.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/briefing/rohingya-marawi-xi-jinping.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/23/briefing/24BRIEFING-asia-slide-FFUX/24BRIEFING-asia-slide-FFUX-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>CHARLES McDERMID</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 00:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>ISIS Threat in Philippines Spreads in Remote Battles</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/isis-philippines-mindanao-marawi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/isis-philippines-mindanao-marawi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/isis-philippines-mindanao-marawi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24mindanao-1/24mindanao-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Members of the Moro Islamic Liberation Front preparing to battle Islamic State-inspired militants in the southern Philippines last month.</media:description>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <description>Even after the defeat of jihadist forces in the city of Marawi, people on Mindanao tell of fierce battles with other Islamist cells.</description>
+      <dc:creator>FELIPE VILLAMOR</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 04:01:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mindanao (Philippines)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marawi (Philippines)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Moro Islamic Liberation Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+    </item>
+    <item>
+      <title>Russian Journalist Stabbed, Renewing Fears of Attacks on Media</title>
+      <link>https://www.nytimes.com/2017/10/23/world/europe/russia-ekho-moskvy-tatyana-felgenhauer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/europe/russia-ekho-moskvy-tatyana-felgenhauer.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/europe/russia-ekho-moskvy-tatyana-felgenhauer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24russiajourno1/24russiajourno1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Police officers detained a man after the journalist Tatyana Felgenhauer was stabbed at the Echo of Moscow radio station on Monday.</media:description>
+      <media:credit>Vitaly Ruvinsky/Ekho Moskvy, via Associated Press</media:credit>
+      <description>The deputy editor of the prominent station, Echo of Moscow, was assaulted by a knife-wielding man. The station said her injuries were not life threatening.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 03:12:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Felgenhauer, Tatyana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Echo of Moscow</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+    </item>
+    <item>
+      <title>What It Could Mean if China&#x2019;s Leader Won&#x2019;t Name an Heir</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/china-xi-jinping-successor.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/china-xi-jinping-successor.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/china-xi-jinping-successor.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24succession-1/24succession-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Souvenir plates in Beijing depicting President Xi Jinping of China, left, and the revolutionary leader Mao Zedong.</media:description>
+      <media:credit>Tyrone Siu/Reuters</media:credit>
+      <description>If no successors-in-waiting appear, that would raise speculation that Xi Jinping may try to keep power in some form after his second five-year term as president ends.</description>
+      <dc:creator>CHRIS BUCKLEY</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 01:50:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Politburo Standing Committee of the Communist Party of China</category>
+    </item>
+    <item>
+      <title>Price-Fixing Inquiry Moves From BMW to Daimler and Volkswagen</title>
+      <link>https://www.nytimes.com/2017/10/23/business/daimler-volkswagen-eu-car-bmw.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/business/daimler-volkswagen-eu-car-bmw.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/business/daimler-volkswagen-eu-car-bmw.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/24EUCARS1/24EUCARS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Mercedes-Benz logo on the headquarters of Daimler in Stuttgart, Germany. European Union regulators are looking into whether the country&#x2019;s three major vehicle manufacturers &#x2014; BMW, Daimler and Volkswagen &#x2014; colluded on the cost of auto parts.</media:description>
+      <media:credit>Thomas Kienzle/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>After raiding BMW last week, European Union regulators looking into possible collusion over equipment costs searched Daimler and Volkswagen offices.</description>
+      <dc:creator>JAMES KANTER</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 22:00:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Volkswagen AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Daimler AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+    </item>
+    <item>
+      <title>Beirut Journal: A Legacy of Lebanon&#x2019;s War: &#x2018;Land Mines&#x2019; Left by Beirut&#x2019;s Dogs</title>
+      <link>https://www.nytimes.com/2017/10/23/world/middleeast/lebanon-beirut-dogs-poop.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/middleeast/lebanon-beirut-dogs-poop.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/middleeast/lebanon-beirut-dogs-poop.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24beirut1/xxbeirut1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A woman walking her employer&#x2019;s dog in Beirut, Lebanon. A small band of Beirutis are trying to drag their city into the modern world of poop-scooping.</media:description>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <description>Dog feces on city streets seems like a small problem, but as it turns out, it reflects many of Lebanon&#x2019;s larger ones.</description>
+      <dc:creator>ANNE BARNARD</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 19:17:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sidewalks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Feces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Waste Materials and Disposal</category>
+    </item>
+    <item>
+      <title>Rex Tillerson Pays Secret Visit to U.S. Air Base in Afghanistan</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/rex-tillerson-afghanistan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/rex-tillerson-afghanistan.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/rex-tillerson-afghanistan.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24Tillerson/24Tillerson-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Secretary of State Rex W. Tillerson arriving at Bagram Airfield, Afghanistan, on Monday. The trip was kept secret until after he had left.</media:description>
+      <media:credit>Pool photo by Alex Brandon</media:credit>
+      <description>Mr. Tillerson did not risk the short trip to Kabul to visit the heavily fortified United States Embassy or Afghan presidential palace, as his predecessors have done.</description>
+      <dc:creator>GARDINER HARRIS</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 21:43:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bagram Air Base (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+    </item>
+    <item>
+      <title>London Adds Charge for Older Diesel Vehicles to Fight Pollution</title>
+      <link>https://www.nytimes.com/2017/10/23/business/london-diesel-congestion-charge.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/business/london-diesel-congestion-charge.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/business/london-diesel-congestion-charge.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/business/24Londondiesel/24Londondiesel-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A traffic jam in central London. Drivers of older, polluting vehicles face an additional penalty.</media:description>
+      <media:credit>Daniel Leal-Olivas/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>It will now cost almost $30 to drive such cars in the center of the British capital, as the mayor cites &#x201C;a health crisis&#x201D; caused by poor-quality air.</description>
+      <dc:creator>LIAM STACK and JACK EWING</dc:creator>
+      <pubDate>Tue, 24 Oct 2017 00:32:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Diesel Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Sadiq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+    </item>
+    <item>
+      <title>D.E.A. Says Hondurans Opened Fire During a Drug Raid. A Video Suggests Otherwise.</title>
+      <link>https://www.nytimes.com/2017/10/23/world/americas/drug-enforcement-agency-dea-honduras.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/americas/drug-enforcement-agency-dea-honduras.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/americas/drug-enforcement-agency-dea-honduras.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/us/24dc-dea/24dc-dea-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Honduran Navy officers patrol in Ahuas, Honduras, in 2012.</media:description>
+      <media:credit>Rodrigo Abd/Associated Press</media:credit>
+      <description>Now made public, the government&#x2019;s surveillance video strongly suggests the agency&#x2019;s account of a raid in Honduras, where four civilians died, was not accurate.</description>
+      <dc:creator>MATTATHIAS SCHWARTZ</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 21:46:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Drug Enforcement Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honduras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+    </item>
+    <item>
+      <title>Scenes From a D.E.A. Drug Raid Gone Wrong</title>
+      <link>https://www.nytimes.com/video/world/americas/100000005491183/dea-drug-raid-gone-wrong.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000005491183/dea-drug-raid-gone-wrong.html</guid>
+      <description>Surveillance footage from 2012, published for the first time, shows four civilians being killed during a drug operation. Mattathias Schwartz, a journalist working with ProPublica, narrates as boats collide and gunfire erupts.</description>
+      <dc:creator/>
+      <pubDate>Mon, 23 Oct 2017 09:00:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Drug Enforcement Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">Honduras</category>
+    </item>
+    <item>
+      <title>As Mattis Arrives in Philippines, Mop-Up in Marawi Is Declared Over</title>
+      <link>https://www.nytimes.com/2017/10/23/world/asia/philippines-mattis-marawi-isis.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/world/asia/philippines-mattis-marawi-isis.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/world/asia/philippines-mattis-marawi-isis.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/24philippines-1/24philippines-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The southern Philippine city of Marawi on Monday. The government called the city &#x201C;liberated&#x201D; last week, and on Monday, the final militant holdouts were said to have been killed.</media:description>
+      <media:credit>Romeo Ranoco/Reuters</media:credit>
+      <description>Jim Mattis, the United States defense secretary, said the Philippines had sent a &#x201C;very necessary message&#x201D; to militants in the war-torn southern city.</description>
+      <dc:creator>FELIPE VILLAMOR</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 10:15:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mattis, James N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Marawi (Philippines)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hapilon, Isnilon</category>
+    </item>
+    <item>
+      <title>Europe Edition: Catalonia, Japan, Robert Mugabe: Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2017/10/23/briefing/catalonia-japan-mugabe.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/23/briefing/catalonia-japan-mugabe.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/23/briefing/catalonia-japan-mugabe.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/23/briefing/23briefing-europe-slide-4PU8/23briefing-europe-slide-4PU8-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Pool photo by Juan Carlos Hidalgo</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>PATRICK BOEHLER</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 05:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argentina&#x2019;s Leader, Mauricio Macri, Bolstered by Election Results</title>
+      <link>https://www.nytimes.com/2017/10/22/world/americas/argentina-election-mauricio-macri.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/10/22/world/americas/argentina-election-mauricio-macri.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/10/22/world/americas/argentina-election-mauricio-macri.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/10/24/world/23argentina-1/23argentina-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Mauricio Macri of Argentina sharing a selfie with a supporter after casting his vote in midterm elections in Buenos Aires on Sunday.</media:description>
+      <media:credit>Natacha Pisarenko/Associated Press</media:credit>
+      <description>Mr. Macri&#x2019;s coalition picked up key seats in midterm elections that were seen as a barometer of the center-right leader&#x2019;s first two years in power.</description>
+      <dc:creator>DANIEL POLITI</dc:creator>
+      <pubDate>Mon, 23 Oct 2017 05:34:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirchner, Cristina Fernandez de</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macri, Mauricio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salta (Argentina)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bullrich, Esteban</category>
+    </item>
+  </channel>
+</rss>
