@@ -9,7 +9,7 @@ import datetime
 
 class Article(BaseModel):
     """Model for an article"""
-    id: Optional[int] = None
+    # id: Optional[int] = None
     title: Optional[str] = None
     link: Optional[str] = None
     # default to the current time
