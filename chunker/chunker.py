@@ -1,5 +1,9 @@
 # Performs chunking of the input text
-from whitehouse.database import get_all_articles, insert_article_chunk
+from whitehouse.database import (
+    get_all_articles,
+    insert_article_chunk,
+    get_remaining_all_articles,
+)
 from myopenai.embedding import create_embedding
 from whitehouse.models import ArticleChunk
 import tqdm
@@ -20,14 +24,15 @@ def chunk_text(text: str, chunk_size: int = 2000) -> list[str]:
 # perform the embedding and then we will save the embeddings to the database along with the chunk
 def perform_open_ai_insertion():
     # get all the articles from the database
-    articles = get_all_articles()
+    articles = get_remaining_all_articles()
+    # articles = get_all_articles()
     # for each article, chunk the text and perform the embedding
     for article in tqdm.tqdm(articles):
         chunks = chunk_text(article.content)
         for idx, chunk in enumerate(chunks):
             # perform the embedding
             embedding = create_embedding(chunk)
-            print(embedding[:10])
+            # print(embedding[:10])
             # save the embedding to the database
             # print the first 10 elements of the embedding
             article_chunk = ArticleChunk(
@@ -36,6 +41,7 @@ def perform_open_ai_insertion():
                 embedding=embedding,
                 created_at=article.created_at,
                 chunk_id=idx,
+                president=article.president,
             )
             insert_article_chunk(article_chunk)
 

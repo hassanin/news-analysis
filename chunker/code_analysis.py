@@ -2,6 +2,7 @@
 
 import tiktoken
 from whitehouse.database import get_all_articles
+from tqdm import tqdm
 
 # cl100k_base	gpt-4, gpt-3.5-turbo, text-embedding-ada-002, text-embedding-3-small, text-embedding-3-large
 # p50k_base	Codex models, text-davinci-002, text-davinci-003
@@ -23,7 +24,7 @@ def calculate_tokens():
     articles = get_all_articles()
     tokens = 0
     idx = 0
-    for article in articles:
+    for article in tqdm(articles):
         tokens += len(tiktoken_encoder.encode(article.content))
         print(f"for idx = {idx} Number of tokens so far: {tokens}")
         idx += 1

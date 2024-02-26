@@ -4,6 +4,9 @@
 from dotenv import load_dotenv
 
 load_dotenv()
+from mylangchain.start_agent import start_loop
+
+
 from whitehouse.database import search_article_chunks, search_articles
 
 # import os
@@ -18,13 +21,20 @@ from whitehouse.database import search_article_chunks, search_articles
 # )
 # from whitehouse.database import insert_data_into_database, trials
 # from myopenai.examples import try_stuff
-# from chunker.chunker import perform_open_ai_insertion
+from chunker.chunker import perform_open_ai_insertion
+
 # from whitehouse.trump.entrypoint import trump_entrypoint
 # from whitehouse.trump.entrypoint import trump_entrypoint
-# from chunker.code_analysis import calculate_tokens
+from chunker.code_analysis import calculate_tokens
 
 
-from myopenai.answer_question import answer_question, analyze_all_sentiments
+from myopenai.answer_question import (
+    answer_question,
+    answer_question_google,
+    get_question_segemnts,
+    analyze_all_sentiments,
+)
+
 
 # from local_models.trials import try_stuff
 
@@ -37,7 +47,7 @@ def main():
     # perform_open_ai_insertion()
     # trump_entrypoint()
     # calculate_tokens()
-    res = answer_question("The relationship between the US and Egypt")
+    # res = get_question_segemnts("The relationship between the US and Egypt")
     # analyze_all_sentiments("The relationship between the US and Egypt")
     # res = search_articles(" relationship Egypt")
     # # modify the text content to take the first 2000 characters
@@ -45,11 +55,23 @@ def main():
     #     r.body = r.body[:1000]
     #     print(f" {idx}: {r.model_dump()} \n")
     # res = search_article_chunks(" relationship Egypt")
-    for idx, r in enumerate(res):
-        # print(f" {idx}: {r.model_dump()} \n")
-        print(f" {idx}: {r.article_id}")
+    # for idx, r in enumerate(res):
+    #     # print(f" {idx}: {r.model_dump()} \n")
+    #     print(f" {idx}: {r.article_id}")
     # analyze_all_sentiments("The relationship between the US and China")
     # try_stuff()
+    # res = answer_question(
+    #     " What were the outcomes of the last US Africa Leaders Summit"
+    # )
+    # res = answer_question(" When was The Last Japanese Prime Minister to visit the US")
+    # res = answer_question_google(
+    #     " When was The Last Japanese Prime Minister to visit the US"
+    # )
+    # res = answer_question("When was the Last time President Biden visited Egypt")
+    # res = answer_question_google("When was the Last time a US president visited Egypt")
+    # print(res)
+    start_loop()
+    # perform_open_ai_insertion()
     # rss_feed_example()
     # get_all_links()
     # load_all_links()

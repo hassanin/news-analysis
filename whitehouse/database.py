@@ -8,6 +8,7 @@ from .models import (
     ArticleChunkResult,
     ArticleChunkSearchResult,
     ArticleRankType,
+    ArticleSummarySearchResult,
 )
 from psycopg import connect, sql
 from pgvector.psycopg import register_vector
@@ -87,6 +88,75 @@ def get_all_articles() -> list[Article]:
         return articles_typed
 
 
+def update_article_summary(article_id: int, summary: str):
+    """Insert the article summary into the database"""
+    with conn.cursor() as cur:
+        query = sql.SQL("UPDATE article SET summary = %s WHERE id = %s")
+        cur.execute(query, (summary, article_id))
+        conn.commit()
+
+
+def get_summary_article_results(
+    search_term: str, month: int, year: int
+) -> list[ArticleSummarySearchResult]:
+    """Search the articles for the search term"""
+    #     SELECT a.title, a.summary, a.created_at
+    # FROM article a
+    # WHERE a.summary_tsvector @@ websearch_to_tsquery('english', 'China')
+    # AND EXTRACT(YEAR FROM a.created_at) = 2023
+    # AND EXTRACT(MONTH FROM a.created_at) = 1
+    # ORDER BY a.created_at DESC
+    # LIMIT 100;
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            """SELECT a.title, a.summary, a.created_at 
+                        FROM article a WHERE a.summary_tsvector @@ websearch_to_tsquery('english', %s
+                        ) AND EXTRACT(YEAR FROM a.created_at) = %s AND EXTRACT(MONTH FROM a.created_at) = %s
+                         ORDER BY a.created_at DESC LIMIT 100"""
+        )
+        cur.execute(query, (search_term, year, month))
+        articles = cur.fetchall()
+        results: list[ArticleSummarySearchResult] = []
+        # print the articles
+        for article in articles:
+            # print(article)
+            results.append(
+                ArticleSummarySearchResult(
+                    title=article[0],
+                    summary=article[1],
+                    created_at=article[2],
+                )
+            )
+        return results
+
+
+def get_remaining_all_articles() -> list[Article]:
+    """Get all the articles from the database except for President Biden"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "SELECT id, title, link, body, created_at, president FROM article WHERE president = 'Biden'"
+        )
+        cur.execute(query)
+        articles = cur.fetchall()
+        # print the articles
+        articles_typed: list[Article] = []
+        for article in articles:
+            # map the article to the Article model
+            # print(article)
+            articles_typed.append(
+                Article(
+                    id=article[0],
+                    title=article[1],
+                    link=article[2],
+                    content=article[3],
+                    created_at=article[4],
+                    president=article[5],
+                )
+            )
+            # print(article)
+        return articles_typed
+
+
 def search_articles(search_term: str) -> list[ArticleRankType]:
     """Search the articles for the search term"""
     with conn.cursor() as cur:
@@ -138,7 +208,7 @@ def insert_article_chunk(article_chunk: ArticleChunk):
     """Insert the article chunk into the database"""
     with conn.cursor() as cur:
         query = sql.SQL(
-            "INSERT INTO article_chunk (article_id, chunk, chunk_id, embedding, created_at) VALUES (%s, %s, %s, %s, %s)"
+            "INSERT INTO article_chunk (article_id, chunk, chunk_id, embedding, created_at, president) VALUES (%s, %s, %s, %s, %s, %s)"
         )
         cur.execute(
             query,
@@ -148,6 +218,7 @@ def insert_article_chunk(article_chunk: ArticleChunk):
                 article_chunk.chunk_id,
                 article_chunk.embedding,
                 article_chunk.created_at,
+                article_chunk.president,
             ),
         )
         conn.commit()

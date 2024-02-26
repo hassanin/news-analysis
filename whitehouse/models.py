@@ -9,7 +9,7 @@ import datetime
 class Article(BaseModel):
     """Model for an article"""
 
-    # id: Optional[int] = None
+    id: Optional[int] = None
     title: Optional[str] = None
     link: Optional[str] = None
     # default to the current time
@@ -26,6 +26,7 @@ class ArticleChunk(BaseModel):
     chunk_id: int
     embedding: list[float] = conlist(float, min_length=1536, max_length=1536)
     created_at: DateTime
+    president: str
 
     class Config:
         orm_mode = True
@@ -63,6 +64,15 @@ class ArticleChunkSearchResult(BaseModel):
     chunk_id: int
     created_at: DateTime
     search_rank: float
+
+    class Config:
+        orm_mode = True
+
+
+class ArticleSummarySearchResult(BaseModel):
+    title: str
+    summary: str
+    created_at: DateTime
 
     class Config:
         orm_mode = True

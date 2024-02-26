@@ -121,7 +121,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-CREATE OR REPLACE TYPE article_chunk_search_result AS (
+CREATE TYPE article_chunk_search_result AS (
     article_id INTEGER,
     chunk TEXT,
     chunk_id INTEGER,
@@ -129,7 +129,7 @@ CREATE OR REPLACE TYPE article_chunk_search_result AS (
     search_rank REAL
 );
 -- Create a stored procedure that retrieves article chunks based based on full text search on the body_tsvector
-CREATE OR REPLACE FUNCTION search_article_chunks(search_term TEXT)
+CREATE OR REPLACE FUNCTION search_article_chunks(search_term TEXT, num_chunks INTEGER)
 RETURNS SETOF article_chunk_search_result AS $$
 BEGIN
     RETURN QUERY
@@ -145,7 +145,7 @@ BEGIN
     SELECT article_id, chunk, chunk_id, created_at, search_rank
     FROM ranked_chunks
     ORDER BY search_rank DESC
-    LIMIT 100;
+    LIMIT num_chunks;
 END;
 $$ LANGUAGE plpgsql;
 
@@ -182,16 +182,19 @@ UPDATE article_chunk
 SET chunk_tsvector = to_tsvector('english', chunk)
 WHERE chunk_tsvector IS NULL;
 
-ALTER TABLE article_chunk ADD COLUMN aritcle_title TEXT NOT NULL DEFAULT 'Unknown';
+ALTER TABLE article_chunk ADD COLUMN article_title TEXT NOT NULL DEFAULT 'Unknown';
 
 
 
-UPDATE article_chunk SET aritcle_title = a.title
+UPDATE article_chunk SET article_title = a.title
 FROM article a
 WHERE a.id = article_id;
 
 ALTER TABLE article ADD COLUMN president TEXT NOT NULL DEFAULT 'Unknown';
 UPDATE article SET president = 'Biden';
+
+ALTER TABLE article_chunk ADD COLUMN president TEXT NOT NULL DEFAULT 'Unknown';
+UPDATE article_chunk SET president = 'Biden';
 
 UPDATE article
 SET body = REGEXP_REPLACE(body, E'(\r\n|\r|\n)+', ' ', 'g')
@@ -219,17 +222,100 @@ ORDER BY year;
 
 -- Create a Stored Procedure that retrieves article chunks based on the embedding ector using cosine similarity
 -- metric and should take a paramter of how many chunks to return, return only the article_id, chunk, and chunk_id
-CREATE OR REPLACE FUNCTION get_similar_chunks(embedding_vector vector(1536), num_chunks INTEGER)
-RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, distance FLOAT) AS $$
+-- CREATE OR REPLACE FUNCTION get_similar_chunks(embedding_vector vector(1536), num_chunks INTEGER)
+-- RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, distance FLOAT) AS $$
+-- BEGIN
+--     RETURN QUERY
+--     SELECT ac.article_id, ac.chunk, ac.chunk_id, ac.article_title, ac.created_at, 
+--            1 - (ac.embedding <=> embedding_vector) AS distance
+--     FROM article_chunk ac
+--     WHERE ac.created_at < '2024-01-01'
+--     ORDER BY  (ac.embedding <=> embedding_vector), ac.created_at DESC
+--     LIMIT num_chunks;
+-- END;
+-- $$ LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION get_similar_chunks(embedding_vector vector, num_chunks INTEGER)
+RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, distance FLOAT, score FLOAT) AS $$
+DECLARE
+  max_date TIMESTAMP;
+  min_date TIMESTAMP;
+  date_range FLOAT;
 BEGIN
-    RETURN QUERY
-    SELECT ac.article_id, ac.chunk, ac.chunk_id, ac.article_title, ac.created_at, 
-           1 - (ac.embedding <=> embedding_vector) AS distance
-    FROM article_chunk ac
-    ORDER BY (ac.embedding <=> embedding_vector) 
-    LIMIT num_chunks;
+  -- Get the maximum and minimum created_at dates from article_chunk
+  SELECT MAX(ac.created_at), MIN(ac.created_at) INTO max_date, min_date FROM article_chunk ac;
+  -- Calculate the total date range to normalize date factor, avoid division by zero
+  IF min_date = max_date THEN
+    date_range := 1; -- Assign a default value to avoid division by zero
+  ELSE
+    date_range := EXTRACT(EPOCH FROM max_date - min_date);
+  END IF;
+
+  -- Return query with combined similarity (distance) and score, including date factor
+  RETURN QUERY
+  SELECT
+    ac.article_id,
+    ac.chunk,
+    ac.chunk_id,
+    ac.article_title,
+    ac.created_at,
+    1 - (ac.embedding <=> embedding_vector) AS distance, -- Calculate distance using the pgvector distance operator
+    (
+      0.8 * (1 - (ac.embedding <=> embedding_vector)) + -- Weighted cosine distance
+      0.2 * (1 - (EXTRACT(EPOCH FROM current_date - ac.created_at) / date_range)) -- Weighted normalized date factor
+    ) AS score
+  FROM article_chunk ac
+  ORDER BY score DESC
+  LIMIT num_chunks;
 END;
 $$ LANGUAGE plpgsql;
-
 -- 
 
+-- For each month of the year since 2011 till 2023, count the number of articles, and the number
+-- of characters in each month
+WITH article_counts AS (
+    SELECT EXTRACT(YEAR FROM created_at) AS year,
+           EXTRACT(MONTH FROM created_at) AS month,
+           COUNT(1) AS count,
+           SUM(LENGTH(body)/4.0) AS total_chars
+    FROM article
+    WHERE created_at < '2024-01-01' AND created_at > '2011-01-01'
+    GROUP BY year, month
+    ORDER BY year, month
+) 
+SELECT year, month, count, total_chars
+FROM article_counts;
+
+WITH article_counts AS (
+    SELECT EXTRACT(YEAR FROM created_at) AS year,
+           EXTRACT(MONTH FROM created_at) AS month,
+           COUNT(1) AS count,
+           SUM(LENGTH(summary)/4.0) AS total_chars
+    FROM article
+    WHERE created_at < '2024-01-01' AND created_at > '2011-01-01'
+    GROUP BY year, month
+    ORDER BY year, month
+) 
+SELECT year, month, count, total_chars
+FROM article_counts;
+
+ALTER TABLE article add COLUMN summary TEXT NOT NULL DEFAULT 'Unknown';
+
+INSERT INTO article (summary) VALUES ('The article is about the recent events in the middle east')
+WHERE id = 1;
+
+ALTER TABLE article ADD COLUMN summary_tsvector tsvector;
+CREATE INDEX summary_idx ON article USING GIN(summary_tsvector);
+UPDATE article 
+SET summary_tsvector = to_tsvector('english', summary)
+WHERE summary_tsvector IS NULL;
+
+-- See articles which has egypt in the summary tsvector
+-- Take the first 50 chars of the title, display the year and month, order by year and month
+SELECT COUNT(1) as total_articles, 
+EXTRACT(YEAR FROM created_at) AS year, 
+EXTRACT(MONTH FROM created_at) AS month
+FROM article
+WHERE summary_tsvector @@ to_tsquery('english', 'China')
+GROUP BY year, month
+ORDER BY year, month;
