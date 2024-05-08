@@ -301,9 +301,6 @@ FROM article_counts;
 
 ALTER TABLE article add COLUMN summary TEXT NOT NULL DEFAULT 'Unknown';
 
-INSERT INTO article (summary) VALUES ('The article is about the recent events in the middle east')
-WHERE id = 1;
-
 ALTER TABLE article ADD COLUMN summary_tsvector tsvector;
 CREATE INDEX summary_idx ON article USING GIN(summary_tsvector);
 UPDATE article 
@@ -319,3 +316,63 @@ FROM article
 WHERE summary_tsvector @@ to_tsquery('english', 'China')
 GROUP BY year, month
 ORDER BY year, month;
+
+
+-- def get_summary_article_results(search_term: str, month:int, year:int) -> list[ArticleSummarySearchResult]:
+SELECT a.title, a.summary, a.created_at
+FROM article a
+WHERE a.summary_tsvector @@ websearch_to_tsquery('english', 'China')
+AND EXTRACT(YEAR FROM a.created_at) = 2023
+AND EXTRACT(MONTH FROM a.created_at) = 1
+ORDER BY a.created_at DESC
+LIMIT 100;
+
+ALTER TABLE article ADD COLUMN summary_embedding vector(1536);
+
+
+CREATE OR REPLACE FUNCTION hybrid_vector_fulltext_search(
+    search_term TEXT,
+    embedding_vector VECTOR,
+    num_chunks INTEGER = 10,
+    rrf_k INTEGER = 60,
+    full_text_weight float = 1,
+    vector_weight float = 1
+)
+RETURNS TABLE(article_id INTEGER, chunk_id INTEGER, chunk TEXT, created_at TIMESTAMP, combined_score FLOAT) AS $$
+BEGIN
+    -- Temporary table to store full text search results with RRF scores
+    CREATE TEMP TABLE full_text_results AS
+    SELECT *, 
+           row_number() OVER (ORDER BY search_rank DESC) AS rank
+    FROM
+        search_article_chunks(search_term, num_chunks * 2);
+
+    -- Temporary table to store vector search results with RRF scores
+    CREATE TEMP TABLE vector_search_results AS
+    SELECT *,
+           row_number() OVER (ORDER BY score DESC) AS rank
+    FROM
+        get_similar_chunks(embedding_vector, num_chunks * 2);
+
+    -- Combining results from full text and vector search using RRF
+    RETURN QUERY
+    SELECT
+        coalesce(ft.article_id, vs.article_id) AS article_id,
+        coalesce(ft.chunk_id, vs.chunk_id) AS chunk_id,
+        coalesce(ft.chunk, vs.chunk) AS chunk,
+        coalesce(ft.created_at, vs.created_at) AS created_at,
+        (coalesce(1.0/ (rrf_k + ft.rank),0.0) * full_text_weight + coalesce(1.0/ (rrf_k + vs.rank),0.0) * vector_weight )::double precision AS combined_score
+        -- (1.0 / (rrf_k + coalesce(ft.rank, rrf_k * 2))) + (1.0 / (rrf_k + coalesce(vs.rank, rrf_k * 2)))::double precision AS combined_score
+    FROM
+        full_text_results ft
+    FULL OUTER JOIN
+        vector_search_results vs ON ft.article_id = vs.article_id AND ft.chunk_id = vs.chunk_id
+    ORDER BY
+        combined_score DESC
+    LIMIT num_chunks;
+
+    -- Cleanup temporary tables
+    DROP TABLE full_text_results;
+    DROP TABLE vector_search_results;
+END;
+$$ LANGUAGE plpgsql;

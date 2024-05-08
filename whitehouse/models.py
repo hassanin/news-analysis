@@ -17,6 +17,7 @@ class Article(BaseModel):
     created_at: Optional[DateTime] = None
     content: Optional[str] = None
     president: Optional[str] = None
+    summary: Optional[str] = None
 
 
 class ArticleChunk(BaseModel):
@@ -58,6 +59,16 @@ class ArticleRankType(BaseModel):
         orm_mode = True
 
 
+class ArticleSummaryResult(BaseModel):
+    id: int
+    title: str
+    summary: str
+    created_at: DateTime
+
+    class Config:
+        orm_mode = True
+
+
 class ArticleChunkSearchResult(BaseModel):
     article_id: int
     chunk: str
@@ -73,6 +84,26 @@ class ArticleSummarySearchResult(BaseModel):
     title: str
     summary: str
     created_at: DateTime
+
+    class Config:
+        orm_mode = True
+
+
+# CREATE OR REPLACE FUNCTION hybrid_vector_fulltext_search(
+#     search_term TEXT,
+#     embedding_vector VECTOR,
+#     num_chunks INTEGER = 10,
+#     rrf_k INTEGER = 60
+# )
+# RETURNS TABLE(article_id INTEGER, chunk_id INTEGER, chunk TEXT, created_at TIMESTAMP, combined_score FLOAT) AS $$
+
+
+class HybridVectorFullTextSearchResult(BaseModel):
+    article_id: int
+    chunk_id: int
+    chunk: str
+    created_at: DateTime
+    combined_score: float
 
     class Config:
         orm_mode = True

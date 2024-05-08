@@ -1,6 +1,8 @@
 # from re import search
 """File to run the program"""
 # # from operator import ge
+# from turtle import st
+# import langchain_visualizer
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -34,7 +36,7 @@ from myopenai.answer_question import (
     get_question_segemnts,
     analyze_all_sentiments,
 )
-
+from draft import try_hybrid
 
 # from local_models.trials import try_stuff
 
@@ -70,8 +72,15 @@ def main():
     # res = answer_question("When was the Last time President Biden visited Egypt")
     # res = answer_question_google("When was the Last time a US president visited Egypt")
     # print(res)
-    start_loop()
-    # perform_open_ai_insertion()
+    # start_loop()
+
+    # async def start_loop_async23():
+    #     start_loop()
+    try_hybrid("The relationship between the US and Egypt in 2014")
+
+    # langchain_visualizer.visualize(start_loop_async23)
+    # perform_ope
+    # n_ai_insertion()
     # rss_feed_example()
     # get_all_links()
     # load_all_links()

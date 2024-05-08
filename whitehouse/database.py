@@ -7,6 +7,7 @@ from .models import (
     ArticleChunk,
     ArticleChunkResult,
     ArticleChunkSearchResult,
+    HybridVectorFullTextSearchResult,
     ArticleRankType,
     ArticleSummarySearchResult,
 )
@@ -68,7 +69,9 @@ def insert_article(article: Article):
 def get_all_articles() -> list[Article]:
     """Get all the articles from the database"""
     with conn.cursor() as cur:
-        query = sql.SQL("SELECT id, title, link, body, created_at FROM article")
+        query = sql.SQL(
+            "SELECT id, title, link, body, created_at, summary FROM article"
+        )
         cur.execute(query)
         articles = cur.fetchall()
         # print the articles
@@ -82,6 +85,7 @@ def get_all_articles() -> list[Article]:
                     link=article[2],
                     content=article[3],
                     created_at=article[4],
+                    summary=article[5],
                 )
             )
             # print(article)
@@ -93,6 +97,14 @@ def update_article_summary(article_id: int, summary: str):
     with conn.cursor() as cur:
         query = sql.SQL("UPDATE article SET summary = %s WHERE id = %s")
         cur.execute(query, (summary, article_id))
+        conn.commit()
+
+
+def update_article_summary_embedding(article_id: int, summary_embedding: list[float]):
+    """Insert the article summary into the database"""
+    with conn.cursor() as cur:
+        query = sql.SQL("UPDATE article SET summary_embedding = %s WHERE id = %s")
+        cur.execute(query, (summary_embedding, article_id))
         conn.commit()
 
 
@@ -115,6 +127,40 @@ def get_summary_article_results(
                          ORDER BY a.created_at DESC LIMIT 100"""
         )
         cur.execute(query, (search_term, year, month))
+        articles = cur.fetchall()
+        results: list[ArticleSummarySearchResult] = []
+        # print the articles
+        for article in articles:
+            # print(article)
+            results.append(
+                ArticleSummarySearchResult(
+                    title=article[0],
+                    summary=article[1],
+                    created_at=article[2],
+                )
+            )
+        return results
+
+
+def get_summary_article_results_by_year_only(
+    search_term: str, year: int
+) -> list[ArticleSummarySearchResult]:
+    """Search the articles for the search term"""
+    #     SELECT a.title, a.summary, a.created_at
+    # FROM article a
+    # WHERE a.summary_tsvector @@ websearch_to_tsquery('english', 'China')
+    # AND EXTRACT(YEAR FROM a.created_at) = 2023
+    # AND EXTRACT(MONTH FROM a.created_at) = 1
+    # ORDER BY a.created_at DESC
+    # LIMIT 100;
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            """SELECT a.title, a.summary, a.created_at 
+                        FROM article a WHERE a.summary_tsvector @@ websearch_to_tsquery('english', %s
+                        ) AND EXTRACT(YEAR FROM a.created_at) = %s
+                         ORDER BY a.created_at DESC LIMIT 100"""
+        )
+        cur.execute(query, (search_term, year))
         articles = cur.fetchall()
         results: list[ArticleSummarySearchResult] = []
         # print the articles
@@ -180,6 +226,30 @@ def search_articles(search_term: str) -> list[ArticleRankType]:
         return results
 
 
+def search_articles_by_month_and_year(
+    summary_embedding: list[float], month: int, year: int
+) -> list[ArticleSummarySearchResult]:
+    """Search the articles for the embeddong of the sumary field"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "SELECT * FROM search_articles_by_month_and_year(%s::vector(1536), %s::int, %s::int)"
+        )
+        cur.execute(query, (summary_embedding, month, year))
+        articles = cur.fetchall()
+        results: list[ArticleSummarySearchResult] = []
+        # print the articles
+        for article in articles:
+            # print(article)
+            results.append(
+                ArticleSummarySearchResult(
+                    title=article[0],
+                    summary=article[1],
+                    created_at=article[2],
+                )
+            )
+        return results
+
+
 def search_article_chunks(
     search_term: str, num_results: int = 20
 ) -> list[ArticleChunkSearchResult]:
@@ -199,6 +269,47 @@ def search_article_chunks(
                     chunk_id=article[2],
                     created_at=article[3],
                     search_rank=article[4],
+                )
+            )
+        return results
+
+
+def search_hybrid_vector_fulltext(
+    search_term: str,
+    embedding: list[float],
+    num_results: int = 10,
+    rrf_k: int = 60,
+    full_text_weight: float = 1.0,
+    vector_weight: float = 1.0,
+) -> list[HybridVectorFullTextSearchResult]:
+    """Search the articles for the search term"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "SELECT * FROM hybrid_vector_fulltext_search(%s, %s::vector(1536), %s::int, %s::int, %s::float, %s::float)"
+        )
+        cur.execute(
+            query,
+            (
+                f"%{search_term}%",
+                embedding,
+                num_results,
+                rrf_k,
+                full_text_weight,
+                vector_weight,
+            ),
+        )
+        articles = cur.fetchall()
+        results: list[HybridVectorFullTextSearchResult] = []
+        # print the articles
+        for article in articles:
+            # print(article)
+            results.append(
+                HybridVectorFullTextSearchResult(
+                    article_id=article[0],
+                    chunk_id=article[1],
+                    chunk=article[2],
+                    created_at=article[3],
+                    combined_score=article[4],
                 )
             )
         return results

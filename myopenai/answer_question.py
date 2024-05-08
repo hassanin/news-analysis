@@ -2,6 +2,7 @@ from datetime import date
 from local_models import sentiemnt
 from myopenai.chatbot import ChatBot
 from myopenai.google_chatbot import GoogleChatbot
+
 from whitehouse.database import perform_vector_search
 from whitehouse.models import ArticleChunkResult
 from .embedding import create_embedding
