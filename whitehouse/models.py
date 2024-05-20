@@ -42,6 +42,8 @@ class ArticleChunkResult(BaseModel):
     article_title: str
     created_at: DateTime
     distance: float
+    score: float
+    cosine_distance: float
 
     class Config:
         orm_mode = True

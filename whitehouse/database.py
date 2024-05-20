@@ -1,6 +1,6 @@
 import datetime
 import os
-
+from typing import Optional
 from httpx import get
 from .models import (
     Article,
@@ -251,12 +251,46 @@ def search_articles_by_month_and_year(
 
 
 def search_article_chunks(
-    search_term: str, num_results: int = 20
+    search_term: str,
+    num_results: int = 20,
+    opt_month: Optional[int] = None,
+    opt_year: Optional[int] = None,
 ) -> list[ArticleChunkSearchResult]:
     """Search the article chunks for the search term"""
     with conn.cursor() as cur:
-        query = sql.SQL("SELECT * FROM search_article_chunks(%s, %s::int)")
-        cur.execute(query, (f"%{search_term}%", num_results))
+        query = sql.SQL(
+            "SELECT * FROM search_article_chunks(%s, %s::int, %s::int, %s::int)"
+        )
+        cur.execute(query, (f"%{search_term}%", num_results, opt_month, opt_year))
+        articles = cur.fetchall()
+        results: list[ArticleChunkSearchResult] = []
+        # print the articles
+        for article in articles:
+            # print(article)
+            results.append(
+                ArticleChunkSearchResult(
+                    article_id=article[0],
+                    chunk=article[1],
+                    chunk_id=article[2],
+                    created_at=article[3],
+                    search_rank=article[4],
+                )
+            )
+        return results
+
+
+def search_article_summaries(
+    search_term: str,
+    num_results: int = 20,
+    opt_month: Optional[int] = None,
+    opt_year: Optional[int] = None,
+) -> list[ArticleChunkSearchResult]:
+    """Search the article chunks for the search term"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "SELECT * FROM search_article_summaries(%s, %s::int, %s::int, %s::int)"
+        )
+        cur.execute(query, (f"%{search_term}%", num_results, opt_month, opt_year))
         articles = cur.fetchall()
         results: list[ArticleChunkSearchResult] = []
         # print the articles
@@ -281,11 +315,13 @@ def search_hybrid_vector_fulltext(
     rrf_k: int = 60,
     full_text_weight: float = 1.0,
     vector_weight: float = 1.0,
+    opt_month: Optional[int] = None,
+    opt_year: Optional[int] = None,
 ) -> list[HybridVectorFullTextSearchResult]:
     """Search the articles for the search term"""
     with conn.cursor() as cur:
         query = sql.SQL(
-            "SELECT * FROM hybrid_vector_fulltext_search(%s, %s::vector(1536), %s::int, %s::int, %s::float, %s::float)"
+            "SELECT * FROM hybrid_vector_fulltext_search(%s, %s::vector(1536), %s::int, %s::int, %s::float, %s::float, %s::int, %s::int)"
         )
         cur.execute(
             query,
@@ -296,6 +332,8 @@ def search_hybrid_vector_fulltext(
                 rrf_k,
                 full_text_weight,
                 vector_weight,
+                opt_month,
+                opt_year,
             ),
         )
         articles = cur.fetchall()
@@ -336,12 +374,17 @@ def insert_article_chunk(article_chunk: ArticleChunk):
 
 
 def perform_vector_search(
-    embedding: list[float], num_results: int = 10
+    embedding: list[float],
+    num_results: int = 10,
+    opt_month: Optional[int] = None,
+    opt_year: Optional[int] = None,
 ) -> list[ArticleChunkResult]:
     """Perform vector search"""
     with conn.cursor() as cur:
-        query = sql.SQL("SELECT * FROM get_similar_chunks(%s::vector(1536), %s::int) ")
-        cur.execute(query, (embedding, num_results))
+        query = sql.SQL(
+            "SELECT * FROM get_similar_chunks(%s::vector(1536), %s::int, %s::int, %s::int) "
+        )
+        cur.execute(query, (embedding, num_results, opt_month, opt_year))
         articles = cur.fetchall()
         # print the articles
         articles_result: list[ArticleChunkResult] = []
@@ -355,9 +398,55 @@ def perform_vector_search(
                     article_title=article[3],
                     created_at=article[4],
                     distance=article[5],
+                    score=article[6],
+                    cosine_distance=article[7],
                 )
             )
         return articles_result
+
+
+def perform_vector_search_summary(
+    embedding: list[float],
+    num_results: int = 10,
+    opt_month: Optional[int] = None,
+    opt_year: Optional[int] = None,
+) -> list[ArticleChunkResult]:
+    """Perform vector search"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "SELECT * FROM vector_search_summary(%s::vector(1536), %s::int, %s::int, %s::int) "
+        )
+        cur.execute(query, (embedding, num_results, opt_month, opt_year))
+        articles = cur.fetchall()
+        # print the articles
+        articles_result: list[ArticleChunkResult] = []
+        for article in articles:
+            # print(article)
+            articles_result.append(
+                ArticleChunkResult(
+                    article_id=article[0],
+                    chunk=article[1],
+                    chunk_id=0,
+                    article_title=article[2],
+                    created_at=article[3],
+                    distance=article[4],
+                    score=article[5],
+                    cosine_distance=article[6],
+                )
+            )
+        return articles_result
+
+
+def explain_perform_vector_search(embedding: list[float], num_results: int = 10):
+    """Perform vector search"""
+    with conn.cursor() as cur:
+        query = sql.SQL(
+            "EXPLAIN SELECT * FROM get_similar_chunks(%s::vector(1536), %s::int) "
+        )
+        cur.execute(query, (embedding, num_results))
+        results = cur.fetchall()
+        for res in results:
+            print(res)
 
 
 def trials():

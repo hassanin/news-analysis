@@ -24,6 +24,10 @@ WHERE title_tsvector IS NULL
    OR body_tsvector IS NULL
    OR link_tsvector IS NULL;
 
+-- UPDate article_chunk to set full text search
+UPDATE article_chunk
+SET chunk_tsvector = to_tsvector('english', chunk)
+WHERE chunk_tsvector IS NULL;
 
 CREATE OR REPLACE FUNCTION article_trigger() RETURNS trigger AS $$
 begin
@@ -129,7 +133,7 @@ CREATE TYPE article_chunk_search_result AS (
     search_rank REAL
 );
 -- Create a stored procedure that retrieves article chunks based based on full text search on the body_tsvector
-CREATE OR REPLACE FUNCTION search_article_chunks(search_term TEXT, num_chunks INTEGER)
+CREATE OR REPLACE FUNCTION search_article_chunks(search_term TEXT, num_chunks INTEGER, opt_month INTEGER DEFAULT NULL, opt_year INTEGER DEFAULT NULL)
 RETURNS SETOF article_chunk_search_result AS $$
 BEGIN
     RETURN QUERY
@@ -140,7 +144,9 @@ BEGIN
                ac.created_at,
                ts_rank(ac.chunk_tsvector, query) AS search_rank
         FROM article_chunk ac, websearch_to_tsquery('english', search_term) query
-        WHERE ac.chunk_tsvector @@ query
+        WHERE ac.chunk_tsvector @@ query AND
+              (opt_month IS NULL OR EXTRACT(MONTH FROM ac.created_at) = opt_month) AND
+              (opt_year IS NULL OR EXTRACT(YEAR FROM ac.created_at) = opt_year)
     )
     SELECT article_id, chunk, chunk_id, created_at, search_rank
     FROM ranked_chunks
@@ -149,6 +155,29 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+
+-- Create a stored procedure that retrieves article chunks based based on full text search on the body_tsvector
+CREATE OR REPLACE FUNCTION search_article_summaries(search_term TEXT, num_chunks INTEGER, opt_month INTEGER DEFAULT NULL, opt_year INTEGER DEFAULT NULL)
+RETURNS SETOF article_chunk_search_result AS $$
+BEGIN
+    RETURN QUERY
+    WITH ranked_chunks AS (
+        SELECT a.id,
+               a.summary,
+               0,
+               a.created_at,
+               ts_rank(a.summary_tsvector, query) AS search_rank
+        FROM article a, websearch_to_tsquery('english', search_term) query
+        WHERE a.summary_tsvector @@ query AND
+              (opt_month IS NULL OR EXTRACT(MONTH FROM a.created_at) = opt_month) AND
+              (opt_year IS NULL OR EXTRACT(YEAR FROM a.created_at) = opt_year)
+    )
+    SELECT article_id, chunk, chunk_id, created_at, search_rank
+    FROM ranked_chunks
+    ORDER BY search_rank DESC
+    LIMIT num_chunks;
+END;
+$$ LANGUAGE plpgsql;
 
 -- use database url to generate models
 -- sqlacodegen postgresql://postgres:postgres@localhost:5432/newsanalysis > models.py
@@ -235,8 +264,8 @@ ORDER BY year;
 -- END;
 -- $$ LANGUAGE plpgsql;
 
-CREATE OR REPLACE FUNCTION get_similar_chunks(embedding_vector vector, num_chunks INTEGER)
-RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, distance FLOAT, score FLOAT) AS $$
+CREATE OR REPLACE FUNCTION get_similar_chunks(embedding_vector vector, num_chunks INTEGER, opt_month INTEGER DEFAULT NULL, opt_year INTEGER DEFAULT NULL)
+RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, distance FLOAT, score FLOAT, cosine_distance FLOAT) AS $$
 DECLARE
   max_date TIMESTAMP;
   min_date TIMESTAMP;
@@ -262,14 +291,56 @@ BEGIN
     1 - (ac.embedding <=> embedding_vector) AS distance, -- Calculate distance using the pgvector distance operator
     (
       0.8 * (1 - (ac.embedding <=> embedding_vector)) + -- Weighted cosine distance
-      0.2 * (1 - (EXTRACT(EPOCH FROM current_date - ac.created_at) / date_range)) -- Weighted normalized date factor
-    ) AS score
+      0.0 * (1 - (EXTRACT(EPOCH FROM current_date - ac.created_at) / date_range)) -- Weighted normalized date factor, current_date is a psql internal function
+    ) AS score,
+    ac.embedding <=> embedding_vector AS cosine_distance
   FROM article_chunk ac
+  WHERE  ac.embedding <=> embedding_vector < 0.2 AND -- Filter out chunks with cosine distance less than 0.2
+        (opt_month IS NULL OR EXTRACT(MONTH FROM ac.created_at) = opt_month) AND -- Filter by month if provided
+        (opt_year IS NULL OR EXTRACT(YEAR FROM ac.created_at) = opt_year) -- Filter by year if provided
   ORDER BY score DESC
   LIMIT num_chunks;
 END;
 $$ LANGUAGE plpgsql;
 -- 
+
+CREATE OR REPLACE FUNCTION vector_search_summary(embedding_vector vector, num_chunks INTEGER, opt_month INTEGER DEFAULT NULL, opt_year INTEGER DEFAULT NULL)
+RETURNS TABLE(article_id INTEGER, chunk TEXT, article_title TEXT, created_at TIMESTAMP, distance FLOAT, score FLOAT, cosine_distance FLOAT) AS $$
+DECLARE
+  max_date TIMESTAMP;
+  min_date TIMESTAMP;
+  date_range FLOAT;
+BEGIN
+  -- Get the maximum and minimum created_at dates from article_chunk
+  SELECT MAX(ac.created_at), MIN(ac.created_at) INTO max_date, min_date FROM article_chunk ac;
+  -- Calculate the total date range to normalize date factor, avoid division by zero
+  IF min_date = max_date THEN
+    date_range := 1; -- Assign a default value to avoid division by zero
+  ELSE
+    date_range := EXTRACT(EPOCH FROM max_date - min_date);
+  END IF;
+
+  -- Return query with combined similarity (distance) and score, including date factor
+  RETURN QUERY
+  SELECT
+    a.id,
+    a.summary,
+    a.title,
+    a.created_at,
+    1 - (a.summary_embedding <=> embedding_vector) AS distance, -- Calculate distance using the pgvector distance operator
+    (
+      0.8 * (1 - (a.summary_embedding <=> embedding_vector)) + -- Weighted cosine distance
+      0.2 * (1 - (EXTRACT(EPOCH FROM current_date - a.created_at) / date_range)) -- Weighted normalized date factor, current_date is a psql internal function
+    ) AS score,
+    a.summary_embedding <=> embedding_vector AS cosine_distance
+  FROM article a
+  WHERE  a.summary_embedding <=> embedding_vector < 0.2 AND -- Filter out chunks with cosine distance less than 0.2
+        (opt_month IS NULL OR EXTRACT(MONTH FROM a.created_at) = opt_month) AND -- Filter by month if provided
+        (opt_year IS NULL OR EXTRACT(YEAR FROM a.created_at) = opt_year) -- Filter by year if provided
+  ORDER BY score DESC
+  LIMIT num_chunks;
+END;
+$$ LANGUAGE plpgsql;
 
 -- For each month of the year since 2011 till 2023, count the number of articles, and the number
 -- of characters in each month
@@ -336,7 +407,9 @@ CREATE OR REPLACE FUNCTION hybrid_vector_fulltext_search(
     num_chunks INTEGER = 10,
     rrf_k INTEGER = 60,
     full_text_weight float = 1,
-    vector_weight float = 1
+    vector_weight float = 1,
+    opt_month INTEGER DEFAULT NULL,
+    opt_year INTEGER DEFAULT NULL
 )
 RETURNS TABLE(article_id INTEGER, chunk_id INTEGER, chunk TEXT, created_at TIMESTAMP, combined_score FLOAT) AS $$
 BEGIN
@@ -345,14 +418,14 @@ BEGIN
     SELECT *, 
            row_number() OVER (ORDER BY search_rank DESC) AS rank
     FROM
-        search_article_chunks(search_term, num_chunks * 2);
+        search_article_chunks(search_term, num_chunks * 2, opt_month, opt_year);
 
     -- Temporary table to store vector search results with RRF scores
     CREATE TEMP TABLE vector_search_results AS
     SELECT *,
            row_number() OVER (ORDER BY score DESC) AS rank
     FROM
-        get_similar_chunks(embedding_vector, num_chunks * 2);
+        get_similar_chunks(embedding_vector, num_chunks * 2, opt_month, opt_year);
 
     -- Combining results from full text and vector search using RRF
     RETURN QUERY
@@ -376,3 +449,17 @@ BEGIN
     DROP TABLE vector_search_results;
 END;
 $$ LANGUAGE plpgsql;
+
+CREATE INDEX ON article_chunk USING hnsw (embedding vector_cosine_ops) WITH (m = 16, ef_construction = 64);
+-- CREATE INDEX ON items USING hnsw (embedding vector_l2_ops) WITH (m = 16, ef_construction = 64);
+
+-- Aggregate artictles by year
+SELECT EXTRACT(YEAR FROM created_at) AS year, COUNT(1) AS count
+FROM article
+GROUP BY year
+ORDER BY year;
+
+SELECT EXTRACT(YEAR FROM created_at) AS year, COUNT(1) AS count
+FROM article_chunk
+GROUP BY year
+ORDER BY year;

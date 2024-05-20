@@ -24,11 +24,12 @@ from whitehouse.database import search_article_chunks, search_articles
 # from whitehouse.database import insert_data_into_database, trials
 # from myopenai.examples import try_stuff
 from chunker.chunker import perform_open_ai_insertion
+from myopenai.google_chatbot import generate_text
 
 # from whitehouse.trump.entrypoint import trump_entrypoint
 # from whitehouse.trump.entrypoint import trump_entrypoint
 from chunker.code_analysis import calculate_tokens
-
+from semantic_tools.keyword_extraction import example
 
 from myopenai.answer_question import (
     answer_question,
@@ -36,7 +37,7 @@ from myopenai.answer_question import (
     get_question_segemnts,
     analyze_all_sentiments,
 )
-from draft import try_hybrid
+from draft import try_hybrid, explain_search
 
 # from local_models.trials import try_stuff
 
@@ -76,7 +77,13 @@ def main():
 
     # async def start_loop_async23():
     #     start_loop()
-    try_hybrid("The relationship between the US and Egypt in 2014")
+    try_hybrid(
+        "The relationship between the US and Egypt, particularly the economic relationship"
+    )
+    # res = generate_text("The relationship between the US and Egypt in 2014")
+    # print(res)
+    # example()
+    # explain_search("The relationship between the US and Egypt in 2014")
 
     # langchain_visualizer.visualize(start_loop_async23)
     # perform_ope
