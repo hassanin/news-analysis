@@ -71,6 +71,9 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+-- We need the pgvector extension, details on how to install it can be found here: https://github.com/pgvector/pgvector
+CREATE EXTENSION vector;
+
 CREATE OR REPLACE FUNCTION vector_search_article_chunks(embedding_vector vector, num_chunks INTEGER, opt_month INTEGER DEFAULT NULL, opt_year INTEGER DEFAULT NULL, similarity_threshold FLOAT DEFAULT 0.2)
 RETURNS TABLE(article_id INTEGER, chunk TEXT, chunk_id INTEGER, article_title TEXT, created_at TIMESTAMP, score FLOAT) AS $$
 DECLARE
